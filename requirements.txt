@@ -1,0 +1,7 @@
+playwright
+python-dotenv
+stem
+PySocks
+openai
+thefuzz
+python-Levenshtein
