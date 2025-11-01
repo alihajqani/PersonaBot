@@ -1,0 +1,132 @@
+# core/persona_generator.py
+
+# ===== IMPORTS & DEPENDENCIES =====
+import json
+import logging
+import os
+import uuid
+from typing import List, Dict, Any, Tuple
+
+import google.generativeai as genai
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
+
+import config  # Import config to access the central key manager and settings
+import utils
+
+# ===== PROMPT ENGINEERING LOGIC =====
+
+def build_persona_prompts(schema: List[Dict[str, Any]], num_personas: int) -> Tuple[str, str]:
+    """Loads persona prompts from JSON and formats them with dynamic data."""
+    
+    # Load the prompt templates from the external JSON file
+    prompt_templates = utils.load_json_file("prompts/persona_generation_prompt.json", "persona generation prompts")
+    if not prompt_templates:
+        raise FileNotFoundError("Could not load persona generation prompts.")
+
+    # Prepare the dynamic content for the user prompt (schema summary)
+    schema_summary = ""
+    for q in schema:
+        question_text = q['question_text']
+        options = [opt.get('text', opt.get('value')) for opt in q.get('options', [])]
+        schema_summary += f"- Question: \"{question_text}\"\n"
+        if options:
+            schema_summary += f"  Options: {', '.join(filter(None, options))}\n"
+    
+    # Format the prompts with the dynamic data
+    system_instruction = prompt_templates['system_instruction'].format(num_personas=num_personas)
+    user_prompt = prompt_templates['user_prompt_template'].format(schema_summary=schema_summary)
+    
+    return system_instruction, user_prompt
+
+def build_persona_user_prompt(schema: List[Dict[str, Any]]) -> str:
+    """Builds the user prompt containing the form schema data."""
+    schema_summary = ""
+    for q in schema:
+        question_text = q['question_text']
+        options = [opt.get('text', opt.get('value')) for opt in q.get('options', [])]
+        schema_summary += f"- Question: \"{question_text}\"\n"
+        if options:
+            schema_summary += f"  Options: {', '.join(filter(None, options))}\n"
+            
+    return f"""
+    **SURVEY CONTEXT TO ANALYZE:**
+    {schema_summary}
+
+    Generate the personas based on the instructions now.
+    """
+
+# ===== CORE BUSINESS LOGIC =====
+
+async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas: int):
+    """Generates personas using the Gemini API and saves each to a separate JSON file."""
+    if not config.google_api_key_manager or config.google_api_key_manager.get_key_count() == 0:
+        logging.error("Google API Key Manager is not configured or has no keys. Aborting persona generation.")
+        return
+
+    logging.info(f"Generating {num_personas} personas using model '{config.GEMINI_MODEL_NAME}'...")
+    
+    api_key = config.google_api_key_manager.get_next_key()
+    genai.configure(api_key=api_key)
+    
+    try:
+        system_instruction, user_prompt = build_persona_prompts(schema, num_personas)
+    except FileNotFoundError as e:
+        logging.error(f"Failed to build persona prompts: {e}")
+        return
+
+    safety_settings = {
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+    }
+    
+    model = genai.GenerativeModel(
+        config.GEMINI_MODEL_NAME,
+        system_instruction=system_instruction,
+        generation_config={"response_mime_type": "application/json"},
+        safety_settings=safety_settings
+    )
+    
+    response_text = ""
+    try:
+        response = await model.generate_content_async(user_prompt)
+        
+        if not response.candidates:
+            feedback = response.prompt_feedback
+            logging.error(f"Persona generation was blocked. Reason: {feedback.block_reason}")
+            logging.error(f"Safety Ratings: {feedback.safety_ratings}")
+            return
+
+        response_text = response.text
+        data = json.loads(response_text)
+        
+        personas = data.get("personas", [])
+        if not personas:
+            logging.error("Persona generation failed: The 'personas' key was not found in the Gemini response.")
+            return
+
+        for persona in personas:
+            persona_id = persona.get("id", f"persona_{uuid.uuid4().hex[:8]}")
+            file_path = os.path.join(config.PERSONAS_DIR_PATH, f"{persona_id}.json")
+            utils.save_json_file(file_path, persona, f"persona '{persona_id}'")
+            
+    except json.JSONDecodeError:
+        logging.error(f"Failed to decode JSON response from Gemini. Raw response:\n{response_text}")
+    except Exception as e:
+        logging.error(f"An error occurred during persona generation with Gemini API: {e}", exc_info=True)
+
+# ===== RUNNER FUNCTION =====
+
+async def run(num_personas: int):
+    """Executes the persona generation phase."""
+    logging.info("===== RUNNING PHASE: PERSONA GENERATION =====")
+
+    schema_data = utils.load_json_file(config.SCHEMA_FILE_PATH, "form schema")
+    if not schema_data:
+        logging.error("Schema file not found. Please run the schema extraction phase first.")
+        return
+    
+    await generate_and_save_personas(schema_data, num_personas)
+    
+    logging.info("===== PHASE FINISHED: PERSONA GENERATION =====")
