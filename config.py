@@ -1,38 +1,43 @@
-# config.py
-
 # ===== IMPORTS & DEPENDENCIES =====
 import os
 import logging
+import colorlog
 from dotenv import load_dotenv
 from core.services import APIKeyManager
 
 # ===== INITIALIZATION & STARTUP =====
 # --- Load Environment Variables from .env file ---
-# We are adding a diagnostic check here.
 env_file_path = os.path.join(os.path.dirname(__file__), '.env')
 is_loaded = load_dotenv(dotenv_path=env_file_path)
 
-# --- Setup Application-wide Logging ---
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - [%(name)s] - %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S'
-)
+# Setup Application-wide Colored Logging ---
+handler = colorlog.StreamHandler()
+handler.setFormatter(colorlog.ColoredFormatter(
+    '%(log_color)s%(asctime)s - %(levelname)s - [%(name)s] - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S',
+    log_colors={
+        'DEBUG':    'cyan',
+        'INFO':     'white',
+        'WARNING':  'yellow',
+        'ERROR':    'red',
+        'CRITICAL': 'red,bg_white',
+    }
+))
+root_logger = logging.getLogger()
+root_logger.addHandler(handler)
+root_logger.setLevel(logging.INFO)
 
-# ⭐️ NEW: --- Sanity Check for .env file ---
-# This block will tell us exactly what's going on.
+# --- Sanity Check for .env file ---
 if is_loaded:
     logging.info(f"Successfully loaded environment variables from: {env_file_path}")
-    # Let's check if the first key is visible to the program
     key_check = os.getenv("GOOGLE_API_KEY_1")
     if key_check:
         logging.info("DIAGNOSTIC: GOOGLE_API_KEY_1 was found successfully.")
     else:
-        logging.warning("DIAGNOSTIC: .env file was loaded, but GOOGLE_API_KEY_1 was NOT found inside. Check for typos or formatting issues in the .env file.")
+        logging.warning("DIAGNOSTIC: .env file was loaded, but GOOGLE_API_KEY_1 was NOT found inside. Check for typos.")
 else:
     logging.error(f"CRITICAL FAILURE: Could not find or load the .env file at the expected path: {env_file_path}")
-    logging.error("Please ensure the .env file exists in the root directory of the project, next to main.py.")
-# End of diagnostic block
+    logging.error("Please ensure the .env file exists in the root directory of the project.")
 
 # ===== CENTRAL SERVICES & CONFIGURATION =====
 

@@ -10,7 +10,7 @@ from typing import List, Dict, Any, Tuple
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
-import config  # Import config to access the central key manager and settings
+import config
 import utils
 
 # ===== PROMPT ENGINEERING LOGIC =====
@@ -18,8 +18,10 @@ import utils
 def build_persona_prompts(schema: List[Dict[str, Any]], num_personas: int) -> Tuple[str, str]:
     """Loads persona prompts from JSON and formats them with dynamic data."""
     
-    # Load the prompt templates from the external JSON file
-    prompt_templates = utils.load_json_file("prompts/persona_generation_prompt.json", "persona generation prompts")
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    prompt_file_path = os.path.join(project_root, "prompts", "persona_generation_prompt.json")
+    
+    prompt_templates = utils.load_json_file(prompt_file_path, "persona generation prompts")
     if not prompt_templates:
         raise FileNotFoundError("Could not load persona generation prompts.")
 
@@ -37,23 +39,6 @@ def build_persona_prompts(schema: List[Dict[str, Any]], num_personas: int) -> Tu
     user_prompt = prompt_templates['user_prompt_template'].format(schema_summary=schema_summary)
     
     return system_instruction, user_prompt
-
-def build_persona_user_prompt(schema: List[Dict[str, Any]]) -> str:
-    """Builds the user prompt containing the form schema data."""
-    schema_summary = ""
-    for q in schema:
-        question_text = q['question_text']
-        options = [opt.get('text', opt.get('value')) for opt in q.get('options', [])]
-        schema_summary += f"- Question: \"{question_text}\"\n"
-        if options:
-            schema_summary += f"  Options: {', '.join(filter(None, options))}\n"
-            
-    return f"""
-    **SURVEY CONTEXT TO ANALYZE:**
-    {schema_summary}
-
-    Generate the personas based on the instructions now.
-    """
 
 # ===== CORE BUSINESS LOGIC =====
 
@@ -107,9 +92,11 @@ async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas:
             return
 
         for persona in personas:
-            persona_id = persona.get("id", f"persona_{uuid.uuid4().hex[:8]}")
-            file_path = os.path.join(config.PERSONAS_DIR_PATH, f"{persona_id}.json")
-            utils.save_json_file(file_path, persona, f"persona '{persona_id}'")
+            human_readable_id = persona.get("id", "unnamed_persona")
+            unique_filename = f"{uuid.uuid4()}.json"
+            
+            file_path = os.path.join(config.PERSONAS_DIR_PATH, unique_filename)
+            utils.save_json_file(file_path, persona, f"persona '{human_readable_id}'")
             
     except json.JSONDecodeError:
         logging.error(f"Failed to decode JSON response from Gemini. Raw response:\n{response_text}")

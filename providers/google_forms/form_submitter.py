@@ -6,7 +6,7 @@ import json
 import logging
 import os
 import shutil
-from typing import List, Dict, Any
+from typing import Dict
 from playwright.async_api import async_playwright, Page, Error as PlaywrightError
 
 import config
@@ -58,19 +58,36 @@ async def fill_current_page(page: Page, answers: Dict[str, str]):
 
 async def submit_single_form(p: async_playwright, answers: Dict[str, str], persona_id: str) -> bool:
     """
-    Opens a browser, fills out and submits the form.
+    Opens a browser, checks IP, fills out and submits the form in a single session.
     Returns True on successful submission, False otherwise.
     """
     logging.info(f"Starting form submission for persona: {persona_id}")
-    browser = await p.chromium.launch(headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
+
+    launch_options = {
+        "headless": config.HEADLESS_MODE,
+        "slow_mo": config.SLOW_MO,
+    }
+    if config.USE_TOR:
+        launch_options["proxy"] = {"server": config.TOR_PROXY_SERVER}
+        logging.info(f"Using Tor proxy for submission: {config.TOR_PROXY_SERVER}")
+
+    browser = await p.chromium.launch(**launch_options)
     context = await browser.new_context()
     page = await context.new_page()
     
     try:
+        # Check and log IP within the same browser session
+        if config.USE_TOR:
+            await page.goto("https://checkip.amazonaws.com", timeout=30000)
+            ip_address = (await page.inner_text('body')).strip()
+            logging.warning(f"Current IP for '{persona_id}': {ip_address}")
+
         await page.goto(config.BASE_FORM_URL, wait_until="domcontentloaded")
 
         page_count = 1
         while True:
+            if page_count > 8:
+                break
             logging.info(f"--- Filling Page {page_count} for persona {persona_id} ---")
             selector_to_wait_for = 'div.Qr7Oae, div[jsname="OCpkoe"], div[jsname="M2UYVd"]'
             await page.wait_for_selector(selector_to_wait_for, timeout=15000)
@@ -90,19 +107,16 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                     await submit_button.click()
                     await page.wait_for_selector('div.vHW8K', timeout=20000)
                     logging.info(f"Successfully submitted form for persona: {persona_id}")
-                    return True  # ⭐️ KEY CHANGE: Return True on success
+                    return True
                 else:
                     logging.error(f"Could not find an enabled 'Next' or 'Submit' button for {persona_id}.")
-                    return False # ⭐️ KEY CHANGE: Return False on failure
+                    return False
     except Exception as e:
         logging.error(f"An error occurred while submitting for persona {persona_id}: {e}", exc_info=True)
-        return False  # ⭐️ KEY CHANGE: Return False on any exception
+        return False
     finally:
         await browser.close()
         logging.info(f"Browser closed for persona: {persona_id}")
-    
-    # This line is reached if the loop breaks unexpectedly
-    return False
 
 # ===== RUNNER FUNCTION =====
 async def run():
@@ -121,6 +135,14 @@ async def run():
 
     async with async_playwright() as p:
         for answer_file in answer_files:
+            if config.USE_TOR:
+                if utils.renew_tor_ip():
+                    logging.info("Waiting 5 seconds for Tor to establish a new circuit...")
+                    await asyncio.sleep(5)
+                else:
+                    # ⭐️ Changed this to continue instead of stopping the whole process
+                    logging.error("Failed to renew Tor IP. Continuing with the old IP.")
+
             persona_id = answer_file.replace(".json", "")
             answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
             
@@ -128,7 +150,8 @@ async def run():
             if not answers_data:
                 continue
 
-            # ⭐️ KEY CHANGE: Check the return status before moving the file
+            #  The main logic, including IP check, is now inside submit_single_form.
+            # The separate IP check call is removed from here.
             was_successful = await submit_single_form(p, answers_data, persona_id)
 
             if was_successful:
@@ -138,7 +161,7 @@ async def run():
             else:
                 logging.error(f"Submission FAILED for {persona_id}. The answer file will NOT be moved and can be retried later.")
 
-            logging.info("Waiting for 10 seconds before next submission...")
-            await asyncio.sleep(10)
+            logging.info("Waiting for 20 seconds before next submission...")
+            await asyncio.sleep(20)
 
     logging.info("===== PHASE 4 FINISHED (GOOGLE FORMS) =====")

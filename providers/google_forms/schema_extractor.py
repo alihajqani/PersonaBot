@@ -64,20 +64,20 @@ async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
                     text = await text_span.inner_text()
                     options.append({"text": text.strip(), "value": value.strip()})
 
-            # ⭐️ KEY CHANGE: Removed 'is_required' check. Fill if options exist.
+            #  Removed 'is_required' check. Fill if options exist.
             if option_labels:
                 logging.info(f"  -> Action: Filling radio field '{question_text}' with first option.")
                 await option_labels[0].locator('div[role="radio"]').click()
 
         elif await block.locator('textarea').count() > 0:
             q_type = "TEXT_AREA"
-            # ⭐️ KEY CHANGE: Removed 'is_required' check. Fill unconditionally.
+            #  Removed 'is_required' check. Fill unconditionally.
             logging.info(f"  -> Action: Filling textarea field '{question_text}'.")
             await block.locator('textarea').fill("dummy text")
         
         elif await block.locator('input[type="text"]').count() > 0:
             q_type = "TEXT_INPUT"
-            # ⭐️ KEY CHANGE: Removed 'is_required' check. Fill unconditionally.
+            #  Removed 'is_required' check. Fill unconditionally.
             logging.info(f"  -> Action: Filling text input field '{question_text}'.")
             await block.locator('input[type="text"]').fill("25")
         
@@ -160,7 +160,7 @@ async def run():
         logging.error("Schema extraction failed. No questions were found. Aborting.")
         return
 
-    # ⭐️ KEY CHANGE: Using the new helper function for consistency
+    #  Using the new helper function for consistency
     utils.save_json_file(config.SCHEMA_FILE_PATH, schema_data, "form schema")
 
     logging.info("===== PHASE 1 FINISHED (GOOGLE FORMS) =====")

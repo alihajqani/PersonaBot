@@ -5,3 +5,4 @@ PySocks
 openai
 thefuzz
 python-Levenshtein
+colorlog

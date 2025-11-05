@@ -20,7 +20,10 @@ import utils
 def build_answer_prompts(schema: List[Dict[str, Any]], persona_details: Dict[str, Any]) -> Tuple[str, str]:
     """Loads answer prompts from JSON and formats them with dynamic data."""
     
-    prompt_templates = utils.load_json_file("prompts/answer_generation_prompt.json", "answer generation prompts")
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    prompt_file_path = os.path.join(project_root, "prompts", "answer_generation_prompt.json")
+    
+    prompt_templates = utils.load_json_file(prompt_file_path, "answer generation prompts")
     if not prompt_templates:
         raise FileNotFoundError("Could not load answer generation prompts.")
         
@@ -51,7 +54,7 @@ def build_answer_prompts(schema: List[Dict[str, Any]], persona_details: Dict[str
     return system_instruction, user_prompt
 
 def validate_and_clean_answers(raw_answers: Dict[str, Any], schema: List[Dict[str, Any]]) -> Dict[str, Any]:
-    # This function remains highly valuable for ensuring data quality. No changes needed.
+    # This function remains highly valuable for data quality. No changes needed.
     logging.debug(f"Validating {len(raw_answers)} raw answers against the form schema...")
     option_schema_map = {
         q['question_id']: {opt['value'] for opt in q['options']}
@@ -116,7 +119,6 @@ async def generate_answers_for_persona(
     api_key = config.google_api_key_manager.get_next_key()
     genai.configure(api_key=api_key)
     
-    # ⭐️ KEY CHANGE: Build prompts using the new externalized function
     try:
         system_instruction, user_prompt = build_answer_prompts(schema, persona['details'])
     except FileNotFoundError as e:
@@ -182,22 +184,21 @@ async def run():
             logging.warning(f"Skipping invalid persona file: {persona_file}")
             continue
         
-        persona_id = persona_data["id"]
+        human_readable_id = persona_data["id"]
         
         answers = await generate_answers_for_persona(schema=schema_data, persona=persona_data)
         
-        # Sanity check: Ensure we got a reasonable number of answers.
         if answers and len(answers) > len(schema_data) * 0.8:
-            answer_file_path = os.path.join(config.ANSWERS_DIR_PATH, f"{persona_id}.json")
-            utils.save_json_file(answer_file_path, answers, f"answers for '{persona_id}'")
+            answer_file_path = os.path.join(config.ANSWERS_DIR_PATH, persona_file)
+            utils.save_json_file(answer_file_path, answers, f"answers for '{human_readable_id}'")
 
             processed_persona_path = os.path.join(done_dir_path, persona_file)
             shutil.move(persona_path, processed_persona_path)
-            logging.info(f"Moved processed persona '{persona_id}' to 'done' directory.")
+            logging.info(f"Moved processed persona '{human_readable_id}' to 'done' directory.")
         else:
-            logging.error(f"Failed to generate sufficient valid answers for '{persona_id}'. Persona file will not be moved.")
+            logging.error(f"Failed to generate sufficient valid answers for '{human_readable_id}'. Persona file will not be moved.")
         
-        logging.info("Waiting for 5 seconds before the next API call...")
-        await asyncio.sleep(5)
+        logging.info("Waiting for 60 seconds before the next API call to respect rate limits...")
+        await asyncio.sleep(60)
     
     logging.info("===== PHASE FINISHED: ANSWER GENERATION =====")
