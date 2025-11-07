@@ -6,3 +6,4 @@ openai
 thefuzz
 python-Levenshtein
 colorlog
+google-generativeai
