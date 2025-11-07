@@ -1,17 +1,17 @@
-# providers/google_forms/schema_extractor.py
-
 # ===== IMPORTS & DEPENDENCIES =====
-import json
-import logging
 import asyncio
-import re
+import logging
 from typing import List, Dict, Any
+
 from playwright.async_api import async_playwright, Page, Error as PlaywrightError
 
 import config
 import utils
 
-# ===== CORE SCHEMA EXTRACTION LOGIC (FINAL & ROBUST) =====
+# ===== CORE SCHEMA EXTRACTION LOGIC (RE-VALIDATED FOR NEW FORM) =====
+# Note: The core selectors for Google Forms were found to be consistent
+# with the new HTML provided. This code remains robust.
+
 async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
     """
     Parses questions on the current page, filling ALL fields found to ensure navigation.
@@ -21,12 +21,13 @@ async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
     question_blocks = await page.locator('div.Qr7Oae').all()
     
     if not question_blocks:
-        logging.warning("No question blocks found on this page.")
+        logging.warning("No question blocks found on this page. This might be an end page or an intro page.")
         return []
         
     logging.info(f"Found {len(question_blocks)} potential question blocks. Iterating...")
 
     for i, block in enumerate(question_blocks):
+        # This selector robustly finds the main question text.
         question_text_element = block.locator('div[role="heading"]').first
         if not await question_text_element.count():
             continue
@@ -34,6 +35,7 @@ async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
         full_question_text = await question_text_element.inner_text()
         question_text = full_question_text.strip().replace(" *", "")
 
+        # This div contains the crucial data-params attribute for ID extraction.
         jsmodel_div = block.locator('div[jsmodel="CP1oW"]').first
         if not await jsmodel_div.count() > 0:
             logging.debug(f"Block for '{question_text}' is not a standard question block. Skipping.")
@@ -64,20 +66,18 @@ async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
                     text = await text_span.inner_text()
                     options.append({"text": text.strip(), "value": value.strip()})
 
-            #  Removed 'is_required' check. Fill if options exist.
+            # Fill the first option to ensure we can proceed to the next page.
             if option_labels:
                 logging.info(f"  -> Action: Filling radio field '{question_text}' with first option.")
                 await option_labels[0].locator('div[role="radio"]').click()
 
         elif await block.locator('textarea').count() > 0:
             q_type = "TEXT_AREA"
-            #  Removed 'is_required' check. Fill unconditionally.
             logging.info(f"  -> Action: Filling textarea field '{question_text}'.")
             await block.locator('textarea').fill("dummy text")
         
         elif await block.locator('input[type="text"]').count() > 0:
             q_type = "TEXT_INPUT"
-            #  Removed 'is_required' check. Fill unconditionally.
             logging.info(f"  -> Action: Filling text input field '{question_text}'.")
             await block.locator('input[type="text"]').fill("25")
         
@@ -110,6 +110,7 @@ async def extract_google_form_schema(p: async_playwright) -> List[Dict[str, Any]
             
             try:
                 logging.info("Waiting for page content to stabilize...")
+                # This selector combination waits for questions, the next button, or the submit button.
                 await page.wait_for_selector('div.Qr7Oae, div[jsname="M2UYVd"], div[jsname="OCpkoe"]', timeout=15000)
                 logging.info("Page content is ready.")
             except PlaywrightError:
@@ -119,7 +120,7 @@ async def extract_google_form_schema(p: async_playwright) -> List[Dict[str, Any]
             page_questions = await fill_required_and_parse_page(page)
             form_schema.extend(page_questions)
             
-            await page.wait_for_timeout(500)
+            await page.wait_for_timeout(500) # Small delay for stability
 
             next_button = page.locator('div[jsname="OCpkoe"]')
             
@@ -160,7 +161,6 @@ async def run():
         logging.error("Schema extraction failed. No questions were found. Aborting.")
         return
 
-    #  Using the new helper function for consistency
     utils.save_json_file(config.SCHEMA_FILE_PATH, schema_data, "form schema")
 
     logging.info("===== PHASE 1 FINISHED (GOOGLE FORMS) =====")
