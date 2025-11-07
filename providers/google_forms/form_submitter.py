@@ -42,7 +42,7 @@ async def fill_current_page(page: Page, answers: Dict[str, str]):
                 option_to_click = block.locator(f'div[data-value="{answer}"]')
                 if await option_to_click.count() > 0:
                     await option_to_click.click()
-                    logging.info(f"Filled radio '{question_id}' with: '{answer}'")
+                    # logging.info(f"Filled radio '{question_id}' with: '{answer}'")
                 else:
                     logging.warning(f"Could not find option '{answer}' for question '{question_id}'")
 
@@ -140,7 +140,6 @@ async def run():
                     logging.info("Waiting 5 seconds for Tor to establish a new circuit...")
                     await asyncio.sleep(5)
                 else:
-                    # ⭐️ Changed this to continue instead of stopping the whole process
                     logging.error("Failed to renew Tor IP. Continuing with the old IP.")
 
             persona_id = answer_file.replace(".json", "")
@@ -161,7 +160,7 @@ async def run():
             else:
                 logging.error(f"Submission FAILED for {persona_id}. The answer file will NOT be moved and can be retried later.")
 
-            logging.info("Waiting for 20 seconds before next submission...")
-            await asyncio.sleep(20)
+            logging.info("Waiting for 15 seconds before next submission...")
+            await asyncio.sleep(15)
 
     logging.info("===== PHASE 4 FINISHED (GOOGLE FORMS) =====")
