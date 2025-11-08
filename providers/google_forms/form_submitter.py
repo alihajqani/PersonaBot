@@ -11,8 +11,6 @@ import config
 import utils
 
 # ===== CORE SUBMISSION LOGIC (RE-VALIDATED FOR NEW FORM) =====
-# Note: The core selectors for Google Forms were found to be consistent
-# with the new HTML provided. This code remains robust.
 
 async def fill_current_page(page: Page, answers: Dict[str, str]):
     """Fills all form fields on the current page based on the provided answers."""
@@ -62,39 +60,58 @@ async def fill_current_page(page: Page, answers: Dict[str, str]):
 
 async def submit_single_form(p: async_playwright, answers: Dict[str, str], persona_id: str) -> bool:
     """
-    Opens a browser, fills out and submits the form.
+    Opens a browser, checks IP, fills out and submits the form in a single session.
     Returns True on successful submission, False otherwise.
     """
     logging.info(f"Starting form submission for persona: {persona_id}")
-    browser = await p.chromium.launch(headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
+
+    #  Prepare launch options with conditional Tor proxy
+    launch_options = {
+        "headless": config.HEADLESS_MODE,
+        "slow_mo": config.SLOW_MO,
+    }
+    if config.USE_TOR:
+        launch_options["proxy"] = {"server": config.TOR_PROXY_SERVER}
+        logging.info(f"Using Tor proxy for submission: {config.TOR_PROXY_SERVER}")
+
+    browser = await p.chromium.launch(**launch_options)
     context = await browser.new_context()
     page = await context.new_page()
     
     try:
+        #  Check and log IP if Tor is enabled
+        if config.USE_TOR:
+            await page.goto("https://checkip.amazonaws.com", timeout=30000)
+            ip_address = (await page.inner_text('body')).strip()
+            logging.warning(f"Current IP for '{persona_id}': {ip_address}")
+
         await page.goto(config.BASE_FORM_URL, wait_until="domcontentloaded")
 
         page_count = 1
         while True:
+            # Added a failsafe to prevent infinite loops on complex forms
+            if page_count > 15:
+                logging.error(f"Exceeded 15 pages for persona {persona_id}. Aborting submission.")
+                return False
+                
             logging.info(f"--- Filling Page {page_count} for persona {persona_id} ---")
-            # Wait for any of the key elements to appear before proceeding.
             selector_to_wait_for = 'div.Qr7Oae, div[jsname="OCpkoe"], div[jsname="M2UYVd"]'
             await page.wait_for_selector(selector_to_wait_for, timeout=15000)
 
             await fill_current_page(page, answers)
             await page.wait_for_timeout(500)
 
-            next_button = page.locator('div[jsname="OCpkoe"]') # Standard 'Next' button
+            next_button = page.locator('div[jsname="OCpkoe"]')
             if await next_button.count() > 0 and await next_button.is_enabled():
                 await next_button.click()
                 await page.wait_for_load_state("networkidle")
                 page_count += 1
             else:
-                submit_button = page.locator('div[jsname="M2UYVd"]') # Standard 'Submit' button
+                submit_button = page.locator('div[jsname="M2UYVd"]')
                 if await submit_button.count() > 0 and await submit_button.is_enabled():
                     logging.info("Final page reached. Clicking 'Submit'...")
                     await submit_button.click()
-                    # Wait for the confirmation message div to appear.
-                    await page.wait_for_selector('div.vHW8K', timeout=20000) 
+                    await page.wait_for_selector('div.vHW8K', timeout=20000)
                     logging.info(f"Successfully submitted form for persona: {persona_id}")
                     return True
                 else:
@@ -126,6 +143,14 @@ async def run():
 
     async with async_playwright() as p:
         for answer_file in answer_files:
+            #  Renew Tor IP before each submission cycle if enabled
+            if config.USE_TOR:
+                if utils.renew_tor_ip():
+                    logging.info("Waiting 5 seconds for Tor to establish a new circuit...")
+                    await asyncio.sleep(5)
+                else:
+                    logging.error("Failed to renew Tor IP. Continuing with the old IP.")
+
             persona_id = answer_file.replace(".json", "")
             answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
             
@@ -142,7 +167,8 @@ async def run():
             else:
                 logging.error(f"Submission FAILED for {persona_id}. The answer file will NOT be moved and can be retried later.")
 
-            logging.info("Waiting for 10 seconds before next submission...")
-            await asyncio.sleep(10)
+            #  Increased wait time for better network stability with Tor
+            logging.info("Waiting for 15 seconds before next submission...")
+            await asyncio.sleep(15)
 
     logging.info("===== PHASE 4 FINISHED (GOOGLE FORMS) =====")
