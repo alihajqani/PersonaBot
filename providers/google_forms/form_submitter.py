@@ -10,10 +10,10 @@ from playwright.async_api import async_playwright, Page, Error as PlaywrightErro
 import config
 import utils
 
-# ===== CORE SUBMISSION LOGIC (RE-VALIDATED FOR NEW FORM) =====
+# ===== CORE SUBMISSION LOGIC (RE-VALIDATED & HARDENED FOR NETWORK ISSUES) =====
 
 async def fill_current_page(page: Page, answers: Dict[str, str]):
-    """Fills all form fields on the current page based on the provided answers."""
+    """Fills all form fields on the current page with added error handling for individual fields."""
     question_blocks = await page.locator('div.Qr7Oae').all()
     if not question_blocks:
         logging.info("No questions to fill on this page, likely an intro or thank you page. Proceeding.")
@@ -36,36 +36,39 @@ async def fill_current_page(page: Page, answers: Dict[str, str]):
         if question_id in answers:
             answer = answers[question_id]
             
-            # Radio button group
-            if await block.locator('div[role="radiogroup"]').count() > 0:
-                # Use a robust selector to find the clickable element by its data-value.
-                option_to_click = block.locator(f'div[data-value="{answer}"]')
-                if await option_to_click.count() > 0:
-                    await option_to_click.click()
-                    logging.info(f"Filled radio '{question_id}' with: '{answer}'")
-                else:
-                    logging.warning(f"Could not find radio option '{answer}' for question '{question_id}'")
+            try:
+                if await block.locator('div[role="radiogroup"]').count() > 0:
+                    option_to_click = block.locator(f'div[data-value="{answer}"]')
+                    if await option_to_click.count() > 0:
+                        # Use a specific timeout for clicks to handle slow-loading elements.
+                        await option_to_click.click(timeout=30000) 
+                        # logging.info(f"Filled radio '{question_id}' with: '{answer}'")
+                    else:
+                        logging.warning(f"Could not find radio option '{answer}' for question '{question_id}'")
 
-            # Long answer text area
-            elif await block.locator('textarea').count() > 0:
-                await block.locator('textarea').fill(answer)
-                logging.info(f"Filled textarea '{question_id}'")
+                elif await block.locator('textarea').count() > 0:
+                    await block.locator('textarea').fill(answer)
+                    # logging.info(f"Filled textarea '{question_id}'")
 
-            # Short answer text input
-            elif await block.locator('input[type="text"]').count() > 0:
-                await block.locator('input[type="text"]').fill(answer)
-                logging.info(f"Filled text input '{question_id}'")
-            
-            await page.wait_for_timeout(100) # Brief pause after each action
+                elif await block.locator('input[type="text"]').count() > 0:
+                    await block.locator('input[type="text"]').fill(answer)
+                    # logging.info(f"Filled text input '{question_id}'")
+                
+                await page.wait_for_timeout(100) # Brief pause after each action
+
+            except PlaywrightError as e:
+                # Log error for a specific field but continue with the rest of the form.
+                logging.error(f"A Playwright timeout occurred while filling '{question_id}': {e.message.splitlines()[0]}")
+                continue
+
 
 async def submit_single_form(p: async_playwright, answers: Dict[str, str], persona_id: str) -> bool:
     """
-    Opens a browser, checks IP, fills out and submits the form in a single session.
+    Opens a browser, fills out and submits the form with increased resilience against network errors.
     Returns True on successful submission, False otherwise.
     """
     logging.info(f"Starting form submission for persona: {persona_id}")
 
-    #  Prepare launch options with conditional Tor proxy
     launch_options = {
         "headless": config.HEADLESS_MODE,
         "slow_mo": config.SLOW_MO,
@@ -78,25 +81,37 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     context = await browser.new_context()
     page = await context.new_page()
     
+    # ⭐️ KEY FIX #1: Set a generous default timeout for all actions (clicks, fills, waits).
+    # This addresses random "Locator.click" timeouts by making the bot more patient.
+    page.set_default_timeout(60000) # 60 seconds
+
     try:
-        #  Check and log IP if Tor is enabled
         if config.USE_TOR:
-            await page.goto("https://checkip.amazonaws.com", timeout=30000)
-            ip_address = (await page.inner_text('body')).strip()
-            logging.warning(f"Current IP for '{persona_id}': {ip_address}")
+            # ⭐️ KEY FIX #2: Add a retry mechanism for the initial IP check to handle net::ERR_NETWORK_CHANGED.
+            for attempt in range(3):
+                try:
+                    await page.goto("https://checkip.amazonaws.com", wait_until="domcontentloaded")
+                    ip_address = (await page.inner_text('body')).strip()
+                    logging.warning(f"Current IP for '{persona_id}': {ip_address}")
+                    break # Success, exit retry loop
+                except PlaywrightError as e:
+                    logging.warning(f"Attempt {attempt + 1}/3 to check IP failed: {e.message.splitlines()[0]}")
+                    if attempt < 2:
+                        await asyncio.sleep(5) # Wait before retrying
+                    else:
+                        raise # Rethrow the exception if all attempts fail
 
         await page.goto(config.BASE_FORM_URL, wait_until="domcontentloaded")
 
         page_count = 1
         while True:
-            # Added a failsafe to prevent infinite loops on complex forms
-            if page_count > 15:
+            if page_count > 15: # Failsafe to prevent infinite loops
                 logging.error(f"Exceeded 15 pages for persona {persona_id}. Aborting submission.")
                 return False
-                
+
             logging.info(f"--- Filling Page {page_count} for persona {persona_id} ---")
             selector_to_wait_for = 'div.Qr7Oae, div[jsname="OCpkoe"], div[jsname="M2UYVd"]'
-            await page.wait_for_selector(selector_to_wait_for, timeout=15000)
+            await page.wait_for_selector(selector_to_wait_for)
 
             await fill_current_page(page, answers)
             await page.wait_for_timeout(500)
@@ -111,14 +126,17 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                 if await submit_button.count() > 0 and await submit_button.is_enabled():
                     logging.info("Final page reached. Clicking 'Submit'...")
                     await submit_button.click()
-                    await page.wait_for_selector('div.vHW8K', timeout=20000)
+                    # ⭐️ KEY FIX #3: Increase timeout for the confirmation page to 60 seconds.
+                    # This addresses the timeout while waiting for 'div.vHW8K'.
+                    await page.wait_for_selector('div.vHW8K', timeout=60000)
                     logging.info(f"Successfully submitted form for persona: {persona_id}")
                     return True
                 else:
                     logging.error(f"Could not find an enabled 'Next' or 'Submit' button for {persona_id}.")
                     return False
     except Exception as e:
-        logging.error(f"An error occurred while submitting for persona {persona_id}: {e}", exc_info=True)
+        error_message = getattr(e, 'message', str(e)).splitlines()[0]
+        logging.error(f"An error occurred while submitting for persona {persona_id}: {error_message}", exc_info=False)
         return False
     finally:
         await browser.close()
@@ -126,7 +144,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     
     return False
 
-# ===== RUNNER FUNCTION =====
+# ===== RUNNER FUNCTION (No changes needed) =====
 async def run():
     """Executes Phase 4: Reads all answer files and submits them one by one."""
     logging.info("===== RUNNING PHASE 4: FORM SUBMISSION (GOOGLE FORMS) =====")
@@ -143,11 +161,10 @@ async def run():
 
     async with async_playwright() as p:
         for answer_file in answer_files:
-            #  Renew Tor IP before each submission cycle if enabled
             if config.USE_TOR:
                 if utils.renew_tor_ip():
-                    logging.info("Waiting 5 seconds for Tor to establish a new circuit...")
-                    await asyncio.sleep(5)
+                    logging.info("Waiting 10 seconds for Tor to establish a new circuit...")
+                    await asyncio.sleep(10) # ⭐️ Increased wait time for Tor stability
                 else:
                     logging.error("Failed to renew Tor IP. Continuing with the old IP.")
 
@@ -167,7 +184,6 @@ async def run():
             else:
                 logging.error(f"Submission FAILED for {persona_id}. The answer file will NOT be moved and can be retried later.")
 
-            #  Increased wait time for better network stability with Tor
             logging.info("Waiting for 15 seconds before next submission...")
             await asyncio.sleep(15)
 
