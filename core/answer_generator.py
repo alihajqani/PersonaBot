@@ -117,6 +117,7 @@ async def generate_answers_for_persona(
     logging.info(f"Generating answers for persona: {persona_id}...")
     
     api_key = config.google_api_key_manager.get_next_key()
+    logging.info(f"Using Google API Key: {api_key}")
     genai.configure(api_key=api_key)
     
     try:
@@ -198,7 +199,7 @@ async def run():
         else:
             logging.error(f"Failed to generate sufficient valid answers for '{human_readable_id}'. Persona file will not be moved.")
         
-        logging.info("Waiting for 60 seconds before the next API call to respect rate limits...")
-        await asyncio.sleep(60)
-    
+        logging.info("Waiting for 20 seconds before the next API call to respect rate limits...")
+        await asyncio.sleep(20)
+
     logging.info("===== PHASE FINISHED: ANSWER GENERATION =====")

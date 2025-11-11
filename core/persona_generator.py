@@ -51,6 +51,7 @@ async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas:
     logging.info(f"Generating {num_personas} personas using model '{config.GEMINI_MODEL_NAME}'...")
     
     api_key = config.google_api_key_manager.get_next_key()
+    logging.info(f"Using Google API Key: {api_key}")
     genai.configure(api_key=api_key)
     
     try:

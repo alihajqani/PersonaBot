@@ -10,9 +10,17 @@ from core.services import APIKeyManager
 env_file_path = os.path.join(os.path.dirname(__file__), '.env')
 is_loaded = load_dotenv(dotenv_path=env_file_path)
 
-# Setup Application-wide Colored Logging ---
-handler = colorlog.StreamHandler()
-handler.setFormatter(colorlog.ColoredFormatter(
+# --- ROBUST Application-wide Colored Logging Setup ---
+# 1. Get the root logger.
+root_logger = logging.getLogger()
+root_logger.setLevel(logging.INFO) # Set the lowest level to handle.
+
+# 2. CRITICAL STEP: Clear any handlers pre-configured by other libraries.
+if root_logger.hasHandlers():
+    root_logger.handlers.clear()
+
+# 3. Create a colored formatter.
+formatter = colorlog.ColoredFormatter(
     '%(log_color)s%(asctime)s - %(levelname)s - [%(name)s] - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S',
     log_colors={
@@ -22,10 +30,18 @@ handler.setFormatter(colorlog.ColoredFormatter(
         'ERROR':    'red',
         'CRITICAL': 'red,bg_white',
     }
-))
-root_logger = logging.getLogger()
+)
+
+# 4. Create a handler to use the colored formatter and add it to the root logger.
+handler = colorlog.StreamHandler()
+handler.setFormatter(formatter)
 root_logger.addHandler(handler)
-root_logger.setLevel(logging.INFO)
+
+# 5. Silence noisy libraries by setting their log level higher.
+# This ensures only WARNING and above messages from them are processed.
+logging.getLogger('stem').setLevel(logging.WARNING)
+logging.getLogger('httpx').setLevel(logging.WARNING)
+
 
 # --- Sanity Check for .env file ---
 if is_loaded:
@@ -49,11 +65,12 @@ except ValueError as e:
     google_api_key_manager = None
 
 # --- AI Model Settings ---
-GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-1.5-flash")
+GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-2.5-pro")
 
 # --- Form & Automation Settings ---
 BASE_FORM_URL = os.getenv("BASE_FORM_URL")
 if not BASE_FORM_URL:
+    logging.critical("BASE_FORM_URL is not set. Please check your .env file.")
     raise ValueError("BASE_FORM_URL is not set. Please check your .env file.")
 
 # --- Browser & Playwright Settings ---

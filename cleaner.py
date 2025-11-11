@@ -7,8 +7,8 @@ from typing import Dict, Any
 
 # ===== CONFIGURATION & CONSTANTS =====
 # The minimum number of entries (key-value pairs) a JSON file must have to be kept.
-# As per your request, we are checking for 169 entries.
-MIN_ENTRIES_THRESHOLD = 169
+# As per your request, we are checking for N entries.
+MIN_ENTRIES_THRESHOLD = N
 
 # --- Setup Application-wide Logging ---
 logging.basicConfig(
