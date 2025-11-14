@@ -7,3 +7,4 @@ thefuzz
 python-Levenshtein
 colorlog
 google-generativeai
+beautifulsoup4
