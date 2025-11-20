@@ -5,23 +5,25 @@
 # These can be overridden from the command line, e.g., make run PROVIDER=google_forms
 # ==============================================================================
 PYTHON_INTERPRETER ?= python3
-PROVIDER           ?= avalform
+PROVIDER           ?= google_forms
 PHASES             ?= 1,2,3,4
 NUM_PERSONAS       ?= 5
 RUN_COUNT          ?= 10
 DELAY_SECONDS      ?= 120
+OUTPUT_DIR         ?= output
 
 # ==============================================================================
 # 🎯 Core Targets
 # ==============================================================================
 
-.PHONY: help install clean run-all schema persona answer submit loop
+.PHONY: help install clean status run-all schema persona answer submit loop
 
 help:
 	@echo "PersonaBot Makefile - Available Commands:"
 	@echo "-------------------------------------------"
 	@echo "  make install         -> Install all project dependencies from requirements.txt."
 	@echo "  make clean           -> Remove all generated output files and __pycache__."
+	@echo "  make status          -> Display a summary of the output directory contents."
 	@echo ""
 	@echo "  --- Workflow Commands (customizable) ---"
 	@echo "  make run-all         -> Run all phases (1-4) for the specified PROVIDER."
@@ -52,10 +54,49 @@ install:
 
 clean:
 	@echo "Cleaning up generated files and caches..."
-	rm -rf output/
+	rm -rf $(OUTPUT_DIR)/
 	find . -type f -name "*.pyc" -delete
 	find . -type d -name "__pycache__" -delete
 	@echo "Cleanup complete."
+
+# ⭐ CORRECTED STATUS TARGET
+status:
+	@echo "📊 Project Status Report"
+	@echo "========================================="
+	@if [ -f "$(OUTPUT_DIR)/form_schema.json" ]; then \
+		echo "✅ Schema File: Present"; \
+	else \
+		echo "❌ Schema File: Not found"; \
+	fi
+	@echo "-----------------------------------------"
+	@echo "📁 Personas Directory ($(OUTPUT_DIR)/personas/):"
+	@if [ -d "$(OUTPUT_DIR)/personas" ]; then \
+		PENDING_PERSONAS=$$(find $(OUTPUT_DIR)/personas -maxdepth 1 -type f -name '*.json' | wc -l); \
+		PROCESSED_PERSONAS=$$(find $(OUTPUT_DIR)/personas/done -maxdepth 1 -type f -name '*.json' 2>/dev/null | wc -l); \
+		echo "  - Pending Personas: $$PENDING_PERSONAS"; \
+		echo "  - Processed Personas (in 'done'): $$PROCESSED_PERSONAS"; \
+	else \
+		echo "  Directory not found."; \
+	fi
+	@echo "-----------------------------------------"
+	@echo "📁 Answers Directory ($(OUTPUT_DIR)/answers/):"
+	@if [ -d "$(OUTPUT_DIR)/answers" ]; then \
+		PENDING_ANSWERS=$$(find $(OUTPUT_DIR)/answers -maxdepth 1 -type f -name '*.json' | wc -l); \
+		SUBMITTED_ANSWERS=$$(find $(OUTPUT_DIR)/answers/done -maxdepth 1 -type f -name '*.json' 2>/dev/null | wc -l); \
+		echo "  - Answers Ready for Submission: $$PENDING_ANSWERS"; \
+		echo "  - Submitted Answers (in 'done'): $$SUBMITTED_ANSWERS"; \
+	else \
+		echo "  Directory not found."; \
+	fi
+	@echo "-----------------------------------------"
+	@echo "📁 Receipts Directory ($(OUTPUT_DIR)/receipts/):"
+	@if [ -d "$(OUTPUT_DIR)/receipts" ]; then \
+		RECEIPTS_COUNT=$$(ls -1 $(OUTPUT_DIR)/receipts 2>/dev/null | wc -l); \
+		echo "  - Total Screenshots (Success/Error): $$RECEIPTS_COUNT"; \
+	else \
+		echo "  Directory not found."; \
+	fi
+	@echo "========================================="
 
 run-all:
 	@echo "Running all phases [$(PHASES)] for provider [$(PROVIDER)] with [$(NUM_PERSONAS)] personas..."
@@ -77,9 +118,6 @@ submit:
 	@echo "Running Phase 4 (Form Submission) for provider [$(PROVIDER)]..."
 	$(PYTHON_INTERPRETER) main.py $(PROVIDER) --phases=4
 
-# --- Loop Implementation ---
-# This is a shell loop embedded within a Makefile target.
-# It uses .SHELLFLAGS to allow multiline shell commands.
 .SHELLFLAGS := -c
 loop:
 	@echo "Starting loop: Running phases [$(PHASES)] for [$(RUN_COUNT)] times with a [$(DELAY_SECONDS)s] delay..."
