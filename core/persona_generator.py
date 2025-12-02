@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import uuid
+import random 
 from typing import List, Dict, Any, Tuple
 
 import google.generativeai as genai
@@ -36,7 +37,11 @@ def build_persona_prompts(schema: List[Dict[str, Any]], num_personas: int) -> Tu
     
     # Format the prompts with the dynamic data
     system_instruction = prompt_templates['system_instruction'].format(num_personas=num_personas)
-    user_prompt = prompt_templates['user_prompt_template'].format(schema_summary=schema_summary)
+    
+    user_prompt = prompt_templates['user_prompt_template'].format(
+        schema_summary=schema_summary,
+        num_personas=num_personas 
+    )
     
     return system_instruction, user_prompt
 
@@ -67,10 +72,23 @@ async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas:
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     }
     
+    # ===== Randomized Temperature =====
+    # We use a random temperature between 0.75 and 0.95.
+    # Higher temperature prevents "Modal Collapse" (all personas looking the same).
+    # It encourages the model to create more diverse, unique, and outlier personalities.
+    dynamic_temperature = random.uniform(0.75, 0.95)
+    logging.info(f"Using dynamic temperature: {dynamic_temperature:.2f} for diversity.")
+
+    generation_config = {
+        "response_mime_type": "application/json",
+        "temperature": dynamic_temperature,
+        "top_p": 0.95 
+    }
+    
     model = genai.GenerativeModel(
         config.GEMINI_MODEL_NAME,
         system_instruction=system_instruction,
-        generation_config={"response_mime_type": "application/json"},
+        generation_config=generation_config, # Updated config passed here
         safety_settings=safety_settings
     )
     
@@ -87,9 +105,17 @@ async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas:
         response_text = response.text
         data = json.loads(response_text)
         
-        personas = data.get("personas", [])
+        # ===== Handle both List and Dict responses =====
+        if isinstance(data, list):
+            personas = data
+        elif isinstance(data, dict):
+            personas = data.get("personas", [])
+        else:
+            logging.error(f"Unexpected JSON structure. Expected list or dict, got: {type(data)}")
+            return
+
         if not personas:
-            logging.error("Persona generation failed: The 'personas' key was not found in the Gemini response.")
+            logging.error("Persona generation failed: No personas found in the response.")
             return
 
         for persona in personas:

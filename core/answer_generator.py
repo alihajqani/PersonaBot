@@ -6,6 +6,7 @@ import json
 import logging
 import os
 import shutil
+import random
 from typing import List, Dict, Any, Tuple
 
 import google.generativeai as genai
@@ -64,6 +65,10 @@ def validate_and_clean_answers(raw_answers: Dict[str, Any], schema: List[Dict[st
     cleaned_answers = {}
 
     for question_id, raw_answer_value in raw_answers.items():
+        # Ignore meta keys like _reasoning or _internal_thought
+        if question_id.startswith("_"):
+            continue
+
         if question_id not in all_valid_ids:
             logging.warning(f"Rogue question_id '{question_id}' in LLM response. Discarding.")
             continue
@@ -113,7 +118,9 @@ async def generate_answers_for_persona(
     schema: List[Dict[str, Any]], 
     persona: Dict[str, Any],
 ) -> Dict[str, Any]:
-    persona_id = persona.get("id", "unknown_persona")
+    # ===== Check for 'id' OR 'persona_id' =====
+    persona_id = persona.get("id") or persona.get("persona_id", "unknown_persona")
+    
     logging.info(f"Generating answers for persona: {persona_id}...")
     
     api_key = config.google_api_key_manager.get_next_key()
@@ -126,7 +133,14 @@ async def generate_answers_for_persona(
         logging.error(f"Failed to build answer prompts: {e}")
         return {}
     
-    generation_config = {"response_mime_type": "application/json"}
+    # Using randomized temperature for better human-like variance
+    dynamic_temperature = random.uniform(0.4, 0.7)
+    
+    generation_config = {
+        "response_mime_type": "application/json",
+        "temperature": dynamic_temperature
+    }
+    
     safety_settings = {
         HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
         HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
@@ -181,11 +195,14 @@ async def run():
         persona_path = os.path.join(config.PERSONAS_DIR_PATH, persona_file)
         persona_data = utils.load_json_file(persona_path, f"persona from {persona_file}")
 
-        if not persona_data or "id" not in persona_data or "details" not in persona_data:
-            logging.warning(f"Skipping invalid persona file: {persona_file}")
+        # ===== Check for 'id' OR 'persona_id' =====
+        p_id = persona_data.get("id") or persona_data.get("persona_id")
+
+        if not persona_data or not p_id or "details" not in persona_data:
+            logging.warning(f"Skipping invalid persona file: {persona_file} (Missing 'id'/'persona_id' or 'details')")
             continue
         
-        human_readable_id = persona_data["id"]
+        human_readable_id = p_id
         
         answers = await generate_answers_for_persona(schema=schema_data, persona=persona_data)
         
