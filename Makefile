@@ -5,7 +5,7 @@
 # These can be overridden from the command line, e.g., make run PROVIDER=google_forms
 # ==============================================================================
 PYTHON_INTERPRETER ?= python3
-PROVIDER           ?= google_forms
+PROVIDER           ?= porsline
 PHASES             ?= 1,2,3,4
 NUM_PERSONAS       ?= 5
 RUN_COUNT          ?= 10
