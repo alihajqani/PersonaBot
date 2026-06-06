@@ -76,6 +76,8 @@ if not BASE_FORM_URL:
 # --- Browser & Playwright Settings ---
 HEADLESS_MODE = os.getenv("HEADLESS_MODE", "True").lower() == "true"
 SLOW_MO = int(os.getenv("SLOW_MO", "50"))
+# "chrome" uses system-installed Google Chrome; None uses Playwright's bundled Chromium
+BROWSER_CHANNEL = os.getenv("BROWSER_CHANNEL", "chrome") or None
 
 # --- Tor Network Settings ---
 USE_TOR = os.getenv("USE_TOR", "False").lower() == "true"
