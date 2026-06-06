@@ -96,7 +96,7 @@ async def fill_required_and_parse_page(page: Page) -> List[Dict[str, Any]]:
 async def extract_google_form_schema(p: async_playwright) -> List[Dict[str, Any]]:
     logging.info("Starting schema extraction from live Google Form URL.")
     
-    browser = await p.chromium.launch(headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
+    browser = await p.chromium.launch(channel=config.BROWSER_CHANNEL, headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
     page = await browser.new_page()
     form_schema = []
     

@@ -150,9 +150,10 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     logging.info(f"Starting submission workflow for: {persona_id}")
     
     browser = await p.chromium.launch(
-        headless=config.HEADLESS_MODE, 
-        slow_mo=config.SLOW_MO, 
-        proxy={"server": config.TOR_PROXY_SERVER} if config.USE_TOR else None
+        channel=config.BROWSER_CHANNEL,
+        headless=config.HEADLESS_MODE,
+        slow_mo=config.SLOW_MO,
+        proxy={"server": config.TOR_PROXY_SERVER} if config.USE_TOR else None,
     )
     context = await browser.new_context()
     page = await context.new_page()

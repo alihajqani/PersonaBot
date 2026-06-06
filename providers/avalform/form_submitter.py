@@ -155,7 +155,7 @@ async def run():
             if not answers_data:
                 continue
 
-            launch_options = {"headless": config.HEADLESS_MODE, "slow_mo": config.SLOW_MO}
+            launch_options = {"channel": config.BROWSER_CHANNEL, "headless": config.HEADLESS_MODE, "slow_mo": config.SLOW_MO}
             if config.USE_TOR:
                 if utils.renew_tor_ip():
                     logging.info("Waiting 5 seconds for new Tor circuit...")

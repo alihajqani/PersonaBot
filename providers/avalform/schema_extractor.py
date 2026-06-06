@@ -149,10 +149,10 @@ async def fill_all_visible_inputs(page: Page):
 
 async def extract_avalform_schema(p: async_playwright) -> List[Dict[str, Any]]:
     logging.info("Starting schema extraction from Avalform URL.")
-    browser = await p.chromium.launch(headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
+    browser = await p.chromium.launch(channel=config.BROWSER_CHANNEL, headless=config.HEADLESS_MODE, slow_mo=config.SLOW_MO)
     page = await browser.new_page()
     form_schema = []
-    
+
     try:
         await page.goto(config.BASE_FORM_URL, wait_until="networkidle", timeout=60000)
         logging.info(f"Initial page loaded: {await page.title()}")

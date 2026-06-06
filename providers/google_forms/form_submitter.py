@@ -70,6 +70,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     logging.info(f"Starting form submission for persona: {persona_id}")
 
     launch_options = {
+        "channel": config.BROWSER_CHANNEL,
         "headless": config.HEADLESS_MODE,
         "slow_mo": config.SLOW_MO,
     }
