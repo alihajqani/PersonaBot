@@ -65,6 +65,9 @@ AI_CALL_DELAY_SECONDS = int(os.getenv("AI_CALL_DELAY_SECONDS", "0"))
 
 # HTTP proxy for Gemini API calls (e.g. "http://10.16.0.170:2080")
 GEMINI_PROXY = os.getenv("GEMINI_PROXY", "") or None
+if GEMINI_PROXY:
+    os.environ.setdefault("HTTPS_PROXY", GEMINI_PROXY)
+    os.environ.setdefault("HTTP_PROXY", GEMINI_PROXY)
 
 # --- Startup validation ---
 if AI_PROVIDER == "gemini":

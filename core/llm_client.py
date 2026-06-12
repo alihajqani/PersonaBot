@@ -42,8 +42,7 @@ class GeminiClient(LLMClient):
         for attempt in range(num_keys):
             api_key = config.gemini_api_key_manager.get_next_key()
             try:
-                http_options = {"proxy": config.GEMINI_PROXY} if config.GEMINI_PROXY else {}
-                client = genai.Client(api_key=api_key, http_options=http_options)
+                client = genai.Client(api_key=api_key)
                 response = await client.aio.models.generate_content(
                     model=config.GEMINI_MODEL_NAME,
                     contents=user_prompt,
