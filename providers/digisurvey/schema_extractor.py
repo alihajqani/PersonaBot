@@ -76,10 +76,12 @@ def parse_page(html: str) -> List[Dict[str, Any]]:
 
 async def fill_dummy_answers(page: Page) -> None:
     """Fill minimum required answers on the page so 'Next' can be clicked."""
-    # Radio: click first visible option per group
     question_divs = await page.locator("div.question[data-id]").all()
     for q_div in question_divs:
-        q_id = await q_div.get_attribute("data-id")
+        try:
+            q_id = await q_div.get_attribute("data-id", timeout=5000)
+        except Exception:
+            continue
         if not q_id:
             continue
 
@@ -186,6 +188,21 @@ async def extract_schema(p: async_playwright) -> List[Dict[str, Any]]:
                     seen_ids.add(q["question_id"])
                     new_count += 1
                     logging.info(f"   Found: [{q['type']}] {q['question_id']} — {q['question_text'][:60]}")
+
+            # If 0 new questions, the SPA may not have rendered yet — wait and re-parse
+            if new_count == 0:
+                try:
+                    await page.locator("div.question[data-id]").first.wait_for(state="visible", timeout=8000)
+                    html = await page.content()
+                    questions = parse_page(html)
+                    for q in questions:
+                        if q["question_id"] not in seen_ids:
+                            final_schema.append(q)
+                            seen_ids.add(q["question_id"])
+                            new_count += 1
+                            logging.info(f"   Found (re-wait): [{q['type']}] {q['question_id']} — {q['question_text'][:60]}")
+                except Exception:
+                    pass
 
             logging.info(f"   New questions on this page: {new_count}")
 

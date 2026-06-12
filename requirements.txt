@@ -6,5 +6,5 @@ openai
 thefuzz
 python-Levenshtein
 colorlog
-google-generativeai
+google-genai
 beautifulsoup4
