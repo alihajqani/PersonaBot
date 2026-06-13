@@ -63,7 +63,7 @@ async def fill_radio(page: Page, q_id: str, answer_value: str) -> bool:
 
     for i in range(count):
         lbl = labels.nth(i)
-        text = (await lbl.inner_text()).strip()
+        text = (await lbl.text_content() or "").strip()
         if text == answer_value or answer_value in text:
             try:
                 await lbl.scroll_into_view_if_needed()
@@ -89,7 +89,7 @@ async def fill_checkbox(page: Page, q_id: str, answer_value: str) -> bool:
 
     for i in range(count):
         lbl = labels.nth(i)
-        text = (await lbl.inner_text()).strip()
+        text = (await lbl.text_content() or "").strip()
         if text == answer_value or answer_value in text:
             try:
                 await lbl.scroll_into_view_if_needed()
