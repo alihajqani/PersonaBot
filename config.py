@@ -63,6 +63,15 @@ VLLM_API_KEY    = os.getenv("VLLM_API_KEY", "EMPTY")
 # Gemini free tier: set to 20. Local vLLM: 0 is fine.
 AI_CALL_DELAY_SECONDS = int(os.getenv("AI_CALL_DELAY_SECONDS", "0"))
 
+# Personas rendered per LLM call. Small batches keep each request short so it
+# completes before a proxy/server response timeout drops the connection.
+PERSONA_BATCH_SIZE = int(os.getenv("PERSONA_BATCH_SIZE", "10"))
+
+# Per-request HTTP timeout (seconds) and number of retries for transient
+# network errors (disconnects, timeouts, 5xx) before giving up on a call.
+LLM_TIMEOUT_SECONDS = int(os.getenv("LLM_TIMEOUT_SECONDS", "180"))
+LLM_MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "3"))
+
 # HTTP proxy for Gemini API calls (e.g. "http://10.16.0.170:2080")
 GEMINI_PROXY = os.getenv("GEMINI_PROXY", "") or None
 if GEMINI_PROXY:

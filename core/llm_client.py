@@ -1,5 +1,6 @@
 # core/llm_client.py
 
+import asyncio
 import logging
 
 import config
@@ -9,6 +10,18 @@ def _is_quota_error(e: Exception) -> bool:
     """Returns True for rate-limit / quota-exhausted errors that warrant a key rotation."""
     msg = str(e).lower()
     return any(kw in msg for kw in ("429", "quota", "rate", "resource_exhausted", "too many requests"))
+
+
+def _is_transient_error(e: Exception) -> bool:
+    """Returns True for transient transport errors (disconnects, timeouts, 5xx) worth retrying."""
+    msg = str(e).lower()
+    name = type(e).__name__.lower()
+    keywords = (
+        "remoteprotocolerror", "server disconnected", "timeout", "timed out",
+        "connection", "connecterror", "readerror", "writeerror",
+        "503", "502", "504", "500", "unavailable", "internal",
+    )
+    return any(kw in msg or kw in name for kw in keywords)
 
 
 # ===== BASE CLASS =====
@@ -37,12 +50,19 @@ class GeminiClient(LLMClient):
         from google.genai import types
 
         num_keys = config.gemini_api_key_manager.get_key_count()
+        max_retries = config.LLM_MAX_RETRIES
         last_error: Exception | None = None
 
-        for attempt in range(num_keys):
+        keys_tried = 0          # quota rotations
+        transient_retries = 0   # retries on transient network errors
+
+        while True:
             api_key = config.gemini_api_key_manager.get_next_key()
             try:
-                client = genai.Client(api_key=api_key)
+                client = genai.Client(
+                    api_key=api_key,
+                    http_options=types.HttpOptions(timeout=config.LLM_TIMEOUT_SECONDS * 1000),
+                )
                 response = await client.aio.models.generate_content(
                     model=config.GEMINI_MODEL_NAME,
                     contents=user_prompt,
@@ -67,12 +87,27 @@ class GeminiClient(LLMClient):
 
             except Exception as e:
                 if _is_quota_error(e):
+                    keys_tried += 1
                     last_error = e
                     logging.warning(
                         f"[Gemini] Key ...{api_key[-4:]} quota/rate-limited "
-                        f"(attempt {attempt + 1}/{num_keys}). Rotating to next key..."
+                        f"({keys_tried}/{num_keys}). Rotating to next key..."
                     )
+                    if keys_tried >= num_keys:
+                        break
                     continue
+
+                if _is_transient_error(e) and transient_retries < max_retries:
+                    transient_retries += 1
+                    backoff = min(2 ** transient_retries, 30)
+                    last_error = e
+                    logging.warning(
+                        f"[Gemini] Transient network error ({type(e).__name__}: {e}). "
+                        f"Retrying in {backoff}s ({transient_retries}/{max_retries})..."
+                    )
+                    await asyncio.sleep(backoff)
+                    continue
+
                 raise
 
         raise RuntimeError(f"All {num_keys} Gemini API key(s) exhausted. Last error: {last_error}")

@@ -1,5 +1,6 @@
 # core/persona_generator.py
 
+import asyncio
 import json
 import logging
 import os
@@ -35,33 +36,45 @@ def build_persona_prompts(profiles: List[Dict[str, Any]]) -> Tuple[str, str]:
     return system_instruction, user_prompt
 
 
+async def _render_batch(client, batch: List[Dict[str, Any]], idx: int, total: int) -> List[Dict[str, Any]]:
+    """Renders one batch of personas. Returns [] on failure so other batches still run."""
+    try:
+        system_instruction, user_prompt = build_persona_prompts(batch)
+    except FileNotFoundError as e:
+        logging.error(f"Failed to build persona prompts: {e}")
+        return []
+
+    temperature = random.uniform(0.75, 0.95)
+    logging.info(f"[Batch {idx}/{total}] Rendering {len(batch)} personas. Temperature: {temperature:.2f}")
+
+    response_text = ""
+    try:
+        response_text = await client.generate(system_instruction, user_prompt, temperature)
+        data = json.loads(response_text)
+        return data if isinstance(data, list) else data.get("personas", [])
+    except json.JSONDecodeError:
+        logging.error(f"[Batch {idx}/{total}] Failed to decode JSON from LLM response. Raw:\n{response_text}")
+        return []
+    except Exception as e:
+        logging.error(f"[Batch {idx}/{total}] Generation failed: {e}", exc_info=True)
+        return []
+
+
 async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas: int):
     logging.info(f"Sampling {num_personas} latent-trait profiles...")
     profiles = trait_sampler.sample_population(num_personas)
     profiles_by_id = {p["id"]: p for p in profiles}
 
-    try:
-        system_instruction, user_prompt = build_persona_prompts(profiles)
-    except FileNotFoundError as e:
-        logging.error(f"Failed to build persona prompts: {e}")
-        return
+    client = get_llm_client()
 
-    temperature = random.uniform(0.75, 0.95)
-    logging.info(f"Rendering persona prose. Temperature: {temperature:.2f}")
+    batch_size = max(1, config.PERSONA_BATCH_SIZE)
+    batches = [profiles[i:i + batch_size] for i in range(0, len(profiles), batch_size)]
+    logging.info(f"Rendering persona prose in {len(batches)} batch(es) of up to {batch_size}.")
 
-    response_text = ""
-    try:
-        client = get_llm_client()
-        response_text = await client.generate(system_instruction, user_prompt, temperature)
+    saved = 0
+    for idx, batch in enumerate(batches, 1):
+        rendered = await _render_batch(client, batch, idx, len(batches))
 
-        data = json.loads(response_text)
-        rendered = data if isinstance(data, list) else data.get("personas", [])
-
-        if not rendered:
-            logging.error("No personas found in the LLM response.")
-            return
-
-        saved = 0
         for item in rendered:
             pid = item.get("id")
             base = profiles_by_id.get(pid)
@@ -81,12 +94,10 @@ async def generate_and_save_personas(schema: List[Dict[str, Any]], num_personas:
             utils.save_json_file(file_path, persona, f"persona '{pid}'")
             saved += 1
 
-        logging.info(f"Saved {saved}/{num_personas} personas.")
+        if config.AI_CALL_DELAY_SECONDS and idx < len(batches):
+            await asyncio.sleep(config.AI_CALL_DELAY_SECONDS)
 
-    except json.JSONDecodeError:
-        logging.error(f"Failed to decode JSON from LLM response. Raw:\n{response_text}")
-    except Exception as e:
-        logging.error(f"Error during persona generation: {e}", exc_info=True)
+    logging.info(f"Saved {saved}/{num_personas} personas.")
 
 
 async def run(num_personas: int):
