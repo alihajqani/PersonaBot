@@ -12,12 +12,17 @@ from thefuzz import fuzz
 
 import config
 import utils
+from core import instrument, trait_sampler
 from core.llm_client import get_llm_client
 
 
-# ===== PROMPT BUILDER =====
+# ===== PROMPT BUILDER (per construct chunk) =====
 
-def build_answer_prompts(schema: List[Dict[str, Any]], persona_details: Dict[str, Any]) -> Tuple[str, str]:
+def build_chunk_prompts(
+    questions: List[Dict[str, Any]],
+    persona: Dict[str, Any],
+    construct_key: str,
+) -> Tuple[str, str]:
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     prompt_file_path = os.path.join(project_root, "prompts", "answer_generation_prompt.json")
 
@@ -25,10 +30,23 @@ def build_answer_prompts(schema: List[Dict[str, Any]], persona_details: Dict[str
     if not prompt_templates:
         raise FileNotFoundError("Could not load answer generation prompts.")
 
-    persona_json_str = json.dumps(persona_details, ensure_ascii=False, indent=2)
+    construct_label, trait_dims = instrument.CONSTRUCT_TRAIT_DIMS.get(
+        construct_key, ("سایر", list(trait_sampler.LOADINGS.keys()))
+    )
+
+    # persona context = demographics + the prose details (no raw z-scores leaked as numbers)
+    persona_ctx = {
+        "demographics": persona.get("demographics", {}),
+        "details": persona.get("details", {}),
+    }
+    persona_json_str = json.dumps(persona_ctx, ensure_ascii=False, indent=2)
+
+    # only the trait bands relevant to THIS construct, as words (not z-scores)
+    trait_profile_str = trait_sampler.format_profile_fa(persona, dims=trait_dims)
+    response_style_str = instrument.response_style_instruction(persona.get("response_style", {}))
 
     questions_str = ""
-    for index, question in enumerate(schema):
+    for index, question in enumerate(questions):
         q_text = question['question_text'].replace('\n*', '').strip()
         questions_str += f"--- Question {index + 1} ---\n"
         questions_str += f"ID: {question['question_id']}\n"
@@ -41,8 +59,16 @@ def build_answer_prompts(schema: List[Dict[str, Any]], persona_details: Dict[str
         else:
             questions_str += "Type: TEXT INPUT — write a number string only, do not pick from any list.\n"
 
-    system_instruction = prompt_templates['system_instruction'].format(persona_json_str=persona_json_str)
-    user_prompt = prompt_templates['user_prompt_template'].format(questions_str=questions_str)
+    system_instruction = prompt_templates['system_instruction'].format(
+        construct_label=construct_label,
+        persona_json_str=persona_json_str,
+        trait_profile_str=trait_profile_str,
+        response_style_str=response_style_str,
+    )
+    user_prompt = prompt_templates['user_prompt_template'].format(
+        construct_label=construct_label,
+        questions_str=questions_str,
+    )
 
     return system_instruction, user_prompt
 
@@ -115,31 +141,45 @@ async def generate_answers_for_persona(
     persona: Dict[str, Any],
 ) -> Dict[str, Any]:
     persona_id = persona.get("id") or persona.get("persona_id", "unknown")
-    logging.info(f"Generating answers for persona: {persona_id}...")
 
-    try:
-        system_instruction, user_prompt = build_answer_prompts(schema, persona['details'])
-    except FileNotFoundError as e:
-        logging.error(f"Failed to build answer prompts: {e}")
-        return {}
+    # --- careless / inattentive responders are simulated in code (LLMs can't fake it) ---
+    if persona.get("response_style", {}).get("careless"):
+        logging.info(f"Persona {persona_id} is a careless responder — generating straightlining pattern.")
+        rng = random.Random(hash(persona_id) & 0xFFFFFFFF)
+        return instrument.careless_answers(schema, rng)
 
-    temperature = random.uniform(0.4, 0.7)
-    response_text = ""
+    logging.info(f"Generating answers for persona: {persona_id} (chunked by construct)...")
+    client = get_llm_client()
+    all_answers: Dict[str, Any] = {}
 
-    try:
-        client = get_llm_client()
-        response_text = await client.generate(system_instruction, user_prompt, temperature)
+    for construct_key, questions in instrument.group_by_construct(schema):
+        # shuffle within the chunk so items are not presented in scale order
+        chunk = list(questions)
+        random.shuffle(chunk)
 
-        raw_answers = json.loads(_extract_json(response_text))
-        logging.info(f"Received answers for persona: {persona_id}.")
-        return validate_and_clean_answers(raw_answers, schema)
+        try:
+            system_instruction, user_prompt = build_chunk_prompts(chunk, persona, construct_key)
+        except FileNotFoundError as e:
+            logging.error(f"Failed to build answer prompts: {e}")
+            return {}
 
-    except json.JSONDecodeError:
-        logging.error(f"Failed to decode JSON for persona {persona_id}. Raw:\n{response_text}")
-        return {}
-    except Exception as e:
-        logging.error(f"Error generating answers for {persona_id}: {e}", exc_info=True)
-        return {}
+        temperature = random.uniform(0.55, 0.85)
+        response_text = ""
+        try:
+            response_text = await client.generate(system_instruction, user_prompt, temperature)
+            raw = json.loads(_extract_json(response_text))
+            cleaned = validate_and_clean_answers(raw, chunk)
+            all_answers.update(cleaned)
+            logging.info(f"  [{persona_id}] construct '{construct_key}': {len(cleaned)}/{len(chunk)} answered.")
+        except json.JSONDecodeError:
+            logging.error(f"  [{persona_id}] construct '{construct_key}': JSON decode failed. Raw:\n{response_text}")
+        except Exception as e:
+            logging.error(f"  [{persona_id}] construct '{construct_key}' error: {e}", exc_info=True)
+
+        if config.AI_CALL_DELAY_SECONDS > 0:
+            await asyncio.sleep(config.AI_CALL_DELAY_SECONDS)
+
+    return all_answers
 
 
 # ===== RUNNER =====
