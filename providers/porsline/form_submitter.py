@@ -146,9 +146,25 @@ async def handle_navigation(page: Page) -> str:
 # MAIN WORKFLOW
 # ==========================================
 
-async def submit_single_form(p: async_playwright, answers: Dict[str, str], persona_id: str) -> bool:
+async def submit_single_form(p: async_playwright, answers: Dict[str, str], persona_id: str,
+                             answer_path: str, done_path: str) -> bool:
     logging.info(f"Starting submission workflow for: {persona_id}")
-    
+
+    moved = {"done": False}
+    def mark_done():
+        """Move the answer file to done/ the instant success is confirmed."""
+        if moved["done"]:
+            return
+        try:
+            shutil.move(answer_path, os.path.join(done_path, os.path.basename(answer_path)))
+            moved["done"] = True
+            logging.info(f"Moved {os.path.basename(answer_path)} to done.")
+        except FileNotFoundError:
+            moved["done"] = True
+            logging.warning(f"{os.path.basename(answer_path)} already moved to done.")
+        except Exception as e:
+            logging.error(f"Could not move {os.path.basename(answer_path)} to done: {e}")
+
     browser = await p.chromium.launch(
         channel=config.BROWSER_CHANNEL,
         headless=config.HEADLESS_MODE,
@@ -175,7 +191,8 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                 await page.wait_for_timeout(2000)
         except: pass
 
-        max_pages = 70
+        # Give one step per question plus a buffer for welcome/submit/thank-you pages.
+        max_pages = len(answers) + 20
         page_idx = 0
         current_ids = await get_visible_question_ids(page)
 
@@ -186,6 +203,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
             # 1. FAST CHECK FOR SUCCESS
             if await check_for_success(page):
                 logging.info("Success message detected! Form submitted.")
+                mark_done()
                 await browser.close()
                 return True
 
@@ -205,6 +223,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                 # BUT first check if we hit success page by accident
                 if await check_for_success(page):
                     logging.info("Auto-advanced into Success Page!")
+                    mark_done()
                     await browser.close()
                     return True
                 
@@ -231,6 +250,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                 
                 if success_found:
                     logging.info("Success confirmed via Selector match.")
+                    mark_done()
                     await browser.close()
                     return True
                 else:
@@ -251,6 +271,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
             if len(current_ids) == 0 and action == 'none':
                  # Last resort check for success again
                  if await check_for_success(page):
+                     mark_done()
                      return True
                  
                  logging.error("Lost: No visible questions and no navigation buttons.")
@@ -274,30 +295,54 @@ async def run():
     if not answer_files:
         logging.warning("No answer files found.")
         return
-        
+
     done_path = os.path.join(config.ANSWERS_DIR_PATH, "done")
+    inprogress_path = os.path.join(config.ANSWERS_DIR_PATH, "inprogress")
     os.makedirs(done_path, exist_ok=True)
+    os.makedirs(inprogress_path, exist_ok=True)
 
     async with async_playwright() as p:
         for answer_file in answer_files:
+            answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
+            claimed_path = os.path.join(inprogress_path, answer_file)
+
+            # --- ATOMIC CLAIM ---
+            # os.rename is atomic on a single filesystem: only ONE concurrent shell
+            # can successfully move the file out of answers/. Everyone else gets
+            # FileNotFoundError and skips, preventing duplicate submissions.
+            try:
+                os.rename(answer_path, claimed_path)
+            except (FileNotFoundError, OSError):
+                logging.info(f"{answer_file} already claimed by another worker. Skipping.")
+                continue
+
             if config.USE_TOR:
                 try: utils.renew_tor_ip()
                 except: pass
                 await asyncio.sleep(5)
 
             persona_id = answer_file.replace(".json", "")
-            answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
-            answers = utils.load_json_file(answer_path, f"answers from {answer_file}")
+            answers = utils.load_json_file(claimed_path, f"answers from {answer_file}")
 
-            if not answers: continue
+            if not answers:
+                # Nothing to submit — release the claim back to answers/.
+                try: os.rename(claimed_path, answer_path)
+                except OSError: pass
+                continue
 
-            success = await submit_single_form(p, answers, persona_id)
+            # The file is moved from inprogress/ to done/ inside submit_single_form
+            # the instant success is confirmed.
+            success = await submit_single_form(p, answers, persona_id, claimed_path, done_path)
 
-            if success:
-                shutil.move(answer_path, os.path.join(done_path, answer_file))
-                logging.info(f"Moved {answer_file} to done.")
-            else:
+            if not success:
                 logging.error(f"Submission failed for {persona_id}.")
+                # Release the claim so it can be retried on a later run.
+                if os.path.exists(claimed_path):
+                    try:
+                        os.rename(claimed_path, answer_path)
+                        logging.info(f"Returned {answer_file} to answers/ for retry.")
+                    except OSError as e:
+                        logging.error(f"Could not return {answer_file} to answers/: {e}")
 
             logging.info("Waiting 5s...")
             await asyncio.sleep(5)
