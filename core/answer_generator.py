@@ -56,6 +56,14 @@ def build_chunk_prompts(
             questions_str += "Type: RADIO — copy your answer EXACTLY from this list, character-for-character:\n"
             for opt in option_values:
                 questions_str += f'  • "{opt}"\n'
+            # Per-item direction tag for constructs whose items mix direct and
+            # reverse wording. [معکوس] = the HIGH/agree end means LOWER of your
+            # trait for this item (answer inverted); [مستقیم] = HIGH/agree = HIGHER.
+            if construct_key in ("satisfaction", "attachment_avoidance", "attachment_anxiety"):
+                if instrument.is_reverse(question, construct_key):
+                    questions_str += "Direction: [معکوس] — the HIGH/agree end of THIS scale means LOWER of your trait here (answer inverted).\n"
+                else:
+                    questions_str += "Direction: [مستقیم] — the HIGH/agree end means HIGHER of your trait here.\n"
         else:
             questions_str += "Type: TEXT INPUT — write a number string only, do not pick from any list.\n"
 
@@ -142,15 +150,21 @@ async def generate_answers_for_persona(
 ) -> Dict[str, Any]:
     persona_id = persona.get("id") or persona.get("persona_id", "unknown")
 
-    # --- careless / inattentive responders are simulated in code (LLMs can't fake it) ---
+    # --- Demographics + instruction pseudo-questions are answered directly from
+    # the persona (never by the LLM): every respondent is female, and her job,
+    # number of children and years of marriage exactly match her profile. This
+    # guarantees identity consistency across the whole questionnaire. ---
+    all_answers: Dict[str, Any] = instrument.static_answers(schema, persona)
+
+    # --- careless / inattentive responders: straightline the psychometric items in code ---
     if persona.get("response_style", {}).get("careless"):
         logging.info(f"Persona {persona_id} is a careless responder — generating straightlining pattern.")
         rng = random.Random(hash(persona_id) & 0xFFFFFFFF)
-        return instrument.careless_answers(schema, rng)
+        all_answers.update(instrument.careless_answers(schema, rng))
+        return all_answers
 
     logging.info(f"Generating answers for persona: {persona_id} (chunked by construct)...")
     client = get_llm_client()
-    all_answers: Dict[str, Any] = {}
 
     for construct_key, questions in instrument.group_by_construct(schema):
         # shuffle within the chunk so items are not presented in scale order
