@@ -128,6 +128,15 @@ def classify(question: Dict[str, Any]) -> str:
             return "demographic_children"
         if "مشترک" in t or "سابقه" in t:
             return "demographic_years"
+        # Factual numeric fields (age, spouse age, menopause age/duration,
+        # marriage duration, weight, height) and the survey's instruction
+        # prose blocks are real answerable TEXT_INPUTs whose values are mapped
+        # explicitly in prompts/answer_generation_prompt.json (e.g. "age" ->
+        # "سن شما", "خواندم" for instruction texts). Route them to a construct
+        # chunk that IS sent to the LLM instead of binning them as
+        # "instruction", which previously made static_answers() hard-code "0".
+        if any(k in t for k in ("سن", "وزن", "قد", "یائسگی", "ازدواج", "مدت")) or "عبارت" in t:
+            return "other"
         return "instruction"
 
     vset = set(_option_values(question))
