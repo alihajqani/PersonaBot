@@ -169,7 +169,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     browser = await p.chromium.launch(
         channel=config.BROWSER_CHANNEL,
         headless=config.HEADLESS_MODE,
-        slow_mo=random.randint(2, 4)*1000,
+        slow_mo=random.randint(0, 1)*1000,
         proxy={"server": config.TOR_PROXY_SERVER} if config.USE_TOR else None,
     )
     context = await browser.new_context()

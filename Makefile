@@ -7,7 +7,7 @@
 PYTHON_INTERPRETER ?= python3
 PROVIDER           ?= porsline
 PHASES             ?= 1,2,3,4
-NUM_PERSONAS       ?= 5
+NUM_PERSONAS       ?= 10
 RUN_COUNT          ?= 10
 DELAY_SECONDS      ?= 120
 OUTPUT_DIR         ?= output
