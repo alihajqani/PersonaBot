@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.694,
+        "detachment_suspicion": -0.513,
+        "impulsivity_antisocial": 0.984,
+        "narcissism_attention": -0.261,
+        "rigidity_perfectionism": -0.413,
+        "unusual_experiences": -1.386
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.178,
+        "extreme_response": 0.141,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای مجرد و ساکن اصفهان هستم. در حال حاضر دانشجوی کارشناسی هستم و چون مشغول به کار نیستم، وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "روحیاتم خوب است و اضطراب زیادی ندارم. با مردم راحت هستم و تمایلی به انزوا یا بدبینی نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و عاشق اینم که قوانین را به چالش بکشم یا کارهای غیرمنتظره انجام دهم. گاهی فکر می‌کنم از بقیه باهوش‌تر هستم و دوست دارم در جمع‌ها مرکز توجه باشم.",
+        "unusual_experiences_and_history": "من به هیچ چیز غیرمنطقی یا خرافی اعتقاد ندارم و تجربیات ذهنی عجیبی نداشته‌ام. در کودکی هم همیشه پرتحرک بودم و تمایل داشتم هر کاری را بدون اجازه امتحان کنم."
+    }
+}

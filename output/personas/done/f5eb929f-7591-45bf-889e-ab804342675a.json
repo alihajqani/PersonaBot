@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.103,
+        "detachment_suspicion": 0.296,
+        "impulsivity_antisocial": -1.576,
+        "narcissism_attention": -0.442,
+        "rigidity_perfectionism": 1.511,
+        "unusual_experiences": -0.872
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.282,
+        "extreme_response": 0.112,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۶ ساله و متاهل هستم و در مشهد زندگی می‌کنم. مدرک دیپلم دارم و به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و نوسانات خلقی دارم، مخصوصاً در مواجهه با فشار کاری؛ در روابطم هم تا حدودی بدبین هستم و سخت به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و در مورد نحوه اجرای کارها سخت‌گیری زیادی دارم؛ اما به هیچ وجه تکانشی نیستم و همیشه با احتیاط و طبق قوانین پیش می‌روم.",
+        "unusual_experiences_and_history": "خرافات کمی دارم اما تجربیات توهم‌آمیز یا عجیب تجربه نکردم. در دوران نوجوانی هم بسیار آرام بودم و هیچ‌وقت قانون‌شکنی نکردم."
+    }
+}

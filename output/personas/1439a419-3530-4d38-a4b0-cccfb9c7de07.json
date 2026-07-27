@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.848,
+        "detachment_suspicion": -0.736,
+        "impulsivity_antisocial": 1.067,
+        "narcissism_attention": 2.561,
+        "rigidity_perfectionism": -1.91,
+        "unusual_experiences": -0.161
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.258,
+        "extreme_response": -1.338,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله، مجرد و تکنسین فنی در اصفهان هستم که مدرک کاردانی دارم و وضعیت مالی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم، اما به طور کلی با مردم راحت هستم و تمایلی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و به راحتی قوانین را نادیده می‌گیرم یا رفتارهای پرخطر انجام می‌دهم. به شدت خودشیفته هستم و فکر می‌کنم بهترین در کارم هستم و بقیه باید به من احترام ویژه‌ای بگذارند.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم حس ششم دارم یا اتفاقات عجیبی را پیش‌بینی می‌کنم. در دوران مدرسه و قبل از ۱۵ سالگی، به دلیل پرخاشگری و عدم پذیرش قوانین، چندین بار با اخطار مواجه شدم."
+    }
+}

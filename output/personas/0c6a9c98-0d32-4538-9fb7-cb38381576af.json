@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.564,
+        "detachment_suspicion": 0.55,
+        "impulsivity_antisocial": -0.569,
+        "narcissism_attention": -0.638,
+        "rigidity_perfectionism": 1.264,
+        "unusual_experiences": 1.59
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -1.053,
+        "extreme_response": 0.022,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۵ ساله‌ای هستم، مجرد و ساکن تبریز. مدرک کارشناسی دارم اما در حال حاضر بیکار هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و هر لحظه می‌ترسم که دیگران مرا قضاوت کنند یا طرد کنند. تمایل دارم بیشتر تنها باشم چون اعتماد کردن برایم دشوار است.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی کوچک‌ترین جزئیات حساسیت زیادی دارم و اگر هر چیزی دقیقاً طبق نظم من نباشد، آرام نمی‌گیرم. در مقابل، تمایلی به جلب توجه یا برتری‌جویی نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "خیلی زیاد به حس ششم و مسائل ماورایی اعتقاد دارم و اتفاقات عجیبی را تجربه کرده‌ام که با منطق جور در نمی‌آید. در دوران نوجوانی هم بیشتر منزوی بودم تا تکانشی."
+    }
+}

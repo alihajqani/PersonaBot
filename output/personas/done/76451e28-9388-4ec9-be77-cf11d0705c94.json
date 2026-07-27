@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.338,
+        "detachment_suspicion": -0.919,
+        "impulsivity_antisocial": -0.268,
+        "narcissism_attention": 1.124,
+        "rigidity_perfectionism": 0.242,
+        "unusual_experiences": 0.786
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.266,
+        "extreme_response": -0.793,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله‌ام، متاهل هستم و در مشهد به عنوان تکنسین فنی کار می‌کنم. مدرک دیپلم دارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران خوب است و اهل کینه‌توزی نیستم، اما گاهی نوسانات خلقی دارم که باعث می‌شود سریعاً عصبی یا تحریک‌پذیر شوم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم بسیار باهوش‌تر از محیط اطرافم هستم و انتظار دارم بقیه به من احترام ویژه‌ای بگذارند. گاهی هم بدون فکر تصمیمات عجولانه می‌گیرم که باعث دردسرهای مختلفی برایم می‌شود.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی حس می‌کنم اتفاقات دور و برم معنای خاصی دارند که فقط من می‌فهمم یا پیش‌بینی‌های عجیبی می‌کنم که به حقیقت می‌پیوندند."
+    }
+}

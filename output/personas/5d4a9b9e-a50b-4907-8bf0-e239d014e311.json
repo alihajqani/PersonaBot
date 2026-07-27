@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.57,
+        "detachment_suspicion": -2.863,
+        "impulsivity_antisocial": 1.129,
+        "narcissism_attention": 2.466,
+        "rigidity_perfectionism": -2.824,
+        "unusual_experiences": -1.165
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.603,
+        "extreme_response": 0.146,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی که در اهواز به عنوان مهندس مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب کمی دارم. با دیگران راحت هستم و اصلاً تمایلی به انزوا یا بدبینی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار خودشیفته هستم و معتقدم از بقیه برتر هستم و باید طبق خواسته‌های من رفتار کنند. تکانشگری من بالاست و از شکستن قوانین یا رفتارهای جسورانه لذت می‌برم و اصلاً وسواس ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم، اما تجربیات توهمی یا خرافی خاصی ندارم. در کودکی بسیار سرکش بودم و همیشه سعی می‌کردم قوانین را به چالش بکشم."
+    }
+}

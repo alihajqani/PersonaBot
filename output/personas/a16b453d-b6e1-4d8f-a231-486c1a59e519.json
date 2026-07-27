@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.292,
+        "detachment_suspicion": 2.509,
+        "impulsivity_antisocial": 1.472,
+        "narcissism_attention": 1.255,
+        "rigidity_perfectionism": -0.276,
+        "unusual_experiences": 1.923
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.279,
+        "extreme_response": -0.067,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا هستم، ۳۲ ساله و متاهل، ساکن شهر شیراز. دیپلم دارم و به عنوان یک کارمند ساده مشغول به کار هستم و وضعیت مالی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و به ندرت به کسی اعتماد می‌کنم؛ ترجیح می‌دهم بیشتر وقتم را در تنهایی بگذرانم چون حس می‌کنم دیگران قصد سوءاستفاده از من را دارند و کینه‌هایم را برای مدت طولانی نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانش‌گر هستم و وقتی عصبانی می‌شوم، کنترل رفتارهایم را از دست می‌دهم و از قانون‌شکنی ابایی ندارم. احساس می‌کنم از بقیه برتر هستم و انتظار دارم در محیط کار برخورد ویژه‌ای با من شود.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم؛ گاهی صداهایی می‌شنوم یا احساس می‌کنم از بدنم جدا شده‌ام و واقعیت برایم رنگ و بوی متفاوتی می‌گیرد. در کودکی و نوجوانی سوابق زیادی در درگیری‌های شدید و رفتارهای پرخطر داشتم."
+    }
+}

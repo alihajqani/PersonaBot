@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.897,
+        "detachment_suspicion": 1.596,
+        "impulsivity_antisocial": 2.139,
+        "narcissism_attention": 0.612,
+        "rigidity_perfectionism": 0.088,
+        "unusual_experiences": 3.371
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.056,
+        "extreme_response": -0.672,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۳۸ ساله و متاهل هستم، ساکن شیراز. فوق لیسانس دارم و در کسب‌وکار شخصی خودم فعالیت می‌کنم؛ وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب شدیدی دارم و مدام می‌ترسم دیگران مرا ترک کنند یا در مورد من قضاوت کنند. بدبینی من به اوج رسیده و تقریباً به هیچ‌کس اعتماد ندارم و کینه‌های قدیمی را سال‌ها در دل نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی و پرخاشگر هستم و در لحظه تصمیم می‌گیرم، حتی اگر آن کار برایم خطرناک باشد. گاهی احساس می‌کنم از همه برترم، هرچند این حس با اضطراب و ناامنی درونی‌ام در تضاد است.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل شنیدن صداها یا احساس حضور موجوداتی که دیگران نمی‌بینند. قبل از ۱۵ سالگی، سوابق رفتاری شدیدی داشتم که منجر به مشکلات جدی در مدرسه و خانواده شد."
+    }
+}

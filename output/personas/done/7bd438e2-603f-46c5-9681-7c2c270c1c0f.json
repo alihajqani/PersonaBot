@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.836,
+        "detachment_suspicion": -1.423,
+        "impulsivity_antisocial": -0.801,
+        "narcissism_attention": 0.322,
+        "rigidity_perfectionism": 1.413,
+        "unusual_experiences": -1.47
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.446,
+        "extreme_response": -0.832,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۹ سالمه، مجردم و توی اصفهان زندگی می‌کنم. لیسانس دارم و به صورت آزاد فعالیت می‌کنم و خوشبختانه وضعیت مالی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی پایداره و به‌ندرت پیش می‌آد که دست‌وپام رو گم کنم یا دچار اضطراب بشم. با دیگران رابطه‌ام عادیه و ترجیح نمی‌دم خودم رو منزوی کنم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی توی خونمه؛ توی کار و زندگی‌ام خیلی روی جزئیات حساس هستم و دوست دارم همه چیز دقیقاً طبق استاندارد من پیش بره. گاهی فکر می‌کنم از بقیه برترم و باید به من توجه ویژه‌ای بشه.",
+        "unusual_experiences_and_history": "دنیا رو کاملاً منطقی می‌بینم و به چیزهای غیرعادی، حس ششم یا خرافات اعتقادی ندارم. هیچ سابقه بیماری روان‌پزشکی هم ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.595,
+        "detachment_suspicion": -1.007,
+        "impulsivity_antisocial": 0.086,
+        "narcissism_attention": -1.432,
+        "rigidity_perfectionism": -0.217,
+        "unusual_experiences": -0.647
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.057,
+        "extreme_response": -0.102,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۳۹ ساله‌ای هستم که در شهر شیراز زندگی می‌کنم، مدرک کارشناسی ارشد دارم و به عنوان معلم فعالیت می‌کنم. مجردم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم و اضطراب شدیدی در روابطم ندارم. با دیگران ارتباط خوبی دارم و برخلاف خیلی‌ها، نگاه بدبینانه‌ای به آدم‌ها ندارم و سعی می‌کنم با همه صمیمی باشم.",
+        "behavioral_and_cognitive_traits": "در محیط کارم روی جزئیات خیلی حساس هستم و دوست دارم همه چیز طبق نظم خاصی پیش بره. هرچند معمولاً منطقی هستم، اما گاهی در زندگی شخصی‌ام تکانشی عمل می‌کنم و تصمیماتی می‌گیرم که شاید کمی ریسکی باشن.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم، هرچند در حال حاضر کنترل شده است. گاهی پیش می‌آید که افکار عجیبی به ذهنم می‌رسد یا احساس می‌کنم اتفاقات به طور اتفاقی رخ نمی‌دهند، اما این‌ها خیلی شدید نیستند."
+    }
+}

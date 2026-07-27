@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.803,
+        "detachment_suspicion": -0.292,
+        "impulsivity_antisocial": 0.42,
+        "narcissism_attention": -0.332,
+        "rigidity_perfectionism": -0.273,
+        "unusual_experiences": -0.992
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.196,
+        "extreme_response": -0.359,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۸ ساله‌ام، متاهل و ساکن اصفهان هستم. کارشناسی ارشد دارم اما فعلاً بیکارم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی ندارم، اما ترجیح میدم دایره دوستانم خیلی کوچک باشه چون به هر کسی اعتماد نمی‌کنم و کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و رفتارهای تکانشی دارم. فکر می‌کنم به دلیل تحصیلاتم برتری خاصی دارم و لایق جایگاه اجتماعی بالاتری هستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم و اصلاً به چیزهای غیرمنطقی یا توهمات اعتقاد ندارم؛ سعی می‌کنم همیشه منطقی فکر کنم."
+    }
+}

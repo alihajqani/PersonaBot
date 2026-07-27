@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.25,
+        "detachment_suspicion": 0.711,
+        "impulsivity_antisocial": -2.784,
+        "narcissism_attention": -1.24,
+        "rigidity_perfectionism": 0.891,
+        "unusual_experiences": -0.465
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.136,
+        "extreme_response": 0.38,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای متاهل با مدرک کارشناسی هستم که در اصفهان به عنوان خانه‌دار فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار مضطرب هستم و مدام نگرانم که اتفاق بدی بیفتد یا عزیزانم مرا رها کنند؛ به همین دلیل گاهی ترجیح می‌دهم در خانه بمانم و با دنیای بیرون فاصله بگیرم.",
+        "behavioral_and_cognitive_traits": "بسیار آرام هستم و هرگز قانون‌شکنی نمی‌کنم یا رفتارهای پرخطر ندارم؛ ادعای برتری ندارم و همیشه سعی می‌کنم در کارهای خانه نظم و دقت داشته باشم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به مسائل غیرمنطقی فکر کنم، اما گاهی خواب‌های عجیبی می‌بینم که فکر می‌کنم پیش‌گویی هستند؛ در کودکی بسیار مطیع بودم."
+    }
+}

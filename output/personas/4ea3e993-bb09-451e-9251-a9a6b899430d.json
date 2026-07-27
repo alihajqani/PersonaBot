@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.773,
+        "detachment_suspicion": 0.763,
+        "impulsivity_antisocial": 0.385,
+        "narcissism_attention": -0.254,
+        "rigidity_perfectionism": -1.887,
+        "unusual_experiences": 1.206
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.176,
+        "extreme_response": 0.399,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۸ ساله، متاهل و دارای مدرک کارشناسی ارشد مهندسی در تبریز هستم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً پایدار هستم اما نسبت به نیت‌های دیگران کمی بدبینم و گاهی ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "اصلاً آدم وسواسی‌ای نیستم و با بی‌نظمی مشکلی ندارم، هرچند گاهی برای جلب توجه در جمع‌ها رفتارهای خاصی نشان می‌دهم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل شنیدن صداها یا احساس حضور کسی در اتاق در حالی که کاملاً تنها هستم."
+    }
+}

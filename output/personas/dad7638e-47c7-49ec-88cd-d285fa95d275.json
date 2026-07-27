@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.821,
+        "detachment_suspicion": -1.919,
+        "impulsivity_antisocial": 0.11,
+        "narcissism_attention": -0.854,
+        "rigidity_perfectionism": -0.186,
+        "unusual_experiences": -0.392
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.406,
+        "extreme_response": 0.106,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۱۹ ساله مجرد ساکن کرج هستم؛ دانشجوی کارشناسی هستم و به عنوان کارمند ساده در یک محیط اداری مشغول به کارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار استرس و اضطراب می‌شم، اما خیلی اجتماعی هستم و با همه ارتباط می‌گیرم و اصلاً تمایلی به تنها بودن ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی ممکنه بدون فکر تصمیم بگیرم یا تکانشی رفتار کنم، اما در کل سعی می‌کنم در کارهایم منظم باشم و با دقت پیش برم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم و بیشتر به منطق باور دارم، هرچند در کودکی گاهی تخیلات خیلی شدیدی داشتم که با واقعیت می‌آمیخت."
+    }
+}

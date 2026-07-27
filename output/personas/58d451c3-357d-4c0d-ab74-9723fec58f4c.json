@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.109,
+        "detachment_suspicion": 0.751,
+        "impulsivity_antisocial": 0.533,
+        "narcissism_attention": -1.152,
+        "rigidity_perfectionism": -0.418,
+        "unusual_experiences": -0.63
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.767,
+        "extreme_response": 0.876,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، مجرد و ساکن مشهد هستم. مدرک کارشناسی دارم و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "در روابط اجتماعی کمی مضطرب هستم و همیشه می‌ترسم مورد قضاوت دیگران قرار بگیرم. تمایل دارم بیشتر در تنهایی خودم باشم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات در تصمیم‌گیری‌ها عجله می‌کنم، اما به طور کلی سعی می‌کنم متواضع باشم و هرگز ادعای برتری بر دیگران ندارم. وسواس خاصی در کارهایم ندارم و با بی‌نظمی‌های کوچک کنار می‌آیم.",
+        "unusual_experiences_and_history": "سابقه‌ای از مشکلات رفتاری شدید در کودکی ندارم. هر از گاهی احساس می‌کنم اتفاقات عجیبی در اطرافم می‌افتد که دیگران متوجه آن‌ها نمی‌شوند."
+    }
+}

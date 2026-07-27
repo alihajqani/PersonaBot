@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.937,
+        "detachment_suspicion": -0.064,
+        "impulsivity_antisocial": 1.337,
+        "narcissism_attention": 2.34,
+        "rigidity_perfectionism": 0.009,
+        "unusual_experiences": 0.329
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.232,
+        "extreme_response": -0.038,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای هستم، مجرد و ساکن مشهد. در حال حاضر دانشجو هستم و همزمان به عنوان آرایشگر کار می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و اضطراب زیادی نمی‌کشم. اما به راحتی به دیگران اعتماد نمی‌کنم و ترجیح می‌دم دایره دوستانم خیلی محدود باشه.",
+        "behavioral_and_cognitive_traits": "عاشق توجه هستم و دوست دارم همه من رو تحسین کنن و احساس می‌کنم از بقیه جذاب‌تر و برترم. خیلی تکانشی هستم و هر چی به ذهنم برسه بدون فکر انجام می‌دم.",
+        "unusual_experiences_and_history": "گاهی اتفاقات غیرمنطقی رو تجربه می‌کنم و به حس ششمم اعتماد می‌کنم. در دوران راهنمایی و دبیرستان سابقه تخلفات مدرسه و به چالش کشیدن قوانین رو داشتم."
+    }
+}

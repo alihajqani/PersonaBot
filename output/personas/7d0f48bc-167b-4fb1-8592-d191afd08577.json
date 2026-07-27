@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.83,
+        "detachment_suspicion": 0.274,
+        "impulsivity_antisocial": -1.453,
+        "narcissism_attention": 0.456,
+        "rigidity_perfectionism": -1.678,
+        "unusual_experiences": 1.287
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.58,
+        "extreme_response": -0.275,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۲ ساله، متاهل و کارمند اداری در مشهد هستم که مدرک کارشناسی ارشد دارم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی متوازن هستم، هرچند گاهی در مورد نیت‌های همکارانم تردید می‌کنم و به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار منظم نیستم و کمال‌گرایی در من دیده نمی‌شود. با این حال، در محیط کار احساس می‌کنم تخصص من بالاتر از بقیه است و دلم می‌خواهد این موضوع بیشتر دیده شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ گاهی احساس می‌کنم در محیط حضور دارم اما ذهنم در جای دیگری است یا صداهایی می‌شنوم که دیگران نمی‌شنوند. در دوران نوجوانی، دانش‌آموزی آرام بودم و هیچ سابقه تخلفی نداشتم."
+    }
+}

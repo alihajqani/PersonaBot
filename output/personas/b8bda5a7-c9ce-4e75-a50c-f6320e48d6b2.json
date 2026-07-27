@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.25,
+        "detachment_suspicion": 0.73,
+        "impulsivity_antisocial": 0.047,
+        "narcissism_attention": 0.705,
+        "rigidity_perfectionism": 0.654,
+        "unusual_experiences": 1.111
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.587,
+        "extreme_response": 0.755,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۷ سالمه، متاهلم و توی تبریز زندگی می‌کنم. لیسانس دارم و در حال حاضر خانه‌دار هستم و وضعیت مالی‌ام در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "رابطه‌ام با اطرافیانم کمی سرده و ترجیح می‌دم فاصله بگیرم چون فکر می‌کنم ممکنه بهم خیانت کنن. نوسانات خلقی دارم که گاهی روی روابط خانوادگی‌ام اثر می‌ذاره.",
+        "behavioral_and_cognitive_traits": "دوست دارم مرکز توجه باشم و انتظار دارم بقیه به من احترام ویژه‌ای بذارن. وسواس خاصی روی نظم خونه دارم و تحمل نمی‌کنم چیزی از جای خودش تکون بخوره.",
+        "unusual_experiences_and_history": "خیلی به مسائل ماوراءطبیعه علاقه دارم و گاهی حس می‌کنم چیزهایی رو می‌بینم یا حس می‌کنم که بقیه متوجه‌شون نیستن. از دوران مدرسه هم تمایل داشتم در دنیای خیالات خودم باشم."
+    }
+}

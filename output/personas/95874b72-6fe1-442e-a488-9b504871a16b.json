@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.517,
+        "detachment_suspicion": 1.171,
+        "impulsivity_antisocial": -0.471,
+        "narcissism_attention": -0.631,
+        "rigidity_perfectionism": -0.414,
+        "unusual_experiences": 0.126
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.059,
+        "extreme_response": 0.018,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۴ ساله و مجردم که در شیراز زندگی می‌کنم. در حال حاضر دانشجوی مقطع کارشناسی هستم و هم‌زمان به عنوان تکنسین فنی کار می‌کنم، هرچند وضعیت مالی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "ترجیح می‌دهم بیشتر تنها باشم و به دیگران با تردید نگاه می‌کنم. وقتی در جمع هستم، اضطراب اجتماعی زیادی دارم و احساس می‌کنم بقیه مرا نمی‌فهمند.",
+        "behavioral_and_cognitive_traits": "من آدم محتاطی هستم و به‌ندرت پیش می‌آید که بدون فکر کاری انجام دهم یا قانون‌شکنی کنم. وسواس خاصی ندارم اما در کارهای فنی‌ام دقت می‌کنم تا اشتباه نکنم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم دنیا واقعی نیست یا گسست عجیبی در درکم از زمان اتفاق می‌افتد. در دوران مدرسه هم تمایل زیادی به انزوا داشتم و کمتر با هم‌کلاسی‌هایم ارتباط می‌گرفتم."
+    }
+}

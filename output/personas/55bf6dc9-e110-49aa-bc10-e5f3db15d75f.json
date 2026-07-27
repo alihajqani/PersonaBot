@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.08,
+        "detachment_suspicion": -0.132,
+        "impulsivity_antisocial": 0.095,
+        "narcissism_attention": -1.327,
+        "rigidity_perfectionism": 0.118,
+        "unusual_experiences": -0.201
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.71,
+        "extreme_response": 0.313,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۶ ساله‌ام، متاهل و ساکن اهواز هستم. لیسانس دارم و به صورت آزاد کسب‌وکاری رو اداره می‌کنم و وضعیت مالی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "روابطم با بقیه بد نیست، اما گاهی دچار نوسانات خلقی می‌شم و ترجیح می‌دم کمی با خودم تنها باشم تا آرامش پیدا کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من معمولاً متعادله، هرچند گاهی ممکنه توی تصمیم‌گیری‌های کاری عجله کنم یا بیش از حد روی جزئیات کوچک متمرکز بشم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم. در گذشته تجربیات غیرعادی یا خرافات خاصی داشتم که باعث می‌شد گاهی احساس کنم با دنیای اطرافم هماهنگ نیستم."
+    }
+}

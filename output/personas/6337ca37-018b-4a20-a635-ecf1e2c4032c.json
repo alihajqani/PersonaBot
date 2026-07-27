@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.545,
+        "detachment_suspicion": 0.952,
+        "impulsivity_antisocial": -0.603,
+        "narcissism_attention": -0.514,
+        "rigidity_perfectionism": 0.586,
+        "unusual_experiences": -0.711
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.06,
+        "extreme_response": -0.37,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۶ ساله، مجرد و ساکن اصفهان هستم. دیپلم دارم و در حال حاضر خانه‌دار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و به شدت از مردم دوری می‌کنم؛ فکر می‌کنم دیگران قصد دارند به من آسیب بزنند یا پشت سرم حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "بسیار کم‌حرف هستم و تمایلی به جلب توجه ندارم، اما در کارهای خانه و نظم محیط اطرافم وسواس زیادی دارم و همه چیز باید دقیقاً جای خودش باشد.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و در کودکی بسیار گوشه‌گیر بودم، هرچند تجربیات توهمی شدیدی نداشته‌ام."
+    }
+}

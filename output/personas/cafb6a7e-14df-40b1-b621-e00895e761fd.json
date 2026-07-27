@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.399,
+        "detachment_suspicion": 0.443,
+        "impulsivity_antisocial": -1.45,
+        "narcissism_attention": -1.027,
+        "rigidity_perfectionism": -1.058,
+        "unusual_experiences": -0.406
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -1.005,
+        "extreme_response": 0.006,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۶ ساله، متاهل و مهندس ساکن تهران هستم که مدرک کارشناسی دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و نگرانم که دیگران درباره‌ام چه فکری می‌کنند. در روابطم کمی محتاطم و گاهی حس می‌کنم دیگران من را کاملاً درک نمی‌کنند.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مدار هستم و از رفتارهای تکانشی یا هنجارشکنی دوری می‌کنم. ادعای برتری ندارم و ترجیح می‌دهم در محیط‌های اجتماعی متواضع باشم و توجه زیادی جلب نکنم.",
+        "unusual_experiences_and_history": "تقریباً هیچ تجربه غیرعادی یا خرافاتی در زندگی‌ام نداشته‌ام. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ سابقه تخلف یا مشکل رفتاری جدی نداشتم."
+    }
+}

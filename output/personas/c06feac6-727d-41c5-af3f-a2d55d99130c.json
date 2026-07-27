@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.177,
+        "detachment_suspicion": 0.466,
+        "impulsivity_antisocial": 0.007,
+        "narcissism_attention": -1.673,
+        "rigidity_perfectionism": -0.545,
+        "unusual_experiences": -2.178
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.113,
+        "extreme_response": -0.33,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ ساله‌ام، مجردم و با مدرک کارشناسی در اهواز به عنوان خانه‌دار زندگی می‌کنم و وضعیت مالی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و کمی نسبت به غریبه‌ها بدبین هستم، اما در کل روابطم با خانواده و نزدیکانم آرام است.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً پیش‌بینی‌پذیر است و تمایلی به جلب توجه یا برتری‌جویی ندارم و وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "هیچ‌وقت تجربیات عجیب یا توهمی نداشته‌ام و دوران کودکی و نوجوانی‌ام بسیار آرام و بدون هیچ مشکلی بوده است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.27,
+        "detachment_suspicion": -1.045,
+        "impulsivity_antisocial": -0.74,
+        "narcissism_attention": -2.181,
+        "rigidity_perfectionism": 1.665,
+        "unusual_experiences": -0.966
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.185,
+        "extreme_response": -0.282,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله و متأهلی هستم که در اهواز زندگی می‌کنم. دانشجوی مقطع کارشناسی هستم و در کنار تحصیل، یک مغازه دارم و به عنوان فروشنده فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب‌های اجتماعی می‌شوم، اما کلاً آدم خوش‌بین و اجتماعی هستم و تمایلی به انزوا یا بدبینی نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم؛ نظم مغازه و چیدمان وسایل برایم حیاتی است و ساعت‌ها روی جزئیات ریز وقت می‌گذارم. اصلاً به دنبال جلب توجه یا برتری‌جویی نیستم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا باور خرافی ندارم و در تمام دوران کودکی و نوجوانی‌ام، دانش‌آموزی آرام و قانون‌مدار بوده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.584,
+        "detachment_suspicion": -1.889,
+        "impulsivity_antisocial": -0.467,
+        "narcissism_attention": 0.967,
+        "rigidity_perfectionism": -1.527,
+        "unusual_experiences": -1.631
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.525,
+        "extreme_response": 0.339,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، متاهل و ساکن تهران. مدرک دکترا دارم و در حال حاضر به عنوان یک مدیر عالی‌رتبه در سازمان فعالیت می‌کنم و وضعیت اقتصادی بسیار مطلوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به‌ندرت دچار نوسانات خلقی می‌شوم. با دیگران راحت ارتباط می‌گیرم و معمولاً به اطرافیانم اعتماد دارم و اهل کینه یا انزوا نیستم.",
+        "behavioral_and_cognitive_traits": "اعتماد به نفس بسیار بالایی دارم و معتقدم توانایی‌هایم از بقیه بیشتر است، به همین دلیل انتظار دارم در محیط کار و زندگی رفتاری ویژه با من داشته باشند. در عین حال، سخت‌گیر یا وسواسی نیستم و انعطاف‌پذیری زیادی دارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا خرافاتی ندارم و همیشه احساس می‌کنم کنترل کاملی بر واقعیت دارم. در دوران کودکی و نوجوانی هم هیچ سابقه رفتارهای هنجارشکن یا مشکل رفتاری نداشته‌ام."
+    }
+}

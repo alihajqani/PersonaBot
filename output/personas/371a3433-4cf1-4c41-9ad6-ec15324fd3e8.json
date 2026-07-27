@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.172,
+        "detachment_suspicion": 0.52,
+        "impulsivity_antisocial": 0.469,
+        "narcissism_attention": 0.762,
+        "rigidity_perfectionism": 0.702,
+        "unusual_experiences": -1.598
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 1.112,
+        "extreme_response": -0.395,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۱۹ ساله و مجرد هستم که در تهران زندگی می‌کنم. در حال حاضر دانشجوی کارشناسی هستم و به طور همزمان به عنوان منشی و دستیار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی اوقات نگرانم که دیگران مرا نپسندند. تمایل دارم بیشتر در تنهایی باشم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها کمی عجول هستم و گاهی بدون فکر عمل می‌کنم. در عین حال، روی جزئیات کارها وسواس دارم و دوست دارم همه چیز دقیق و طبق میل من پیش برود.",
+        "unusual_experiences_and_history": "سابقه پیگیری‌های روانپزشکی دارم و در دوران مدرسه گاهی با مسائل انضباطی مواجه بودم، اما تجربه‌ای از توهمات یا حس ششم ندارم."
+    }
+}

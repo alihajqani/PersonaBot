@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.382,
+        "detachment_suspicion": -0.477,
+        "impulsivity_antisocial": -2.917,
+        "narcissism_attention": -0.066,
+        "rigidity_perfectionism": -0.652,
+        "unusual_experiences": -0.448
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.495,
+        "extreme_response": 0.297,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۶ سالمه، متاهلم و ساکن تهرانم. دکترا دارم و استاد دانشگاه و پژوهشگرم و وضعیت مالی‌م در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "از نظر روانی تعادل خوبی دارم و اضطراب کمی دارم. روابطم با دیگران دوستانه است و اهل کینه یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "رفتارم کاملاً ساختاریافته است و هرگز تکانشی عمل نمی‌کنم. کمی دوست دارم در محیط آکادمیک جایگاه ویژه‌ای داشته باشم و مورد توجه همکارانم باشم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی ندارم و هر چیزی رو از دیدگاه علمی بررسی می‌کنم و به خرافات اعتقادی ندارم."
+    }
+}

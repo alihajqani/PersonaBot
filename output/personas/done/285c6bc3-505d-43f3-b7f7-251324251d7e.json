@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.299,
+        "detachment_suspicion": 1.009,
+        "impulsivity_antisocial": 1.481,
+        "narcissism_attention": 1.593,
+        "rigidity_perfectionism": 0.169,
+        "unusual_experiences": -0.021
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.111,
+        "extreme_response": 0.414,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۴ ساله و مجرد هستم که در مشهد زندگی می‌کنم. مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و فکر می‌کنم هر کسی به دنبال ضربه زدن به من است، به همین دلیل ترجیح می‌دهم منزوی باشم. در عین حال، نوسانات خلقی متوسطی دارم.",
+        "behavioral_and_cognitive_traits": "من خودم را بسیار برتر از همکارانم می‌دانم و هر چه باشد، لایق بهترین‌ها هستم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و قوانینی که به نظرم بی‌معنی هستند را می‌شکنم.",
+        "unusual_experiences_and_history": "به انرژی‌ها و حس ششم باور دارم و گاهی احساس می‌کنم چیزهایی را درک می‌کنم که دیگران نمی‌بینند. در دوران نوجوانی، تمایل زیادی به به چالش کشیدن اقتدار بزرگترها داشتم."
+    }
+}

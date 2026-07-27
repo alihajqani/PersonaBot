@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.967,
+        "detachment_suspicion": 0.049,
+        "impulsivity_antisocial": 0.386,
+        "narcissism_attention": -0.3,
+        "rigidity_perfectionism": -0.095,
+        "unusual_experiences": 0.102
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.047,
+        "extreme_response": -0.709,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۸ ساله، مجرد و ساکن اهواز هستم. لیسانس دارم و به عنوان معلم مشغول به کار هستم، اما درآمدم پایین و وضعیت اقتصادی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و مدام نگران قضاوت دیگرانم؛ خلقی هستم و سریع دلسرد می‌شم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات در لحظه عصبانیت پرخاشگر می‌شم و رفتارهای تکانشی دارم؛ در عین حال دوست دارم بقیه منو تحسین کنن و برتر بدونن.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعه علاقه دارم و فکر می‌کنم حس ششمم قویه؛ در دوران کودکی هم سابقه تخلفات ریز و هنجارشکنی داشتم."
+    }
+}

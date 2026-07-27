@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.359,
+        "detachment_suspicion": -0.74,
+        "impulsivity_antisocial": -0.314,
+        "narcissism_attention": 0.737,
+        "rigidity_perfectionism": 0.172,
+        "unusual_experiences": -1.647
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.572,
+        "extreme_response": -0.062,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۱ ساله، مجرد و ساکن تبریز هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی خانواده‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً باثبات هستم و اضطراب اجتماعی یا ترس شدیدی از طرد شدن توسط دیگران ندارم. در روابطم معمولاً خوش‌بین هستم و تمایل زیادی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم. دوست دارم مورد توجه باشم و احساس می‌کنم در برخی موارد برتری دارم، و در عین حال روی جزئیات کارهایم دقت متوسطی دارم.",
+        "unusual_experiences_and_history": "هرگز تجربه‌ای غیرعادی مثل توهم یا احساسات متافیزیکی نداشته‌ام و در دوران کودکی و نوجوانی هم رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

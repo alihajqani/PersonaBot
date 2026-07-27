@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.239,
+        "detachment_suspicion": -0.876,
+        "impulsivity_antisocial": -0.056,
+        "narcissism_attention": -0.8,
+        "rigidity_perfectionism": 0.898,
+        "unusual_experiences": -0.468
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.15,
+        "extreme_response": 0.022,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۲ ساله‌ای هستم، مجرد و ساکن تبریز. تحصیلاتم کارشناسی است اما در حال حاضر بیکارم و وضعیت مالی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "میزان اضطرابم متوسط است و گاهی در محیط‌های جدید احساس ناامنی می‌کنم، اما کلاً با مردم مشکلی ندارم و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "گاهی تکانشی رفتار می‌کنم، اما در کارهای شخصی‌ام وسواس زیادی دارم و دوست دارم همه چیز دقیقاً طبق برنامه من پیش برود.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به چیزهای غیرمنطقی فکر کنم، اما گاهی به نشانه‌های کوچک در زندگی اعتقاد دارم. سابقه رفتارهای شدید در کودکی ندارم."
+    }
+}

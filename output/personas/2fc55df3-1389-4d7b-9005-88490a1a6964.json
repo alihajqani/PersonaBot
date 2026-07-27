@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.181,
+        "detachment_suspicion": -0.605,
+        "impulsivity_antisocial": -0.529,
+        "narcissism_attention": 2.353,
+        "rigidity_perfectionism": 0.919,
+        "unusual_experiences": -0.514
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.432,
+        "extreme_response": 0.247,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۴ ساله‌ای هستم، متاهل و ساکن اهواز. مدرک دیپلم دارم و به عنوان خانه‌دار فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم، هرچند گاهی دچار استرس می‌شوم. با دیگران ارتباط خوبی دارم و تمایل زیادی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "به شدت احساس می‌کنم محور زندگی خانواده‌ام هستم و همه باید مطابق میل من رفتار کنند. در مورد نظافت و نظم خانه بسیار وسواسی هستم و تحمل نمی‌کنم چیزی جابه‌جا شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی نداشتم، فقط گاهی به فال و پیش‌گویی علاقه دارم. در کودکی هم همیشه دوست داشتم رئیس بازی‌ها باشم و دیگران را مدیریت کنم."
+    }
+}

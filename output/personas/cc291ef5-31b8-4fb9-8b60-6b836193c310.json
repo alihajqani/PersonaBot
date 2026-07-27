@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.025,
+        "detachment_suspicion": 0.074,
+        "impulsivity_antisocial": 0.095,
+        "narcissism_attention": 0.352,
+        "rigidity_perfectionism": -1.675,
+        "unusual_experiences": 0.377
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.063,
+        "extreme_response": 0.112,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۹ سالمه، پسرم، مجردم و تو کرج زندگی می‌کنم. دیپلم دارم و در حال حاضر دانشجو هستم و وضعیت مالی خانواده‌ام خوبه.",
+        "emotional_and_interpersonal_style": "خیلی زود حالم عوض می‌شه و همیشه می‌ترسم بقیه ازم خوششون نیاد یا منو تنها بذارن. توی جمع‌های شلوغ خیلی استرس می‌گیرم و گاهی ترجیح می‌دم تنها باشم چون به بقیه اعتماد کامل ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای عجولانه می‌کنم و دوست دارم بقیه به من توجه کنن و حس کنم از بقیه برترم. نظم و ترتیب اصلاً برام اولویت نیست و خیلی راحت از کنار جزئیات رد می‌شم.",
+        "unusual_experiences_and_history": "از نوجوانی یه حس‌هایی داشتم که انگار چیزهایی رو می‌بینم یا می‌شنوم که بقیه متوجه نمی‌شن. گاهی هم حس می‌کنم از بدنم جدا شدم و انگار دارم خودم رو از بیرون تماشا می‌کنم."
+    }
+}

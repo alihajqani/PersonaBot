@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.643,
+        "detachment_suspicion": 0.188,
+        "impulsivity_antisocial": 1.803,
+        "narcissism_attention": 1.374,
+        "rigidity_perfectionism": 0.221,
+        "unusual_experiences": 0.546
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.081,
+        "extreme_response": -0.707,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای هستم، متاهل و ساکن اهواز. مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و در روابطم کمی بدبین هستم، اما به طور کلی سعی می‌کنم کنترل اوضاع را در دست داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی قوانین را نادیده می‌گیرم؛ احساس می‌کنم از نظر ذهنی برتر از دیگران هستم و دوست دارم همه طبق نظر من پیش بروند.",
+        "unusual_experiences_and_history": "به برخی نشانه‌ها و خرافات اعتقاد دارم و در دوران مدرسه به دلیل رفتارهای جسورانه و قانون‌شکنی، چندین بار با مدیریت مدرسه مشکل داشتم."
+    }
+}

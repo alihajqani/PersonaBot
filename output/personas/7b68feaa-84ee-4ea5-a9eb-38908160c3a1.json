@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.062,
+        "detachment_suspicion": -0.392,
+        "impulsivity_antisocial": -0.168,
+        "narcissism_attention": 0.226,
+        "rigidity_perfectionism": 2.378,
+        "unusual_experiences": -0.487
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.051,
+        "extreme_response": 0.448,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله، متاهل و ساکن اصفهان هستم. در حال حاضر دانشجوی مقطع ارشد هستم و به طور همزمان کسب‌وکار شخصی خودم را اداره می‌کنم که وضعیت اقتصادی‌ام را در سطح بسیار خوبی قرار داده است.",
+        "emotional_and_interpersonal_style": "در روابطم معمولاً آرام هستم و اضطراب اجتماعی یا ترس از طرد شدن برایم موضوعیت ندارد. با دیگران رابطه‌ای معمولی دارم و تمایلی به انزوای شدید ندارم، هرچند گاهی ترجیح می‌دهم در فضای شخصی خودم باشم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و جزئیات برایم حیاتی‌اند؛ تحمل هرگونه بی‌نظمی یا اشتباه کوچک را ندارم. در تصمیم‌گیری‌های کاری گاهی تکانشی عمل می‌کنم و دوست دارم دیگران متوجه جایگاه و برتری من در محیط کار شوند.",
+        "unusual_experiences_and_history": "سابقه پیگیری درمان‌های روان‌پزشکی را دارم، اما تجربیات غیرعادی یا توهمات شدیدی ندارم. در کودکی رفتارهای من بیشتر حول محور نظم شدید می‌چرخید تا هنجارشکنی."
+    }
+}

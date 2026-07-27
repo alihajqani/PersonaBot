@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.51,
+        "detachment_suspicion": -0.416,
+        "impulsivity_antisocial": 1.009,
+        "narcissism_attention": -0.256,
+        "rigidity_perfectionism": 0.143,
+        "unusual_experiences": -1.035
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.169,
+        "extreme_response": 0.485,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۶ سالمه، متاهلم و ساکن تهران هستم. لیسانس دارم و خانه‌دار هستم و وضعیت مالی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و کمتر پیش میاد که دچار اضطراب شدید یا ترس از طرد شدن بشم. با مردم گرم می‌گیرم و بدبینی خاصی به محیط اطرافم ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و گاهی بدون فکر حرف می‌زنم یا کارهایی می‌کنم که بقیه رو شوکه می‌کنه. دوست دارم مورد توجه باشم و گاهی برای جلب توجه، رفتارهای جسورانه‌ای از خودم نشون می‌دم.",
+        "unusual_experiences_and_history": "به خرافات اعتقادی ندارم و تجربه‌های غیرعادی نداشتم. البته تو دوران نوجوانی کمی سرکش بودم و گاهی قوانین مدرسه رو برای به چالش کشیدن محیط زیر پا می‌گذاشتم."
+    }
+}

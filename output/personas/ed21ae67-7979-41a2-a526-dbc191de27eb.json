@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.414,
+        "detachment_suspicion": -0.794,
+        "impulsivity_antisocial": -0.668,
+        "narcissism_attention": -1.078,
+        "rigidity_perfectionism": 0.555,
+        "unusual_experiences": -0.276
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.017,
+        "extreme_response": 0.615,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، مجردم و در تهران زندگی می‌کنم. لیسانس دارم اما در حال حاضر خانه‌دار هستم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "روحیه‌ام خیلی ثابته و به‌ندرت دچار اضطراب یا نوسانات خلقی می‌شم. با بقیه آدم‌ها راحت هستم و بدبینی یا کینه‌ای در من نیست.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و وسواسی هستم؛ تحمل نمی‌کنم چیزی جابه‌جا باشه و ساعت‌ها وقت صرف مرتب کردن جزئیات می‌کنم. اصلاً اهل ریسک یا جلب توجه نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم. فقط گاهی به خرافات قدیمی اعتقاد پیدا می‌کنم یا حس می‌کنم اتفاقات خاصی نشانه چیزی در آینده‌ست."
+    }
+}

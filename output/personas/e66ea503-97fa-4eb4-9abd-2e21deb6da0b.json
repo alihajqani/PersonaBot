@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.308,
+        "detachment_suspicion": -0.635,
+        "impulsivity_antisocial": -0.015,
+        "narcissism_attention": -0.057,
+        "rigidity_perfectionism": 0.61,
+        "unusual_experiences": -1.03
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.133,
+        "extreme_response": 0.105,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۱۹ ساله و مجردم و در شهر مشهد زندگی می‌کنم. دانشجوی کارشناسی هستم و در کنار تحصیل، به کارهای خانه کمک می‌کنم؛ وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نگرانم که دیگران مرا دوست نداشته باشند یا از من فاصله بگیرند. اما بدبین نیستم و سعی می‌کنم به مردم اعتماد کنم و رابطه‌ای دوستانه داشته باشم.",
+        "behavioral_and_cognitive_traits": "کمی وسواس در مورد تمیزی و نظم دارم و دوست دارم کارهایم دقیق و بی‌نقص باشد. در عین حال، گاهی بدون فکر تصمیم می‌گیرم و نیاز دارم که دیگران توجه بیشتری به من کنند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمی ندارم و به خرافات اعتقاد چندانی ندارم. دوران کودکی من بسیار آرام بود و هیچ سابقه تخلف از قوانین یا رفتارهای پرخاشگرانه نداشتم."
+    }
+}

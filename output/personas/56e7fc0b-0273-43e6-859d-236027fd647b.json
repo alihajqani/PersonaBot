@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.055,
+        "detachment_suspicion": 1.087,
+        "impulsivity_antisocial": -0.665,
+        "narcissism_attention": -0.979,
+        "rigidity_perfectionism": 0.809,
+        "unusual_experiences": -1.311
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.134,
+        "extreme_response": 0.449,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای هستم، متاهل و خانه‌دار با مدرک دیپلم، ساکن شهر مشهد و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "شدیداً از اینکه تنها بمانم یا کسی مرا ترک کند می‌ترسم و نوسانات خلقی‌ام خیلی زیاد است. به شدت به دیگران بدبین هستم و فکر می‌کنم اکثر مردم قصد دارند به من آسیب بزنند.",
+        "behavioral_and_cognitive_traits": "خیلی محتاط هستم و هرگز ریسک نمی‌کنم یا قانونی را زیر پا نمی‌زنم. در کارهای خانه کمی وسواسی هستم و دوست دارم همه چیز طبق نظم خاصی باشد تا آرامش پیدا کنم.",
+        "unusual_experiences_and_history": "تجربیات توهمی یا خرافات خاصی ندارم و زندگی‌ام را در چارچوب‌های معمول می‌بینم. در کودکی بیش از آنکه هنجارشکن باشم، به دلیل خجالتی بودن و ترس‌های زیاد، منزوی بودم."
+    }
+}

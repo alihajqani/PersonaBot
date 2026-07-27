@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.345,
+        "detachment_suspicion": -0.774,
+        "impulsivity_antisocial": 1.062,
+        "narcissism_attention": 0.627,
+        "rigidity_perfectionism": -0.607,
+        "unusual_experiences": -1.752
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.06,
+        "extreme_response": 0.466,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۷ سال دارم، مجردم و در تبریز زندگی می‌کنم. دانشجوی ارشد هستم و به عنوان معلم فعالیت می‌کنم، هرچند وضعیت مالی‌ام در سطح ضعیفی است.",
+        "emotional_and_interpersonal_style": "در روابطم با دیگران راحت هستم و اضطراب اجتماعی ندارم، هرچند ترجیح می‌دهم دایره دوستانم محدود و گلچین شده باشد.",
+        "behavioral_and_cognitive_traits": "در دوران نوجوانی سابقه قانون‌شکنی داشتم و هنوز هم گاهی رفتارهای تکانشی یا پرخطر از خودم نشان می‌دهم. دوست دارم در محیط مدرسه به عنوان یک معلم مقتدر و خاص شناخته شوم.",
+        "unusual_experiences_and_history": "من اصلاً به خرافات یا حس ششم اعتقادی ندارم و تمام تجربه‌های زندگی‌ام تا به امروز کاملاً مادی و بر اساس واقعیت بوده است."
+    }
+}

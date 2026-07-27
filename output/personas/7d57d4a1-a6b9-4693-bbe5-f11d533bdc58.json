@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.109,
+        "detachment_suspicion": -0.369,
+        "impulsivity_antisocial": -1.018,
+        "narcissism_attention": -0.991,
+        "rigidity_perfectionism": 0.243,
+        "unusual_experiences": 1.22
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.255,
+        "extreme_response": -0.176,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن شیراز هستم. تحصیلاتم در مقطع کارشناسی ارشد است و در حال حاضر به عنوان کارمند اداری در یک سازمان مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "در روابطم معمولاً آرام هستم، هرچند گاهی نوسانات خلقی دارم و نگرانم که دیگران از من فاصله بگیرند. با این حال، آدم بدبینی نیستم و به راحتی با دیگران ارتباط برقرار می‌کنم.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مدار هستم و رفتارهای تکانشی ندارم. در کارهایم نظم و دقت متوسطی دارم و سعی می‌کنم جزئیات را نادیده نگیرم، اما وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "بسیار به حس ششم و مسائل ماورالطبیعه باور دارم و گاهی تجربیاتی دارم که احساس می‌کنم فراتر از درک عادی انسان‌هاست. در دوران کودکی و نوجوانی، رفتار خاص یا هنجارشکنه‌ای نداشتم."
+    }
+}

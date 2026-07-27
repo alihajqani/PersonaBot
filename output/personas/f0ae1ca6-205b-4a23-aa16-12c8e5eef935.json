@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.982,
+        "detachment_suspicion": 0.05,
+        "impulsivity_antisocial": 3.251,
+        "narcissism_attention": -0.584,
+        "rigidity_perfectionism": -0.584,
+        "unusual_experiences": 0.643
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.335,
+        "extreme_response": 0.193,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، اهل تهران و مجردم. مدرک کاردانی دارم ولی در حال حاضر بیکارم و از نظر اقتصادی شرایط سختی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود عصبی می‌شم و شدیداً می‌ترسم که نزدیکانم من رو ترک کنن؛ اضطراب اجتماعی شدیدی دارم و همیشه فکر می‌کنم بقیه درباره‌م بد فکر می‌کنن.",
+        "behavioral_and_cognitive_traits": "اصلاً نمی‌تونم جلوی تکانش‌هام رو بگیرم و خیلی وقت‌ها بدون فکر کارهای خطرناک می‌کنم یا با بقیه دعوا می‌کنم. وسواس یا کمال‌گرایی خاصی ندارم و بیشتر به هر چه پیش آمد پیش می‌روم.",
+        "unusual_experiences_and_history": "باورهای خرافاتی زیادی دارم و حس می‌کنم ششمین حس من خیلی قویه. قبل از ۱۵ سالگی هم سابقه دعواهای شدید و تخریب وسایل رو داشتم."
+    }
+}

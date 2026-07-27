@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.347,
+        "detachment_suspicion": -1.336,
+        "impulsivity_antisocial": 0.843,
+        "narcissism_attention": 0.985,
+        "rigidity_perfectionism": -1.662,
+        "unusual_experiences": -0.99
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.236,
+        "extreme_response": 0.282,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای متاهل از کرج هستم. لیسانس دارم و به عنوان معلم در بخش فرهنگی فعالیت می‌کنم، هرچند وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب یا ترس خاصی از تنهایی ندارم. با دیگران راحت ارتباط می‌گیرم و تمایلی به انزوا یا بدبینی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار دوست دارم مرکز توجه باشم و احساس می‌کنم لیاقت رفتار ویژه‌ای از سوی دیگران را دارم. گاهی تکانشی رفتار می‌کنم و صبور نیستم، و اصلاً اهل نظم و وسواس در کارهایم نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم که باعث شده در گذشته با نوسانات خلقی دست و پنجه نرم کنم. در دوران پیش از ۱۵ سالگی، به دلیل نیاز زیاد به توجه، گاهی رفتارهای جلب توجه‌کننده و هنجارشکنی‌های کوچک داشتم."
+    }
+}

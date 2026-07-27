@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.391,
+        "detachment_suspicion": 0.272,
+        "impulsivity_antisocial": -1.905,
+        "narcissism_attention": -0.777,
+        "rigidity_perfectionism": -0.263,
+        "unusual_experiences": -0.231
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.118,
+        "extreme_response": 0.484,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ سالمه، متاهلم و توی تبریز هستم. لیسانس دارم و به صورت آزاد کسب‌وکار می‌کنم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی دارم و وقتی با آدم‌های جدید هستم، خیلی استرس می‌گیرم. ترجیح می‌دم در دایره کوچکی از دوستان بمونم و به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "خیلی محتاطم و هیچ‌وقت کارهای خطرناک یا خلاف قانون انجام نمی‌دم. سعی می‌کنم طبق یک برنامه منظم پیش برم و نظم در زندگی‌ام اهمیت زیادی داره.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم از محیط اطرافم جدا شدم یا انگار دارم زندگی‌ام رو از بیرون تماشا می‌کنم. از بچگی هم تمایل داشتم بیشتر تنها باشم تا با بقیه بازی کنم."
+    }
+}

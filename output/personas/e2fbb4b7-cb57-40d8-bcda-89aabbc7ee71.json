@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.148,
+        "detachment_suspicion": 0.977,
+        "impulsivity_antisocial": 0.092,
+        "narcissism_attention": 0.711,
+        "rigidity_perfectionism": 1.005,
+        "unusual_experiences": 1.063
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.368,
+        "extreme_response": -0.291,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۷ ساله، مجرد و ساکن مشهد هستم. دانشجوی ارشد هستم و به عنوان مهندس فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "تمایل زیادی به تنهایی دارم و به شدت به دیگران بدبین هستم؛ فکر می‌کنم هر کسی فقط به فکر خودش است. نوسانات خلقی متوسطی دارم و گاهی دلم می‌گیرد.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار دقیق و وسواسی هستم و نمی‌توانم نقص‌های کوچک را تحمل کنم. همچنین احساس می‌کنم در جایگاه خاصی هستم و باید بقیه به نظرات من بیشتر اهمیت بدهند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثلاً گاهی حس می‌کنم در محیط حضور موجوداتی هست که دیگران نمی‌بینند. از دوران کودکی هم تمایل داشتم در دنیای خیالات خودم باشم و با همسالانم کمتر ارتباط می‌گرفتم."
+    }
+}

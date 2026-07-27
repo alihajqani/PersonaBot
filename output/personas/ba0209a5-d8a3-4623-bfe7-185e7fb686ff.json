@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -3.064,
+        "detachment_suspicion": -0.155,
+        "impulsivity_antisocial": 1.577,
+        "narcissism_attention": 0.6,
+        "rigidity_perfectionism": -0.07,
+        "unusual_experiences": 0.127
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.119,
+        "extreme_response": -0.083,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۲۹ ساله و متاهل هستم، ساکن شیراز. تحصیلاتم کارشناسی است و به عنوان کارمند اداری کار می‌کنم؛ وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "برخلاف بسیاری از اطرافیانم، اضطراب اجتماعی یا ترس از طرد شدن ندارم و از نظر هیجانی بسیار سخت تکان می‌خورم. با این حال، در روابطم کمی بدبین هستم و ترجیح می‌دهم فاصله اجتماعی‌ام را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر، کارهای پرخطر می‌کنم یا قوانین محیط کار را نادیده می‌گیرم. کمی احساس برتری دارم و دوست دارم در جمع‌ها مرکز توجه باشم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم ششم حسی دارم یا اتفاقات عجیبی را تجربه می‌کنم که منطقی نیستند. قبل از ۱۵ سالگی، سابقه زیادی در به چالش کشیدن والدین و معلمان و شکستن قوانین داشتم."
+    }
+}

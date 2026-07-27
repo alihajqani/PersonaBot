@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.573,
+        "detachment_suspicion": 1.462,
+        "impulsivity_antisocial": 0.464,
+        "narcissism_attention": -0.101,
+        "rigidity_perfectionism": 0.464,
+        "unusual_experiences": 0.218
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.206,
+        "extreme_response": 0.064,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۵ سال دارم، متاهل هستم و در تهران به عنوان منشی و دستیار کار می‌کنم. مدرک دیپلم دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران پرتنش است چون خیلی زود به دیگران بدبین می‌شوم و فکر می‌کنم قصد دارند به من ضربه بزنند یا از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "گاهی تکانشی رفتار می‌کنم و با دیگران تندی می‌کنم. روی نظم میز کارم و جزئیات اداری وسواس دارم و دوست دارم همه طبق دستور و روش من پیش بروند.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم و گاهی حس می‌کنم اتفاقات عجیبی دور و برم می‌افتد یا پیش‌آگاهی‌هایی دارم که بعداً درست از آب در می‌آیند."
+    }
+}

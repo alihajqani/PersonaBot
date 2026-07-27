@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.987,
+        "detachment_suspicion": -0.86,
+        "impulsivity_antisocial": -0.369,
+        "narcissism_attention": -0.426,
+        "rigidity_perfectionism": 0.493,
+        "unusual_experiences": -0.077
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.47,
+        "extreme_response": 0.31,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۳ ساله‌م، مجردم و توی شیراز زندگی می‌کنم. تحصیلاتم در سطح کاردانی هست و در حال حاضر یه مغازه دارم و به عنوان فروشنده فعالیت می‌کنم؛ وضع مالی‌ام هم متوسطه.",
+        "emotional_and_interpersonal_style": "من از نظر روحی آدم خیلی پایداری هستم و به‌ندرت پیش می‌آد که دچار نوسانات خلقی شدید یا اضطراب اجتماعی بشم. با بقیه می‌سازم، هرچند خیلی اهل صمیمیت‌های زیاد نیستم و یه مقدار فاصله می‌گیرم.",
+        "behavioral_and_cognitive_traits": "توی کارهای مغازه و نظم محیطم خیلی سخت‌گیرم و دوست دارم همه چیز طبق یک استاندارد خاص باشه. رفتارهای تکانشی یا پرخاشگرانه توی شخصیتم نیست و معمولاً منطقی تصمیم می‌گیرم.",
+        "unusual_experiences_and_history": "به خرافات و نشانه‌های خاصی توی زندگی اعتقاد دارم و گاهی حس می‌کنم اتفاقات آینده رو یه جورایی پیش‌بینی می‌کنم. دوران نوجوانی‌ام آروم گذشت و هیچ سابقه درگیری یا هنجارشکنی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.304,
+        "detachment_suspicion": 0.256,
+        "impulsivity_antisocial": -1.023,
+        "narcissism_attention": -1.276,
+        "rigidity_perfectionism": 0.905,
+        "unusual_experiences": -0.28
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.607,
+        "extreme_response": 0.807,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و متاهل ساکن شیراز هستم. در حال حاضر دانشجوی ارشد هستم و همزمان به عنوان کارمند اداری کار می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی‌ام در حد متوسط است و گاهی دچار اضطراب می‌شوم. در روابطم نه خیلی بدبین هستم و نه بیش از حد ساده‌لوح؛ تعادل نسبی دارم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و کمال‌گرا هستم و روی جزئیات کوچک خیلی تمرکز می‌کنم. اصلاً تکانشی نیستم و همیشه قبل از هر کاری فکر می‌کنم و هیچ تمایلی به جلب توجه یا احساس برتری ندارم.",
+        "unusual_experiences_and_history": "گاهی به مسائل ماورایی یا خرافات علاقه نشان می‌دهم و احساس می‌کنم برخی اتفاقات تصادفی نیستند. در دوران کودکی و نوجوانی بسیار آرام بودم و هرگز با قوانین مدرسه مشکل نداشتم."
+    }
+}

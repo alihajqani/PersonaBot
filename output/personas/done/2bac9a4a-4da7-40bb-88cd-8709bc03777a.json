@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.864,
+        "detachment_suspicion": 1.019,
+        "impulsivity_antisocial": -1.454,
+        "narcissism_attention": -1.795,
+        "rigidity_perfectionism": 0.7,
+        "unusual_experiences": -0.53
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.292,
+        "extreme_response": -0.873,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۶ ساله‌ای هستم، متاهل و ساکن مشهد. مدرک دیپلم دارم و به عنوان آرایشگر مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "کمی مضطرب هستم و ترجیح می‌دهم در جمع‌های شلوغ نباشم. به مردم خیلی زود اعتماد نمی‌کنم و معمولاً با احتیاط با دیگران برخورد می‌کنم.",
+        "behavioral_and_cognitive_traits": "آدمی بسیار متواضع هستم و هیچ ادعای برتری ندارم. قوانین را به طور کامل رعایت می‌کنم و در کارهایم نظم و دقت نسبی دارم اما وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "تجربیات عجیبی نداشته‌ام و بیشتر به مسائل مذهبی و سنتی اعتقاد دارم. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ مشکلی با خانواده یا مدرسه نداشتم."
+    }
+}

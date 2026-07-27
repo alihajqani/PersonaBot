@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.98,
+        "detachment_suspicion": -0.282,
+        "impulsivity_antisocial": 0.199,
+        "narcissism_attention": 0.422,
+        "rigidity_perfectionism": 0.521,
+        "unusual_experiences": 0.229
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.359,
+        "extreme_response": 0.399,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۳ ساله، متاهل و ساکن اصفهان هستم. تحصیلاتم کارشناسی است و به عنوان کارمند اداری کار می‌کنم، اما وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و همیشه می‌ترسم دیگران درباره من بد فکر کنند یا مرا نپذیرند. نوسانات خلقی شدیدی دارم که روی روابط خانوادگی‌ام اثر گذاشته است.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهایی می‌کنم که بعداً پشیمان می‌شوم. دوست دارم توجه دیگران را جلب کنم و گاهی احساس می‌کنم لایق جایگاه ویژه‌تری هستم؛ همچنین در کارهایم وسواس زیادی به نظم دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا محیط اطرافم واقعی نیست. در دوران نوجوانی، رفتارهای تکانشی و لجبازی‌های زیادی داشتم."
+    }
+}

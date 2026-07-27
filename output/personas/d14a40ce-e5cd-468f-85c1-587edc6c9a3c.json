@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.092,
+        "detachment_suspicion": -0.025,
+        "impulsivity_antisocial": -0.876,
+        "narcissism_attention": -1.351,
+        "rigidity_perfectionism": 0.714,
+        "unusual_experiences": 0.231
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.439,
+        "extreme_response": 0.166,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۷ سالمه، متأهلم و ساکن اهواز هستم. دانشجوی ارشد هستم اما فعلاً خانه‌دار هستم و وضعیت مالی متوسطی داریم.",
+        "emotional_and_interpersonal_style": "معمولاً آرامم، هرچند گاهی نسبت به اطرافیانم بدبین می‌شوم و ترجیح می‌دهم زمان بیشتری رو در تنهایی بگذرونم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم آرام است و به قوانین جامعه و خانواده پایبندم، اما کمی روی جزئیات خانه و نظافت وسواس دارم.",
+        "unusual_experiences_and_history": "به بعضی خرافات اعتقاد دارم و گاهی حس می‌کنم چیزهایی رو پیش‌بینی می‌کنم یا حس‌های غیرعادی دارم."
+    }
+}

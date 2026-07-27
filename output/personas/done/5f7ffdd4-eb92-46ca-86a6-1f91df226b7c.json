@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.294,
+        "detachment_suspicion": 0.958,
+        "impulsivity_antisocial": 0.108,
+        "narcissism_attention": -0.146,
+        "rigidity_perfectionism": -0.179,
+        "unusual_experiences": 0.258
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.187,
+        "extreme_response": 0.074,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۳۵ ساله، متاهل و ساکن کرج هستم. دیپلم دارم و به عنوان تکنسین و کارگر فنی مشغول به کار هستم و وضعیت اقتصادی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "تمایل زیادی به انزوا دارم و ترجیح می‌دهم با آدم‌های زیادی ارتباط نداشته باشم چون به نیت‌های دیگران اعتماد ندارم. اضطرابم در سطح متوسطی است و هر از گاهی دچار دلزدگی می‌شوم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً طبق روال است، اما گاهی در محیط کار واکنش‌های تندی نشان می‌دهم. احساس برتری خاصی ندارم و سعی می‌کنم در حد توانم کارهایم را با دقت انجام دهم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس کنم اتفاقات اطرافم واقعی نیستند یا به حس‌های غیبی اعتقاد پیدا می‌کنم. در دوران کودکی، ارتباطات اجتماعی ضعیفی داشتم و بیشتر در دنیای تخیلات خودم بودم."
+    }
+}

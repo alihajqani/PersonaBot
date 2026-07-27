@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.418,
+        "detachment_suspicion": 0.551,
+        "impulsivity_antisocial": -0.274,
+        "narcissism_attention": -0.893,
+        "rigidity_perfectionism": -1.149,
+        "unusual_experiences": -0.877
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.084,
+        "extreme_response": -0.202,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۱۹ ساله‌ای هستم، مجرد و ساکن تبریز. همزمان با تحصیل در مقطع کارشناسی، به عنوان کارمند ساده مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و نگرانم که دیگران درباره من چه فکری می‌کنند. گاهی اوقات احساس می‌کنم بقیه من را نمی‌فهمند و تمایل پیدا می‌کنم کمی از جمع فاصله بگیرم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم، اما معمولاً سعی می‌کنم در چارچوب‌ها حرکت کنم. وسواس خاصی ندارم و خیلی روی جزئیات سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی نداشته‌ام، هرچند گاهی به خرافات کوچک اعتقاد دارم. دوران کودکی و نوجوانی من نسبتاً آرام بود و مشکل رفتاری خاصی نداشتم."
+    }
+}

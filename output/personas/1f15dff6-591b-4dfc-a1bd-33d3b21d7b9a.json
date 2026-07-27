@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کاردانی",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.854,
+        "detachment_suspicion": 1.093,
+        "impulsivity_antisocial": 0.223,
+        "narcissism_attention": 0.003,
+        "rigidity_perfectionism": -0.24,
+        "unusual_experiences": 1.501
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.029,
+        "extreme_response": -0.108,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله، متاهل و ساکن اهواز هستم. مدرک کاردانی دارم و در حال حاضر دانشجو هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "اضطرابم بسیار شدید است و اکثر اوقات احساس می‌کنم دیگران علیه من هستند؛ ترجیح می‌دهم کاملاً تنها باشم چون به هیچ‌کس اعتماد ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و در مدیریت احساساتم مشکل دارم، اما در عین حال سعی می‌کنم در تحصیلاتم نظم و وسواس خاصی به خرج دهم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و تجربیات بسیار عجیبی مثل شنیدن صداها یا احساس حضور موجوداتی که دیگران نمی‌بینند را تجربه کرده‌ام."
+    }
+}

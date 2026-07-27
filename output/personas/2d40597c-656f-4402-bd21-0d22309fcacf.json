@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.498,
+        "detachment_suspicion": 0.707,
+        "impulsivity_antisocial": 0.527,
+        "narcissism_attention": -0.169,
+        "rigidity_perfectionism": 0.185,
+        "unusual_experiences": -0.578
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.854,
+        "extreme_response": -0.149,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ سالمه، مجردم و ساکن شیرازم. لیسانس دارم و به عنوان کارمند اداری مشغول به کارم، هرچند وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و همیشه می‌ترسم بقیه از من خوششون نیاد یا من رو طرد کنن. رابطه‌هام معمولاً پرتلاطمه و گاهی حس می‌کنم دیگران نسبت به من بدبین هستن.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و کارهای تکانشی انجام می‌دم که بعداً پشیمون می‌شم. در عین حال، سعی می‌کنم وجهه‌ای از برتری رو نشون بدم تا ضعف‌های درونی‌ام پوشونده بشه.",
+        "unusual_experiences_and_history": "خرافات خاصی دارم و گاهی فکر می‌کنم اتفاقات دور و برم تصادفی نیستن. تو دوران نوجوانی هم چند بار به خاطر رفتارهای تکانشی و بی‌فکر، با مشکلات انضباطی مواجه شدم."
+    }
+}

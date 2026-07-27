@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.341,
+        "detachment_suspicion": 1.176,
+        "impulsivity_antisocial": 0.585,
+        "narcissism_attention": -1.304,
+        "rigidity_perfectionism": -0.101,
+        "unusual_experiences": 1.122
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.702,
+        "extreme_response": -0.256,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ سالمه، مجردم و در کرج زندگی می‌کنم. دانشجوی کارشناسی هستم اما فعلاً بیکارم و وضع مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی بدبین هستم و فکر می‌کنم مردم هر کسی دنبال سوءاستفاده از من هستن، برای همین ترجیح میدم کاملاً تنها باشم و دوری کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای خطرناکی می‌کنم یا قوانین رو زیر پا می‌زنم. در عین حال، روی جزئیات کارهام وسواس دارم و دوست دارم همه چیز طبق نظم خاص خودم پیش بره.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم، اما تجربیات عجیبی دارم؛ مثلاً گاهی صداهایی می‌شنوم یا احساس می‌کنم نیروهای نامرئی دارن روی افکارم اثر می‌ذارن."
+    }
+}

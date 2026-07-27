@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.51,
+        "detachment_suspicion": 1.631,
+        "impulsivity_antisocial": 0.663,
+        "narcissism_attention": -1.078,
+        "rigidity_perfectionism": 1.359,
+        "unusual_experiences": 1.906
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.194,
+        "extreme_response": 0.233,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجرد و ساکن مشهد. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "ترس شدیدی از تنها ماندن دارم و هرگونه نشانه‌ای از بی‌توجهی دیگران باعث می‌شود به شدت مضطرب شوم. به هیچ‌کس اعتماد ندارم و ترجیح می‌دهم بیشتر وقت‌هایم را در تنهایی بگذرانم.",
+        "behavioral_and_cognitive_traits": "در کارهایم به شدت کمال‌گرا هستم و اگر چیزی طبق برنامه پیش نرود، کنترل اعصابم را از دست می‌دهم. گاهی رفتارهای تکانشی دارم که بعداً بابت آن‌ها احساس پشیمانی می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات بسیار عجیبی دارم؛ گاهی احساس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که دیگران نمی‌شنوند. سابقه بیماری روان‌پزشکی دارم و از کودکی با احساسات متناقض و شدید دست و پنجه نرم می‌کردم."
+    }
+}

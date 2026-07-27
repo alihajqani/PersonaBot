@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.261,
+        "detachment_suspicion": -0.916,
+        "impulsivity_antisocial": 0.03,
+        "narcissism_attention": -0.461,
+        "rigidity_perfectionism": -0.06,
+        "unusual_experiences": 0.985
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.278,
+        "extreme_response": -0.003,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۰ سالمه، متاهلم و ساکن اهواز هستم. فوق‌لیسانس دارم و کسب‌وکار خودم رو اداره می‌کنم و وضعیت مالی‌ام عالیه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی استواری و به ندرت پیش میاد که دچار اضطراب شدید یا ترس از طرد شدن بشم. با بقیه راحت ارتباط می‌گیرم و معمولاً بدبینی خاصی به آدما ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی ریسک‌های بزرگی می‌کنم و تکانشی عمل می‌کنم، مخصوصاً در مسائل مالی و کاری. کمال‌گرایی متوسطی دارم و سعی می‌کنم تعادلی بین کیفیت و سرعت در کارهام ایجاد کنم.",
+        "unusual_experiences_and_history": "به شدت به شهود و حس ششمم اعتماد دارم و گاهی تجربه‌هایی دارم که با منطق جور در نمیاد. تو دوران کودکی هم همیشه کنجکاو بودم و کارهای جسورانه‌ای می‌کردم که بقیه رو متعجب می‌کرد."
+    }
+}

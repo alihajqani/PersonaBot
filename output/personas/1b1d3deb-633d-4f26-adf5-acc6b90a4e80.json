@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.592,
+        "detachment_suspicion": -0.559,
+        "impulsivity_antisocial": -1.509,
+        "narcissism_attention": -0.493,
+        "rigidity_perfectionism": 0.732,
+        "unusual_experiences": -0.779
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.321,
+        "extreme_response": -0.536,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۴ ساله، متاهل و ساکن تبریز هستم. مدرک کارشناسی دارم اما در حال حاضر بیکار هستم و به همین دلیل وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار خونسرد هستم و نوسانات خلقی یا اضطراب‌های شدید را تجربه نمی‌کنم. با اینکه کمی ترجیح می‌دهم تنها باشم، اما نسبت به دیگران کینه یا بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار محتاطی هستم و هرگز بدون فکر عمل نمی‌کنم یا قانون را زیر پا نمی‌گذارم. در کارهای خانه و امور شخصی وسواس زیادی دارم و دوست دارم همه چیز در جای خودش باشد.",
+        "unusual_experiences_and_history": "تقریباً هیچ تجربه غیرعادی یا خرافاتی ندارم و به واقعیت‌های ملموس باور دارم. در تمام دوران رشد و نوجوانی‌ام، فردی آرام و مطیع بودم."
+    }
+}

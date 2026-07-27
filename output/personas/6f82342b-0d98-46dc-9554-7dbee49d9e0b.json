@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.661,
+        "detachment_suspicion": -1.289,
+        "impulsivity_antisocial": -0.274,
+        "narcissism_attention": 0.687,
+        "rigidity_perfectionism": 0.132,
+        "unusual_experiences": 0.421
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.441,
+        "extreme_response": -0.122,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۵ ساله‌ای هستم، مجرد و ساکن اصفهان. دیپلم دارم و در حال حاضر بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً آرام هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود و با دیگران راحت هستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم، اما در عین حال وسواس دارم که کارهایم با دقت انجام شود. احساس می‌کنم لایق زندگی بسیار لوکس‌تری هستم و باید توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام و به حس ششم اعتقاد دارم. در دوران کودکی و نوجوانی هم گاهی با قوانین مدرسه مشکل داشتم."
+    }
+}

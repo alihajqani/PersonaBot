@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.198,
+        "detachment_suspicion": -0.896,
+        "impulsivity_antisocial": 0.416,
+        "narcissism_attention": 0.067,
+        "rigidity_perfectionism": 0.983,
+        "unusual_experiences": 0.632
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.293,
+        "extreme_response": 0.477,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۲ ساله‌ی متاهل ساکن تبریز هستم. مدرک کارشناسی دارم و به عنوان مهندس متخصص در رشته خودم مشغول به کار هستم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم اما کلاً آدم اجتماعی‌تری هستم و زیاد به دیگران بدبینی ندارم و راحت‌تر اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی جزئیات کارم دارم و تا هر چیزی کاملاً بی‌نقص نشود آرام نمی‌گیرم، هرچند گاهی در تصمیمات شخصی‌ام عجول و تکانشی هستم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات دور و برم تصادفی نیستند و یک جورایی به حس ششمم در تشخیص موقعیت‌ها اعتماد دارم."
+    }
+}

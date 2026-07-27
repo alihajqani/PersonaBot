@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.549,
+        "detachment_suspicion": -1.614,
+        "impulsivity_antisocial": 0.396,
+        "narcissism_attention": -0.908,
+        "rigidity_perfectionism": 1.14,
+        "unusual_experiences": 0.233
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.784,
+        "extreme_response": -0.131,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، مجرد و ساکن اهواز هستم، مدرک دیپلم دارم و به عنوان فروشنده و صاحب یک مغازه کوچک مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی آدم آرام و اجتماعی هستی هستم و خیلی کم پیش می‌آید که احساس اضطراب کنم یا نگران طرد شدن توسط دیگران باشم؛ با بقیه راحت ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "در کارهایم وسواس زیادی به نظم و ترتیب دارم و اگر چیزی جابه‌جا شود کلافه می‌شوم؛ همچنین گاهی بدون فکر تصمیمات عجولانه می‌گیرم و رفتارهای تکانشی دارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم و می‌توانم اتفاقات آینده یا نیت‌های پنهان آدم‌ها را پیش‌بینی کنم، هرچند در کودکی مشکل رفتاری خاصی نداشتم."
+    }
+}

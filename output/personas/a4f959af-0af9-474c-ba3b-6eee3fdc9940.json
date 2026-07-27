@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.251,
+        "detachment_suspicion": 0.891,
+        "impulsivity_antisocial": -0.631,
+        "narcissism_attention": 0.299,
+        "rigidity_perfectionism": 0.903,
+        "unusual_experiences": -0.122
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.16,
+        "extreme_response": 0.265,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و متاهل هستم که در مشهد زندگی می‌کنم. با وجود اینکه مدرک کارشناسی ارشد دارم، اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "به خاطر شرایط سخت زندگی، نسبت به دیگران بدبین شدم و ترجیح می‌دم بیشتر تنها باشم چون حس می‌کنم بقیه من رو درک نمی‌کنن. گاهی نوسانات خلقی دارم و سریع دلسرد می‌شم.",
+        "behavioral_and_cognitive_traits": "من روی جزئیات خیلی وسواس دارم و اگر کاری دقیق انجام نشه، شدیداً ناراحت می‌شم. با اینکه گاهی فکر می‌کنم لیاقت جایگاه بالاتری داشتم، اما هیچ‌وقت سراغ رفتارهای تکانشی یا قانون‌شکنی نرفتم.",
+        "unusual_experiences_and_history": "گاهی اوقات صداهایی می‌شنوم یا حس می‌کنم اتفاقاتی دور و برم می‌افته که بقیه متوجهش نمی‌شن. در دوران کودکی و نوجوانی هم همیشه ترجیح می‌دادم در دنیای تخیلی خودم باشم تا با هم‌سن‌وسالام بازی کنم."
+    }
+}

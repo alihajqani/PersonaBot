@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.211,
+        "detachment_suspicion": -0.072,
+        "impulsivity_antisocial": 1.613,
+        "narcissism_attention": 0.349,
+        "rigidity_perfectionism": 1.386,
+        "unusual_experiences": -0.478
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.842,
+        "extreme_response": 0.813,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۹ ساله‌م، متأهل و ساکن تهران. لیسانس دارم و در زمینه کسب‌وکار آزاد فعالیت می‌کنم و وضعیت مالی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و خیلی زود از حالت آرامش به اضطراب یا عصبانیت می‌رم. ترس شدیدی دارم از اینکه همسرم یا دوستانم من رو ترک کنن.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشگر هستم و گاهی کارهای خطرناکی می‌کنم فقط برای اینکه هیجان داشته باشم. در عین حال، وسواس زیادی در مورد ظاهر و نظم کسب‌وکارم دارم و روی جزئیات خیلی سخت‌گیرم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم، اما سابقه درمان روان‌پزشکی به دلیل اختلالات خلقی دارم. در نوجوانی هم به خاطر رفتارهای پرخاشگرانه با خانواده‌ام چالش داشتم."
+    }
+}

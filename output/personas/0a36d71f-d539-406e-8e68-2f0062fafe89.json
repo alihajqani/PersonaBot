@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.136,
+        "detachment_suspicion": 0.929,
+        "impulsivity_antisocial": 0.789,
+        "narcissism_attention": -0.335,
+        "rigidity_perfectionism": 1.762,
+        "unusual_experiences": 2.219
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.832,
+        "extreme_response": 0.252,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله و متاهل هستم که در تبریز زندگی می‌کنم. دیپلم دارم و مغازه‌دار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و مدام نگران اتفاقات بد هستم. به مشتری‌ها و اطرافیانم با بدبینی نگاه می‌کنم و فکر می‌کنم هر کسی می‌خواهد از من سوءاستفاده کند.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی در اداره مغازه و نظم وسایلم دارم و اگر چیزی جابجا شود کلافه می‌شوم. گاهی تکانشی رفتار می‌کنم و با دیگران بحث‌های تند می‌کنم چون فکر می‌کنم حق با من است.",
+        "unusual_experiences_and_history": "خیلی به خرافات اعتقاد دارم و گاهی صداهایی در محیط می‌شنوم که دیگران نمی‌شنوند. در دوران کودکی و نوجوانی هم رفتارهای پرخاشگرانه داشتم و با هم‌کلاسی‌هایم مشکل بودم."
+    }
+}

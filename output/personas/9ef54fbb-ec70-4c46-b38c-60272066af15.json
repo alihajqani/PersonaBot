@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.11,
+        "detachment_suspicion": -1.292,
+        "impulsivity_antisocial": -0.22,
+        "narcissism_attention": 1.471,
+        "rigidity_perfectionism": -1.118,
+        "unusual_experiences": -2.423
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.546,
+        "extreme_response": -0.52,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۲ ساله‌ای هستم، متاهل و ساکن اهواز. فوق لیسانس دارم و مهندس هستم، اگرچه در حال حاضر وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار متوازن هستم و هیچ ترس یا اضطراب خاصی در روابط اجتماعی ندارم و با دیگران راحت برخورد می‌کنم.",
+        "behavioral_and_cognitive_traits": "من به شدت احساس برتری می‌کنم و انتظار دارم همه به تخصص و جایگاه من احترام ویژه‌ای بگذارند. گاهی در تصمیماتم عجول هستم اما وسواس خاصی در جزئیات ندارم.",
+        "unusual_experiences_and_history": "من کاملاً عقل‌گرا هستم و هیچ‌گونه تجربه غیرعادی یا اعتقاد به خرافات ندارم و زندگی‌ام همیشه طبق منطق پیش رفته است."
+    }
+}

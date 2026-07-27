@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.101,
+        "detachment_suspicion": -0.09,
+        "impulsivity_antisocial": -0.613,
+        "narcissism_attention": 1.17,
+        "rigidity_perfectionism": -0.13,
+        "unusual_experiences": 0.284
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.384,
+        "extreme_response": 0.144,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای هستم، مجرد و ساکن اصفهان که مدرک کارشناسی دارم اما در حال حاضر خانه‌دار هستم. وضعیت مالی من در حد متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و کوچک‌ترین تغییر در رفتار دیگران باعث اضطراب شدید من می‌شود. با اینکه گاهی گوشه‌گیر می‌شوم، اما نیاز شدیدی دارم که دیگران مرا بپذیرند.",
+        "behavioral_and_cognitive_traits": "معتقدم استحقاق رفتار ویژه‌ای دارم و دوست دارم همیشه در مرکز توجه باشم. در کارهای روزمره نظم متوسطی دارم اما وقتی چیزی طبق میل من پیش نمی‌رود، به شدت ناراحت می‌شوم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم پیام‌های خاصی از محیط دریافت می‌کنم یا پیش‌بینی‌هایم درست از آب در می‌آید. در دوران نوجوانی هم گاهی احساس می‌کردم دنیا واقعی نیست."
+    }
+}

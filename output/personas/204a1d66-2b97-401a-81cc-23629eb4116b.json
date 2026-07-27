@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.887,
+        "detachment_suspicion": -1.665,
+        "impulsivity_antisocial": 0.159,
+        "narcissism_attention": 0.604,
+        "rigidity_perfectionism": -0.645,
+        "unusual_experiences": -1.246
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.02,
+        "extreme_response": -0.092,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۶ ساله، متاهل و ساکن تهران هستم. فوق لیسانس دارم و در حال حاضر خانه‌دار هستم و وضعیت مالی‌مون خوبه.",
+        "emotional_and_interpersonal_style": "گاهی نوسانات خلقی دارم، اما کلاً آدم اجتماعی‌یی هستم و از تنهایی متنفرم؛ به بقیه اعتماد می‌کنم و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "تکانشگری دارم و گاهی بدون فکر هزینه‌های زیاد می‌کنم؛ دوست دارم مرکز توجه باشم و بقیه به من اهمیت بیشتری بدن.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا توهمی نداشتم، هرچند سابقه درمان برای مسائل اضطرابی رو دارم؛ دوران کودکی‌م هم بدون مشکل خاصی گذشت."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.462,
+        "detachment_suspicion": 1.258,
+        "impulsivity_antisocial": -0.186,
+        "narcissism_attention": -0.648,
+        "rigidity_perfectionism": -0.196,
+        "unusual_experiences": -0.533
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.155,
+        "extreme_response": -0.226,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متاهل و ساکن تهران هستم. مدرک دکترا دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و نوسانات خلقی در من دیده می‌شود. تمایل زیادی به انزوا دارم و نسبت به همکاران و اطرافیانم بدبین هستم و سخت می‌توانند اعتمادم را جلب کنند.",
+        "behavioral_and_cognitive_traits": "در رفتارهایم تعادل نسبی دارم، هرچند گاهی تکانشی عمل می‌کنم. ادعای برتری ندارم و سعی می‌کنم متواضع باشم، اما در کارهای پژوهشی‌ام سطح متوسطی از کمال‌گرایی و دقت به جزئیات دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم و بیشتر به منطق و علم تکیه می‌کنم. در دوران کودکی و نوجوانی، دانش‌آموزی آرام بودم و سابقه تخلف یا رفتارهای غیرعادی نداشتم."
+    }
+}

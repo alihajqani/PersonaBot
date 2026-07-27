@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.242,
+        "detachment_suspicion": 0.348,
+        "impulsivity_antisocial": 0.344,
+        "narcissism_attention": -0.755,
+        "rigidity_perfectionism": -0.157,
+        "unusual_experiences": 2.072
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.099,
+        "extreme_response": 0.126,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای هستم، مجرد و ساکن تهران. دیپلم دارم و به عنوان آرایشگر مشغول به کار هستم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی در جمع‌ها احساس اضطراب می‌کنم. در روابطم کمی بدبین هستم و ترجیح می‌دهم دایره دوستانم خیلی کوچک باشد.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی دارم و گاهی بدون فکر تصمیم می‌گیرم. در کارهایم نظم متوسطی دارم و نیاز چندانی به جلب توجه یا احساس برتری ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً احساس می‌کنم پیام‌هایی از جهان می‌گیرم یا توهمات خفیفی دارم. در نوجوانی و قبل از ۱۵ سالگی هم سابقه زیادی در قانون‌شکنی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.465,
+        "detachment_suspicion": -0.648,
+        "impulsivity_antisocial": -0.516,
+        "narcissism_attention": -1.003,
+        "rigidity_perfectionism": 0.18,
+        "unusual_experiences": -0.37
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.664,
+        "extreme_response": 0.409,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۱۹ ساله و مجردم که در کرج زندگی می‌کنم. دیپلم را گرفته‌ام و در حال حاضر بیکار هستم و وضعیت اقتصادی خانواده‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "روحیاتم نسبتاً آرام است و اضطراب اجتماعی شدیدی ندارم. با دیگران رابطه‌ام معمولی است و ترجیح خاصی برای تنهایی یا معاشرت زیاد ندارم.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم کارهایم را با نظم انجام دهم و به جزئیات کوچک اهمیت می‌دهم، اما وسواس افراطی ندارم. اهل قانون‌شکنی یا رفتارهای پرخطر نیستم و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات خاصی نداشته‌ام و بیشتر به مسائل مادی و واقعی اعتقاد دارم. دوران مدرسه من هم بدون هیچ مشکل رفتاری یا درگیری خاصی سپری شد."
+    }
+}

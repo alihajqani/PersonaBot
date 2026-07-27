@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.319,
+        "detachment_suspicion": -0.205,
+        "impulsivity_antisocial": -1.646,
+        "narcissism_attention": 0.013,
+        "rigidity_perfectionism": -0.632,
+        "unusual_experiences": -0.644
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.011,
+        "extreme_response": -0.162,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای هستم که در شهر کرج زندگی می‌کنم و به عنوان معلم در بخش فرهنگی مشغول به کارم. تحصیلاتم کارشناسی ارشده، متاهلم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و در روابطم احساس می‌کنم کاملاً درک نمی‌شم، به همین خاطر گاهی ترجیح میدم تنها باشم. اعتمادم به آدم‌ها متوسطه و هر کسی رو سریع به دایره نزدیکانم راه نمیدم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و اصلاً اهل رفتارهای پرخطر یا تکانشی نیستم. البته در محیط کار انتظار دارم به خاطر جایگاهم رفتار ویژه‌ای با من بشه و دوست دارم مورد توجه باشم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی داشتم. گاهی پیش میاد که حس می‌کنم اتفاقات زندگی‌ام از قبل تعیین شده یا یه حس ششم خفیفی دارم، اما چیزی نیست که زندگیم رو مختل کنه."
+    }
+}

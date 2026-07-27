@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.952,
+        "detachment_suspicion": 0.95,
+        "impulsivity_antisocial": -1.004,
+        "narcissism_attention": -0.722,
+        "rigidity_perfectionism": 1.957,
+        "unusual_experiences": 0.286
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.035,
+        "extreme_response": 0.644,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۲ سالمه، مجردم و ساکن تهرانم. دیپلم دارم و به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌م متوسطه. سابقه درمان روانپزشکی هم داشتم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و ترجیح می‌دم بیشتر وقتم رو تنها بگذرونم چون به بقیه اعتماد ندارم و فکر می‌کنم ممکنه بهم آسیب بزنن.",
+        "behavioral_and_cognitive_traits": "روی هر جزئیاتی وسواس دارم و باید همه چیز دقیقاً طبق قانون و نظم باشه، وگرنه شدیداً عصبی می‌شم. کلاً آدم محتاطی هستم و اهل رفتارهای تکانشی نیستم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم دنیا واقعی نیست یا صداهایی می‌شنوم که بقیه نمی‌شنون. از دوران نوجوانی هم خیلی گوشه‌گیر بودم و با محیط سازگار نمی‌شدم."
+    }
+}

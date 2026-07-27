@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.219,
+        "detachment_suspicion": 0.191,
+        "impulsivity_antisocial": -1.347,
+        "narcissism_attention": -0.776,
+        "rigidity_perfectionism": -0.101,
+        "unusual_experiences": 1.593
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.02,
+        "extreme_response": 0.683,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و مجردم که در تهران زندگی می‌کنم. مدرک دیپلم دارم و به عنوان کارمند ساده در یک اداره مشغول هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "ترجیح می‌دهم در دایره‌ای کوچک از دوستان باشم و زیاد با غریبه‌ها ارتباط نمی‌گیرم چون کمی بدبین هستم. اضطراب اجتماعی متوسطی دارم و ترسم از قضاوت دیگران است.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هیچ‌وقت دوست ندارم از چارچوب‌های تعیین شده خارج شوم. در کارهای اداری‌ام نظم دارم و سعی می‌کنم همه چیز مرتب باشد، اما به دنبال جلب توجه دیگران نیستم.",
+        "unusual_experiences_and_history": "خیلی زیاد به مسائل ماوراءطبیعه و حس ششم باور دارم و گاهی صداهایی می‌شنوم یا تصاویری می‌بینم که دیگران متوجه‌شان نمی‌شوند. از سنین پایین احساس می‌کردم ارتباطات خاصی با دنیای نادیدنی دارم."
+    }
+}

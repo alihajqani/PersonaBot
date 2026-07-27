@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.203,
+        "detachment_suspicion": -0.658,
+        "impulsivity_antisocial": -1.23,
+        "narcissism_attention": -0.453,
+        "rigidity_perfectionism": 0.844,
+        "unusual_experiences": 0.442
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.25,
+        "extreme_response": -0.094,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله، متاهل و ساکن تهران هستم؛ با مدرک کارشناسی به عنوان مهندس متخصص مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی در موقعیت‌های اجتماعی احساس اضطراب می‌کنم و نوسانات خلقی متوسطی دارم، اما به طور کلی به اطرافیانم اعتماد دارم و اهل کینه‌توزی نیستم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مدار هستم و رفتارهای پرخطر ندارم؛ در کارهای مهندسی‌ام دقت زیادی به جزئیات دارم و تمایل دارم همه چیز طبق برنامه پیش برود.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم اتفاقات به شکلی عجیب به هم مرتبط هستند و به حس ششمم اعتماد می‌کنم؛ در دوران کودکی بسیار آرام بودم و هیچ سابقه هنجارشکنی نداشتم."
+    }
+}

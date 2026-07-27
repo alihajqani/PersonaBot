@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.137,
+        "detachment_suspicion": 0.031,
+        "impulsivity_antisocial": -1.786,
+        "narcissism_attention": -1.591,
+        "rigidity_perfectionism": -0.027,
+        "unusual_experiences": -1.395
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.533,
+        "extreme_response": -0.649,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۲ ساله و مجردم که در شیراز زندگی می‌کنم. مدرک دیپلم دارم و به عنوان تکنسین فنی کار می‌کنم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران معمولی است و گاهی کمی اضطراب دارم، اما به طور کلی با مردم کنار می‌آیم. نه خیلی بدبین هستم و نه بیش از حد اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار آرام و مطیع هستم و هیچ‌وقت به فکر قانون‌شکنی یا رفتارهای پرخطر نمی‌افتم. اصلاً دوست ندارم مرکز توجه باشم و ترجیح می‌دهم در سکوت کارهایم را انجام دهم.",
+        "unusual_experiences_and_history": "اصلاً به خرافات یا حس ششم اعتقادی ندارم و زندگی‌ام کاملاً بر اساس واقعیت‌های ملموس است. هیچ سابقه درگیری یا مشکل رفتاری در دوران کودکی و نوجوانی نداشته‌ام."
+    }
+}

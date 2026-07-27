@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.181,
+        "detachment_suspicion": -0.53,
+        "impulsivity_antisocial": 0.077,
+        "narcissism_attention": -0.34,
+        "rigidity_perfectionism": 0.983,
+        "unusual_experiences": -1.781
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.353,
+        "extreme_response": 0.277,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای هستم، ساکن تهران و متاهل، با مدرک کارشناسی که کسب‌وکار شخصی خودم را اداره می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب اجتماعی می‌شوم و نوسانات خلقی‌ام در حد متوسط است، اما به طور کلی با دیگران ارتباط برقرار می‌کنم و بدبینی شدیدی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار کمال‌گرا هستم و تا وقتی نتیجه دقیقاً طبق استانداردهای من نباشد، آرام نمی‌گیرم؛ گاهی هم در تصمیم‌گیری‌ها عجول هستم و نیاز دارم مرکز توجه جمع باشم.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و هرگز به خرافات یا حس‌های غیرعادی اعتقاد نداشته‌ام؛ در دوران کودکی و نوجوانی هم همیشه دانش‌آموزی قانون‌مدار و آرام بودم."
+    }
+}

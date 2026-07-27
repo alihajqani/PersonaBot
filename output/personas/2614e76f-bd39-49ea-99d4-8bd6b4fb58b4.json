@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.402,
+        "detachment_suspicion": 0.203,
+        "impulsivity_antisocial": -2.406,
+        "narcissism_attention": -1.228,
+        "rigidity_perfectionism": -0.022,
+        "unusual_experiences": -1.143
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.368,
+        "extreme_response": 0.74,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن مشهد هستم. فوق لیسانس دارم و در یک اداره به عنوان کارمند اداری فعالیت می‌کنم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً آرام هستم و اضطراب زیادی ندارم. اما تمایل دارم بیشتر در تنهایی باشم و نسبت به محیط اطراف و آدم‌ها کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و هرگز تکانشی عمل نمی‌کنم یا قانون را نمی‌شکنم. نیاز چندانی به توجه دیگران ندارم و در کارهایم نظم متوسطی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا خرافاتی در زندگی‌ام نداشته‌ام. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ‌گونه مشکل رفتاری یا روان‌پزشکی نداشتم."
+    }
+}

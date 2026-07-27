@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.719,
+        "detachment_suspicion": 1.13,
+        "impulsivity_antisocial": -0.473,
+        "narcissism_attention": -1.594,
+        "rigidity_perfectionism": 0.564,
+        "unusual_experiences": 0.635
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.067,
+        "extreme_response": 0.098,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای متاهل با مدرک کارشناسی هستم که در شیراز به عنوان معلم فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و کوچک‌ترین حرف‌ها روی من اثر می‌گذارد؛ ترس شدیدی از طرد شدن دارم و به همین دلیل ترجیح می‌دهم بیشتر در تنهایی خودم باشم و به کسی اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "بسیار متواضع هستم و هرگز ادعای برتری نمی‌کنم؛ در محیط کار بسیار منظم هستم و به قوانین پایبندم و هیچ‌وقت رفتارهای تکانشی یا پرخطر نداشته‌ام.",
+        "unusual_experiences_and_history": "به نشانه‌ها و فال اعتقاد دارم و گاهی حس می‌کنم پیام‌های خاصی از محیط دریافت می‌کنم؛ در دوران کودکی بسیار خجالتی بودم و هیچ‌وقت قانون‌شکنی نکردم."
+    }
+}

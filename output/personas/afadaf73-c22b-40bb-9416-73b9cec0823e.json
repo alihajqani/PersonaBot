@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.158,
+        "detachment_suspicion": 1.348,
+        "impulsivity_antisocial": -2.254,
+        "narcissism_attention": -0.65,
+        "rigidity_perfectionism": 1.047,
+        "unusual_experiences": -0.571
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.407,
+        "extreme_response": -0.327,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای مجرد ساکن کرج هستم. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی ندارم، اما بسیار بدبین هستم و فکر می‌کنم دیگران قصد سوءاستفاده از من را دارند. به شدت ترجیح می‌دهم تنها باشم و دایره دوستان بسیار محدودی دارم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و اصلاً رفتارهای تکانشی یا پرخطر ندارم. وسواس شدیدی نسبت به نظم و جزئیات دارم و اگر چیزی طبق برنامه نباشد، به شدت ناراحت می‌شوم.",
+        "unusual_experiences_and_history": "خیلی کم به برخی خرافات اعتقاد دارم، اما تجربه توهم یا حس ششم شدیدی ندارم. در نوجوانی بسیار گوشه‌گیر بودم و هیچ‌وقت قوانین را زیر پا نزدم."
+    }
+}

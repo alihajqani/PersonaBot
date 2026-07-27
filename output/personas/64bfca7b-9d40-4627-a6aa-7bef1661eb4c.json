@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.015,
+        "detachment_suspicion": 1.418,
+        "impulsivity_antisocial": 2.72,
+        "narcissism_attention": 1.167,
+        "rigidity_perfectionism": -1.621,
+        "unusual_experiences": -0.745
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.522,
+        "extreme_response": -0.093,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۳۱ ساله و متاهل هستم که در تهران زندگی می‌کنم. مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان فعالیت می‌کنم و وضعیت مالی‌ام عالی است.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و به ندرت به کسی اعتماد می‌کنم؛ ترجیح می‌دهم در دنیای خودم باشم و کینه‌های قدیمی را به راحتی فراموش نمی‌کنم. اضطراب اجتماعی متوسطی دارم اما بیشتر درگیر تحلیل‌های منفی از دیگران هستم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از نظر ذهنی و جایگاهی از دیگران برترم و انتظار دارم رفتاری ویژه با من شود. بسیار تکانشی هستم و گاهی بدون توجه به عواقب، قوانین را می‌شکنم یا واکنش‌های تند نشان می‌دهم؛ نظم و وسواس برای من هیچ اهمیتی ندارد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات خاصی ندارم. در دوران نوجوانی تمایل شدیدی به سلطه‌گری و نادیده گرفتن هرگونه محدودیت قانونی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.48,
+        "detachment_suspicion": -0.279,
+        "impulsivity_antisocial": -0.869,
+        "narcissism_attention": -0.129,
+        "rigidity_perfectionism": 0.055,
+        "unusual_experiences": -1.12
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.584,
+        "extreme_response": -0.177,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۹ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی مهندسی. در شهر تبریز زندگی می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "به طور کلی آرام هستم اما در روابط اجتماعی کمی محتاطم و ترجیح می‌دهم ابتدا آدم‌ها را بسنجم و بعد با آن‌ها صمیمی شوم.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم تعادلی بین نظم و انعطاف داشته باشم، هرچند گاهی انتظار دارم دیگران متوجه توانمندی‌های من شوند و به من توجه بیشتری کنند.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی در زندگی‌ام نداشته‌ام و همیشه نگاهی کاملاً منطقی و واقع‌بینانه به مسائل داشته‌ام."
+    }
+}

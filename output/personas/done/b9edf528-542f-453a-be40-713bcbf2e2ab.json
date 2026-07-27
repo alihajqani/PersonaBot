@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.417,
+        "detachment_suspicion": -0.232,
+        "impulsivity_antisocial": 0.77,
+        "narcissism_attention": 0.295,
+        "rigidity_perfectionism": 0.154,
+        "unusual_experiences": 1.528
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.082,
+        "extreme_response": 0.328,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، متاهل و ساکن شیراز هستم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان مهندس فعالیت می‌کنم، اما متأسفانه وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "به طور کلی فردی آرام هستم و اضطراب زیادی در محیط‌های اجتماعی ندارم. با این حال، تمایل دارم بیشتر با خودم باشم و گاهی نسبت به نیت‌های اطرافیانم بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در مواجهه با استرس، رفتارهای تند یا پرخاشگرانه از من سر می‌زند. در عین حال، دوست دارم در محیط کاری‌ام به عنوان فردی برجسته دیده شوم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی غیرعادی زیادی دارم؛ مثلاً احساس می‌کنم حس ششم قوی‌ای دارم و گاهی پیام‌هایی را دریافت می‌کنم که برای دیگران قابل درک نیست. قبل از ۱۵ سالگی، گاهی قوانین مدرسه را به چالش می‌کشیدم."
+    }
+}

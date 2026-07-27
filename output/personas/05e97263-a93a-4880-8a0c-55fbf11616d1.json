@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.054,
+        "detachment_suspicion": 1.789,
+        "impulsivity_antisocial": 0.957,
+        "narcissism_attention": 0.871,
+        "rigidity_perfectionism": 0.973,
+        "unusual_experiences": -0.006
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.697,
+        "extreme_response": 0.127,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۲ ساله، مجرد و ساکن مشهد هستم. تحصیلاتم در حد دیپلم است و به عنوان فروشنده و صاحب مغازه فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "به شدت به دیگران بدبین هستم و همیشه فکر می‌کنم کسی می‌خواهد جای من را بگیرد یا به من ضربه بزند. نوسانات خلقی زیادی دارم و سریعاً از حالت آرام به اضطراب شدید می‌روم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌هایم عجول و تکانش‌گر هستم و گاهی رفتارهای پرخطر انجام می‌دهم. در مدیریت مغازه‌ام بسیار وسواسی هستم و روی جزئیات ریز حساسیت دارم، و در عین حال دوست دارم دیگران من را فردی قدرتمند و برتر ببینند.",
+        "unusual_experiences_and_history": "به برخی نشانه‌های محیطی و خرافات اعتقاد دارم و گاهی احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم. در نوجوانی، سابقه درگیری‌های فیزیکی و تخلفات کوچک در محله‌ام داشتم."
+    }
+}

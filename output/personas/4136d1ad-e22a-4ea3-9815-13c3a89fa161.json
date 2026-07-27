@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.739,
+        "detachment_suspicion": 0.753,
+        "impulsivity_antisocial": -1.492,
+        "narcissism_attention": -1.409,
+        "rigidity_perfectionism": 0.96,
+        "unusual_experiences": -0.335
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.076,
+        "extreme_response": -0.402,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و مجرد هستم که در شیراز زندگی می‌کنم. مدرک دیپلم دارم و به عنوان تکنسین و کارگر فنی مشغول به کار هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس اضطراب می‌کنم و دوری از مردم برایم راحت‌تر است. نسبت به اطرافیانم بدبینی دارم و سخت است که کسی را به عنوان دوست قبول کنم.",
+        "behavioral_and_cognitive_traits": "در محیط کار بسیار منظم و سخت‌گیر هستم و روی دقت در جزئیات تأکید زیادی دارم. اهل دعوا یا قانون‌شکنی نیستم و همیشه سعی می‌کنم در چارچوب‌ها حرکت کنم.",
+        "unusual_experiences_and_history": "گاه پیش می‌آید که احساس کنم اتفاقات پیش از وقوع در ذهنم نقش می‌بندند. سابقه درمان روان‌پزشکی دارم و از سال‌های نوجوانی با احساسات متناقض دست و پنجه نرم می‌کردم."
+    }
+}

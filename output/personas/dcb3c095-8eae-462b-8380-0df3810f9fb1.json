@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.54,
+        "detachment_suspicion": -0.39,
+        "impulsivity_antisocial": 0.405,
+        "narcissism_attention": 1.483,
+        "rigidity_perfectionism": -0.07,
+        "unusual_experiences": 0.427
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.292,
+        "extreme_response": 0.212,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۸ ساله، متاهل و ساکن اهواز هستم، مدرک دیپلم دارم و به عنوان تکنسین فنی مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "معمولاً با دیگران سازگارم و احساس انزوا یا بدبینی ندارم؛ در محیط کار با همه ارتباط خوبی دارم و کم‌اضطراب هستم.",
+        "behavioral_and_cognitive_traits": "فکر می‌کنم در حرفه‌ام بهترین هستم و انتظار دارم بقیه این را بدانند و به من احترام ویژه‌ای بگذارند؛ گاهی رفتارهای تکانشی دارم.",
+        "unusual_experiences_and_history": "گاهی به اتفاقات تصادفی معنای خاصی می‌دهم و فکر می‌کنم نشانه‌ای از سرنوشت است یا حس ششمم به من هشدار می‌دهد."
+    }
+}

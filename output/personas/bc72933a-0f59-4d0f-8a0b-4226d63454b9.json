@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.342,
+        "detachment_suspicion": 1.007,
+        "impulsivity_antisocial": -0.019,
+        "narcissism_attention": 0.178,
+        "rigidity_perfectionism": 0.822,
+        "unusual_experiences": 0.376
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.005,
+        "extreme_response": 0.021,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله و متاهل هستم که در تبریز زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری کار می‌کنم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی دارم و مدام نگران قضاوت دیگران هستم. به همکارانم اعتماد ندارم و همیشه حس می‌کنم در پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیمات عجولانه می‌گیرم که بعداً پشیمان می‌شوم. سعی می‌کنم در کارهایم خیلی دقیق و منظم باشم و گاهی احساس می‌کنم لیاقت جایگاه بالاتری نسبت به بقیه هستم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم از محیط اطرافم جدا شده‌ام یا انگار دارم زندگی‌ام را از بیرون تماشا می‌کنم. در نوجوانی تمایل به گوشه‌گیری داشتم و گاهی قوانین مدرسه را نادیده می‌گرفتم."
+    }
+}

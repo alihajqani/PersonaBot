@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.894,
+        "detachment_suspicion": -1.43,
+        "impulsivity_antisocial": 1.052,
+        "narcissism_attention": 1.292,
+        "rigidity_perfectionism": 0.298,
+        "unusual_experiences": -0.745
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.673,
+        "extreme_response": -0.612,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۷ ساله، متاهل و ساکن تهران هستم. مدرک دیپلم دارم و خانه‌دار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً آرام هستم و اضطراب یا تمایل به انزوا ندارم و به راحتی با دیگران ارتباط برقرار می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و هر چه بخواهم سریع انجام می‌دهم؛ انتظار دارم همسرم و خانواده‌ام رفتاری ویژه با من داشته باشند و همیشه در مرکز توجه باشم.",
+        "unusual_experiences_and_history": "در کودکی بسیار پرخاشگر بودم و زیاد با همسایه‌ها و خانواده دعوا می‌کردم؛ همچنین به برخی باورهای سنتی و خرافات اعتقاد دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.426,
+        "detachment_suspicion": -0.901,
+        "impulsivity_antisocial": 1.06,
+        "narcissism_attention": -1.207,
+        "rigidity_perfectionism": -0.005,
+        "unusual_experiences": 0.587
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.303,
+        "extreme_response": 0.172,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله، متاهل و ساکن کرجم؛ با مدرک کارشناسی ارشد در زمینه کسب‌وکار آزاد فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "در روابطم نسبتاً آرام هستم و خیلی زود دچار اضطراب نمی‌شوم. با دیگران راحت ارتباط می‌گیرم و تمایلی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و از ریسک‌های خطرناک لذت می‌برم. در کارهایم نظم متوسطی دارم و گاهی روی جزئیات حساس می‌شوم اما ادعای برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "به حس ششم و نشانه‌های محیطی باور دارم و گاهی اتفاقاتی را حس می‌کنم که دیگران متوجه نمی‌شوند. در دوران کودکی و قبل از ۱۵ سالگی، گاهی رفتارهای تکانشی داشتم که باعث دردسر می‌شد."
+    }
+}

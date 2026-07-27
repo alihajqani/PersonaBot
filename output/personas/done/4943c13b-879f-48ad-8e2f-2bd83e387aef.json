@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.964,
+        "detachment_suspicion": -0.525,
+        "impulsivity_antisocial": 2.033,
+        "narcissism_attention": 0.327,
+        "rigidity_perfectionism": 0.345,
+        "unusual_experiences": -0.158
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.35,
+        "extreme_response": 0.875,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و متاهل هستم که در مشهد زندگی می‌کنم. تحصیلاتم کارشناسیه و به عنوان معلم فعالیت می‌کنم، اما وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و نوسانات خلقی شدید دارم که روی روابطم اثر گذاشته. همیشه می‌ترسم که بقیه نظر بدی درباره‌ام داشته باشن یا من رو رها کنن.",
+        "behavioral_and_cognitive_traits": "کنترل تکانه‌هایم خیلی ضعیفه و ممکنه ناگهان پرخاشگری کنم یا رفتارهای هنجارشکنه‌ای از خودم نشون بدم. در عین حال، گاهی فکر می‌کنم که باید به من توجه ویژه‌ای بشه و جایگاه من باید بالاتر از این‌ها باشه.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی مثل احساس حضور کسی در اتاق یا شنیدن صداهای مبهم داشتم. در دوران کودکی و نوجوانی، سابقه زیادی در درگیری‌های فیزیکی و تخریب وسایل داشتم."
+    }
+}

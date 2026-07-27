@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.593,
+        "detachment_suspicion": -0.493,
+        "impulsivity_antisocial": 0.626,
+        "narcissism_attention": -0.282,
+        "rigidity_perfectionism": 0.205,
+        "unusual_experiences": 0.081
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.733,
+        "extreme_response": -0.196,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۰ ساله و مجرد هستم و در تهران زندگی می‌کنم. دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی دارم، اما در کل با دیگران سازگار هستم و تمایلی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و بدون فکر ریسک می‌کنم. دوست دارم در جمع دوستانم مرکز توجه باشم و احساس کنم از بقیه خاص‌تر هستم.",
+        "unusual_experiences_and_history": "به نشانه‌ها و فال اعتقاد دارم و گاهی حس می‌کنم اتفاقات خاصی از قبل برایم رقم خورده است. سابقه درمان روان‌پزشکی هم در پرونده‌ام هست."
+    }
+}

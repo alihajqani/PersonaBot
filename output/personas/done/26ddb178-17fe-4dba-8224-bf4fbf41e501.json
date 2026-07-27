@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.468,
+        "detachment_suspicion": -0.562,
+        "impulsivity_antisocial": -0.529,
+        "narcissism_attention": 0.007,
+        "rigidity_perfectionism": 1.329,
+        "unusual_experiences": 0.236
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.876,
+        "extreme_response": 0.388,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ سال دارم، متاهل هستم و در اهواز زندگی می‌کنم. در کنار اینکه دانشجوی کارشناسی هستم، یک مغازه کوچک دارم و فروشندگی می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدارم و اضطراب خاصی در روابط اجتماعی‌ام ندارم؛ معمولاً با مردم راحت هستم و بدبینی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "روی نظم مغازه و جزئیات حساب‌کتاب‌ها وسواس شدیدی دارم و هر چیزی باید دقیقاً سر جای خودش باشد. در عین حال دوست دارم در محیط کارم مورد توجه و تحسین باشم.",
+        "unusual_experiences_and_history": "گاهی به مسائل ماوراءطبیعه علاقه دارم و حس می‌کنم بعضی اتفاقات از قبل تعیین شده‌اند، اما هرگز توهمات شدید یا تجربه‌های غیرعادی نداشته‌ام."
+    }
+}

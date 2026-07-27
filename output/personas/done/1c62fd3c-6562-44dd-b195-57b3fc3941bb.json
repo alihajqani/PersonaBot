@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.576,
+        "detachment_suspicion": -0.307,
+        "impulsivity_antisocial": 1.822,
+        "narcissism_attention": 1.574,
+        "rigidity_perfectionism": -1.38,
+        "unusual_experiences": 1.989
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.334,
+        "extreme_response": 0.178,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله و متاهل هستم که در اصفهان به عنوان مهندس مشغول به کارم و مدرک کارشناسی دارم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "مودم خیلی سریع تغییر می‌کند و گاهی دچار اضطراب‌های شدید می‌شوم. نسبت به اطرافیانم کمی بدبین هستم و حس می‌کنم باید همیشه گارد داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر کارهای خطرناکی می‌کنم یا با دیگران تندی می‌کنم. به شدت احساس برتری می‌کنم و انتظار دارم در هر محیطی به من توجه ویژه شود و حرفم Accepted باشد.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم؛ مثلاً گاهی صداهایی می‌شنوم یا حس می‌کنم پیام‌های خاصی از محیط دریافت می‌کنم. قبل از ۱۵ سالگی، سوابق زیادی در زمینه درگیری‌های فیزیکی و تخریب وسایل داشتم."
+    }
+}

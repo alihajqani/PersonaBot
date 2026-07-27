@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.597,
+        "detachment_suspicion": 0.249,
+        "impulsivity_antisocial": -0.353,
+        "narcissism_attention": 0.386,
+        "rigidity_perfectionism": -0.273,
+        "unusual_experiences": -0.853
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -1.178,
+        "extreme_response": 0.034,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای متاهل با مدرک کارشناسی هستم که در تبریز به عنوان مهندس کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب‌های اجتماعی می‌شوم و در روابطم کمی احتیاط می‌کنم تا مورد قضاوت قرار نگیرم، هرچند که تعادل نسبی در روابطم دارم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم حساب‌شده است و اهل ریسک‌های بی‌مورد نیستم؛ گاهی احساس می‌کنم از نظر تخصص و توانایی از همکارانم برترم و دوست دارم این موضوع توسط دیگران تایید شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و زندگی‌ام کاملاً بر اساس منطق است؛ در دوران نوجوانی هم همیشه دانش‌آموزی نمونه و بی‌حاشیه بودم."
+    }
+}

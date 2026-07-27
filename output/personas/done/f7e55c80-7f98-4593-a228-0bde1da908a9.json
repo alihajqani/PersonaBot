@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.897,
+        "detachment_suspicion": -1.505,
+        "impulsivity_antisocial": 1.644,
+        "narcissism_attention": 0.546,
+        "rigidity_perfectionism": -1.027,
+        "unusual_experiences": -0.288
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.059,
+        "extreme_response": -0.286,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۸ سالمه، مجردم و توی مشهد زندگی می‌کنم. کارشناس ارشد مهندسی هستم و شغلم هم متناسب با تحصیلامه و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم اما اصلاً اهل انزوا نیستم و خیلی راحت با آدم‌های جدید ارتباط می‌گیرم. معمولاً با دیگران صمیمی هستم و بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی رفتار می‌کنم و عاشق ریسک هستم؛ گاهی بدون فکر تصمیم‌های بزرگی می‌گیرم یا قوانین رو می‌شکنم. کمال‌گرایی اصلاً توی کارهای من نیست و بیشتر به نتیجه کلی فکر می‌کنم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها احساس می‌کنم حس ششم دارم یا اتفاقات آینده رو پیش‌بینی می‌کنم. سابقه بیماری روان‌پزشکی ندارم اما رفتارهای بی‌پروا از جوونی همراه من بوده."
+    }
+}

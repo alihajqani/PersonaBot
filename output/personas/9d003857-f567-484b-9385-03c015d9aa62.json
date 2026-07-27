@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.101,
+        "detachment_suspicion": 0.009,
+        "impulsivity_antisocial": -0.648,
+        "narcissism_attention": -0.446,
+        "rigidity_perfectionism": -0.001,
+        "unusual_experiences": 0.237
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.249,
+        "extreme_response": 0.16,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۵ ساله، متاهل و ساکن اهواز هستم. لیسانس دارم و در رشته تخصصی مهندسی فعالیت می‌کنم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "در زندگی روزمره با مقداری اضطراب و نگرانی دست و پنجه نرم می‌کنم و گاهی در اعتماد به دیگران تردید دارم و ترجیح می‌دهم حریم شخصی‌ام را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً حساب‌شده است و تمایلی به ریسک یا جلب توجه ندارم؛ در کارهایم نظم متوسطی دارم و سعی می‌کنم تعادلی بین دقت و سرعت ایجاد کنم.",
+        "unusual_experiences_and_history": "سابقه درمان روانپزشکی دارم و گاهی تجربه می‌کنم که انگار اتفاقات زندگی‌ام از پیش تعیین شده یا نشانه‌های عجیبی در محیط می‌بینم."
+    }
+}

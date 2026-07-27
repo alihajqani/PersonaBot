@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.79,
+        "detachment_suspicion": -0.149,
+        "impulsivity_antisocial": 0.776,
+        "narcissism_attention": 2.154,
+        "rigidity_perfectionism": -0.082,
+        "unusual_experiences": -0.316
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.382,
+        "extreme_response": 0.651,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای هستم، متاهل و ساکن اهواز. لیسانس مهندسی دارم و به عنوان متخصص در رشته خودم مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "تلاطمات احساسی شدیدی دارم و خیلی زود دلم می‌گیره یا عصبی می‌شم. ترس زیادی دارم که نکنه اطرافیانم من رو ترک کنن و گاهی نسبت به دیگران بدبین می‌شم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم توانایی‌های من خیلی بیشتر از دیگرانه و لایق جایگاه ویژه‌ای هستم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و دوست دارم مرکز توجه جمع باشم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها حس می‌کنم اتفاقات عجیبی دور و برم می‌افته یا پیش‌بینی‌هایی می‌کنم که درست درمیاد. در دوران مدرسه گاهی با معلمام به خاطر لجبازی و رفتارهای تکانشی مشکل داشتم."
+    }
+}

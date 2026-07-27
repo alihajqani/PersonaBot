@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.481,
+        "detachment_suspicion": -0.195,
+        "impulsivity_antisocial": 0.865,
+        "narcissism_attention": -0.733,
+        "rigidity_perfectionism": -1.627,
+        "unusual_experiences": 0.156
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.415,
+        "extreme_response": 0.017,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ام، متاهل و ساکن اهواز هستم. مدرک دکترا دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت اقتصادی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آدم پایداری هستم و اضطراب خاصی در روابطم ندارم. البته ترجیح می‌دم دایره دوستانم کوچک باشه و گاهی احساس می‌کنم با محیط‌های اجتماعی خیلی شلوغ سازگار نیستم.",
+        "behavioral_and_cognitive_traits": "من اصلاً اهل وسواس و کمال‌گرایی نیستم و ترجیح می‌دم انعطاف‌پذیر باشم. اما گاهی پیش می‌آد که بدون فکر کردن تصمیمات عجولانه بگیرم یا در محیط کار کمی جسورانه و خارج از چارچوب‌ها رفتار کنم.",
+        "unusual_experiences_and_history": "به شهود و حس ششمم خیلی اعتماد دارم و گاهی پیش‌آگویی‌هایی می‌کنم که درست از آب درمی‌آد. در دوران نوجوانی، چند بار به دلیل روحیه جستجوگر و سرکش، با قوانین مدرسه به مشکل خوردم."
+    }
+}

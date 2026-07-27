@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.843,
+        "detachment_suspicion": -0.379,
+        "impulsivity_antisocial": 1.062,
+        "narcissism_attention": 0.93,
+        "rigidity_perfectionism": 0.558,
+        "unusual_experiences": -1.129
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.099,
+        "extreme_response": -0.363,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای هستم، متاهل و ساکن کرج، مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به ندرت دچار اضطراب یا ترس می‌شوم؛ در روابطم صریح هستم و ترسی از تنهایی ندارم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم توانایی‌هایم بسیار بیشتر از همکارانم است و لایق جایگاه ویژه‌ای هستم؛ گاهی رفتارهای جسورانه و ریسکی دارم و از قانون‌شکنی‌های کوچک نمی‌ترسم.",
+        "unusual_experiences_and_history": "به مسائل غیرمنطقی، خرافات یا توهمات اعتقادی ندارم و زندگی‌ام را کاملاً بر اساس واقعیت و علم پیش می‌برم."
+    }
+}

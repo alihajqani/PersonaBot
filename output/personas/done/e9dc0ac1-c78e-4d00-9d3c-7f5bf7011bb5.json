@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.065,
+        "detachment_suspicion": -0.438,
+        "impulsivity_antisocial": 1.403,
+        "narcissism_attention": 1.142,
+        "rigidity_perfectionism": 0.288,
+        "unusual_experiences": -1.708
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.187,
+        "extreme_response": 0.29,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، مجردم و با وجود داشتن مدرک کارشناسی، در حال حاضر در تبریز بیکارم و وضعیت مالی‌ام واقعاً سخت است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی شدیدی دارم و از اینکه دیگران مرا نپسندند یا رهایم کنند می‌ترسم، هرچند معمولاً سعی می‌کنم با مردم ارتباط بگیرم و خودم را منزوی نکنم.",
+        "behavioral_and_cognitive_traits": "خیلی وقت‌ها بدون فکر تصمیمات تکانشی می‌گیرم و ریسک‌های خطرناک می‌کنم؛ احساس می‌کنم توانایی‌هایم بیشتر از دیگران است و لایق جایگاه ویژه‌تری هستم.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی رفتارهای متناقضی داشتم، اما هیچ‌وقت تجربه عجیبی مثل توهم یا حس ششم نداشته‌ام و کاملاً واقع‌بین هستم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.903,
+        "detachment_suspicion": -0.723,
+        "impulsivity_antisocial": -0.094,
+        "narcissism_attention": 0.633,
+        "rigidity_perfectionism": -0.649,
+        "unusual_experiences": 0.535
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.48,
+        "extreme_response": 0.045,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۰ ساله و مجرد هستم با مدرک دیپلم؛ در اهواز به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی زود دپ می‌شوم. در محیط‌های اجتماعی احساس اضطراب می‌کنم و می‌ترسم دیگران درباره من قضاوت منفی کنند.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم. دوست دارم در محیطم آدم مهمی به نظر برسم و بقیه به من توجه کنند، هرچند وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی احساس می‌کنم چیزهایی را می‌بینم یا می‌شنوم که دیگران متوجه نمی‌شوند. قبل از ۱۵ سالگی، سابقه درگیری‌های لفظی و رفتارهای تکانشی در مدرسه داشتم."
+    }
+}

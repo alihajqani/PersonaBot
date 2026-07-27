@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.496,
+        "detachment_suspicion": -0.392,
+        "impulsivity_antisocial": 1.001,
+        "narcissism_attention": 0.646,
+        "rigidity_perfectionism": -2.182,
+        "unusual_experiences": -0.302
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.173,
+        "extreme_response": -0.614,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۴۰ سالمه و ساکن تهران هستم و متاهل هستم. تحصیلاتم کارشناسیه و شغل‌م مهندسیه و وضعیت اقتصادی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی دارم و گاهی نگران قضاوت دیگرانم، اما معمولاً با بقیه کنار میام و بدبینی شدیدی نسبت به دنیا ندارم.",
+        "behavioral_and_cognitive_traits": "زودجوش هستم و گاهی قانون‌ها رو نادیده می‌گیرم یا رفتارهای تکانشی دارم. حس می‌کنم در جایگاه بالاتری هستم و باید توجه بیشتری به من بشه.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها حس‌های ششم یا تجربه‌های غیرمنطقی دارم که برام عجیبه. سابقه بیماری روانپزشکی دارم که از دوران جوانی شروع شده."
+    }
+}

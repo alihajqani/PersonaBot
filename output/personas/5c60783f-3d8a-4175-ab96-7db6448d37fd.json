@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.536,
+        "detachment_suspicion": -0.759,
+        "impulsivity_antisocial": -1.509,
+        "narcissism_attention": -0.944,
+        "rigidity_perfectionism": 0.965,
+        "unusual_experiences": -0.749
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.027,
+        "extreme_response": 0.218,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و متاهل هستم که مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان در اصفهان کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی بالایی دارم و به ندرت دچار اضطراب می‌شوم. در روابط اجتماعی منعطف هستم و دیدگاه مثبتی به انسان‌ها دارم و به ندرت کینه می‌گیرم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و تمام کارهایم باید با دقت میلی‌متری و طبق قوانین سخت‌گیرانه انجام شود. هرگز رفتارهای تکانشی یا پرخطر ندارم و نظم برای من اولویت اول است.",
+        "unusual_experiences_and_history": "تقریباً هیچ تجربه غیرعادی یا خرافاتی ندارم و همه چیز را از دیدگاه علمی می‌بینم. در دوران کودکی و نوجوانی هم همیشه دانش‌آموزی نمونه و قانون‌مدار بودم."
+    }
+}

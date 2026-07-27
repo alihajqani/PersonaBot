@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.209,
+        "detachment_suspicion": -0.042,
+        "impulsivity_antisocial": 0.752,
+        "narcissism_attention": 0.331,
+        "rigidity_perfectionism": -0.478,
+        "unusual_experiences": 0.394
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.039,
+        "extreme_response": -0.422,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۲۵ ساله و متاهل هستم، ساکن تهران. تحصیلاتم کارشناسی است و به عنوان کارمند اداری مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی در وضعیت متوسطی هستم؛ گاهی اضطراب می‌گیرم و گاهی بدبین می‌شوم، اما معمولاً می‌توانم تعادلم را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات تکانشی رفتار می‌کنم و بدون فکر تصمیم می‌گیرم؛ همچنین دوست دارم در محیط کارم مورد توجه باشم و حس کنم از دیگران متمایزم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی حس می‌کنم شانس یا انرژی‌های خاصی روی زندگی‌ام اثر می‌گذارند. در نوجوانی گاهی رفتارهای جسورانه داشتم."
+    }
+}

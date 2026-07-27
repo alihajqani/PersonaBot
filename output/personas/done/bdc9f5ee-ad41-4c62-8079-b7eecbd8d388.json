@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.562,
+        "detachment_suspicion": 0.04,
+        "impulsivity_antisocial": 0.654,
+        "narcissism_attention": 0.829,
+        "rigidity_perfectionism": -1.358,
+        "unusual_experiences": 0.52
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.196,
+        "extreme_response": -0.266,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله، متاهل و ساکن تبریز هستم. لیسانس دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم و در روابطم محتاطم؛ گاهی احساس می‌کنم دیگران مرا نمی‌فهمند و ترجیح می‌دهم در دنیای خودم باشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهایی انجام می‌دهم که بعداً پشیمان می‌شوم و دوست دارم در جمع‌ها مورد توجه باشم، هرچند وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات آینده را حس می‌کنم یا خواب‌هایی می‌بینم که بعداً درست از آب در می‌آیند و به این حس ششم اعتماد دارم."
+    }
+}

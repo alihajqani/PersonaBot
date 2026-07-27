@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.089,
+        "detachment_suspicion": 0.71,
+        "impulsivity_antisocial": 0.109,
+        "narcissism_attention": -0.507,
+        "rigidity_perfectionism": 0.283,
+        "unusual_experiences": -0.355
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.363,
+        "extreme_response": 0.18,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۰ ساله و مجرد هستم که در شهر تبریز زندگی می‌کنم. لیسانس دارم و در حوزه فرهنگی و آموزش به عنوان معلم فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب اجتماعی می‌شوم و ترجیح می‌دهم در جمع‌های کوچک باشم یا اصلاً تنها بمانم. نسبت به نیت‌های دیگران کمی بدبین هستم و سخت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "در برخی مواقع بدون فکر تصمیم می‌گیرم و ممکن است رفتارهای تکانشی از من سر بزند. در کارهایم نظم متوسطی دارم و سعی می‌کنم تعادلی بین کمال‌گرایی و سرعت عمل برقرار کنم.",
+        "unusual_experiences_and_history": "خیلی به خرافات علاقه ندارم، هرچند گاهی پیش می‌آید که احساس کنم اتفاقات عجیبی در اطرافم می‌افتد. در دوران مدرسه، گاهی با قوانین سخت‌گیرانه مخالفت می‌کردم اما در سطح شدیدی نبود."
+    }
+}

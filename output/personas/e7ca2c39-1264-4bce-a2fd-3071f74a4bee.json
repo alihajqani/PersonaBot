@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.066,
+        "detachment_suspicion": 1.089,
+        "impulsivity_antisocial": 2.657,
+        "narcissism_attention": 1.121,
+        "rigidity_perfectionism": -1.082,
+        "unusual_experiences": 2.203
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.019,
+        "extreme_response": 0.361,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله و متاهل هستم که در کرج زندگی می‌کنم. تحصیلاتم در حد دیپلم است و یک مغازه کوچک دارم و به عنوان فروشنده فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و به شدت از اینکه دیگران مرا ترک کنند یا نادیده بگیرند می‌ترسم. به هیچ‌کس اعتماد ندارم و سریعاً از دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و در لحظه عصبانیت ممکن است پرخاشگری کنم یا قوانین را نادیده بگیرم. احساس می‌کنم از بقیه برترم و حق دارم هر طور می‌خواهم با دیگران برخورد کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل شنیدن صداهایی که دیگران نمی‌شنوند یا احساسات متافیزیکی شدید. از دوران نوجوانی سابقه درگیری‌های شدید و رفتارهای خطرناک داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.806,
+        "detachment_suspicion": 0.353,
+        "impulsivity_antisocial": -2.114,
+        "narcissism_attention": -0.092,
+        "rigidity_perfectionism": 0.701,
+        "unusual_experiences": -1.11
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.057,
+        "extreme_response": 0.086,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۱ سال سن دارم، مجرد و ساکن تهران هستم. مدرک دیپلم دارم و در حال حاضر خانه‌دار هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدارم و اضطراب اجتماعی ندارم، هرچند به دیگران سخت اعتماد می‌کنم و ترجیح می‌دهم در جمع‌های کوچک باشم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌پسرم و هرگز اهل ریسک یا رفتارهای خطرناک نبوده‌ام. گاهی فکر می‌کنم از نظر ذهنی از بقیه برترم و دلم می‌خواهد این موضوع دیده شود.",
+        "unusual_experiences_and_history": "اعتقاد خاصی به مسائل غیرعادی یا خرافات ندارم و دنیا را کاملاً منطقی می‌بینم. دوران کودکی و نوجوانی‌ام بسیار آرام بود و هیچ مشکل رفتاری نداشتم."
+    }
+}

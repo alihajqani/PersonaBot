@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.514,
+        "detachment_suspicion": 0.76,
+        "impulsivity_antisocial": 0.101,
+        "narcissism_attention": -0.172,
+        "rigidity_perfectionism": 0.086,
+        "unusual_experiences": 1.499
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.217,
+        "extreme_response": 0.04,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ ساله، مجرد و دانشجوی ارشد در اصفهان هستم؛ در حال حاضر بیکارم و فشار مالی زیادی را تحمل می‌کنم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و گاهی در روابطم احساس ناامنی می‌کنم، اما معمولاً سعی می‌کنم با دیگران رابطه‌ای معمولی و محتاطانه داشته باشم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها متوسط هستم و نه خیلی وسواسی‌ام و نه خیلی بی‌نظم، هرچند گاهی نیاز دارم توجه دیگران را جلب کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً گاهی احساس می‌کنم بدنم متعلق به من نیست یا صداهایی می‌شنوم که دیگران نمی‌شنوند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.688,
+        "detachment_suspicion": -0.127,
+        "impulsivity_antisocial": 0.82,
+        "narcissism_attention": 0.912,
+        "rigidity_perfectionism": -0.89,
+        "unusual_experiences": 0.411
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.212,
+        "extreme_response": -0.614,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۷ ساله، مجرد و ساکن تبریز هستم. در حال حاضر دانشجوی مقطع ارشد هستم و به‌طور همزمان کسب‌وکار شخصی خودم را دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم، اما در روابطم کمی بدبین هستم و زود به دیگران اعتماد نمی‌کنم. گاهی ترجیح می‌دهم تنها باشم چون احساس می‌کنم دیگران لزوماً نیت خیر ندارند.",
+        "behavioral_and_cognitive_traits": "منطقا احساس می‌کنم از بقیه برتترم و انتظار دارم در محیط‌های اجتماعی توجه ویژه‌ای به من شود. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و از ریسک کردن در کارهایم لذت می‌برم.",
+        "unusual_experiences_and_history": "باورهای خاصی دارم و حس می‌کنم ششم حسی دارم که اتفاقات آینده را پیش‌بینی می‌کند. در دوران نوجوانی هم گاهی رفتارهای جسورانه‌ای داشتم که با هنجارهای مدرسه سازگار نبود."
+    }
+}

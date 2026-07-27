@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.566,
+        "detachment_suspicion": -1.209,
+        "impulsivity_antisocial": -0.373,
+        "narcissism_attention": 0.721,
+        "rigidity_perfectionism": 0.333,
+        "unusual_experiences": 0.431
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.229,
+        "extreme_response": -0.489,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختر ۱۸ ساله‌ای هستم، مجرد و ساکن شیراز. در حال حاضر دانشجو هستم و خانواده‌ام وضعیت اقتصادی خوبی دارند.",
+        "emotional_and_interpersonal_style": "احساساتم خیلی سریع تغییر می‌کند و گاهی از ترس اینکه دوستانم مرا دوست نداشته باشند، دچار اضطراب شدید می‌شوم. اما در کل آدم اجتماعی هستم و از تنهایی خوشم نمی‌آید.",
+        "behavioral_and_cognitive_traits": "دوست دارم مرکز توجه باشم و گاهی انتظار دارم بقیه به من توجه ویژه‌ای کنند. همچنین در مورد نظم اتاق و وسایلم کمی وسواس دارم و دوست دارم همه چیز طبق نظم خاصی باشد.",
+        "unusual_experiences_and_history": "گاهی به چیزهای ماوراءطبیعی باور دارم و فکر می‌کنم حس ششمی دارم. در دوران ابتدایی و راهنمایی، گاهی به دلیل لجبازی و تکانشگری با معلمانم دچار مشکل می‌شدم."
+    }
+}

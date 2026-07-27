@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.027,
+        "detachment_suspicion": 0.228,
+        "impulsivity_antisocial": -1.672,
+        "narcissism_attention": -0.516,
+        "rigidity_perfectionism": 0.509,
+        "unusual_experiences": 1.157
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.248,
+        "extreme_response": 0.15,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "دختر ۱۹ ساله‌ای هستم، مجردم و در اهواز زندگی می‌کنم. دیپلم دارم و به عنوان فروشنده در یک مغازه کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام متوسط است، اما ترجیح می‌دهم بیشتر تنها باشم چون به دیگران اعتماد کامل ندارم و گاهی نسبت به دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار قانون‌مندی هستم و هیچ‌وقت ریسک نمی‌کنم. روی جزئیات کارم خیلی وسواس دارم و دلم نمی‌خواهد هیچ چیزی ناقص یا اشتباه باشد.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم؛ مثلاً گاهی احساس می‌کنم از بدنم جدا شده‌ام و دارم خودم را از بیرون تماشا می‌کنم و به نشانه‌های ماوراءطبیعی خیلی باور دارم."
+    }
+}

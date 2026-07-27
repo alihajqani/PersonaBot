@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.03,
+        "detachment_suspicion": -0.647,
+        "impulsivity_antisocial": 0.166,
+        "narcissism_attention": 0.56,
+        "rigidity_perfectionism": -0.452,
+        "unusual_experiences": 0.497
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.181,
+        "extreme_response": 0.45,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای هستم، ساکن تهران، متاهل و خانه‌دارم. تحصیلاتم در حد دیپلمه و وضعیت اقتصادی خانواده‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و زود تحت تأثیر احساساتم قرار می‌گیرم؛ ترس از دست دادن عزیزانم همیشه با منه. با بقیه رابطه‌ام خوبه و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه عصبانیت رفتارهای تندی دارم و تکانشی برخورد می‌کنم. دوست دارم در جمع‌ها مرکز توجه باشم و گاهی فکر می‌کنم بقیه باید بیشتر به من اهمیت بدن.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم. از دوران نوجوانی کمی رفتارهای غیرمتعارف داشتم و هنوز هم به چیزهای متافیزیکی و حس‌های غیرعادی اعتقاد دارم."
+    }
+}

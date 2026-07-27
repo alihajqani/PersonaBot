@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.143,
+        "detachment_suspicion": 3.4,
+        "impulsivity_antisocial": -0.491,
+        "narcissism_attention": -1.078,
+        "rigidity_perfectionism": -0.509,
+        "unusual_experiences": 0.847
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.394,
+        "extreme_response": 0.112,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۸ ساله، مجرد و ساکن اهواز هستم. دیپلم دارم و به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌ام سخت است.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی کمی استرس دارم اما مشکل اصلی من بی‌اعتمادی شدید به آدم‌هاست. حس می‌کنم هیچ‌کس واقعاً نگران من نیست و ترجیح می‌دهم در دنیای خودم تنها باشم.",
+        "behavioral_and_cognitive_traits": "من آدم تکانشی نیستم و سعی می‌کنم طبق قوانین پیش بروم. هرگز ادعای برتری ندارم و ترجیح می‌دهم در حاشیه باشم و توجهی به من نشود.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس می‌کنم در واقعیت نیستم یا اتفاقاتی دور و برم می‌افتد که منطقی نیستند. قبل از ۱۵ سالگی، بیشتر به دلیل خجالتی بودن، از جمع‌ها دوری می‌کردم."
+    }
+}

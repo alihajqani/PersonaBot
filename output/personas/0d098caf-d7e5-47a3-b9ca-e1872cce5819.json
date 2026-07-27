@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.028,
+        "detachment_suspicion": -0.188,
+        "impulsivity_antisocial": -2.486,
+        "narcissism_attention": -1.14,
+        "rigidity_perfectionism": 0.802,
+        "unusual_experiences": -1.195
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.106,
+        "extreme_response": -0.211,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۸ ساله، متاهل و ساکن اهواز هستم، تحصیلاتم در حد دیپلم است و به عنوان یک کارمند ساده در یک اداره مشغول به کار هستم و درآمد متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی در جمع‌های شلوغ احساس اضطراب می‌کنم و نگرانم که دیگران درباره من چه فکری می‌کنند؛ در عین حال نسبت به برخی افراد بدبین هستم و سخت اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و هیچ‌وقت ریسک نمی‌کنم یا هنجارها را زیر پا نمی‌زنم؛ در کارهایم دقت می‌کنم اما وسواسم در حد معقول است.",
+        "unusual_experiences_and_history": "باورهای خرافی یا تجربه‌های غیرعادی ندارم و همیشه سعی می‌کنم مسائل را از دیدگاه منطقی و واقعی ببینم."
+    }
+}

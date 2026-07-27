@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.477,
+        "detachment_suspicion": 1.454,
+        "impulsivity_antisocial": 0.05,
+        "narcissism_attention": 1.165,
+        "rigidity_perfectionism": -1.002,
+        "unusual_experiences": 0.335
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.296,
+        "extreme_response": 0.341,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله، متاهل و ساکن مشهد هستم. با اینکه مدرک کارشناسی دارم، اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام خیلی تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "خیلی زود دپ می‌شم و نوسانات خلقی شدیدی دارم؛ همیشه می‌ترسم نزدیکانم ترکم کنند و در جمع‌های اجتماعی شدیداً مضطرب هستم. به بقیه بی‌اعتمادم و وقتی کسی از من بدی می‌کند، تا سال‌ها کینه به دل می‌گیرم و ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "با اینکه شرایطم سخت است، اما ته دلم احساس می‌کنم از بقیه برترم و لایق جایگاه ویژه‌ای هستم و گاهی از دیگران انتظار دارم هر چه می‌خواهم برایم فراهم کنند. گاهی بدون فکر کارهای تکانشی انجام می‌دهم، هرچند وسواس خاصی روی جزئیات ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات اطرافم واقعی نیستند یا انگار از بدنم جدا شده‌ام. در دوران نوجوانی هم گاهی رفتارهای پرخاشگرانه داشتم که با محیط سازگار نبودم."
+    }
+}

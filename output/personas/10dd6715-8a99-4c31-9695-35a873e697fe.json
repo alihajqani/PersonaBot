@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.867,
+        "detachment_suspicion": 0.101,
+        "impulsivity_antisocial": -0.834,
+        "narcissism_attention": -0.778,
+        "rigidity_perfectionism": 1.204,
+        "unusual_experiences": 0.003
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.209,
+        "extreme_response": -0.085,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سالمه، مجردم و توی مشهد زندگی می‌کنم. دانشجوی کارشناسی هستم و همزمان به عنوان دانشجو فعالیت می‌کنم؛ وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب شدید می‌شم و می‌ترسم در جمع‌ها پذیرفته نشم. اعتمادم به دیگران در سطح متوسطیه و گاهی احساس می‌کنم بقیه درباره‌ام بد فکر می‌کنن.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی نظم و ترتیب دارم و اگر برنامه روزانه‌ام به هم بخوره، واقعاً کلافه می‌شم. اهل رفتارهای پرخطر یا جلب توجه نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم. گاهی اوقات احساس می‌کنم از بدنم جدا شدم یا انگار دنیا یک رویای طولانی و غیرواقعیه."
+    }
+}

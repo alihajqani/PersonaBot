@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.383,
+        "detachment_suspicion": 1.36,
+        "impulsivity_antisocial": 0.469,
+        "narcissism_attention": 0.685,
+        "rigidity_perfectionism": 0.454,
+        "unusual_experiences": 1.495
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.399,
+        "extreme_response": -0.519,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۹ سالمه، متاهلم و توی اصفهان زندگی می‌کنم. لیسانس دارم و کسب‌وکار خودم رو اداره می‌کنم و وضعیت اقتصادی‌ام عالیه.",
+        "emotional_and_interpersonal_style": "با اینکه موفق هستم، اما به شدت به اطرافیانم بدبینم و فکر می‌کنم هر کسی می‌خواد جای من باشه. گاهی هم بی‌دلیل عصبی می‌شم و حال و هوام عوض می‌شه.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از بقیه برترم و لایق جایگاه ویژه‌تری هستم. گاهی در تصمیمات مالی‌ام ریسک‌های بی‌مورد می‌کنم و کمی هم روی جزئیات وسواس دارم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها به حس ششم خودم تکیه می‌کنم و تجربیاتی داشتم که از نظر علمی قابل توضیح نیستن و احساس می‌کنم ارتباطی با دنیای متافیزیک دارم."
+    }
+}

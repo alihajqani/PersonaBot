@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.682,
+        "detachment_suspicion": -0.478,
+        "impulsivity_antisocial": -1.326,
+        "narcissism_attention": 0.0,
+        "rigidity_perfectionism": 0.926,
+        "unusual_experiences": 0.771
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.341,
+        "extreme_response": -0.415,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله مجرد ساکن تهران هستم. دیپلم دارم و در حال حاضر بیکارم و از نظر مالی وضعیت ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "مودم زیاد تغییر می‌کند و گاهی بدون دلیل احساس دلشوره می‌کنم، اما با این حال از معاشرت با دوستانم لذت می‌برم و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "خیلی روی نظم و ترتیب وسایلم حساس هستم و اگر چیزی جابجا شود عصبی می‌شوم؛ از طرفی دوست دارم دیگران توجه بیشتری به من کنند و احساس می‌کنم استحقاق جایگاه بهتری دارم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها حس می‌کنم انگار از دور دارم به خودم نگاه می‌کنم یا چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند؛ سابقه درمان روانپزشکی هم دارم."
+    }
+}

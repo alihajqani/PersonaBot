@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.168,
+        "detachment_suspicion": 0.854,
+        "impulsivity_antisocial": -0.254,
+        "narcissism_attention": -0.653,
+        "rigidity_perfectionism": 0.693,
+        "unusual_experiences": 0.779
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.366,
+        "extreme_response": 0.702,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۸ ساله مجرد ساکن تهران هستم. دیپلم دارم و در حال حاضر به عنوان فروشنده در مغازه کار می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "اضطرابم خیلی بالاست و هر لحظه می‌ترسم دیگران درباره‌ام بد فکر کنند یا مرا طرد کنند. نوسانات خلقی‌ام شدید است و گاهی به شدت احساس تنهایی و بی‌اعتمادی می‌کنم.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم در کارهایم دقیق باشم و گاهی وسواس به خرج می‌دهم، اما در عین حال تکانشگری دارم و گاهی بدون فکر واکنش‌های تندی نشان می‌دهم. احساس برتری خاصی ندارم و بیشتر ترجیح می‌دهم نامرئی باشم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی صداهایی می‌شنوم یا حس می‌کنم اتفاقات عجیب و غیرمنطقی دور و برم می‌افتد. قبل از ۱۵ سالگی هم مشکلاتی در کنترل خشم داشتم."
+    }
+}

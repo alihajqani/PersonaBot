@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.969,
+        "detachment_suspicion": -0.738,
+        "impulsivity_antisocial": 0.811,
+        "narcissism_attention": 0.154,
+        "rigidity_perfectionism": 1.71,
+        "unusual_experiences": 0.185
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.196,
+        "extreme_response": 0.719,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، متاهل و ساکن تبریز هستم. مدرک دکترا دارم و به عنوان یک مدیر عالی‌رتبه فعالیت می‌کنم و وضعیت مالی بسیار عالی‌ای دارم.",
+        "emotional_and_interpersonal_style": "با وجود جایگاه شغلی‌ام، اضطراب اجتماعی بالایی دارم و گاهی نوسانات خلقی شدیدی را تجربه می‌کنم. با این حال، سعی می‌کنم روابطم را حفظ کنم و بدبینی شدیدی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی کوچک‌ترین جزئیات حساسیت شدید دارم. گاهی در محیط کار تکانشی رفتار می‌کنم و انتظار دارم دیگران به دلیل جایگاهم با من رفتار ویژه‌ای داشته باشند.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم یا اتفاقات را پیش‌بینی می‌کنم. در نوجوانی هم گاهی رفتارهای بی‌قرار و تکانشی داشتم که با محیط اطرافم در تضاد بود."
+    }
+}

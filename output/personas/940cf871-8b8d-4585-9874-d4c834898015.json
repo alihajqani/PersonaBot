@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.045,
+        "detachment_suspicion": -0.171,
+        "impulsivity_antisocial": -0.194,
+        "narcissism_attention": -0.46,
+        "rigidity_perfectionism": 0.463,
+        "unusual_experiences": 0.339
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.455,
+        "extreme_response": -0.269,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۴ ساله، متاهل و ساکن تهران هستم. در حال حاضر دانشجوی کارشناسی هستم اما بیکارم و وضعیت اقتصادی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و به ندرت دچار اضطراب یا ترس از طرد شدن می‌شوم. در روابطم احتیاط می‌کنم و نگاهی میانه به دیگران دارم، نه خیلی بدبین و نه خیلی ساده‌لوح.",
+        "behavioral_and_cognitive_traits": "در انجام کارهای خانه و تحصیل کمی وسواس دارم و دوست دارم هر چیزی در جای خودش باشد. تمایلی به جلب توجه دیگران یا احساس برتری ندارم و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "گاهی به پیشگویی‌ها یا حس‌های درونی‌ام اعتماد می‌کنم و تجربیات ذهنی متوسطی دارم. در دوران نوجوانی، رفتارهای من کاملاً مطابق با انتظار خانواده و جامعه بود و هیچ عصیانی نکردم."
+    }
+}

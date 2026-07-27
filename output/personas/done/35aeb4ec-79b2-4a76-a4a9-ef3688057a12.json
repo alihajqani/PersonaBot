@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.622,
+        "detachment_suspicion": 0.738,
+        "impulsivity_antisocial": 0.573,
+        "narcissism_attention": 0.768,
+        "rigidity_perfectionism": 0.312,
+        "unusual_experiences": -0.632
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.63,
+        "extreme_response": -0.32,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای متاهل از تبریز هستم. فوق لیسانس دارم و به عنوان مهندس مشغول به کارم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، اما در روابط اجتماعی کمی محتاطم و زود به دیگران اعتماد نمی‌کنم. ترجیح می‌دهم دایره دوستانم کوچک و محدود باشد.",
+        "behavioral_and_cognitive_traits": "گاه پیش می‌آید که بدون فکر عمل کنم یا قوانین سخت‌گیرانه را دور بزنم. در کارهایم نظم دارم و کمی به دنبال جلب توجه و تایید دیگران هستم.",
+        "unusual_experiences_and_history": "اعتقادات خرافی کمی دارم اما به طور کلی منطقی هستم. در دوران مدرسه، دانش‌آموز قانون‌پذیری بودم و هیچ سابقه رفتارهای تکانشی نداشتم."
+    }
+}

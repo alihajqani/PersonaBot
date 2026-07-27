@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.457,
+        "detachment_suspicion": 0.218,
+        "impulsivity_antisocial": 1.133,
+        "narcissism_attention": 0.707,
+        "rigidity_perfectionism": 0.724,
+        "unusual_experiences": 0.551
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.63,
+        "extreme_response": 0.191,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای هستم، مجرد و ساکن مشهد. در حال حاضر دانشجوی کارشناسی هستم و همزمان در یک مغازه به عنوان فروشنده کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بیشتر اوقات آرام هستم و اضطراب زیادی ندارم، هرچند گاهی به آدم‌ها بدبین می‌شوم و ترجیح می‌دهم دایره دوستانم کوچک باشد.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر کارهای خطرناک می‌کنم یا قوانین را زیر پا می‌زنم. کمی هم میل به توجه و دیده شدن توسط دیگران دارم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی پیشامداتی را تجربه می‌کنم که توجیه منطقی ندارند. قبل از ۱۵ سالگی سابقه لجبازی و رفتارهای پرخاشگرانه داشتم."
+    }
+}

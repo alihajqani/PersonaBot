@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.112,
+        "detachment_suspicion": -0.058,
+        "impulsivity_antisocial": 1.134,
+        "narcissism_attention": 0.297,
+        "rigidity_perfectionism": -1.289,
+        "unusual_experiences": 0.644
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.262,
+        "extreme_response": -0.067,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ ساله‌ام و مجردم، در مشهد دانشجوی مقطع کارشناسی هستم و فعلاً شغلی ندارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی دارم و مدام می‌ترسم که دوستانم مرا رها کنند، هرچند گاهی در روابطم بدبین می‌شوم و به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در محیط دانشگاه رفتارهای تکانشی دارم، اما اصلاً اهل وسواس یا نظم نیستم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم پیش‌بینی‌هایی می‌کنم که به طرز عجیبی درست از آب در می‌آیند."
+    }
+}

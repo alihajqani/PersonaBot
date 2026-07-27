@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.7,
+        "detachment_suspicion": 1.091,
+        "impulsivity_antisocial": -0.578,
+        "narcissism_attention": -1.452,
+        "rigidity_perfectionism": -0.005,
+        "unusual_experiences": -0.58
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.535,
+        "extreme_response": -0.108,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقای ۲۰ ساله‌ای هستم، مجرد و دارای مدرک دیپلم. به عنوان یک کارمند ساده در شهر شیراز مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "تمایل زیادی به انزوا دارم و به راحتی به کسی اعتماد نمی‌کنم؛ احساس می‌کنم مردم دنیا ذاتاً بدبین هستند و من باید از خودم محافظت کنم.",
+        "behavioral_and_cognitive_traits": "آدمی هستم که قوانین را رعایت می‌کنم و تکانشگری ندارم، هرچند در انجام کارهایم گاهی بیش از حد روی جزئیات متمرکز می‌شوم.",
+        "unusual_experiences_and_history": "تجربه خاص یا توهمی ندارم، اما از دوران مدرسه تمایل داشتم از جمع فاصله بگیرم و با دیگران ارتباط محدودی داشته باشم."
+    }
+}

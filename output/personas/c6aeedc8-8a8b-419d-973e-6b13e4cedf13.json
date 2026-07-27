@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.819,
+        "detachment_suspicion": 1.053,
+        "impulsivity_antisocial": 1.087,
+        "narcissism_attention": 0.683,
+        "rigidity_perfectionism": -0.75,
+        "unusual_experiences": -0.222
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 1.054,
+        "extreme_response": -0.047,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۸ سالمه، مجردم و ساکن تبریز هستم. دیپلم دارم و توی مغازه کار می‌کنم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "اضطرابم خیلی بالاست و مدام می‌ترسم اتفاق بدی بیفته. به هیچ‌کس اعتماد ندارم و ترجیح می‌دم تک و تنها باشم تا کسی بهم آسیب نزنه.",
+        "behavioral_and_cognitive_traits": "خیلی زود از کوره در می‌رم و رفتارهای پرخاشگرانه‌ای دارم. گاهی بدون فکر کارهایی می‌کنم که بعداً پشیمون می‌شم، هرچند فکر می‌کنم از بقیه باهوش‌ترم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها احساس می‌کنم نیروهای غیرعادی رو حس می‌کنم یا پیش‌بینی‌های عجیبی دارم. سابقه بیماری روان‌پزشکی دارم و دوران نوجوانی‌ام خیلی پرتلاطم بود."
+    }
+}

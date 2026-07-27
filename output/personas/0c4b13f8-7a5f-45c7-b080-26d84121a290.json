@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.014,
+        "detachment_suspicion": 0.1,
+        "impulsivity_antisocial": 0.828,
+        "narcissism_attention": 0.997,
+        "rigidity_perfectionism": -1.167,
+        "unusual_experiences": 0.443
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.383,
+        "extreme_response": -0.31,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و ساکن تهران. مدرک دکترا دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی بالایی دارم و نوسانات خلقی‌ام زیاد است؛ همیشه نگران قضاوت دیگران هستم. با این حال، بدبینی شدیدی ندارم و می‌توانم با دیگران ارتباط برقرار کنم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی و عجولانه دارم. احساس برتری زیادی نسبت به دیگران دارم و انتظار دارم در هر محیطی با من به عنوان یک فرد خاص رفتار شود، اما در کارهایم اصلاً کمال‌گرا نیستم و به جزئیات اهمیت نمی‌دهم.",
+        "unusual_experiences_and_history": "گاهی تجربیات غیرعادی خفیفی مثل پیش‌بینی اتفاقات یا حس‌های عجیب دارم. در دوران نوجوانی، به دلیل اعتماد به نفس بالا، گاهی قوانین مدرسه را به چالش می‌کشیدم."
+    }
+}

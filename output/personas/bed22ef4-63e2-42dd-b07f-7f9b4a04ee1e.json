@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.115,
+        "detachment_suspicion": 0.967,
+        "impulsivity_antisocial": -1.217,
+        "narcissism_attention": -1.182,
+        "rigidity_perfectionism": -0.554,
+        "unusual_experiences": -1.045
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.107,
+        "extreme_response": -0.709,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۵ ساله و متاهل هستم؛ دانشجوی ارشد و معلم در شهر تهران هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بیشتر اوقات ترجیح می‌دهم تنها باشم و به شدت نسبت به دیگران بدبین هستم. فکر می‌کنم مردم صادق نیستند و احتمالاً قصد دارند از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و هرگز کارهای تکانشی یا خطرناک انجام نمی‌دهم. نیازی به جلب توجه دیگران ندارم و ترجیح می‌دهم در حاشیه باشم و کارم را در سکوت انجام دهم.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا خرافاتی در زندگی‌ام نداشته‌ام. دوران کودکی و نوجوانی‌ام کاملاً قاعده‌مند بود و هیچ‌گاه با مسائل انضباطی روبرو نشدم."
+    }
+}

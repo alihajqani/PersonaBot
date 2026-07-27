@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.265,
+        "detachment_suspicion": -1.313,
+        "impulsivity_antisocial": -0.655,
+        "narcissism_attention": -0.04,
+        "rigidity_perfectionism": 0.267,
+        "unusual_experiences": 0.03
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.409,
+        "extreme_response": 0.023,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای مجرد ساکن کرج هستم. مدرک کارشناسی دارم و در حال حاضر خانه‌دار هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار آرام هستم و نوسانات خلقی یا اضطراب اجتماعی ندارم. با دیگران مهربان هستم و هیچ تمایلی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی ندارم و همیشه سنجیده عمل می‌کنم. دوست دارم در خانواده و جمع دوستانم مورد توجه باشم و به نظرم اهمیت دادن به من حق من است. همچنین در سازماندهی کارهای خانه بسیار دقیق و وسواسی هستم.",
+        "unusual_experiences_and_history": "دوران کودکی و نوجوانی بسیار آرامی داشتم و هیچ‌گاه قانون‌شکنی نکردم. گاهی به این باورم که اتفاقات زندگی بر اساس یک تقدیر پیش‌بینی شده است."
+    }
+}

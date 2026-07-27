@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.868,
+        "detachment_suspicion": -1.41,
+        "impulsivity_antisocial": -0.38,
+        "narcissism_attention": 0.799,
+        "rigidity_perfectionism": -0.069,
+        "unusual_experiences": 0.002
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.318,
+        "extreme_response": -0.11,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۴ ساله، متاهل و ساکن تبریز هستم با مدرک کارشناسی و شغلی به عنوان کارمند اداری؛ وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب اجتماعی می‌شوم و احساساتم نوسان دارد، اما کلاً آدم صمیمی هستم و به دیگران اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "در محیط کار منظم هستم و قوانین را رعایت می‌کنم، اما در عین حال دوست دارم مورد تحسین باشم و احساس کنم از همکارانم برترم.",
+        "unusual_experiences_and_history": "اتفاقات تصادفی عجیبی در زندگی‌ام افتاده که فکر می‌کنم دلیل ماورایی داشته باشند، اما هرگز مشکل رفتاری یا بیماری خاصی نداشتم."
+    }
+}

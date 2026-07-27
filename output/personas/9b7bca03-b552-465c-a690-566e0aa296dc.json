@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.144,
+        "detachment_suspicion": 0.897,
+        "impulsivity_antisocial": -0.351,
+        "narcissism_attention": -0.736,
+        "rigidity_perfectionism": -0.155,
+        "unusual_experiences": 0.649
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.219,
+        "extreme_response": 0.147,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۴۰ سالمه، متأهلم و در اهواز به عنوان کارمند اداری فعالیت می‌کنم. با اینکه تحصیلاتم در مقطع ارشد است، اما وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شم و نسبت به نیت‌های دیگران بدبین هستم؛ ترجیح می‌دم بیشتر در تنهایی باشم تا اینکه وارد جمع‌های شلوغ بشم.",
+        "behavioral_and_cognitive_traits": "آدمی قانون‌مند هستم و زیاد ریسک نمی‌کنم. روی جزئیات کارهای اداری‌ام وسواس دارم و دوست دارم همه چیز دقیق و طبق روال پیش بره.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعه علاقه دارم و گاهی حس می‌کنم اتفاقاتی رو پیش‌بینی کردم که بعداً اتفاق افتاد."
+    }
+}

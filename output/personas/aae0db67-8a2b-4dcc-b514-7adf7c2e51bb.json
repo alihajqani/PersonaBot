@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.883,
+        "detachment_suspicion": -1.012,
+        "impulsivity_antisocial": -0.396,
+        "narcissism_attention": 0.448,
+        "rigidity_perfectionism": 0.201,
+        "unusual_experiences": -1.344
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.011,
+        "extreme_response": -0.182,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن مشهد هستم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی فردی آرام هستم و اضطراب یا بدبینی خاصی نسبت به دیگران ندارم و روابط اجتماعی‌ام نسبتاً خوب و ساده است.",
+        "behavioral_and_cognitive_traits": "کمی به خودم می‌بالم و دوست دارم دیگران متوجه موفقیت‌هایم شوند؛ در کارهایم نظم متوسطی دارم و سعی می‌کنم طبق روال معمول پیش بروم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهماتی ندارم و زندگی‌ام همیشه در چارچوب‌های منطقی و پذیرفته شده پیش رفته است."
+    }
+}

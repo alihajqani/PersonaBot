@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.282,
+        "detachment_suspicion": -0.864,
+        "impulsivity_antisocial": -0.727,
+        "narcissism_attention": -0.035,
+        "rigidity_perfectionism": -0.38,
+        "unusual_experiences": -0.655
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.659,
+        "extreme_response": 0.421,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۸ سالمه، متاهلم و در تبریز زندگی می‌کنم. فوق‌لیسانس دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار افت خلقی می‌شم و احساس می‌کنم دنیا با من نامردی کرده. با این حال، سعی می‌کنم با بقیه رابطه‌ام رو حفظ کنم و بدبینی شدیدی به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "با اینکه در حال حاضر بیکارم، اما هنوز حس می‌کنم توانایی‌های من خیلی بیشتر از این‌هاست و باید جایگاه بهتری داشته باشم. خیلی روی جزئیات وسواس ندارم و بیشتر به دنبال راه حل‌های کلی هستم.",
+        "unusual_experiences_and_history": "تجربه‌های عجیب یا توهمی ندارم و نگاهی واقع‌گرایانه به زندگی دارم. در دوران نوجوانی دانش‌آموز آرامی بودم و مشکل رفتاری یا تکانشگری خاصی نداشتم."
+    }
+}

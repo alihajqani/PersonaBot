@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.443,
+        "detachment_suspicion": -0.701,
+        "impulsivity_antisocial": -0.808,
+        "narcissism_attention": -1.033,
+        "rigidity_perfectionism": -0.415,
+        "unusual_experiences": 0.845
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.3,
+        "extreme_response": -0.664,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۱ سالمه و توی تهران زندگی می‌کنم و متاهل هستم. دیپلم دارم و به عنوان کارمند ساده کار می‌کنم و وضعیت مالی‌م خوبه.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها مضطربم و می‌ترسم بقیه ازم فاصله بگیرن یا در جمع احساس ناامنی می‌کنم. اما در کل آدم بدبینی نیستم و سعی می‌کنم با دیگران سازگار باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهای پرخطر ندارم و سعی می‌کنم طبق قوانین پیش برم. میل زیادی به برتری‌جویی یا وسواس‌های سخت‌گیرانه ندارم و ساده زندگی می‌کنم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم بدنم با من نیست یا تجربه‌هایی دارم که بقیه می‌گن خرافاته. سابقه بیماری روانپزشکی دارم و از نوجوانی با این مسائل درگیر بودم."
+    }
+}

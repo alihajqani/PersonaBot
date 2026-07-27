@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.192,
+        "detachment_suspicion": 0.535,
+        "impulsivity_antisocial": -0.033,
+        "narcissism_attention": -0.318,
+        "rigidity_perfectionism": 0.093,
+        "unusual_experiences": 1.409
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.454,
+        "extreme_response": -0.103,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و متاهل از اهواز هستم. دانشجوی کارشناسی هستم و همزمان به عنوان تکنسین فنی کار می‌کنم، اما وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی در جمع‌ها مضطرب می‌شوم. نسبت به دیگران کمی بدبین هستم و فکر می‌کنم بعضی‌ها قصد دارند از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "در رفتارهایم تعادل متوسطی بین تکانشگری و نظم دارم؛ نه خیلی قانون‌شکن هستم و نه خیلی وسواسی. احساس برتری یا نیاز به توجه در من در سطح معمولی است.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و تجربه‌های غیرعادی زیادی مثل شنیدن صداها یا حس کردن حضور موجودات نامرئی دارم. پیش از ۱۵ سالگی، رفتارهای عجیب و غریبی داشتم که باعث می‌شد در مدرسه با من متفاوت برخورد کنند."
+    }
+}

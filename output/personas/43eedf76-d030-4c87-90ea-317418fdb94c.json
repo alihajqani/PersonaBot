@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.118,
+        "detachment_suspicion": 0.713,
+        "impulsivity_antisocial": 0.18,
+        "narcissism_attention": 1.661,
+        "rigidity_perfectionism": 0.279,
+        "unusual_experiences": -1.053
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.109,
+        "extreme_response": 0.064,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۲۰ ساله‌م، مجرد و ساکن کرج. دیپلم دارم و در حال حاضر دانشجوی دانشگاه هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و احساس می‌کنم بقیه من رو نمی‌فهمن یا ممکنه بهم پشت کنن. گاهی اوقات نسبت به اطرافیانم بدبین می‌شم و فکر می‌کنم دارن پشت سرم حرف می‌زنن.",
+        "behavioral_and_cognitive_traits": "خیلی دوست دارم بقیه من رو تحسین کنن و احساس می‌کنم از بقیه هم‌کلاسی‌هام برترم و باید توجه ویژه‌ای به من بشه. در کارهام نظم متوسطی دارم و گاهی بدون فکر تصمیم می‌گیرم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعه علاقه ندارم و تجربیات توهمی نداشتم. در دوران مدرسه گاهی به خاطر لجبازی با قوانین مدرسه مشکل داشتم."
+    }
+}

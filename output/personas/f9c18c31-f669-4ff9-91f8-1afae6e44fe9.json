@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.195,
+        "detachment_suspicion": 0.08,
+        "impulsivity_antisocial": -2.271,
+        "narcissism_attention": -1.444,
+        "rigidity_perfectionism": -0.894,
+        "unusual_experiences": -1.164
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.807,
+        "extreme_response": 0.259,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۱۹ ساله، مجرد و ساکن شیرازم. در حال حاضر دانشجوی مقطع کاردانش هستم و به‌صورت همزمان به عنوان منشی و دستیار فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و به‌ندرت دچار اضطراب شدید یا ترس از طرد شدن می‌شوم، هرچند گاهی در روابطم کمی بدبین هستم و ترجیح می‌دهم با احتیاط با دیگران ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هیچ‌وقت به فکر رفتارهای پرخطر یا هنجارشکنی نیستم؛ همچنین تمایلی به جلب توجه بیش از حد یا احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "در کودکی و نوجوانی هیچ سابقه رفتاری غیرعادی یا مشکل جدی نداشته‌ام و در حال حاضر هم هیچ‌گونه تجربه توهمی یا باورهای خرافی خاصی ندارم."
+    }
+}

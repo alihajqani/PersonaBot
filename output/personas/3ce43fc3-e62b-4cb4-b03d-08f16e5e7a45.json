@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.064,
+        "detachment_suspicion": -0.118,
+        "impulsivity_antisocial": -0.966,
+        "narcissism_attention": -0.147,
+        "rigidity_perfectionism": 0.529,
+        "unusual_experiences": 0.335
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.17,
+        "extreme_response": -0.219,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۱ سالمه، متاهل و ساکن مشهد. لیسانس دارم و کارمند اداری هستم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "احساساتم در سطح معموله، هرچند گاهی دچار اضطراب می‌شم. رابطه‌ام با همکاران و خانواده‌ام خوبه اما گاهی تمایل دارم کمی تنها باشم.",
+        "behavioral_and_cognitive_traits": "توی کارهای اداری‌ام کمی وسواس دارم و دوست دارم همه چیز مرتب باشه. رفتارهام منطقیه و سعی می‌کنم طبق قوانین پیش برم و تکانشگری ندارم.",
+        "unusual_experiences_and_history": "به بعضی خرافات رایج اعتقاد دارم و گاهی حس می‌کنم شانس یا بدشانسی خاصی دارم. سابقه بیماری روان‌پزشکی ندارم و کودکی آرامی داشتم."
+    }
+}

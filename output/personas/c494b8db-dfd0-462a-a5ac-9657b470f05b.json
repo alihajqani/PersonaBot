@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.893,
+        "detachment_suspicion": -1.135,
+        "impulsivity_antisocial": 0.37,
+        "narcissism_attention": 1.36,
+        "rigidity_perfectionism": -0.188,
+        "unusual_experiences": -0.755
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.162,
+        "extreme_response": 0.722,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای هستم، مجرد و ساکن اهواز، با مدرک کارشناسی که به عنوان معلم در بخش فرهنگی فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدارم و اصلاً دچار اضطراب اجتماعی یا ترس از تنهایی نمی‌شوم؛ با دیگران راحت هستم و دیدگاه مثبتی به روابط انسانی دارم.",
+        "behavioral_and_cognitive_traits": "قویماً باور دارم که برتری‌های خاصی نسبت به دیگران دارم و انتظار دارم در محیط کارم توجه ویژه‌ای به من شود؛ گاهی هم بدون فکر تصمیمات تکانشی می‌گیرم.",
+        "unusual_experiences_and_history": "من فردی کاملاً واقع‌بین هستم و به توهمات یا خرافات اعتقادی ندارم؛ در دوران نوجوانی گاهی به دلیل اعتماد به نفس زیاد، قوانین مدرسه را نادیده می‌گرفتم."
+    }
+}

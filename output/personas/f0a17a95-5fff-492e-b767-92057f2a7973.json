@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.016,
+        "detachment_suspicion": -0.666,
+        "impulsivity_antisocial": -0.612,
+        "narcissism_attention": 0.095,
+        "rigidity_perfectionism": -0.911,
+        "unusual_experiences": -0.883
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.5,
+        "extreme_response": -0.567,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۰ سالمه، مجردم و تو اصفهان زندگی می‌کنم. دیپلم دارم و به عنوان یه کارمند ساده مشغول به کارم و وضعیت مالی‌م در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "خیلی آدم آرومی هستم و اضطراب خاصی توی روابطم ندارم. با بقیه هم ارتباط خوب دارم و اهل کینه یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم منطقیه و اهل ریسک یا قانون‌شکنی نیستم. البته دوست دارم در محیط کارم مورد توجه باشم و جایگاه خوبی داشته باشم، اما وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "تجربه‌های عجیبی ندارم و خیلی واقع‌بین هستم و هیچ‌وقت حس نکرده‌ام که اتفاقات غیرطبیعی دور و برم می‌افته."
+    }
+}

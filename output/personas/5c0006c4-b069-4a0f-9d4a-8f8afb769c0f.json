@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.503,
+        "detachment_suspicion": -0.434,
+        "impulsivity_antisocial": -0.261,
+        "narcissism_attention": 0.046,
+        "rigidity_perfectionism": 0.906,
+        "unusual_experiences": -0.164
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.357,
+        "extreme_response": 0.518,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای متاهل هستم و در تبریز زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و گاهی بدون دلیل احساس اضطراب می‌کنم، اما در کل با دیگران سازگارم و تمایل شدیدی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "در محیط کار بسیار دقیق و وسواسی هستم و دوست دارم همه چیز طبق دستورالعمل پیش برود. گاهی هم رفتارهای تکانشی نشان می‌دهم که باعث تعجب همکارانم می‌شود.",
+        "unusual_experiences_and_history": "تجربه‌هایی شبیه به حس ششم دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام و دارم از بیرون به خودم و اتفاقات نگاه می‌کنم."
+    }
+}

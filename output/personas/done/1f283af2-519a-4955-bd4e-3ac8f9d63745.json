@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.72,
+        "detachment_suspicion": -0.863,
+        "impulsivity_antisocial": -0.104,
+        "narcissism_attention": -0.197,
+        "rigidity_perfectionism": -0.256,
+        "unusual_experiences": 2.146
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.132,
+        "extreme_response": 0.128,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۷ ساله‌ای هستم، مجرد و دانشجوی مقطع ارشد. در حال حاضر بیکار هستم و در شهر تهران با وضعیت اقتصادی متوسط زندگی می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و روابطم با دیگران آرام است، هرچند تمایل دارم بیشتر در فضای شخصی خودم باشم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌هایم عجول هستم و بدون بررسی دقیق، کارهایی را انجام می‌دهم که بعداً به دلیل تکانشگری‌ام پشیمان می‌شوم.",
+        "unusual_experiences_and_history": "تجربیات بصری و شنیداری بسیار عجیبی دارم و حس می‌کنم با ابعادی از جهان در ارتباط هستم که دیگران نمی‌توانند درک کنند."
+    }
+}

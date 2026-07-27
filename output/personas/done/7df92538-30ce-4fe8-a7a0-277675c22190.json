@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.882,
+        "detachment_suspicion": -0.431,
+        "impulsivity_antisocial": 0.635,
+        "narcissism_attention": 0.124,
+        "rigidity_perfectionism": 0.325,
+        "unusual_experiences": 0.723
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.288,
+        "extreme_response": 0.255,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای مجرد از تبریز هستم. تحصیلاتم در مقطع کارشناسی است و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار باثبات هستم و تقریباً هیچ‌گونه اضطراب اجتماعی یا ترس از طرد شدن ندارم. با دیگران رابطه‌ای دوستانه دارم و به ندرت پیش می‌آید که احساس بدبینی یا انزوا کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم، اما در کل فردی متعادل هستم. کمال‌گرایی من در حد متوسط است و سعی می‌کنم بین نظم و انعطاف تعادل برقرار کنم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس کنم اتفاقاتی را پیش‌بینی کرده‌ام یا حس ششمم به من هشدار می‌دهد. در دوران کودکی و نوجوانی، رفتارهای من کاملاً هنجارمند بود و هرگز با قوانین مدرسه تضادی نداشتم."
+    }
+}

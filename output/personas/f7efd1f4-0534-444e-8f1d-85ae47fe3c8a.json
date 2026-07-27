@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.092,
+        "detachment_suspicion": -0.137,
+        "impulsivity_antisocial": 1.372,
+        "narcissism_attention": 1.101,
+        "rigidity_perfectionism": -1.053,
+        "unusual_experiences": -0.215
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.218,
+        "extreme_response": -0.417,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و مجرد هستم که در مشهد زندگی می‌کنم. دیپلم دارم و در حال حاضر بیکار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "احساساتم نوسان دارد و نسبت به جامعه و افرادی که با آن‌ها برخورد می‌کنم بدبین هستم و فکر می‌کنم هر کسی به دنبال سوءاستفاده از من است.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی پرخاشگری می‌کنم؛ با وجود شرایط فعلی‌ام، درونی احساس می‌کنم از بقیه برترم و لایق جایگاه‌های بسیار بالاتری هستم.",
+        "unusual_experiences_and_history": "به پیش‌گویی‌ها و نشانه‌های خاصی در زندگی اعتقاد دارم و در دوران نوجوانی سابقه درگیری‌های شدید و رفتارهای هنجارشکنانه داشتم."
+    }
+}

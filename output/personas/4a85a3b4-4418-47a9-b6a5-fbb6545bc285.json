@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.062,
+        "detachment_suspicion": 0.392,
+        "impulsivity_antisocial": 0.536,
+        "narcissism_attention": 0.098,
+        "rigidity_perfectionism": -0.952,
+        "unusual_experiences": -0.101
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.472,
+        "extreme_response": 0.512,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سال دارم، مجردم و در شیراز زندگی می‌کنم. دیپلم دارم و در حال حاضر بیکار هستم و وضعیت اقتصادی‌ام نسبتاً تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "از نظر خلقی زیاد دچار نوسان نمی‌شوم، اما ترجیح می‌دهم تنها باشم. نسبت به نیت دیگران کمی بدبین هستم و سخت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای خطرناک می‌کنم یا قوانین را نادیده می‌گیرم. دوست دارم دیگران من را آدم خاصی ببینند، اما در کارهایم نظم و وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعی علاقه دارم و گاهی حس می‌کنم چیزهایی را می‌بینم یا می‌شنوم که دیگران متوجه نمی‌شوند. قبل از ۱۵ سالگی هم سابقه درگیری‌های رفتاری در مدرسه داشتم."
+    }
+}

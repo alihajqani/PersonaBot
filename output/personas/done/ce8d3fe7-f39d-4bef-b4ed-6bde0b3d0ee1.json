@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.368,
+        "detachment_suspicion": -1.458,
+        "impulsivity_antisocial": 1.48,
+        "narcissism_attention": 1.316,
+        "rigidity_perfectionism": -0.315,
+        "unusual_experiences": -0.399
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.298,
+        "extreme_response": 0.003,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۰ ساله، مجرد و ساکن تهران هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی خانواده‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم، اما معمولاً این موضوع با تحریک‌پذیری و عصبانیت همراه است. با دیگران راحت هستم اما تمایل دارم کنترل روابط را در دست داشته باشم.",
+        "behavioral_and_cognitive_traits": "من از بچگی علاقه داشتم قوانین را به چالش بکشم و رفتارهای جسورانه و گاهی خطرناک داشتم. به شدت دوست دارم مورد تحسین دیگران باشم و احساس می‌کنم خاص‌تر از بقیه هستم.",
+        "unusual_experiences_and_history": "سابقه درمان‌های روان‌پزشکی را دارم و در کودکی با مشکلات رفتاری و تکانشگری شدید مواجه بودم. تجربیات غیرعادی خاصی ندارم، اما گاهی در لحظات استرس زیاد، احساس می‌کنم محیط اطرافم تغییر کرده است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.404,
+        "detachment_suspicion": 1.136,
+        "impulsivity_antisocial": -0.014,
+        "narcissism_attention": 0.6,
+        "rigidity_perfectionism": 0.712,
+        "unusual_experiences": 0.137
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.073,
+        "extreme_response": 0.385,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ ساله، اهل اهواز و متاهل هستم؛ در حال حاضر دانشجوی کارشناسی هستم و همزمان به عنوان یک کارمند ساده مشغول به کارم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و ترس شدیدی از این دارم که دیگران مرا نپسندند یا تنها بمانم؛ به طور کلی به آدم‌ها بی‌اعتماد هستم و ترجیح می‌دهم بیشتر وقتم را در تنهایی بگذرانم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در محیط کار یا دانشگاه سعی می‌کنم جلب توجه کنم چون احساس می‌کنم توانایی‌هایم بیشتر از دیگران است و باید ویژه‌تر دیده شوم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا محیط اطرافم واقعی نیست؛ در دوران نوجوانی سوابق تخلف از قوانین مدرسه و درگیری‌های لفظی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.614,
+        "detachment_suspicion": 0.349,
+        "impulsivity_antisocial": 0.714,
+        "narcissism_attention": 0.819,
+        "rigidity_perfectionism": -0.852,
+        "unusual_experiences": 1.176
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.351,
+        "extreme_response": 0.261,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۵ ساله، مجرد و ساکن تهران هستم. تحصیلاتم در سطح دیپلم است و به عنوان فروشنده در یک مغازه کار می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "خیلی زود تحت تأثیر احساساتم قرار می‌گیرم و ترس از طرد شدن توسط دوستانم باعث می‌شود گاهی بیش از حد مضطرب شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و دوست دارم در جمع‌ها مرکز توجه باشم و دیده شوم، هرچند خیلی روی جزئیات و نظم وسواس ندارم.",
+        "unusual_experiences_and_history": "خیلی به مسائل ماوراءطبیعه و انرژی‌ها اعتقاد دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا دنیا را از دور می‌بینم."
+    }
+}

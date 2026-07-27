@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.361,
+        "detachment_suspicion": 0.892,
+        "impulsivity_antisocial": 0.377,
+        "narcissism_attention": -0.701,
+        "rigidity_perfectionism": 1.832,
+        "unusual_experiences": 0.117
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.28,
+        "extreme_response": 0.287,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۲ ساله‌ای هستم، متاهل و با تحصیلات دیپلم. در حال حاضر بیکار هستم و در شهر کرج با وضعیت مالی تنگ‌دست زندگی می‌کنم.",
+        "emotional_and_interpersonal_style": "مدام نگران هستم و اضطراب زیادی دارم، مخصوصاً می‌ترسم که همسرم یا اطرافیانم مرا ترک کنند یا از من دل‌زده شوند.",
+        "behavioral_and_cognitive_traits": "وسواس شدید دارم و اگر نظم محیط اطرافم به هم بخورد، به شدت کلافه می‌شوم؛ گاهی هم بدون فکر و به صورت تکانشی تصمیماتی می‌گیرم که بعداً پشیمان می‌شوم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی تصور می‌کنم اتفاقات تصادفی محیط، پیام‌های خاصی برای من دارند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.519,
+        "detachment_suspicion": 1.138,
+        "impulsivity_antisocial": 0.213,
+        "narcissism_attention": 0.904,
+        "rigidity_perfectionism": 0.462,
+        "unusual_experiences": 1.117
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.006,
+        "extreme_response": 0.556,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی مهندسی. در شهر تهران زندگی می‌کنم و با وجود تخصصم، وضعیت اقتصادی فعلی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار بدبین هستم و ترجیح می‌دهم بیشتر وقت‌هایم را در تنهایی بگذرانم، چون احساس می‌کنم دیگران قابل اعتماد نیستند و ممکن است به من ضربه بزنند.",
+        "behavioral_and_cognitive_traits": "همیشه حس می‌کنم از اطرافیانم برترم و لایق جایگاه‌های ویژه‌ای هستم؛ همچنین در کارهایم وسواس زیادی به خرج می‌دهم و روی کوچک‌ترین جزئیات حساس هستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و معتقدم حس ششم بسیار قوی‌ای دارم که اتفاقات را پیش‌بینی می‌کند؛ گاهی هم احساس می‌کنم از جسمم جدا شده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.219,
+        "detachment_suspicion": -0.778,
+        "impulsivity_antisocial": -0.63,
+        "narcissism_attention": 0.618,
+        "rigidity_perfectionism": 0.495,
+        "unusual_experiences": -1.529
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.758,
+        "extreme_response": -0.115,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۲ سالمه، مجردم و ساکن اهواز هستم. لیسانس دارم ولی متأسفانه در حال حاضر بیکارم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و زیاد دچار اضطراب یا بدبینی نمی‌شم؛ با مردم راحت هستم و ترسی از روابط اجتماعی ندارم.",
+        "behavioral_and_cognitive_traits": "کمی احساس می‌کنم از بقیه برترم و دوست دارم توجهات در جمع به من جلب بشه، هرچند در کارهایم نظم نسبی دارم و وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "هیچ‌وقت تجربه‌های عجیب یا توهمات نداشتم و همیشه نگاهی کاملاً منطقی و مادی به زندگی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.818,
+        "detachment_suspicion": 0.884,
+        "impulsivity_antisocial": 0.1,
+        "narcissism_attention": 1.663,
+        "rigidity_perfectionism": -0.662,
+        "unusual_experiences": -0.466
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.555,
+        "extreme_response": 0.198,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای متاهل و ساکن تبریز هستم. مدرک دیپلم دارم و در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "تغییرات خلقی زیادی دارم و مدام نگرانم که همسرم یا اطرافیانم مرا دوست نداشته باشند. گاهی احساس می‌کنم هیچ‌کس مرا درک نمی‌کند و به همین دلیل خودم را منزوی می‌کنم.",
+        "behavioral_and_cognitive_traits": "عمیقاً باور دارم که لایق زندگی بسیار لوکس‌تر و توجه بسیار بیشتری هستم و از اینکه در این وضعیت هستم عصبانی‌ام. گاهی در واکنش‌هایم تند و تکانشی عمل می‌کنم.",
+        "unusual_experiences_and_history": "باورهای خرافی خاصی ندارم و تجربیات غیرعادی برایم اتفاق نمی‌افتد. در دوران نوجوانی، به دلیل نیاز شدید به توجه، گاهی رفتارهای جلب توجه‌کننده‌ای داشتم."
+    }
+}

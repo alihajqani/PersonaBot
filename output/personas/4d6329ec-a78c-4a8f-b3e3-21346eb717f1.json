@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.137,
+        "detachment_suspicion": 0.486,
+        "impulsivity_antisocial": -0.077,
+        "narcissism_attention": -0.622,
+        "rigidity_perfectionism": -0.806,
+        "unusual_experiences": 0.099
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.177,
+        "extreme_response": 0.68,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و متاهل هستم که در شیراز زندگی می‌کنم. مدرک کارشناسی دارم و به صورت آزاد در کسب‌و‌کار خودم فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "تغییرات خلقی برای من عادی است و گاهی شدیداً می‌ترسم که همسرم یا دوستانم مرا ترک کنند. در محیط کار کمی بدبین هستم و فکر می‌کنم دیگران می‌خواهند از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیم می‌گیرم و رفتارهای پرخطر یا تکانشی دارم. در کارهایم خیلی روی جزئیات حساس نیستم و بیشتر به نتیجه کلی فکر می‌کنم.",
+        "unusual_experiences_and_history": "سابقه مراجعه به روان‌پزشک دارم و گاهی احساس می‌کنم حس ششم قوی‌ای دارم یا اتفاقات آینده را پیش‌بینی می‌کنم. در کودکی کمی سرکش بودم و گاهی با معلمانم درگیر می‌شدم."
+    }
+}

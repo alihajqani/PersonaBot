@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.146,
+        "detachment_suspicion": 0.265,
+        "impulsivity_antisocial": -0.81,
+        "narcissism_attention": 1.52,
+        "rigidity_perfectionism": 0.092,
+        "unusual_experiences": 0.586
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.526,
+        "extreme_response": 0.03,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و متأهل هستم که در شهر کرج زندگی می‌کنم. مدرک دیپلم دارم و به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌ام نسبتاً تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "روحیاتم گاهی نوسان دارد و در جمع‌های شلوغ کمی اضطراب می‌گیرم، اما به طور کلی سعی می‌کنم روابطم را مدیریت کنم. اعتمادم به آدم‌ها متوسط است و سعی می‌کنم گارد دفاعی داشته باشم.",
+        "behavioral_and_cognitive_traits": "عمیقاً باور دارم که لیاقت جایگاه بسیار بالاتری از این شغل ساده را دارم و همیشه دلم می‌خواهد دیگران بدانند من چقدر توانمند هستم. دوست دارم مرکز توجه باشم و اگر کسی به من بی‌توجهی کند، خیلی زود رنجیده می‌شوم.",
+        "unusual_experiences_and_history": "گاهی اتفاقات عجیبی را تجربه می‌کنم که نمی‌توانم منطقی توضیح دهم، مثلاً حس می‌کنم کسی مرا می‌پاید. در کودکی هم همیشه سعی می‌کردم با رفتارهای نمایشی توجه همه را به خودم جلب کنم."
+    }
+}

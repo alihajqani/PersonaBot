@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.472,
+        "detachment_suspicion": 0.86,
+        "impulsivity_antisocial": 0.113,
+        "narcissism_attention": -0.019,
+        "rigidity_perfectionism": 0.725,
+        "unusual_experiences": 0.046
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.057,
+        "extreme_response": -0.121,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای هستم، متاهل و ساکن اهواز. مدرک دیپلم دارم و به عنوان آرایشگر مشغول به کار هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "تغییرات خلقی زیادی دارم و خیلی زود احساس ناراحتی یا اضطراب می‌کنم. نسبت به اطرافیانم بدبین هستم و احساس می‌کنم هر لحظه ممکن است کسی به من ضربه بزند.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات تکانشی می‌گیرم و در محیط کار یا خانه دچار پرخاشگری می‌شوم. در عین حال، در انجام کارهای آرایشی بسیار سخت‌گیر هستم و روی کوچک‌ترین جزئیات وسواس دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی مثل احساس حضور کسی در محیط یا توهمات خفیف داشته‌ام و به همین دلیل سابقه مراجعه به روان‌پزشک را دارم. در نوجوانی هم رفتارهای تخریبی و لجبازی‌های شدیدی داشتم."
+    }
+}

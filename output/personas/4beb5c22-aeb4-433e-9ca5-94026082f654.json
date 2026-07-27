@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.103,
+        "detachment_suspicion": -0.224,
+        "impulsivity_antisocial": 0.732,
+        "narcissism_attention": 0.753,
+        "rigidity_perfectionism": -0.251,
+        "unusual_experiences": 0.596
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.102,
+        "extreme_response": 0.164,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، مجرد و ساکن تهران هستم. با وجود اینکه مدرک کارشناسی دارم، در حال حاضر بیکار هستم و وضعیت اقتصادی‌ام نسبتاً تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "احساس می‌کنم دنیا جای امنی نیست و به راحتی به کسی اعتماد نمی‌کنم. نوسانات خلقی دارم و گاهی از ترس طرد شدن توسط دیگران، خودم را از محیط‌های اجتماعی دور می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات تکانشی می‌گیرم و در محیط‌های کاری قبلیم مشکلاتی با قوانین داشتم. با اینکه بیکارم، اما درونی احساس می‌کنم لایق جایگاه بسیار بالاتری هستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی تجربیاتی شبیه به گسست از واقعیت یا احساس مسخ شخصیت داشته‌ام. قبل از ۱۵ سالگی هم سابقه رفتارهای پرخاشگرانه و تخلف از قوانین مدرسه را داشتم."
+    }
+}

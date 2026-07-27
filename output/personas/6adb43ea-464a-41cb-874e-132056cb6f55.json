@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.369,
+        "detachment_suspicion": 0.42,
+        "impulsivity_antisocial": 0.542,
+        "narcissism_attention": 1.012,
+        "rigidity_perfectionism": -0.812,
+        "unusual_experiences": -0.545
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.439,
+        "extreme_response": 1.134,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۳۴ ساله، مجرد و خانه‌دار ساکن شیراز هستم. تحصیلاتم کارشناسی است و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و نوسانات خلقی زیادی دارم؛ مدام نگران این هستم که دیگران درباره من چه فکر می‌کنند و از تنهایی می‌ترسم. گاهی نسبت به اطرافیانم بدبینی پیدا می‌کنم و احساس می‌کنم من را نادیده می‌گیرند.",
+        "behavioral_and_cognitive_traits": "نیاز شدیدی به توجه و تایید دیگران دارم و دوست دارم همیشه مرکز توجه باشم و احساس کنم از بقیه برتر هستم. گاهی در واکنش‌هایم تند و تکانش‌گر هستم، اما در کارهایم وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "به ندرت پیش می‌آید که تجربه‌ای غیرعادی داشته باشم و بیشتر بر واقعیت‌های ملموس تکیه می‌کنم. در کودکی، گاهی به دلیل نیاز به توجه، رفتارهای جلب‌توجه‌کننده یا لجبازی‌های شدیدی داشتم."
+    }
+}

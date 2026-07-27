@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -3.249,
+        "detachment_suspicion": -0.669,
+        "impulsivity_antisocial": -0.567,
+        "narcissism_attention": -0.888,
+        "rigidity_perfectionism": -0.935,
+        "unusual_experiences": 0.081
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.051,
+        "extreme_response": -0.15,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۰ ساله‌ای هستم، مجرد و دارای مدرک دیپلم. در شهر مشهد به عنوان منشی و دستیار مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار خونسرد هستم و به ندرت دچار اضطراب یا ترس می‌شوم؛ در روابطم با دیگران بی‌تفاوت هستم و نوسانات خلقی ندارم.",
+        "behavioral_and_cognitive_traits": "نه وسواس خاصی در کارهایم دارم و نه احساس برتری نسبت به دیگران؛ کارهایم را به صورت ساده و طبق روال معمول انجام می‌دهم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات زندگی‌ام از پیش تعیین شده است و حس ششمم در موارد خاص به من هشدار می‌دهد."
+    }
+}

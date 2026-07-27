@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.704,
+        "detachment_suspicion": 0.976,
+        "impulsivity_antisocial": -0.15,
+        "narcissism_attention": -0.12,
+        "rigidity_perfectionism": 0.527,
+        "unusual_experiences": 1.222
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.076,
+        "extreme_response": -0.457,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانمی ۴۰ ساله، متاهل و ساکن اهواز هستم که مدرک کارشناسی دارم و به عنوان معلم فعالیت می‌کنم، هرچند وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود نگران می‌شوم و مودم تغییر می‌کند؛ همچنین بسیار بدبین هستم و فکر می‌کنم اکثر مردم قصد سوء دارند و به همین دلیل منزوی شده‌ام.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار سخت‌گیر هستم و روی ریزترین جزئیات تمرکز می‌کنم و تحمل بی‌نظمی را ندارم.",
+        "unusual_experiences_and_history": "باورهای خرافی شدیدی دارم و احساس می‌کنم پیام‌هایی از دنیای دیگر دریافت می‌کنم یا حس ششمی دارم که هرگز اشتباه نمی‌کند."
+    }
+}

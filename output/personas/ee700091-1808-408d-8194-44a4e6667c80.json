@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.128,
+        "detachment_suspicion": -1.173,
+        "impulsivity_antisocial": -1.048,
+        "narcissism_attention": -1.499,
+        "rigidity_perfectionism": 0.07,
+        "unusual_experiences": -1.984
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.358,
+        "extreme_response": -0.114,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله، مجرد و دارای مدرک کارشناسی هستم و در تهران به صورت آزاد کسب‌وکار دارم. وضعیت اقتصادی من عالی است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و هیچ‌گونه اضطراب اجتماعی یا ترس از تنهایی ندارم. رابطه‌ام با دیگران سالم است و به ندرت دچار بدبینی یا کینه‌توزی می‌شوم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من کاملاً منطقی و حساب‌شده است و تمایلی به ریسک‌های بی‌مورد یا جلب توجه ندارم. در کارهایم نظم متوسطی دارم و بیش از آن روی بهره‌وری تمرکز می‌کنم.",
+        "unusual_experiences_and_history": "هرگز تجربه‌ای غیرعادی یا توهمی نداشته‌ام و به خرافات اعتقادی ندارم. دوران کودکی و نوجوانی من بسیار آرام و مطابق با هنجارهای اجتماعی بوده است."
+    }
+}

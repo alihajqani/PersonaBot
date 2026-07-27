@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.303,
+        "detachment_suspicion": 2.746,
+        "impulsivity_antisocial": -0.316,
+        "narcissism_attention": 0.234,
+        "rigidity_perfectionism": -0.22,
+        "unusual_experiences": 0.526
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.083,
+        "extreme_response": -0.752,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۴ سالمه، مجردم و توی تهران زندگی می‌کنم. کارشناسی ارشد دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و به شدت بدبین هستم؛ فکر می‌کنم اکثر آدم‌ها نیت بدی دارن و برای همین خودم رو کاملاً منزوی کردم.",
+        "behavioral_and_cognitive_traits": "با اینکه توی کارم دقیق هستم، اما گاهی احساس می‌کنم از بقیه برترم و باید بیشتر مورد توجه قرار بگیرم. گاهی هم در واکنش به استرس، رفتارهای تکانشی نشون می‌دم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم. از جوانی احساس می‌کردم حس ششم دارم و گاهی دچار توهمات خفیفی می‌شدم که باعث می‌شد نسبت به واقعیت شک کنم."
+    }
+}

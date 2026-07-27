@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.26,
+        "detachment_suspicion": -0.633,
+        "impulsivity_antisocial": 0.195,
+        "narcissism_attention": 1.495,
+        "rigidity_perfectionism": 2.318,
+        "unusual_experiences": -0.215
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.858,
+        "extreme_response": 0.505,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله، متاهل و ساکن مشهد هستم. تحصیلات کارشناسی دارم اما فعلاً بیکارم و وضعیت مالی‌ام ضعیفه و سابقه درمان روانپزشکی هم دارم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی بالا و پایین می‌شه و در جمع‌ها کمی معذبم. با این حال، معمولاً با دیگران رابطه‌ام عادیه و بدبینی شدیدی نسبت بهشون ندارم.",
+        "behavioral_and_cognitive_traits": "وسواس بسیار شدیدی روی نظم و ترتیب دارم و اگر چیزی جابه‌جا بشه کلافه می‌شم. فکر می‌کنم از بقیه برترم و انتظار دارم دیگران به من توجه ویژه‌ای کنن و گاهی تکانشی رفتار می‌کنم.",
+        "unusual_experiences_and_history": "تجربیاتی شبیه به حس ششم دارم و گاهی احساس می‌کنم از واقعیت فاصله گرفتم. قبل از ۱۵ سالگی، سابقه درگیری‌های لفظی و رفتارهای پرخاشگرانه با هم‌کلاسی‌هام رو داشتم."
+    }
+}

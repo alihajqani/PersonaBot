@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.429,
+        "detachment_suspicion": -0.352,
+        "impulsivity_antisocial": -0.447,
+        "narcissism_attention": -2.197,
+        "rigidity_perfectionism": 0.295,
+        "unusual_experiences": 0.411
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.332,
+        "extreme_response": -0.253,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجردم و در تبریز زندگی می‌کنم؛ همزمان که دانشجوی کارشناسی هستم، به عنوان آرایشگر فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و نادراً دچار اضطراب می‌شوم؛ با مردم راحت هستم و نیازی ندارم برای جلب توجه آن‌ها تلاش کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم پیش‌بینی‌پذیر است و معمولاً قوانین را رعایت می‌کنم؛ در کارهایم نظم متوسطی دارم و به دنبال کمال مطلق نیستم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی فکر می‌کنم حس ششمی دارم که به من کمک می‌کند آدم‌ها را بهتر بشناسم."
+    }
+}

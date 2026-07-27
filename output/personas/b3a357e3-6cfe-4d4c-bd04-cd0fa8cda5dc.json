@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.291,
+        "detachment_suspicion": -1.233,
+        "impulsivity_antisocial": -1.125,
+        "narcissism_attention": -1.138,
+        "rigidity_perfectionism": 0.709,
+        "unusual_experiences": -0.706
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.5,
+        "extreme_response": -0.753,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۲۰ ساله‌ای از مشهد هستم، دیپلم دارم و به عنوان فروشنده در یک مغازه کار می‌کنم. مجردم و وضعیت مالی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات اضطراب اجتماعی دارم و در محیط‌های شلوغ احساس راحتی نمی‌کنم. اما در کل آدم بدبینی نیستم و سعی می‌کنم با دیگران با حسن نیت برخورد کنم و روابط سالمی داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و از هر نوع هنجارشکنی دوری می‌کنم. در کارهایم دقت زیادی به جزئیات دارم و گاهی وسواسی می‌شم که همه چیز دقیقاً سر جای خودش باشه؛ اصلاً اهل ریسک یا جلب توجه نیستم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به چیزهای ماوراءطبیعی فکر کنم، اما گاهی خرافات کوچکی دارم. در دوران کودکی همیشه بچه آرامی بودم و هرگز با قانون مدرسه یا خانواده ضدیت نداشتم."
+    }
+}

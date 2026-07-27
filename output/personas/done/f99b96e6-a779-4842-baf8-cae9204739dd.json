@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.307,
+        "detachment_suspicion": 0.858,
+        "impulsivity_antisocial": 0.57,
+        "narcissism_attention": 0.418,
+        "rigidity_perfectionism": 2.168,
+        "unusual_experiences": 0.104
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.484,
+        "extreme_response": -0.087,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۸ ساله هستم، مجردم و در اهواز زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر دانشجو هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی در جمع دارم و مدام نگرانم که دیگران درباره من چه فکر می‌کنند. گاهی احساس می‌کنم هیچ‌کس واقعاً مرا نمی‌فهمد و ترجیح می‌دهم در تنهایی خودم باشم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی من خیلی شدید است و اگر کاری دقیق نباشد، اصلاً قبول نمی‌کنم. گاهی هم بدون فکر کارهای خطرناک می‌کنم یا قوانینی را می‌شکنم تا توجهات را جلب کنم و حس برتری داشته باشم.",
+        "unusual_experiences_and_history": "از دوران نوجوانی گاهی احساس می‌کردم چیزهایی را می‌شنوم یا می‌بینم که دیگران متوجه‌شان نمی‌شوند و حس می‌کردم ارتباطم با واقعیت قطع شده است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.241,
+        "detachment_suspicion": -0.79,
+        "impulsivity_antisocial": -0.306,
+        "narcissism_attention": 0.322,
+        "rigidity_perfectionism": -0.755,
+        "unusual_experiences": 0.032
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.102,
+        "extreme_response": -0.127,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجرد و ساکن شیراز. مدرک کارشناسی دارم و به عنوان مهندس مشغول به کار هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی زود از حالت شادی به غم یا اضطراب شدید می‌روم. ترس زیادی دارم که دوستانم مرا ترک کنند و این موضوع باعث می‌شود گاهی بیش از حد به آن‌ها وابسته شوم.",
+        "behavioral_and_cognitive_traits": "گاهی در واکنش به استرس، رفتارهای تکانشی و تندی نشان می‌دهم. در محیط کار احساس می‌کنم توانایی‌هایم نادیده گرفته شده و لایق توجه و جایگاه بیشتری هستم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقاتی در زندگی‌ام از پیش تعیین شده‌اند یا حس ششمم به من هشدار می‌دهد. در دوران نوجوانی سابقه درگیری‌های لفظی و رفتارهای پرخاشگرانه را داشته‌ام."
+    }
+}

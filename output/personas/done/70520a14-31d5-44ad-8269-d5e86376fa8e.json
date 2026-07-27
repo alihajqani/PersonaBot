@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.148,
+        "detachment_suspicion": 0.691,
+        "impulsivity_antisocial": -0.332,
+        "narcissism_attention": 0.744,
+        "rigidity_perfectionism": 0.465,
+        "unusual_experiences": 0.182
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.025,
+        "extreme_response": -0.694,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و مجردم که در شیراز زندگی می‌کنم. مدرک کاردانی دارم و به عنوان تکنسین فنی کار می‌کنم، اما وضعیت مالی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه می‌ترسم که در محیط کار یا جمع دوستان طرد شوم. اعتمادم به دیگران کم است و خیلی زود نسبت به رفتارشان بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیم می‌گیرم و رفتارهای پرخاشگری نشان می‌دهم. در عین حال، دوست دارم دیگران بدانند که در کارم ماهر هستم و انتظار دارم رفتار ویژه‌ای با من داشته باشند.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات زندگی‌ام تحت تاثیر نیروهای نامرئی یا حس ششم من است."
+    }
+}

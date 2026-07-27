@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.496,
+        "detachment_suspicion": 0.386,
+        "impulsivity_antisocial": 1.137,
+        "narcissism_attention": -0.414,
+        "rigidity_perfectionism": 0.104,
+        "unusual_experiences": 1.004
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 1.196,
+        "extreme_response": 0.241,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای از مشهد هستم، مجردم و با اینکه فوق‌لیسانس دارم، متأسفانه بیکارم و فشار مالی زیادی روی من است.",
+        "emotional_and_interpersonal_style": "خیلی زود احساساتی می‌شوم و نوسانات خلقی‌ام شدید است؛ گاهی دنیا را جای ناامنی می‌بینم و نسبت به نیت دیگران بدبین هستم.",
+        "behavioral_and_cognitive_traits": "در واکنش به مسائل، گاهی پرخاشگر می‌شوم و کارهای تکانشی انجام می‌دهم که بعداً پشیمان می‌شوم، هرچند در کارهایم سعی می‌کنم دقیق باشم.",
+        "unusual_experiences_and_history": "از کودکی تجربه‌های غیرعادی داشتم و گاهی صداهایی می‌شنوم یا حس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم که باعث شده به مسائل ماورایی باور زیادی داشته باشم."
+    }
+}

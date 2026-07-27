@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.607,
+        "detachment_suspicion": -1.199,
+        "impulsivity_antisocial": 1.419,
+        "narcissism_attention": 0.788,
+        "rigidity_perfectionism": -0.756,
+        "unusual_experiences": -1.258
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.411,
+        "extreme_response": 0.149,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله و مجرد ساکن تهران هستم. تحصیلاتم کارشناسی است و به عنوان مهندس متخصص در رشته خودم فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اصلاً اضطراب اجتماعی ندارم و در هر جمعی با اعتماد به نفس بالا صحبت می‌کنم. ترسی از تنهایی ندارم و به ندرت پیش می‌آید که احساس بدبینی یا کینه نسبت به کسی داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و عاشق هیجان و ریسک کردنم؛ گاهی بدون فکر کارهایی می‌کنم که می‌تواند خطرناک باشد. احساس می‌کنم برتری خاصی دارم و انتظار دارم در هر محیطی با من برخورد ویژه‌ای شود.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، توهم یا باور خرافی ندارم. در کودکی و نوجوانی هم فردی سرکش بودم و علاقه زیادی به شکستن قوانین مدرسه و خانه داشتم."
+    }
+}

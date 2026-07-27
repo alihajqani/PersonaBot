@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.368,
+        "detachment_suspicion": 1.162,
+        "impulsivity_antisocial": 0.52,
+        "narcissism_attention": 1.102,
+        "rigidity_perfectionism": 1.104,
+        "unusual_experiences": 0.626
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.567,
+        "extreme_response": 0.028,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و مجرد ساکن اصفهان هستم. مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان مشغول به کار هستم و وضعیت مالی بسیار خوبی دارم.",
+        "emotional_and_interpersonal_style": "با وجود جایگاه شغلی‌ام، اضطراب بالایی دارم و مدام نگران قضاوت دیگران هستم. به شدت بدبینم و فکر می‌کنم همکارانم برای تخریب من توطئه می‌کنند.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا و وسواسی هستم و هر کاری باید دقیقاً طبق استانداردهای من باشد. احساس برتری شدیدی نسبت به دیگران دارم و انتظار دارم همه به من احترام ویژه‌ای بگذارند، هرچند گاهی در تصمیماتم تکانشی عمل می‌کنم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم چیزهایی را می‌بینم یا می‌فهمم که دیگران متوجه نمی‌شوند و به حس ششمم اعتماد می‌کنم. در نوجوانی هم تمایل داشتم قوانین را به چالش بکشم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.201,
+        "detachment_suspicion": -0.489,
+        "impulsivity_antisocial": 0.867,
+        "narcissism_attention": -0.781,
+        "rigidity_perfectionism": -0.988,
+        "unusual_experiences": 1.508
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.278,
+        "extreme_response": -0.031,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای هستم، مجرد و دارای مدرک کارشناسی ارشد که در شهر شیراز به صورت آزاد فعالیت می‌کنم. وضعیت اقتصادی من خوب است.",
+        "emotional_and_interpersonal_style": "احساساتم در سطح متوسطی است و گاهی دچار اضطراب می‌شوم اما به طور کلی با دیگران راحت هستم. تمایل زیادی به انزوا ندارم و روابط اجتماعی‌ام معمولی است.",
+        "behavioral_and_cognitive_traits": "گاه به صورت تکانشی تصمیم می‌گیرم و از تجربه‌های جدید و کمی پرخطر لذت می‌برم. در کارهایم خیلی سخت‌گیر نیستم و انعطاف‌پذیری زیادی دارم.",
+        "unusual_experiences_and_history": "بسیار به مسائل ماوراءطبیعه اعتقاد دارم و دفعات زیادی حس کرده‌ام که موجودات یا انرژی‌های غیرمرئی را در اطرافم حس می‌کنم. تجربه‌های بصری و شنیداری عجیبی دارم که برایم کاملاً واقعی هستند."
+    }
+}

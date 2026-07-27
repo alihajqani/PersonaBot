@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.512,
+        "detachment_suspicion": -0.915,
+        "impulsivity_antisocial": 0.515,
+        "narcissism_attention": 0.224,
+        "rigidity_perfectionism": -0.625,
+        "unusual_experiences": 0.929
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.304,
+        "extreme_response": 0.211,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله و مجرد ساکن کرج هستم. کارشناسی ارشد مهندسی دارم و مشغول به کارم، هرچند وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و همیشه این ترس را دارم که دیگران مرا طرد کنند یا از من متنفر شوند. نوسانات خلقی شدید دارم و گاهی در یک لحظه از همه خوشحالم و لحظه‌ای بعد کاملاً دپ می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم یا کارهای تکانشی انجام می‌دهم. با اینکه تحصیلاتم بالاست، اما گاهی احساس می‌کنم در دنیایی متفاوت از دیگران زندگی می‌کنم و درک متفاوتی از واقعیت دارم.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم، مثلاً گاهی حس می‌کنم از بدنم جدا شده‌ام یا محیط اطرافم واقعی نیست. از دوران کودکی و قبل از ۱۵ سالگی، همواره با اضطراب‌های شدید در محیط مدرسه دست و پنجه نرم می‌کردم."
+    }
+}

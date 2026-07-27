@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.073,
+        "detachment_suspicion": -0.502,
+        "impulsivity_antisocial": -0.962,
+        "narcissism_attention": 1.117,
+        "rigidity_perfectionism": -0.09,
+        "unusual_experiences": -0.026
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.032,
+        "extreme_response": 0.482,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، متأهلم و در شیراز زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر روحی آرامم و رابطه‌ام با همسرم و اطرافیانم خوب است و کمتر دچار نوسانات خلقی یا اضطراب می‌شوم.",
+        "behavioral_and_cognitive_traits": "دوست دارم همیشه در مرکز توجه باشم و احساس می‌کنم لیاقت جایگاه‌های مدیریتی و بالاتری رو دارم؛ در کارهایم نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "گاهی به پیشگویی‌ها یا اتفاقات تصادفی معنای خاصی می‌دم، اما در کل تجربه‌های توهمی یا غیرعادی شدیدی نداشتم."
+    }
+}

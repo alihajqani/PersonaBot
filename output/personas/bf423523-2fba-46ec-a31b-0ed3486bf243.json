@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.833,
+        "detachment_suspicion": 0.461,
+        "impulsivity_antisocial": 0.789,
+        "narcissism_attention": -0.254,
+        "rigidity_perfectionism": 2.134,
+        "unusual_experiences": -0.029
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.133,
+        "extreme_response": 0.864,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله، متاهل و دارای مدرک کارشناسی هستم که در شهر اهواز به عنوان معلم فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم، هرچند گاهی نسبت به نیت‌های دیگران بدبین می‌شوم و کینه‌های قدیمی را به راحتی فراموش نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در محیط کار و خانه بسیار سخت‌گیر و کمال‌گرا هستم و انتظار دارم همه طبق استانداردهای من عمل کنند. گاهی در تصمیم‌گیری‌ها عجول هستم و بدون فکر واکنش نشان می‌دهم، و در عین حال دوست دارم دیگران جایگاه ویژه‌ای برای من قائل شوند.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات آینده را به صورت شهودی پیش‌بینی می‌کنم. در نوجوانی سوابق چندانی از هنجارشکنی نداشتم و بیشتر دانش‌آموزی مقررات‌گرا بودم."
+    }
+}

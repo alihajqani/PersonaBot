@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.152,
+        "detachment_suspicion": 0.576,
+        "impulsivity_antisocial": -1.441,
+        "narcissism_attention": -1.172,
+        "rigidity_perfectionism": -0.532,
+        "unusual_experiences": -0.17
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.096,
+        "extreme_response": -0.355,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۲ ساله و مجرد هستم که در تهران زندگی می‌کنم. مدرک کاردانی دارم و به عنوان کارمند ساده مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و در محیط‌های اجتماعی احساس اضطراب می‌کنم. تمایل دارم تنها باشم و گاهی فکر می‌کنم دیگران قصد دارند از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "فردی آرام هستم و تمایلی به ریسک یا قانون‌شکنی ندارم. وسواس خاصی ندارم و در کارهایم به دنبال کمال‌گرایی افراطی نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی احساس می‌کنم از محیط اطرافم جدا شده‌ام یا در دنیای دیگری هستم. در کودکی فردی ساکت بودم و مشکل رفتاری خاصی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.041,
+        "detachment_suspicion": -1.465,
+        "impulsivity_antisocial": -0.505,
+        "narcissism_attention": -0.775,
+        "rigidity_perfectionism": 0.12,
+        "unusual_experiences": -1.918
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.221,
+        "extreme_response": 0.851,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و متاهل هستم که در شهر شیراز زندگی می‌کنم. مدرک کارشناسی ارشد دارم و به عنوان معلم و فعال فرهنگی مشغول به کار هستم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و نوسانات خلقی شدیدی ندارم. در روابط اجتماعی راحت هستم، به دیگران اعتماد دارم و هیچ حس کینه‌ای نسبت به کسی در دل نگه نمی‌دارم.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مدار هستم و رفتارهای پرخطر یا تکانشی ندارم. در کارهایم نظم متوسطی دارم و به جزئیات اهمیت می‌دهم، اما هرگز اجازه نمی‌دهم وسواس مانع پیشرفت من شود.",
+        "unusual_experiences_and_history": "هیچ‌گاه تجربیات غیرعادی یا توهماتی نداشته‌ام و به خرافات اعتقادی ندارم. در دوران کودکی و نوجوانی هم همیشه رفتار من هنجار بود و هیچ سابقه تخلفی نداشتم."
+    }
+}

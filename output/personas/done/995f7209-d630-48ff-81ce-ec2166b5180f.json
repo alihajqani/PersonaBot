@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.985,
+        "detachment_suspicion": -1.772,
+        "impulsivity_antisocial": 1.141,
+        "narcissism_attention": 0.253,
+        "rigidity_perfectionism": 0.037,
+        "unusual_experiences": -0.261
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.464,
+        "extreme_response": -0.055,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و متأهل هستم که در مشهد زندگی می‌کنم. کارشناسی ارشد دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار اجتماعی هستم و خیلی راحت با دیگران ارتباط می‌گیرم؛ اصلاً بدبین نیستم و سریع به آدم‌ها اعتماد می‌کنم. نوسانات خلقی ندارم و معمولاً خوش‌بین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر ریسک‌های بزرگی می‌کنم یا قوانینی که به نظرم دست‌وپاگیر هستند را نادیده می‌گیرم. اعتماد به نفسم بالاست و دوست دارم در محیط کار پیشرو و تاثیرگذار باشم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس می‌کنم اتفاقات را پیش‌بینی کرده‌ام یا اتفاقات تصادفی برایم معنای خاصی دارند. در دوران نوجوانی هم سابقه لجبازی و سرپیچی از قوانین مدرسه را داشتم."
+    }
+}

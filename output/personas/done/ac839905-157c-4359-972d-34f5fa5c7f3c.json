@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.154,
+        "detachment_suspicion": 1.515,
+        "impulsivity_antisocial": 0.913,
+        "narcissism_attention": 0.588,
+        "rigidity_perfectionism": -1.264,
+        "unusual_experiences": -0.582
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.623,
+        "extreme_response": -0.019,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۰ ساله و مجرد ساکن اهواز هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم، شغلی ندارم و وضعیت اقتصادی خانواده‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی در جمع‌ها مضطرب می‌شوم. اما به شدت بدبین هستم، به هیچ‌کس اعتماد ندارم و ترجیح می‌دهم در دنیای خودم باشم و با دیگران فاصله بگیرم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و رفتارهای پرخطر یا هنجارشکن انجام می‌دهم. گاهی احساس می‌کنم از دیگران برترم، اما هیچ وسواسی در مورد نظم یا جزئیات ندارم و زندگی‌ام نسبتاً بی‌نظمی است.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی کمی دارم و بیشتر در سطح خرافات ساده است. در دوران پیش از ۱۵ سالگی، سابقه زیادی در دعواهای خیابانی و رفتارهای پرخاشگرانه داشتم."
+    }
+}

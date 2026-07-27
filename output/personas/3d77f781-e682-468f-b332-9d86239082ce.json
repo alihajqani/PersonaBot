@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.479,
+        "detachment_suspicion": 0.43,
+        "impulsivity_antisocial": 0.495,
+        "narcissism_attention": -0.394,
+        "rigidity_perfectionism": 0.184,
+        "unusual_experiences": 0.302
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.412,
+        "extreme_response": 0.205,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۰ ساله، متاهل و ساکن مشهد هستم. تحصیلاتم در مقطع کارشناسی ارشد است و در یک اداره به عنوان کارمند مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به‌طور کلی آرام هستم، اما تمایل دارم از جمع دوری کنم و گاهی نسبت به انگیزه‌های دیگران بدبین می‌شوم. روابطم با دیگران سطحی است و به ندرت کسی را به طور کامل می‌شناسم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیم می‌گیرم و کارهای تکانشی انجام می‌دهم که بعداً پشیمان می‌شوم. در سازماندهی کارهایم تعادل نسبی دارم، اما گاهی بیش از حد روی جزئیات کوچک گیر می‌کنم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم پیام‌هایی از محیط دریافت می‌کنم که دیگران متوجه آن‌ها نیستند. در دوران مدرسه، گاهی به دلیل لجبازی با قوانین به مشکل می‌خوردم."
+    }
+}

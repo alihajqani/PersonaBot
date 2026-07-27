@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.553,
+        "detachment_suspicion": -2.137,
+        "impulsivity_antisocial": -1.297,
+        "narcissism_attention": -2.355,
+        "rigidity_perfectionism": 0.435,
+        "unusual_experiences": -0.875
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.609,
+        "extreme_response": 0.051,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۹ سالمه، ساکن مشهد هستم، مجرد و دیپلم دارم و به عنوان کارمند ساده در یک اداره کار می‌کنم. وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "کمی زود مضطرب می‌شوم و نگران قضاوت بقیه هستم، اما کلاً آدم خوش‌بینی هستم و با دیگران رابطه‌ام خوب است.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم همیشه دقیق و منظم باشم و کارهایم را با وسواس انجام دهم. هرگز سعی نمی‌کنم خودم را برتر از بقیه نشان دهم یا از کسی سوءاستفاده کنم.",
+        "unusual_experiences_and_history": "اعتقادات خرافی خاصی ندارم و بیشتر به واقعیت‌ها تکیه می‌کنم. در دوران نوجوانی هم همیشه دانش‌آموز آرامی بودم و هرگز قانون‌شکنی نکردم."
+    }
+}

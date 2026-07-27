@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.54,
+        "detachment_suspicion": -2.092,
+        "impulsivity_antisocial": -0.075,
+        "narcissism_attention": 0.467,
+        "rigidity_perfectionism": -0.2,
+        "unusual_experiences": -1.157
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.344,
+        "extreme_response": -1.395,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، مجردم و ساکن کرجم. مدرک کارشناسی دارم اما در حال حاضر بیکار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "من آدم بسیار آرامی هستم و اصلاً اضطراب یا ترس از طرد شدن ندارم؛ با تنهایی مشکلی ندارم و نسبت به دیگران دیدگاهی مثبت و غیربدبینانه دارم.",
+        "behavioral_and_cognitive_traits": "گاهی در رفتارهایم تکانشی هستم و بدون فکر تصمیم می‌گیرم. حس می‌کنم توانایی‌هایم بسیار بیشتر از این‌هاست و لایق جایگاه اجتماعی و شغلی بهتری بودم.",
+        "unusual_experiences_and_history": "تجربه‌ای از شنیدن صداها یا دیدن چیزهای غیرعادی ندارم و زندگی من از این نظر کاملاً عادی و منطقی بوده است."
+    }
+}

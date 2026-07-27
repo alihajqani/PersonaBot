@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.515,
+        "detachment_suspicion": 0.178,
+        "impulsivity_antisocial": -0.552,
+        "narcissism_attention": 1.556,
+        "rigidity_perfectionism": 0.439,
+        "unusual_experiences": -1.403
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.196,
+        "extreme_response": -0.148,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجرد و ساکن شیراز. مدرک کاردانی دارم و در حال حاضر دانشجو هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب اجتماعی ندارم. با این حال، تمایل دارم بیشتر با خودم باشم و در انتخاب دوستانم سخت‌گیر و کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار به توجه دیگران نیاز دارم و همیشه انتظار دارم به من توجه ویژه‌ای شود و احساس می‌کنم از بقیه برترم. در کارهایم نظم دارم و به جزئیات اهمیت می‌دهم.",
+        "unusual_experiences_and_history": "تا به حال تجربه غیرعادی یا توهمی نداشته‌ام و همیشه به منطق اعتقاد داشته‌ام. در دوران کودکی و نوجوانی هم همیشه دانش‌آموزی آرام و قانون‌مند بودم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.483,
+        "detachment_suspicion": -0.163,
+        "impulsivity_antisocial": -0.425,
+        "narcissism_attention": 0.83,
+        "rigidity_perfectionism": -0.901,
+        "unusual_experiences": 1.191
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.364,
+        "extreme_response": -0.384,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۳۴ ساله و متاهل هستم و در شهر تبریز زندگی می‌کنم. تحصیلاتم در سطح کارشناسی است و به صورت آزاد کسب‌وکار خودم را اداره می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً آرام هستم و اضطراب خاصی ندارم، هرچند در روابطم کمی بدبین هستم و همیشه همه را مورد اعتماد نمی‌دانم.",
+        "behavioral_and_cognitive_traits": "بسیار منطقی عمل می‌کنم و رفتارهای تکانشی ندارم. کمی میل به توجه و تحسین دیگران دارم و دوست دارم در محیط کارم به عنوان فردی برتر دیده شوم، اما وسواس خاصی در جزئیات ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و تجربیات غیرعادی مثل باور به خرافات شدید یا حس‌های ششم مکرر را تجربه کرده‌ام. در دوران مدرسه دانش‌آموز آرامی بودم."
+    }
+}

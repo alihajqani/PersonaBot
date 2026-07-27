@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.009,
+        "detachment_suspicion": 0.085,
+        "impulsivity_antisocial": -0.819,
+        "narcissism_attention": 0.326,
+        "rigidity_perfectionism": 0.995,
+        "unusual_experiences": -0.207
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.401,
+        "extreme_response": 0.25,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۹ ساله، مجرد و دانشجو در شهر اصفهان هستم. در حال حاضر مشغول تحصیل در مقطع کارشناسی هستم و وضعیت مالی خانواده‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب اجتماعی می‌شوم و نگرانم که دیگران درباره‌ام چه فکری می‌کنند. در روابطم نوسانات خلقی دارم و گاهی ترجیح می‌دهم تنها باشم تا با دیگران وقت بگذرانم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی جزئیات کوچک خیلی حساسم؛ اگر برنامه‌هایم طبق نظم دقیقی پیش نرود، کلافه می‌شوم. در عین حال، احساس می‌کنم در برخی زمینه‌ها از هم‌کلاسی‌هایم برتر هستم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم و گاهی احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند یا به برخی خرافات اعتقاد دارم. در دوران مدرسه تا حدودی با مسائل اضطرابی دست و پنجه نرم می‌کردم."
+    }
+}

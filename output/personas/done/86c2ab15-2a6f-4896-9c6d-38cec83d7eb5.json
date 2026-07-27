@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.283,
+        "detachment_suspicion": 0.303,
+        "impulsivity_antisocial": -0.254,
+        "narcissism_attention": -3.838,
+        "rigidity_perfectionism": 1.362,
+        "unusual_experiences": -0.018
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.768,
+        "extreme_response": 0.468,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله، متاهل و ساکن شیرازم. تحصیلاتم دیپلم است و فروشنده هستم و وضعیت مالی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و در برخورد با غریبه‌ها کمی محتاطم. نسبت به دیگران دیدگاه متوسطی دارم و سعی می‌کنم نه خیلی اعتماد کنم و نه خیلی بدبین باشم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار متواضعی هستم و هرگز احساس برتری نمی‌کنم. اما در مورد نظم مغازه‌ام و چیدمان وسایل، وسواس شدیدی دارم و نمی‌توانم بی‌نظمی را تحمل کنم.",
+        "unusual_experiences_and_history": "گاهی به نشانه‌ها و فال اعتقاد دارم و فکر می‌کنم برخی اتفاقات تصادفی نیستند. در کودکی، به دلیل سخت‌گیری‌های خانوادگی، همیشه سعی می‌کردم خیلی دقیق و بی‌نقص باشم."
+    }
+}

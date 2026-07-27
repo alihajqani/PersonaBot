@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.219,
+        "detachment_suspicion": 1.257,
+        "impulsivity_antisocial": -1.272,
+        "narcissism_attention": -0.375,
+        "rigidity_perfectionism": 1.367,
+        "unusual_experiences": 1.147
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.437,
+        "extreme_response": 0.2,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای مجرد هستم و در تهران زندگی می‌کنم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار بدبین هستم و ترجیح می‌دهم بیشتر وقتم را در تنهایی بگذرانم چون به نیت‌های دیگران اعتماد ندارم؛ گاهی هم اضطراب شدیدی در محیط‌های اجتماعی دارم.",
+        "behavioral_and_cognitive_traits": "در کارم بسیار سخت‌گیر و وسواسی هستم و هر چیزی باید دقیقاً طبق استاندارد من باشد. تمایلی به جلب توجه دیگران ندارم و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "باورهای عمیقی به مسائل ماورایی دارم و گاهی صداهایی می‌شنوم یا حس‌هایی می‌کنم که دیگران متوجه‌شان نیستند. سابقه بیماری روان‌پزشکی هم دارم."
+    }
+}

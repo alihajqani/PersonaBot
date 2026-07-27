@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.684,
+        "detachment_suspicion": 0.206,
+        "impulsivity_antisocial": -0.765,
+        "narcissism_attention": -0.42,
+        "rigidity_perfectionism": 0.305,
+        "unusual_experiences": -1.171
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.149,
+        "extreme_response": 0.981,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۰ ساله‌ام، ساکن شیرازم و در حال حاضر بیکارم. با اینکه تحصیلاتم در حد دیپلمه، ولی زود ازدواج کردم و متاهلم؛ وضعیت اقتصادی خانواده‌ام هم در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "تلاطمات احساسی شدید دارم و مدام می‌ترسم همسرم یا اطرافیانم منو ترک کنن. اضطراب اجتماعی شدیدی دارم و هر وقت باید با آدم‌های جدید ارتباط بگیرم، واقعاً دست و پام رو گم می‌کنم.",
+        "behavioral_and_cognitive_traits": "خیلی اهل دعوا یا قانون‌شکنی نیستم و سعی می‌کنم آروم باشم، اما یه جور وسواس خاصی روی نظم چیزهام دارم که گاهی خسته‌کننده میشه. احساس برتری نسبت به بقیه ندارم و ترجیح میدم نامحسوس باشم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و از بچگی هم کمی گوشه‌گیر بودم، اما تجربه خاصی مثل شنیدن صداها یا توهمات ندارم و زیاد به خرافات اعتقاد ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.084,
+        "detachment_suspicion": 0.913,
+        "impulsivity_antisocial": 0.349,
+        "narcissism_attention": 0.887,
+        "rigidity_perfectionism": 1.192,
+        "unusual_experiences": -1.21
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.198,
+        "extreme_response": -0.403,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۲۸ ساله و متاهل هستم که در شیراز زندگی می‌کنم. لیسانس دارم و در بخش فرهنگی و آموزش مشغول به کارم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و سخت به دیگران اعتماد می‌کنم، انگار همیشه منتظرم کسی به من ضربه بزند. نوسانات خلقی متوسطی دارم که گاهی باعث می‌شود در روابط عاطفی‌ام دچار تنش شوم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی شدید دارم و هر چیزی باید دقیقاً طبق استاندارد و جزئیات مورد نظر من باشد. گاهی احساس می‌کنم از همکارانم برترم و باید حرف من شنیده شود، و در لحظات فشار، واکنش‌های تکانشی نشان می‌دهم.",
+        "unusual_experiences_and_history": "خرافات خاصی ندارم و تجربیات غیرعادی برایم تعریف‌نشده است. در کودکی بیشتر منزوی بودم تا تکانشی، اما همیشه تمایل به رعایت سخت‌گیرانه قوانین داشتم."
+    }
+}

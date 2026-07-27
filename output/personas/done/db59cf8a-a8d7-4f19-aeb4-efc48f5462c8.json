@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.801,
+        "detachment_suspicion": 2.369,
+        "impulsivity_antisocial": -0.852,
+        "narcissism_attention": -0.418,
+        "rigidity_perfectionism": 0.772,
+        "unusual_experiences": 1.243
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.29,
+        "extreme_response": -0.061,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "۱۹ سالمه، مجردم و توی اصفهان زندگی می‌کنم. دانشجوی کارشناسی هستم و در کنار درس، به عنوان یک کارمند ساده مشغول به کارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و احساس می‌کنم دیگران من رو دوست ندارند؛ به شدت بدبین هستم و ترجیح می‌دم تنها باشم تا اینکه با کسی ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم آرومه و زیاد قانون‌شکنی نمی‌کنم، اما روی نظم محیط اطرافم و جزئیات کوچک وسواس دارم.",
+        "unusual_experiences_and_history": "به شدت به خرافات و حس ششم اعتقاد دارم و اتفاقات غیرعادی زیادی رو تجربه کردم که برایم قابل توضیح نیست."
+    }
+}

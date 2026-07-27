@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.776,
+        "detachment_suspicion": 1.023,
+        "impulsivity_antisocial": -1.49,
+        "narcissism_attention": -1.033,
+        "rigidity_perfectionism": 0.801,
+        "unusual_experiences": -0.375
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.179,
+        "extreme_response": 0.524,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۱ ساله‌ی مجرد و ساکن تبریز هستم. مدرک دیپلم دارم و در حال حاضر مشغول تحصیل در دانشگاه هستم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اصلاً اضطراب ندارم و از نظر هیجانی بسیار استوارم، اما به شدت بدبین هستم و ترجیح می‌دهم با آدم‌های بسیار محدودی ارتباط داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم هستم و روی جزئیات وسواس دارم، اما هیچ‌وقت سعی نمی‌کنم از دیگران برتر به نظر برسم یا به قوانین سرپیچی کنم.",
+        "unusual_experiences_and_history": "خرافات کمی دارم اما کلاً تجربه‌ای که خارج از حالت عادی یا متافیزیکی باشد در زندگی‌ام نداشته‌ام."
+    }
+}

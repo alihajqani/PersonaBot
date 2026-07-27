@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.244,
+        "detachment_suspicion": -0.539,
+        "impulsivity_antisocial": -0.621,
+        "narcissism_attention": -0.665,
+        "rigidity_perfectionism": -0.251,
+        "unusual_experiences": 0.761
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.387,
+        "extreme_response": -0.094,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۱ ساله، مجرد و ساکن تبریز هستم. دیپلم دارم و در حال حاضر بیکارم و وضعیت اقتصادی‌م خیلی خوب نیست.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی شدیدی دارم و خیلی می‌ترسم که بقیه منو دوست نداشته باشن یا ترکم کنن؛ توی جمع‌ها هم معمولاً اضطراب دارم.",
+        "behavioral_and_cognitive_traits": "خیلی اهل قانون‌شکنی یا رفتارهای خطرناک نیستم، اما روی جزئیات خیلی حساس هستم و دوست دارم هر چیزی دقیق و مرتب باشه.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها احساس می‌کنم یه حس ششم دارم یا اتفاقات عجیبی رو پیش‌بینی می‌کنم؛ توی بچگی هم رفتارهای خیلی خاصی داشتم که بقیه نمی‌فهمیدن."
+    }
+}

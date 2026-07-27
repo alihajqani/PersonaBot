@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.033,
+        "detachment_suspicion": -0.018,
+        "impulsivity_antisocial": 1.382,
+        "narcissism_attention": 0.806,
+        "rigidity_perfectionism": 0.194,
+        "unusual_experiences": 1.61
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.15,
+        "extreme_response": -0.26,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۳ ساله و مجرد هستم و در شیراز ساکنم. مدرک کاردانی دارم و به عنوان آرایشگر کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی ندارم و از نظر خلقی پایدار هستم، اما گاهی ترجیح می‌دهم تنها باشم و نسبت به نیت‌های دیگران کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی در لحظه تصمیم به کارهای پرخطر می‌گیرم. دوست دارم مرکز توجه باشم و احساس می‌کنم استایلی خاص‌تر از دیگران دارم و در کارم دقت متوسطی به جزئیات دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی بسیار شدیدی دارم و عمیقاً به مسائل ماوراءطبیعی و توهمات خفیف باور دارم. قبل از ۱۵ سالگی سوابق تخلفات رفتاری و دعواهای زیاد داشتم."
+    }
+}

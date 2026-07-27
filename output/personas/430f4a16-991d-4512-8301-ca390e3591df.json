@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.037,
+        "detachment_suspicion": -0.0,
+        "impulsivity_antisocial": -0.896,
+        "narcissism_attention": 0.064,
+        "rigidity_perfectionism": 1.227,
+        "unusual_experiences": -0.02
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.318,
+        "extreme_response": 0.078,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای از تبریز هستم که در سن پایین ازدواج کرده‌ام. دیپلم دارم و در حال حاضر بیکار هستم و وضعیت مالی خانواده و زندگی مشترکم بسیار سخت و تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "مدام نگران قضاوت دیگران هستم و نوسانات خلقی شدیدی دارم که گاهی باعث می‌شود از جمع‌ها دوری کنم. اعتماد کردن برایم سخت است و احساس می‌کنم دیگران لزوماً خیرخواه من نیستند.",
+        "behavioral_and_cognitive_traits": "بسیار روی جزئیات حساس هستم و وسواس خاصی در مورد نظم محیطم دارم. با اینکه در محیط خانه سعی می‌کنم مطیع باشم، اما درونی احساس می‌کنم لیاقت توجه و رفتار ویژه‌تری نسبت به دیگران دارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم چیزهایی را می‌بینم یا حس می‌کنم که دیگران متوجه نمی‌شوند و به خرافات اعتقاد دارم. در دوران مدرسه، دانش‌آموز آرامی بودم و سابقه تخلف یا رفتارهای پرخطر نداشتم."
+    }
+}

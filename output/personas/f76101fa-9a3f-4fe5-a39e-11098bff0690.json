@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.995,
+        "detachment_suspicion": 0.051,
+        "impulsivity_antisocial": 0.144,
+        "narcissism_attention": 0.119,
+        "rigidity_perfectionism": 0.191,
+        "unusual_experiences": 2.923
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.954,
+        "extreme_response": -0.207,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۹ ساله و مجرد هستم و در تهران زندگی می‌کنم. تحصیلاتم کارشناسی است و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت مالی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "دچار اضطراب‌های شدید و نوسانات خلقی هستم و همیشه می‌ترسم رهای شوم؛ در روابطم هم تردید زیادی دارم و سخت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم ترکیبی از تکانشگری و نیاز به توجه است؛ گاهی برای جلب توجه کارهای ریسکی می‌کنم و در عین حال وسواس‌های متوسطی در نظم محیطم دارم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها حس می‌کنم دنیا واقعی نیست یا پیام‌های خاصی از محیط دریافت می‌کنم که برای دیگران قابل درک نیست. سابقه درمان روان‌پزشکی هم دارم."
+    }
+}

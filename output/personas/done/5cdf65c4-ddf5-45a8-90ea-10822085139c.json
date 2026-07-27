@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.188,
+        "detachment_suspicion": -0.852,
+        "impulsivity_antisocial": -0.365,
+        "narcissism_attention": -1.625,
+        "rigidity_perfectionism": 0.922,
+        "unusual_experiences": 0.066
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.453,
+        "extreme_response": -0.002,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۳ ساله مجردم از تبریز. دیپلم دارم و در حال حاضر دانشجو هستم و وضعیت مالی خانواده‌م خوبه.",
+        "emotional_and_interpersonal_style": "کمی اضطراب اجتماعی دارم و گاهی در جمع‌ها معذب می‌شم، اما کلاً با بقیه راحتم و بدبینی خاصی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و هر چیزی باید سر جای خودش باشه و طبق برنامه پیش بره. اصلاً اهل خودشیفتگی یا برتری‌طلبی نیستم و سعی می‌کنم متواضع باشم.",
+        "unusual_experiences_and_history": "گاهی پیش میاد که حس ششمم بهم هشدار بده یا به یه نشونه خاص باور کنم. تو بچگی خیلی ساکت بودم و هیچ‌وقت رفتاری خارج از چارچوب نداشتم."
+    }
+}

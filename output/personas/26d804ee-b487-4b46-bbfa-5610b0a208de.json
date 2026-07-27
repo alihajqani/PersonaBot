@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.642,
+        "detachment_suspicion": 1.549,
+        "impulsivity_antisocial": -0.219,
+        "narcissism_attention": -1.439,
+        "rigidity_perfectionism": -0.254,
+        "unusual_experiences": 0.582
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.456,
+        "extreme_response": -0.481,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۲۹ ساله و مجرد هستم، ساکن تهران. تحصیلاتم کارشناسی است، به عنوان کارمند اداری کار می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی متوسطی دارم، اما ویژگی اصلی من بدبینی شدید است؛ همیشه گمان می‌کنم دیگران پشت سر من توطئه می‌کنند و به راحتی کسی را قبول نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و بدون فکر تصمیم می‌گیرم، اما در کل شخصیتی متواضع دارم و به دنبال جلب توجه یا احساس برتری نیستم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم نیروهای نامرئی یا اتفاقات تقدیرگونه‌ای در زندگی‌ام نقش دارند. سابقه مراجعه به روان‌پزشک برای مدیریت اضطراب و بدبینی دارم."
+    }
+}

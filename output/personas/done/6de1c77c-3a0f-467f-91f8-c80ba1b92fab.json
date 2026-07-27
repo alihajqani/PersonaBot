@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.898,
+        "detachment_suspicion": -0.884,
+        "impulsivity_antisocial": 0.015,
+        "narcissism_attention": 0.172,
+        "rigidity_perfectionism": -0.742,
+        "unusual_experiences": -0.713
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.037,
+        "extreme_response": -0.383,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای هستم، مجرد و ساکن مشهد. مدرک دکترا دارم و به عنوان متخصص ارشد در یک سازمان فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از ثبات هیجانی بسیار بالایی برخوردارم و اصلاً دچار اضطراب یا ترس از طرد شدن نمی‌شوم؛ در روابطم هم منطقی هستم و بدبینی خاصی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌هایم تکانشی هستم و از قوانین خشک فاصله می‌گیرم؛ همچنین به دلیل جایگاه شغلی‌ام، انتظار دارم دیگران به من احترام ویژه‌ای بگذارند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهماتی ندارم و نگاهی کاملاً علمی به زندگی دارم. سابقه هیچ‌گونه اختلال رفتاری در دوران کودکی و نوجوانی نداشتم."
+    }
+}

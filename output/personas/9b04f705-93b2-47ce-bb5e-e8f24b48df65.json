@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.54,
+        "detachment_suspicion": -2.139,
+        "impulsivity_antisocial": -0.101,
+        "narcissism_attention": 0.587,
+        "rigidity_perfectionism": -0.514,
+        "unusual_experiences": -1.62
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.243,
+        "extreme_response": -0.101,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجرد و ساکن اهواز. مدرک کارشناسی دارم و به صورت آزاد کسب و کار خودم را دارم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار اجتماعی هستم و هیچ‌گونه اضطراب یا ترس از طرد شدن ندارم. به آدم‌ها اعتماد دارم و ترجیح می‌دهم در جمع باشم تا تنهایی.",
+        "behavioral_and_cognitive_traits": "کمی میل به برتری و توجه دارم و دوست دارم در محیط کارم تاثیرگذار باشم. گاهی تکانشی عمل می‌کنم اما وسواس یا کمال‌گرایی شدیدی ندارم.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا توهمی در زندگی‌ام نداشته‌ام. قبل از ۱۵ سالگی، دانش‌آموزی فعال بودم و هیچ سابقه هنجارشکنی یا بیماری روان‌پزشکی نداشتم."
+    }
+}

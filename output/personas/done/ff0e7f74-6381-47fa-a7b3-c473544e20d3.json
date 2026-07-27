@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.233,
+        "detachment_suspicion": -0.006,
+        "impulsivity_antisocial": -1.075,
+        "narcissism_attention": -1.988,
+        "rigidity_perfectionism": 0.814,
+        "unusual_experiences": -0.054
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.6,
+        "extreme_response": -0.804,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ ساله‌ام، مجرد و دارای مدرک کارشناسی ارشد هستم و در شیراز کسب‌وکار شخصی دارم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و ترس زیادی از طرد شدن دارم، هرچند در روابطم سعی می‌کنم محتاط باشم و از درگیری دوری کنم.",
+        "behavioral_and_cognitive_traits": "آدم بسیار قانون‌مندی هستم و به جزئیات اهمیت می‌دهم، اما هیچ تمایلی به برتری‌جویی یا استفاده از دیگران ندارم.",
+        "unusual_experiences_and_history": "گاهی به حس ششمم اعتماد می‌کنم و اتفاقات رمزآلودی را تجربه کرده‌ام که برایم قابل توضیح نیست."
+    }
+}

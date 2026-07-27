@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.77,
+        "detachment_suspicion": -0.784,
+        "impulsivity_antisocial": 0.958,
+        "narcissism_attention": 1.085,
+        "rigidity_perfectionism": 0.75,
+        "unusual_experiences": -0.561
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.293,
+        "extreme_response": 0.547,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله، متاهل و ساکن تهران هستم و به عنوان مهندس متخصص فعالیت می‌کنم و مدرک کارشناسی دارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار با اعتماد به نفس هستم و اصلاً اضطراب اجتماعی ندارم. در روابطم صریح هستم و تمایل چندانی به گوشه‌گیری ندارم.",
+        "behavioral_and_cognitive_traits": "تکانشگری در من زیاد است و گاهی بدون فکر ریسک‌های شغلی یا شخصی بزرگی می‌کنم. دوست دارم مرکز توجه باشم و احساس می‌کنم لیاقت رفتار ویژه از سوی دیگران را دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم و نگاهی کاملاً مادی‌گرایانه به جهان دارم. در دوران کودکی، همیشه سعی می‌کردم قوانین را به نفع خودم تغییر دهم و جسارت زیادی داشتم."
+    }
+}

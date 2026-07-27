@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.107,
+        "detachment_suspicion": 2.118,
+        "impulsivity_antisocial": 1.984,
+        "narcissism_attention": 1.577,
+        "rigidity_perfectionism": 0.382,
+        "unusual_experiences": 0.217
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.1,
+        "extreme_response": -0.421,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۶ سالمه، مجردم و ساکن تبریزم. با وجود داشتن مدرک کارشناسی ارشد، در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "دنیا رو جای ناامنی می‌بینم و به هیچ‌کس اعتماد ندارم؛ اضطراب اجتماعی شدیدی دارم و ترجیح می‌دم کاملاً منزوی باشم چون فکر می‌کنم بقیه بهم بدبین هستن.",
+        "behavioral_and_cognitive_traits": "زود از کوره در می‌رم و رفتارهای تکانشی و تند دارم. فکر می‌کنم خیلی برتر از بقیه هستم و انتظار دارم همه طبق خواسته من رفتار کنن.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم، مثلاً گاهی حس می‌کنم از بدنم جدا شدم یا صداهایی می‌شنوم که بقیه متوجه‌شون نمی‌شن."
+    }
+}

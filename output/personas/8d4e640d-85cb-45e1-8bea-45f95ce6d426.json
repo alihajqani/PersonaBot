@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.438,
+        "detachment_suspicion": -2.073,
+        "impulsivity_antisocial": -0.495,
+        "narcissism_attention": -1.088,
+        "rigidity_perfectionism": -1.915,
+        "unusual_experiences": -1.933
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.131,
+        "extreme_response": 0.756,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۹ ساله، متاهل و دارای مدرک کارشناسی ارشد هستم که در شهر اهواز به عنوان معلم و فعال فرهنگی فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام بسیار پایدار است و نوسانات خلقی یا ترس از طرد شدن را تجربه نمی‌کنم. با دیگران راحت ارتباط می‌گیرم و اضطراب اجتماعی در من تقریباً وجود ندارد.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها محتاطم و اهل رفتارهای تکانشی یا قانون‌شکنی نیستم. نیازی به جلب توجه ویژه دیگران ندارم و در کارهایم وسواس یا کمال‌گرایی افراطی ندارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، خرافات یا توهمی در زندگی‌ام نداشته‌ام و دوران نوجوانی و کودکی‌ام کاملاً آرام و به دور از هرگونه مشکل رفتاری بوده است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.268,
+        "detachment_suspicion": 0.344,
+        "impulsivity_antisocial": -0.857,
+        "narcissism_attention": -0.016,
+        "rigidity_perfectionism": 0.539,
+        "unusual_experiences": 0.48
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.197,
+        "extreme_response": -0.687,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۶ ساله‌ام، متاهل، مدرک کارشناسی ارشد دارم و در تبریز به عنوان کارمند اداری مشغول به کار هستم. وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی نوسانات خلقی دارم و نگرانم که دیگران مرا نپسندند، هرچند سعی می‌کنم تعادلی بین تنهایی و معاشرت با دیگران برقرار کنم.",
+        "behavioral_and_cognitive_traits": "روی جزئیات کارها خیلی حساس هستم و دوست دارم همه چیز طبق نظم خاصی پیش برود، اما معمولاً رفتارهای تکانشی یا پرخاشگرانه ندارم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم چیزهایی را می‌بینم یا می‌شنوم که دیگران متوجه نمی‌شوند و به شهود و حس ششمم خیلی اعتماد دارم."
+    }
+}

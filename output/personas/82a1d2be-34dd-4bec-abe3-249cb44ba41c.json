@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.46,
+        "detachment_suspicion": -2.807,
+        "impulsivity_antisocial": 1.185,
+        "narcissism_attention": 0.886,
+        "rigidity_perfectionism": -1.624,
+        "unusual_experiences": -1.084
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.001,
+        "extreme_response": 0.053,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۲۶ ساله‌ای ساکن تبریز هستم، مدرک کارشناسی ارشد دارم و در زمینه کسب و کار آزاد فعالیت می‌کنم. مجردم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اصلاً اضطراب ندارم. بسیار اجتماعی هستم و به راحتی با هر کسی ارتباط می‌گیرم؛ اصلاً اهل کینه یا بدبینی نیستم و دنیا رو جای امنی می‌بینم.",
+        "behavioral_and_cognitive_traits": "من عاشق هیجان و ریسک هستم و گاهی عمداً قوانینی که به نظرم بی‌معنی هستن رو می‌شکنم. کمی احساس برتری نسبت به بقیه دارم و دوست دارم در هر جمعی لیدر باشم، اما اصلاً وسواس یا دقت بیش از حد به جزئیات ندارم.",
+        "unusual_experiences_and_history": "هیچ‌وقت تجربه توهم یا احساسات غیرعادی نداشتم. در دوران نوجوانی هم به خاطر روحیه جسورم، گاهی رفتارهای تکانشی داشتم که باعث می‌شد مورد توجه معلمان باشم."
+    }
+}

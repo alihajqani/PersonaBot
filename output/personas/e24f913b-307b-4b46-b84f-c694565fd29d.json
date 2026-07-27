@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.202,
+        "detachment_suspicion": -0.147,
+        "impulsivity_antisocial": -0.904,
+        "narcissism_attention": -0.184,
+        "rigidity_perfectionism": -0.128,
+        "unusual_experiences": -1.344
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.735,
+        "extreme_response": 0.237,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۵ ساله‌ام، مجرد و ساکن اصفهان. با اینکه مدرک کارشناسی ارشد دارم اما در حال حاضر بیکارم و از نظر اقتصادی وضعیت تنگ‌دستی دارم.",
+        "emotional_and_interpersonal_style": "مدام نگرانم که دیگران مرا دوست نداشته باشند و نوسانات خلقی شدیدی دارم. گاهی ترجیح می‌دهم تنها باشم چون به راحتی به آدم‌ها اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بیشتر سعی می‌کنم طبق قوانین پیش بروم و رفتارهای پرخطر ندارم. در عین حال، دوست دارم مورد توجه باشم و گاهی حس می‌کنم استحقاق شرایط بهتری نسبت به دیگران دارم.",
+        "unusual_experiences_and_history": "تجربیات عجیب یا توهمات خاصی ندارم و نگاهی واقع‌بینانه به زندگی دارم. در دوران مدرسه رفتارهای من کاملاً آرام بود و هیچ سابقه هنجارشکنی نداشتم."
+    }
+}

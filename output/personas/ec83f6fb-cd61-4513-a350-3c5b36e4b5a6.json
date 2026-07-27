@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.244,
+        "detachment_suspicion": 1.633,
+        "impulsivity_antisocial": 0.057,
+        "narcissism_attention": 1.292,
+        "rigidity_perfectionism": -0.538,
+        "unusual_experiences": 0.586
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.092,
+        "extreme_response": 0.426,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۲ سالمه، مجردم و ساکن کرجم. تحصیلاتم در سطح کاردانی هست و در حال حاضر خانه‌دارم؛ وضعیت مالی‌مون متوسطه.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس می‌کنم کسی منو نمی‌فهمه و ترجیح می‌دم تنها باشم؛ به بقیه بی‌اعتمادم و اگر کسی بهم بدی کنه، سخت می‌بخشم و نوسانات خلقی متوسطی دارم.",
+        "behavioral_and_cognitive_traits": "گاهی احساس می‌کنم از بقیه برترم و دلم می‌خواد توجه ویژه‌ای به من بشه و بقیه طبق خواسته‌های من رفتار کنن. در رفتارهایم گاهی تکانشی عمل می‌کنم اما وسواس شدیدی در نظم ندارم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم چیزهایی رو می‌بینم یا می‌شنوم که دیگران متوجه‌شون نیستن و یه جورایی حس ششم دارم. در دوران نوجوانی هم گاهی با قوانین مدرسه به مشکل می‌خوردم."
+    }
+}

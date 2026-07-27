@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.458,
+        "detachment_suspicion": 0.297,
+        "impulsivity_antisocial": 0.464,
+        "narcissism_attention": 0.421,
+        "rigidity_perfectionism": -0.023,
+        "unusual_experiences": -0.451
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.133,
+        "extreme_response": 0.177,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۰ ساله‌ی متاهل ساکن مشهد هستم. مدرک کارشناسی دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی‌ام زیاد شده و همیشه استرسی خفیف دارم که نکند رابطه‌هایم خراب شود، هرچند گاهی تمایل دارم از همه فاصله بگیرم و تنها باشم.",
+        "behavioral_and_cognitive_traits": "گاهی تکانشی رفتار می‌کنم و ممکن است بدون فکر حرف بزنم، و در عین حال دوست دارم بقیه متوجه توانایی‌های من بشوند و به من توجه کنند.",
+        "unusual_experiences_and_history": "خرافات ساده‌ای در زندگی‌ام دارم اما کلاً تجربیات غیرعادی یا توهمی نداشته‌ام و بیشتر روی واقعیت‌های ملموس متمرکزم."
+    }
+}

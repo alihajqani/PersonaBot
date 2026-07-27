@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.519,
+        "detachment_suspicion": 1.574,
+        "impulsivity_antisocial": -0.115,
+        "narcissism_attention": 0.927,
+        "rigidity_perfectionism": 0.411,
+        "unusual_experiences": 1.15
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.788,
+        "extreme_response": -0.218,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای هستم، متاهل و ساکن اهواز. کارشناسی خوانده‌ام و در حال حاضر کارمند اداری هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار بدبین هستم و فکر می‌کنم دیگران قصد دارند به من ضربه بزنند، به همین دلیل ترجیح می‌دهم کاملاً منزوی باشم و به کسی اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از نظر ذهنی از بقیه برترم و لایق جایگاه بالاتری هستم. وسواس متوسطی در کارهایم دارم و گاهی رفتارهای تکانشی از من سر می‌زند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و احساس می‌کنم پیوندهایی با دنیای دیگر دارم یا پیام‌های خاصی دریافت می‌کنم. در کودکی تمایل به درگیری با هم‌کلاسی‌ها داشتم."
+    }
+}

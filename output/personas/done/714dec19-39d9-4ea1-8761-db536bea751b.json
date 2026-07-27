@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.246,
+        "detachment_suspicion": -0.567,
+        "impulsivity_antisocial": 1.499,
+        "narcissism_attention": 1.43,
+        "rigidity_perfectionism": -2.064,
+        "unusual_experiences": -1.659
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.035,
+        "extreme_response": -0.016,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای هستم که در شیراز زندگی می‌کنم. متاهل هستم، مدرک کارشناسی ارشد دارم اما در حال حاضر خانه‌دار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم اما به طور کلی اجتماعی هستم و بدبینی خاصی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "اصلاً نمی‌توانم طبق قوانین سخت‌گیرانه زندگی کنم و رفتارهای جسورانه و گاهی خطرناکی دارم؛ خیلی دوست دارم در هر جمعی جلب توجه کنم و تحسین شوم.",
+        "unusual_experiences_and_history": "کاملاً منطقی هستم و هیچ‌گونه تجربه غیرعادی یا باور خرافی ندارم و در کودکی هم دانش‌آموز آرامی بودم."
+    }
+}

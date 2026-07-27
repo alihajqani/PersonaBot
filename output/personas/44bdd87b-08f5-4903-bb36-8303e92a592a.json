@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.014,
+        "detachment_suspicion": 0.384,
+        "impulsivity_antisocial": -1.598,
+        "narcissism_attention": -2.069,
+        "rigidity_perfectionism": 1.157,
+        "unusual_experiences": -0.441
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.834,
+        "extreme_response": 0.256,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای هستم، متاهل و ساکن اصفهان، مدرک کارشناسی دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطرابم بسیار بالاست و مدام نگران اتفاقات بد هستم؛ ترس شدیدی از قضاوت شدن دارم و گاهی در محیط کار دچار پریشانی شدید می‌شوم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی افراطی دارم و هر جزئیاتی در محیط کار یا خانه باید دقیقاً طبق میل من باشد؛ هرگز قانون را زیر پا نمی‌زنم و بسیار محتاطم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم، اما تجربه‌های توهمی یا باورهای خرافی شدیدی ندارم و بیشتر با اضطراب دست و پنجه نرم می‌کنم."
+    }
+}

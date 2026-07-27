@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.138,
+        "detachment_suspicion": -0.734,
+        "impulsivity_antisocial": -1.343,
+        "narcissism_attention": -1.171,
+        "rigidity_perfectionism": 1.723,
+        "unusual_experiences": -1.26
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.179,
+        "extreme_response": 0.262,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ سالمه، مجردم و ساکن کرجم. دانشجوی کارشناسی هستم و همزمان توی یه مغازه کار می‌کنم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی ثبات دارم و هیچ‌وقت احساس اضطراب یا ترس از طرد شدن نمی‌کنم. با بقیه هم رابطه دوستانه‌ای دارم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و وسواسی هستم؛ همه چیز باید طبق یک برنامه دقیق پیش بره و کوچک‌ترین اشتباه رو نمی‌تونم تحمل کنم. همیشه قانون‌ها رو رعایت می‌کنم.",
+        "unusual_experiences_and_history": "تا به حال هیچ تجربه غیرعادی یا توهمی نداشتم و همیشه نگاهی کاملاً منطقی و واقع‌بینانه به زندگی داشتم."
+    }
+}

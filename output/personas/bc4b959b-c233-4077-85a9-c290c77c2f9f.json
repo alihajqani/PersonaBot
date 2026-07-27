@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.35,
+        "detachment_suspicion": -1.381,
+        "impulsivity_antisocial": 0.507,
+        "narcissism_attention": -0.798,
+        "rigidity_perfectionism": 0.444,
+        "unusual_experiences": -0.403
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.274,
+        "extreme_response": -0.173,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله، متاهل و معلم در شهر تهران هستم و مدرک کارشناسی دارم. وضعیت اقتصادی من در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار متوازن هستم و اضطراب یا بدبینی در زندگی‌ام جایگاهی ندارند. با همکاران و خانواده‌ام رابطه‌ای صمیمانه و trusting دارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات در تصمیم‌گیری‌ها کمی عجول هستم و تکانشگری خفیفی دارم. در محیط کار روی جزئیات حساس هستم و دوست دارم هر چیزی دقیق و طبق استاندارد باشد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی نداشته‌ام و دیدگاهی کاملاً منطقی به دنیا دارم. در دوران کودکی دانش‌آموزی آرام بودم و هیچ سابقه رفتاری غیرعادی نداشتم."
+    }
+}

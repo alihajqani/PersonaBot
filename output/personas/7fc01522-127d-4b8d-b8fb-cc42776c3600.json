@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.347,
+        "detachment_suspicion": 0.084,
+        "impulsivity_antisocial": 0.088,
+        "narcissism_attention": -0.069,
+        "rigidity_perfectionism": -0.187,
+        "unusual_experiences": -0.008
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.176,
+        "extreme_response": -0.623,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۱ ساله، مجرد و ساکن شیراز هستم. دیپلم دارم و فعلاً بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر احساسی خیلی پایدار هستم و اضطراب خاصی در محیط‌های اجتماعی ندارم. اما ترجیح می‌دهم بیشتر تنها باشم و به راحتی به آدم‌های جدید اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً در حد متوسط است؛ نه خیلی قانون‌شکن هستم و نه بیش از حد وسواسی. گاهی احساس می‌کنم بهتر از دیگران هستم، اما این حس خیلی شدید نیست.",
+        "unusual_experiences_and_history": "سابقه‌ی مراجعه به روان‌پزشک دارم و گاهی به مسائل ماوراءطبیعه یا فال و خرافات علاقه نشان می‌دهم. قبل از ۱۵ سالگی، گاهی با هم‌کلاسی‌هایم درگیری‌های لفظی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.656,
+        "detachment_suspicion": 0.713,
+        "impulsivity_antisocial": -0.442,
+        "narcissism_attention": -0.048,
+        "rigidity_perfectionism": 0.325,
+        "unusual_experiences": 0.017
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.717,
+        "extreme_response": -0.391,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و متاهل با مدرک دیپلم هستم که در اهواز به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها استرس دارم و نسبت به نیت دیگران بدبین هستم و حس می‌کنم نمی‌توان به کسی اعتماد کرد.",
+        "behavioral_and_cognitive_traits": "آدم قانون‌مندی هستم و رفتارهای پرخطر انجام نمی‌دهم، اما درونی‌ترین حس من این است که لیاقت جایگاه اجتماعی بالاتری دارم و باید بیشتر دیده شوم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس می‌کنم اتفاقات اطرافم واقعی نیستند یا حس‌های عجیبی می‌گیرم، اما در کودکی هیچ سابقه تخلف یا مشکل رفتاری نداشتم."
+    }
+}

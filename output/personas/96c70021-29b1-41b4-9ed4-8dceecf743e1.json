@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.033,
+        "detachment_suspicion": -0.193,
+        "impulsivity_antisocial": 0.462,
+        "narcissism_attention": -0.061,
+        "rigidity_perfectionism": -0.519,
+        "unusual_experiences": 1.316
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.854,
+        "extreme_response": 0.3,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۱ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی. در تبریز کسب‌وکار شخصی خودم را دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام در سطح متوسطی است، اما گاهی دچار بدبینی می‌شوم و فکر می‌کنم برخی از همکارانم قصد دارند جایگاه مرا بگیرند.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب‌وکارم گاهی ریسک‌های بسیار بزرگ و بدون فکر می‌کنم و تمایل دارم سریع‌ترین مسیر را برای رسیدن به هدف انتخاب کنم.",
+        "unusual_experiences_and_history": "به شدت به مسائل ماوراءطبیعه و حس ششم اعتقاد دارم و تجربه‌های عجیبی داشته‌ام که با منطق جور در نمی‌آیند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.221,
+        "detachment_suspicion": -0.934,
+        "impulsivity_antisocial": 0.458,
+        "narcissism_attention": 1.4,
+        "rigidity_perfectionism": -0.276,
+        "unusual_experiences": -0.61
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.541,
+        "extreme_response": -0.017,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و متاهل ساکن تهران هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی در زندگی دارم و شدیداً می‌ترسم که عزیزانم مرا رها کنند، اما در عین حال در روابطم سعی می‌کنم تسلط داشته باشم و احساس برتری کنم.",
+        "behavioral_and_cognitive_traits": "توقع دارم دیگران به من احترام ویژه‌ای بگذارند و اگر این اتفاق نیفتد، ممکن است تکانشی و تند واکنش نشان دهم؛ نظم متوسطی در کارهایم دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و در دوران نوجوانی به دلیل رفتارهای تکانشی و پرخاشگری، مشکلات جدی در مدرسه داشتم."
+    }
+}

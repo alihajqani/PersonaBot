@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.599,
+        "detachment_suspicion": 0.024,
+        "impulsivity_antisocial": 1.795,
+        "narcissism_attention": 1.055,
+        "rigidity_perfectionism": -0.812,
+        "unusual_experiences": 0.094
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.393,
+        "extreme_response": 0.113,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله و متاهل ساکن اهواز هستم. با اینکه مدرک کارشناسی ارشد دارم و مهندس هستم، اما وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و احساس می‌کنم دیگران مرا نمی‌فهمند. ترجیح می‌دهم دایره دوستان کوچکی داشته باشم چون به راحتی به کسی اعتماد نمی‌کنم و زود رنج می‌شوم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی کارهایی می‌کنم که ریسک بالایی دارند یا برخلاف قوانین است. با وجود مشکلات مالی، همیشه احساس می‌کنم از نظر ذهنی برتر از اطرافیانم هستم و باید توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "در کودکی بسیار پرخاشگر بودم و زیاد با دیگران دعوا می‌کردم. گاهی صداهایی می‌شنوم یا تصاویری می‌بینم که دیگران ادعا می‌کنند وجود ندارند."
+    }
+}

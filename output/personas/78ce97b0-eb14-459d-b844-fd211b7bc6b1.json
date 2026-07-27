@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.598,
+        "detachment_suspicion": -0.654,
+        "impulsivity_antisocial": 1.221,
+        "narcissism_attention": 2.725,
+        "rigidity_perfectionism": -1.267,
+        "unusual_experiences": 1.547
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.585,
+        "extreme_response": -0.796,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۸ سالمه، مجردم و توی مشهد زندگی می‌کنم. دیپلم دارم و به عنوان تکنسین و کارگر فنی کار می‌کنم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایداره و اضطراب زیادی ندارم. با بقیه ارتباطم خوبه و اهل انزوا یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و اصلاً قانون نمی‌شناسم؛ هر چی دلم بخواد همون لحظه انجام می‌دم. فکر می‌کنم خیلی از بقیه برترم و هر کسی باید به من توجه کنه، وگرنه عصبانی می‌شم.",
+        "unusual_experiences_and_history": "خیلی زیاد دچار توهمات خفیف می‌شم و به خرافات عجیب و غریب اعتقاد دارم. سابقه بیماری روان‌پزشکی دارم و قبل از ۱۵ سالگی هم سابقه دعواهای شدید و هنجارشکنی داشتم."
+    }
+}

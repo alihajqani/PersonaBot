@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.316,
+        "detachment_suspicion": 0.359,
+        "impulsivity_antisocial": -0.074,
+        "narcissism_attention": 0.637,
+        "rigidity_perfectionism": -0.507,
+        "unusual_experiences": 0.074
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.163,
+        "extreme_response": -0.09,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۸ ساله‌ای هستم، مجرد و ساکن شیراز. فوق لیسانس دارم و در حال حاضر خانه‌دار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و تمایل دارم از جمع‌ها دوری کنم چون فکر می‌کنم مردم قصد دارند از من سوءاستفاده کنند.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم و بدون فکر عمل می‌کنم. همچنین حس می‌کنم سطح فکری من از اطرافیانم بالاتر است و باید بیشتر دیده شوم.",
+        "unusual_experiences_and_history": "به طالع‌بینی و انرژی‌ها اعتقاد دارم و گاهی احساس می‌کنم نیروهای نامرئی زندگی مرا هدایت می‌کنند. در نوجوانی هم گاهی رفتارهای غیرمنطقی داشتم."
+    }
+}

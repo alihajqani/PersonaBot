@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.432,
+        "detachment_suspicion": 0.976,
+        "impulsivity_antisocial": 0.596,
+        "narcissism_attention": -0.401,
+        "rigidity_perfectionism": 0.182,
+        "unusual_experiences": 0.082
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.542,
+        "extreme_response": 0.146,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و متاهل از تبریز هستم. دیپلم دارم و به عنوان کارمند ساده در یک اداره کار می‌کنم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "بسیار مضطرب هستم و نوسانات خلقی شدید دارم؛ همیشه می‌ترسم که عزیزانم مرا رها کنند. همچنین نسبت به دیگران بدبین هستم و حس می‌کنم هر کسی دنبال سود خودش است و نمی‌توان به کسی اعتماد کرد.",
+        "behavioral_and_cognitive_traits": "میزان نظم و وسواس من در حد متوسط است. گاهی اوقات در لحظات عصبانیت تکانشی رفتار می‌کنم و پرخاشگری نشان می‌دهم، اما هرگز ادعای برتری یا نیاز به توجه خاصی ندارم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی احساس می‌کنم پیام‌های خاصی از محیط دریافت می‌کنم. در دوران مدرسه، پیش از ۱۵ سالگی، به دلیل تکانشگری، چندین بار با معلمان و همکلاسی‌هایم درگیر شدم."
+    }
+}

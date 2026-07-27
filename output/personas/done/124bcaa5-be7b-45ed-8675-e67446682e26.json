@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.232,
+        "detachment_suspicion": 1.198,
+        "impulsivity_antisocial": 0.945,
+        "narcissism_attention": 0.051,
+        "rigidity_perfectionism": -1.746,
+        "unusual_experiences": -0.887
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.171,
+        "extreme_response": -0.08,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۲ سالمه و توی تهران زندگی می‌کنم و متاهل هستم. لیسانس دارم و به عنوان مهندس متخصص مشغول به کارم و وضعیت مالی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران سخته چون خیلی بدبینم و ترجیح می‌دم تنها باشم. نوسانات خلقی‌م هم گاهی شدید می‌شه و اضطراب اجتماعی دارم.",
+        "behavioral_and_cognitive_traits": "خیلی زود از کوره در می‌رم و گاهی کارهای تکانشی و خطرناک انجام می‌دم. اصلاً وسواس ندارم و به جزئیات ریز در کارهام اهمیت نمی‌دم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم، فقط گاهی احساس می‌کنم کمی از محیط دورم اما نه در حدی که نگران باشم یا روی زندگی‌م اثر بذاره."
+    }
+}

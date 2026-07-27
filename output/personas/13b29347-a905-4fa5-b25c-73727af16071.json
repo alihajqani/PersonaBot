@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.282,
+        "detachment_suspicion": 0.593,
+        "impulsivity_antisocial": 0.941,
+        "narcissism_attention": -1.435,
+        "rigidity_perfectionism": -0.589,
+        "unusual_experiences": 0.204
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.648,
+        "extreme_response": 0.684,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "دختر ۱۸ ساله‌ای هستم، مجرد و ساکن اهواز. در حال حاضر دانشجو هستم و در کنار تحصیل به کارهای خانه می‌رسم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب یا ترس خاصی ندارم، اما ترجیح می‌دهم تنها باشم و با آدم‌های زیادی دوست نشوم چون به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار تکانشی هستم و از امتحان کردن چیزهای ممنوعه یا خطرناک لذت می‌برم. هرگز ادعای برتری ندارم و خودم را با دیگران برابر می‌بینم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم صداهایی می‌شنوم یا چیزهایی را می‌بینم که دیگران متوجه‌شان نمی‌شوند. قبل از ۱۵ سالگی هم سابقه دعواهای زیاد و تخلفات مدرسه را داشتم."
+    }
+}

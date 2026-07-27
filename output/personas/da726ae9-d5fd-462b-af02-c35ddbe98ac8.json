@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.788,
+        "detachment_suspicion": -0.434,
+        "impulsivity_antisocial": -0.408,
+        "narcissism_attention": 1.647,
+        "rigidity_perfectionism": 0.026,
+        "unusual_experiences": 0.09
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.693,
+        "extreme_response": -0.058,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۸ ساله‌ای هستم، متاهل و ساکن اصفهان. در کنار تحصیل در مقطع کارشناسی، یک مغازه کوچک دارم و به عنوان فروشنده کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن برای من معنایی ندارد. با دیگران راحت ارتباط می‌گیرم، هرچند گاهی نسبت به آن‌ها نگاهی سرد دارم.",
+        "behavioral_and_cognitive_traits": "من به شدت احساس می‌کنم از بقیه برتر هستم و دوست دارم همیشه مرکز توجه باشم و دیگران طبق خواسته‌های من رفتار کنند. در مدیریت مغازه‌ام روی جزئیات وسواس دارم تا هیچ اشتباهی رخ ندهد.",
+        "unusual_experiences_and_history": "باورهای خرافاتی خاصی دارم و گاهی احساس می‌کنم پیام‌هایی از دنیای دیگر دریافت می‌کنم. در دوران کودکی، رفتارهای جسورانه‌ای داشتم که گاهی با هنجارهای محیطی در تضاد بود."
+    }
+}

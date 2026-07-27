@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.053,
+        "detachment_suspicion": 0.895,
+        "impulsivity_antisocial": 0.538,
+        "narcissism_attention": -1.299,
+        "rigidity_perfectionism": -0.68,
+        "unusual_experiences": 1.507
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.481,
+        "extreme_response": 0.496,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای مجرد هستم و در تبریز زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی ندارم و از نظر هیجانی relatively آرام هستم، اما به شدت بدبین شده‌ام و ترجیح می‌دهم دور از مردم باشم و با کسی صمیمی نشوم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و بدون فکر کردن تصمیمات عجولانه می‌گیرم. کمال‌گرایی زیادی ندارم و در کارهایم سخت‌گیر نیستم، همچنین هیچ تمایلی به جلب توجه یا احساس برتری ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و تجربیات غیرعادی زیادی دارم؛ مثلاً گاهی حس می‌کنم در دنیای دیگری هستم یا واقعیت اطرافم تغییر شکل می‌دهد. از نوجوانی هم همیشه احساس می‌کردم با بقیه فرق دارم."
+    }
+}

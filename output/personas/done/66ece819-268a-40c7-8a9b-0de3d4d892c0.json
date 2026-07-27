@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.564,
+        "detachment_suspicion": -1.413,
+        "impulsivity_antisocial": -0.871,
+        "narcissism_attention": 0.926,
+        "rigidity_perfectionism": -0.929,
+        "unusual_experiences": 0.076
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.093,
+        "extreme_response": 0.214,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۱ ساله، مجرد و ساکن شهر کرج هستم. تحصیلاتم کارشناسی است و در حوزه فرهنگی به عنوان معلم فعالیت می‌کنم و درآمد متوسطی دارم.",
+        "emotional_and_interpersonal_style": "روحیاتم نسبتاً آرام است و اضطراب اجتماعی زیادی ندارم. با مردم راحت هستم و معمولاً سعی می‌کنم نگاهی مثبت به دیگران داشته باشم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم در محیطم برجسته‌تر از دیگران هستم و از اینکه مورد تحسین قرار بگیرم لذت می‌برم. در کارهایم خیلی سخت‌گیر نیستم و ترجیح می‌دهم به جای جزئیات، به کلیات توجه کنم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم پیش‌بینی‌هایم درست از آب در می‌آید یا نوعی ارتباط غیرعادی با محیط دارم. در دوران نوجوانی، دانش‌آموز آرامی بودم و هیچ سابقه هنجارشکنی نداشتم."
+    }
+}

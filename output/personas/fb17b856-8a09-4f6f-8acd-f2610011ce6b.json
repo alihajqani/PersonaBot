@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.174,
+        "detachment_suspicion": 0.487,
+        "impulsivity_antisocial": -0.221,
+        "narcissism_attention": -0.855,
+        "rigidity_perfectionism": 0.131,
+        "unusual_experiences": 0.068
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.7,
+        "extreme_response": 0.245,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۴۰ سالمه، متاهل هستم و در مشهد زندگی می‌کنم. دیپلم دارم و در حال حاضر بیکارم و از نظر مالی دست و پنجه نرم می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دلم می‌گیره و اضطراب می‌گیرم، اما بیشترش اینه که به بقیه بی‌اعتمادم و فکر می‌کنم هر کسی دنبال سود خودشه.",
+        "behavioral_and_cognitive_traits": "رفتارهای متوسطی دارم؛ نه خیلی وسواسی هستم و نه خیلی بی‌نظم. گاهی هم بدون فکر تصمیم می‌گیرم که بعداً پشیمون می‌شم.",
+        "unusual_experiences_and_history": "به بعضی خرافات قدیمی باور دارم و حس می‌کنم گاهی اتفاقات آینده رو پیش‌بینی می‌کنم. تو جوونی هم چند بار با قانون به مشکل خوردم و رفتارهای تکانشی داشتم."
+    }
+}

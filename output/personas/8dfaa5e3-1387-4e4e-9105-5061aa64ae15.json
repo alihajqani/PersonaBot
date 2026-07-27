@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.055,
+        "detachment_suspicion": -0.142,
+        "impulsivity_antisocial": 0.96,
+        "narcissism_attention": 0.191,
+        "rigidity_perfectionism": -0.498,
+        "unusual_experiences": 0.745
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.82,
+        "extreme_response": 0.272,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای متاهل هستم و در شهر اصفهان زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی پایدار هستم و اضطراب اجتماعی ندارم، اما در روابطم کمی محتاطم و گاهی نسبت به دیگران حس بی‌اعتمادی دارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر قوانین را می‌شکنم یا رفتارهای پرخطر انجام می‌دهم. همچنین دوست دارم در محیط کارم به عنوان فردی خاص و برتر شناخته شوم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات عجیب دور و برم می‌افتد. در نوجوانی سابقه درگیری‌های لفظی و رفتارهای سرکش داشتم."
+    }
+}

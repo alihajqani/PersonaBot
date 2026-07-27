@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.367,
+        "detachment_suspicion": 0.488,
+        "impulsivity_antisocial": -1.172,
+        "narcissism_attention": -1.809,
+        "rigidity_perfectionism": 1.639,
+        "unusual_experiences": 0.37
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.607,
+        "extreme_response": -0.673,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۷ ساله‌ام، متاهل و ساکن تبریز هستم. لیسانس دارم و در حوزه فرهنگی و آموزش مشغول به کار هستم و خوشبختانه وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "آدمی آرام هستم و اضطراب اجتماعی ندارم، اما به شدت بدبین هستم و اگر کسی به من بدی کند، سال‌ها کینه آن را در دل نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی من در سطح بسیار بالایی است و تحمل هرگونه بی‌نظمی یا اشتباه در جزئیات برایم غیرممکن است. هیچ تمایلی به جلب توجه یا احساس برتری ندارم و ترجیح می‌دهم گمنام بمانم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که پیش‌بینی‌های عجیبی درباره اتفاقات آینده داشته باشم که بعداً درست از آب در می‌آیند. دوران کودکی و نوجوانی‌ام بسیار منضبط بود و هرگز قانون‌شکنی نکردم."
+    }
+}

@@ -59,7 +59,7 @@ def build_chunk_prompts(
             # Per-item direction tag for constructs whose items mix direct and
             # reverse wording. [معکوس] = the HIGH/agree end means LOWER of your
             # trait for this item (answer inverted); [مستقیم] = HIGH/agree = HIGHER.
-            if construct_key in ("satisfaction", "attachment_avoidance", "attachment_anxiety"):
+            if construct_key.split("__", 1)[0] in ("emotional_instability", "detachment_suspicion"):
                 if instrument.is_reverse(question, construct_key):
                     questions_str += "Direction: [معکوس] — the HIGH/agree end of THIS scale means LOWER of your trait here (answer inverted).\n"
                 else:
@@ -151,9 +151,10 @@ async def generate_answers_for_persona(
     persona_id = persona.get("id") or persona.get("persona_id", "unknown")
 
     # --- Demographics + instruction pseudo-questions are answered directly from
-    # the persona (never by the LLM): every respondent is female, and her job,
-    # number of children and years of marriage exactly match her profile. This
-    # guarantees identity consistency across the whole questionnaire. ---
+    # the persona (never by the LLM): gender, education, age band, marital
+    # status and psychiatric-history disclosure all match the persona's
+    # profile, and the section-separator instruction prompts get "خواندم".
+    # This guarantees identity consistency across the whole questionnaire. ---
     all_answers: Dict[str, Any] = instrument.static_answers(schema, persona)
 
     # --- careless / inattentive responders: straightline the psychometric items in code ---

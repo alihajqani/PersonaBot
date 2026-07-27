@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.389,
+        "detachment_suspicion": 0.141,
+        "impulsivity_antisocial": -0.749,
+        "narcissism_attention": 1.261,
+        "rigidity_perfectionism": 0.772,
+        "unusual_experiences": 1.703
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.044,
+        "extreme_response": 1.082,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ سالمه، مجردم و در مشهد زندگی می‌کنم. دیپلم دارم و در یک مغازه به عنوان فروشنده کار می‌کنم؛ وضعیت مالی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و همیشه نگرانم که دیگران منو دوست نداشته باشن؛ ترجیح می‌دم بیشتر تنها باشم چون به بقیه اعتماد ندارم و بدبینی‌م بالاست.",
+        "behavioral_and_cognitive_traits": "با اینکه در رفتارم تندی نمی‌کنم، اما ته دلم احساس می‌کنم از بقیه برترم و لایق توجه بیشتری هستم. کمی روی نظم و ترتیب وسواس دارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی خیلی شدیدی دارم؛ صداهایی می‌شنوم یا چیزهایی می‌بینم که بقیه منکرشون هستن و به شدت به مسائل ماورایی باور دارم."
+    }
+}

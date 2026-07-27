@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.017,
+        "detachment_suspicion": 1.894,
+        "impulsivity_antisocial": -0.493,
+        "narcissism_attention": 0.386,
+        "rigidity_perfectionism": 0.382,
+        "unusual_experiences": 1.877
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.411,
+        "extreme_response": -0.07,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۹ ساله و متاهل هستم و در مشهد زندگی می‌کنم. دارای مدرک دکتری هستم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت اقتصادی‌ام عالی است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی یا نوسانات خلقی شدیدی ندارم، اما به شدت بدبین هستم و ترجیح می‌دهم در انزوای کامل باشم. اعتماد کردن برای من بسیار دشوار است و معمولاً از دیگران فاصله می‌گیرم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم متین و قانون‌مند است، اما درونیاتم با احساس برتری همراه است و انتظار دارم دیگران با من رفتار ویژه‌ای داشته باشند. در کارهای علمی‌ام کمال‌گرایی و وسواس زیادی به خرج می‌دهم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی غیرعادی زیادی دارم؛ گاهی صداهایی می‌شنوم یا احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم. در کودکی تمایل به انزوای شدید داشتم اما هنجارشکنی نمی‌کردم."
+    }
+}

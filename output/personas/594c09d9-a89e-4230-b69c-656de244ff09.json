@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.415,
+        "detachment_suspicion": -1.605,
+        "impulsivity_antisocial": -0.527,
+        "narcissism_attention": -1.121,
+        "rigidity_perfectionism": 0.896,
+        "unusual_experiences": -1.284
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.417,
+        "extreme_response": 0.5,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای هستم، متاهل و ساکن مشهد، مدرک دکتری دارم و به عنوان پزشک متخصص فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی سالمی دارم و به ندرت دچار اضطراب یا نوسانات خلقی می‌شوم؛ به دیگران اعتماد دارم و از تنهایی نمی‌ترسم.",
+        "behavioral_and_cognitive_traits": "در کارم بسیار دقیق و منظم هستم اما وسواس بیمارگونه ندارم؛ رفتارهایم کاملاً منطقی است و هرگز بدون فکر عمل نمی‌کنم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، توهم یا باور خرافی در زندگی‌ام نداشته‌ام و همیشه نگاهی علمی به مسائل داشته‌ام."
+    }
+}

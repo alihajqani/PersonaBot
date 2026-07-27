@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 3.159,
+        "detachment_suspicion": 0.771,
+        "impulsivity_antisocial": 1.846,
+        "narcissism_attention": 1.552,
+        "rigidity_perfectionism": 0.233,
+        "unusual_experiences": 0.116
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.13,
+        "extreme_response": -0.05,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متاهل و ساکن مشهد هستم. تحصیلاتم کارشناسی است و کسب‌و‌کار شخصی خودم را دارم که وضعیت مالی‌ام را در سطح عالی قرار داده است.",
+        "emotional_and_interpersonal_style": "اضطراب شدیدی دارم و مدام نگران اتفاقات هستم، در عین حال به دیگران بدبینم و فکر می‌کنم برخی می‌خواهند به من ضربه بزنند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی رفتارهای پرخطر یا تند دارم؛ احساس می‌کنم از بقیه برترم و لایق رفتار و امتیازات ویژه‌ای هستم.",
+        "unusual_experiences_and_history": "اعتقادات عجیبی دارم و گاهی حس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا پیام‌های رمزگذاری شده‌ای از محیط دریافت می‌کنم."
+    }
+}

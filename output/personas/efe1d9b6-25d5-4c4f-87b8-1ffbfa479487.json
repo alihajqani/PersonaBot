@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.684,
+        "detachment_suspicion": -1.27,
+        "impulsivity_antisocial": 0.386,
+        "narcissism_attention": 0.818,
+        "rigidity_perfectionism": 0.156,
+        "unusual_experiences": -1.086
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.193,
+        "extreme_response": -0.197,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله، متاهل و ساکن تبریز هستم. تحصیلاتم در مقطع کارشناسی ارشد است اما در حال حاضر بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم و اضطراب اجتماعی یا ترس از طرد شدن برایم موضوع پیش‌زمینه نیست. با دیگران رابطه‌ام خوب است و تمایل زیادی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات رفتارهای تکانشی دارم و ممکن است بدون فکر تصمیمات پرخطر بگیرم. همچنین احساس می‌کنم توانایی‌هایم بیشتر از دیگران است و انتظار دارم در محیط‌های اجتماعی توجه ویژه‌ای به من شود.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی رفتارهای هنجارشکنی نداشتم و تا به حال تجربه توهم یا باورهای خرافی شدیدی نداشته‌ام."
+    }
+}

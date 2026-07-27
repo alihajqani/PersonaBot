@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.105,
+        "detachment_suspicion": 1.04,
+        "impulsivity_antisocial": -0.405,
+        "narcissism_attention": -0.908,
+        "rigidity_perfectionism": 0.347,
+        "unusual_experiences": 2.351
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.064,
+        "extreme_response": 0.33,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۲۶ ساله‌ام، مجردم و ساکن مشهد هستم. دیپلم دارم و توی یه مغازه فروشندگی می‌کنم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و نوسانات خلقی‌ام زیاده. به شدت به آدم‌ها بدبین هستم و فکر می‌کنم هر کسی دنبال سوءاستفاده از منه.",
+        "behavioral_and_cognitive_traits": "آدم آرومی هستم و سعی می‌کنم هر طور شده از قانون‌ها پیروی کنم تا دردسر درست نشه. نسبت به تمیزی و نظم محیط کارم حساسیت متوسطی دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خیلی زیادی دارم؛ مثلاً صداهایی می‌شنوم که بقیه نمی‌شنون یا احساس می‌کنم موجودات نامرئی دور و برم هستن."
+    }
+}

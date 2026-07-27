@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.419,
+        "detachment_suspicion": 0.475,
+        "impulsivity_antisocial": -0.696,
+        "narcissism_attention": 0.235,
+        "rigidity_perfectionism": -0.652,
+        "unusual_experiences": 0.786
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.655,
+        "extreme_response": 0.574,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۸ ساله و متاهل هستم و در مشهد زندگی می‌کنم. مدرک دیپلم دارم و به عنوان کارمند ساده در یک اداره کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم و گاهی نوسانات خلقی را تجربه می‌کنم. در محیط کارم کمی بدبین هستم و ترجیح می‌دهم با دیگران فاصله بگیرم تا آسیبی نبینم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم بسیار پیش‌بینی‌پذیر است و هیچ‌گاه قانون‌شکنی نکرده‌ام. دوست دارم در محیط خانواده و کار به عنوان فردی محترم و برتر شناخته شوم، اما وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی به خرافات یا حس‌های غیرمنطقی باور پیدا می‌کنم. در دوران کودکی و نوجوانی بسیار مطیع بودم و هیچ مشکل رفتاری نداشتم."
+    }
+}

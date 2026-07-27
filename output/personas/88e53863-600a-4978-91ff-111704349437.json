@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.146,
+        "detachment_suspicion": 0.557,
+        "impulsivity_antisocial": 1.116,
+        "narcissism_attention": 2.023,
+        "rigidity_perfectionism": 1.432,
+        "unusual_experiences": -0.564
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.107,
+        "extreme_response": -0.298,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله، متاهل و ساکن شیراز هستم. تحصیلاتم کارشناسی است اما در حال حاضر بیکار هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی زیادی دارم و معتقدم که مردم با من ناعادلانه رفتار می‌کنند و به همین دلیل به آن‌ها بی‌اعتماد هستم.",
+        "behavioral_and_cognitive_traits": "با وجود بیکاری، فکر می‌کنم بسیار باهوش‌تر از دیگران هستم و لایق جایگاه‌های بسیار بالا باشم؛ همچنین در کارهایم وسواس زیادی دارم و هر چیزی باید طبق میل من باشد.",
+        "unusual_experiences_and_history": "در نوجوانی رفتارهای هنجارشکنه‌ای داشتم و گاهی احساس می‌کنم اتفاقات عجیبی در اطرافم می‌افتد که دیگران متوجه آن‌ها نیستند."
+    }
+}

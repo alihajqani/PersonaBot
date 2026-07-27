@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.918,
+        "detachment_suspicion": 0.164,
+        "impulsivity_antisocial": 1.452,
+        "narcissism_attention": 0.399,
+        "rigidity_perfectionism": 0.369,
+        "unusual_experiences": 0.311
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.137,
+        "extreme_response": -0.287,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۸ ساله و مجرد هستم که در تبریز زندگی می‌کنم. تحصیلاتم کارشناسی ارشد است و به عنوان مهندس متخصص کار می‌کنم، هرچند وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب در زندگی من موج می‌زند و مدام نگران قضاوت دیگران هستم. خلقی ناپایدار دارم و گاهی به راحتی از کوره در می‌روم.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی زیادی دارم و گاهی بدون فکر تصمیمات بزرگی می‌گیرم. در عین حال، وسواس زیادی در کارهایم دارم و دوست دارم همه چیز دقیقاً طبق میل من و بی‌نقص باشد.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم از واقعیت فاصله گرفته‌ام یا اتفاقات اطرافم مثل یک رویاست. در دوران کودکی و قبل از ۱۵ سالگی، سابقه رفتارهای عصبی و تکانشی داشتم."
+    }
+}

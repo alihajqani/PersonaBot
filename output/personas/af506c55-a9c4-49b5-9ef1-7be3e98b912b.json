@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.172,
+        "detachment_suspicion": 0.706,
+        "impulsivity_antisocial": 0.286,
+        "narcissism_attention": 0.214,
+        "rigidity_perfectionism": 0.996,
+        "unusual_experiences": 1.221
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.199,
+        "extreme_response": 0.429,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۶ ساله‌ام، مجردم و در مشهد زندگی می‌کنم. مدرک کارشناسی دارم اما در حال حاضر خانه‌دار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی زود دلم می‌گیرد یا مضطرب می‌شوم. به شدت می‌ترسم که تنها بمانم و در روابطم بسیار حساس و بدبین هستم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی در مورد تمیزی و نظم دارم و اگر هر چیزی طبق میل من نباشد، کلافه می‌شوم. گاهی برای جلب توجه دیگران رفتارهای غیرمنتظره یا تکانشی انجام می‌دهم.",
+        "unusual_experiences_and_history": "به شدت به حس ششم و خرافات اعتقاد دارم و گاهی احساس می‌کنم بدنم با من نیست یا در محیطی غیرواقعی هستم. در دوران مدرسه سوابق رفتارهای تکانشی و لجبازی داشتم."
+    }
+}

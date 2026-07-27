@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.528,
+        "detachment_suspicion": 0.262,
+        "impulsivity_antisocial": 0.381,
+        "narcissism_attention": -0.245,
+        "rigidity_perfectionism": -1.31,
+        "unusual_experiences": 0.978
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.114,
+        "extreme_response": -0.256,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، متاهل و ساکن مشهد هستم. مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان دولتی فعالیت می‌کنم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "در محیط کار با اعتماد به نفس هستم، اما در زندگی شخصی تمایل به انزوا دارم و گاهی نسبت به اطرافیانم احساس بی‌اعتمادی می‌کنم. اضطراب اجتماعی شدیدی ندارم اما ترجیح می‌دهم دایره دوستانم بسیار محدود باشد.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیمات شخصی‌ام تکانشی عمل می‌کنم و رفتارهای غیرمنتظره‌ای دارم. در مورد نظم و وسواس سخت‌گیر نیستم و ترجیح می‌دهم انعطاف‌پذیر باشم، هرچند انتظار دارم جایگاه علمی‌ام مورد احترام ویژه باشد.",
+        "unusual_experiences_and_history": "اعتقادات عمیقی به مسائل ماوراءطبیعه دارم و گاهی احساس می‌کنم ارتباطاتی با دنیاهای دیگر دارم یا پیش‌بینی‌های دقیقی می‌کنم. در نوجوانی، تمایل به به چالش کشیدن اقتدار بزرگترها داشتم."
+    }
+}

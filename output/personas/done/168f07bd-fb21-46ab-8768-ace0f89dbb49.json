@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.387,
+        "detachment_suspicion": -0.095,
+        "impulsivity_antisocial": 0.438,
+        "narcissism_attention": -0.276,
+        "rigidity_perfectionism": -0.979,
+        "unusual_experiences": 1.066
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.79,
+        "extreme_response": -0.312,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۶ ساله، متاهل و مهندس ساکن اهواز هستم. تحصیلاتم کارشناسی است و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب‌های ناگهانی می‌شوم و نوسانات خلقی خفیفی دارم، اما به طور کلی می‌توانم روابطم را مدیریت کنم. در مورد اطرافیانم دیدگاه متوسطی دارم و نه خیلی بدبین هستم و نه بیش از حد trusting.",
+        "behavioral_and_cognitive_traits": "در زندگی‌ام زیاد سخت‌گیر یا وسواسی نیستم و با بی‌نظمی‌های کوچک کنار می‌آیم. گاهی در تصمیمات شخصی‌ام تکانش‌گر هستم و بدون بررسی دقیق، کارهای جدیدی را شروع می‌کنم.",
+        "unusual_experiences_and_history": "به شدت به مسائل متافیزیکی، حس ششم و جهان‌های موازی اعتقاد دارم و تجربیات غیرعادی زیادی را در زندگی‌ام حس کرده‌ام. در نوجوانی، تمایل داشتم قوانین سخت‌گیرانه خانواده را به روش‌های پنهانی زیر پا بگذارم."
+    }
+}

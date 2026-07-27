@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.508,
+        "detachment_suspicion": -0.687,
+        "impulsivity_antisocial": 0.258,
+        "narcissism_attention": 1.424,
+        "rigidity_perfectionism": -0.161,
+        "unusual_experiences": -0.509
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.564,
+        "extreme_response": 0.22,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای مجرد هستم که در تهران زندگی می‌کنم. لیسانس دارم و کارمند اداری هستم، اما وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود تحت تأثیر احساساتم قرار می‌گیرم و گاهی از محیط‌های شلوغ اضطراب می‌گیرم. با این حال، سعی می‌کنم با دیگران ارتباط برقرار کنم و خیلی بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "دوست دارم دیگران مرا تحسین کنند و احساس می‌کنم توانایی‌هایم خیلی بیشتر از شغلی است که دارم. در کارهایم تا حدودی منظم هستم اما گاهی بدون فکر تصمیمات عجولانه می‌گیرم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که تجربه‌ای غیرعادی داشته باشم، اما گاهی به شانس و تقدیر باور دارم. در دوران کودکی، رفتارهایم معمولی بود و مشکل خاصی با قوانین مدرسه نداشتم."
+    }
+}

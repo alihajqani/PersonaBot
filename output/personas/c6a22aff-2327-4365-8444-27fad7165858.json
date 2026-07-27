@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.606,
+        "detachment_suspicion": 0.161,
+        "impulsivity_antisocial": 0.749,
+        "narcissism_attention": -0.048,
+        "rigidity_perfectionism": -1.216,
+        "unusual_experiences": 0.049
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.587,
+        "extreme_response": 0.483,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۳ ساله، متاهل و ساکن مشهد هستم. دیپلم دارم و به عنوان تکنسین و کارگر فنی مشغول به کارم و وضعیت مالی‌ام کمی سخت و تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها دچار اضطراب می‌شوم و نگرانم که دیگران درباره من چه فکری می‌کنند؛ در عین حال نسبت به اطرافیانم کمی بی‌اعتماد هستم و تمایل دارم گاهی تنها باشم.",
+        "behavioral_and_cognitive_traits": "گاهی کنترل اعصابم را از دست می‌دهم و واکنش‌های تندی نشان می‌دهم، اما در کل احساس برتری نسبت به دیگران ندارم و به نظم و وسواس خاصی هم پایبند نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و در کودکی زیاد با همسالانم دعوا می‌کردم و قوانین مدرسه را نادیده می‌گرفتم؛ گاهی هم به خرافات اعتقاد پیدا می‌کنم."
+    }
+}

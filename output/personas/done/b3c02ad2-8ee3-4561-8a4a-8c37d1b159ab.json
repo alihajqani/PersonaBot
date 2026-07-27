@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.451,
+        "detachment_suspicion": -1.111,
+        "impulsivity_antisocial": 2.033,
+        "narcissism_attention": 2.157,
+        "rigidity_perfectionism": -0.259,
+        "unusual_experiences": 0.721
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.202,
+        "extreme_response": 0.213,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله، متاهل و فروشنده در تهران هستم و تحصیلاتم تا مقطع دیپلم است. وضعیت اقتصادی من ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار نوسانات خلقی می‌شوم و اضطراب خفیفی در روابطم دارم، اما معمولاً با دیگران صمیمی هستم و سخت بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و هر چه به ذهنم برسد سریع انجام می‌دهم، حتی اگر خطرناک باشد. احساس می‌کنم با وجود وضعیت مالی‌ام، بسیار باهوش‌تر و برتر از دیگران هستم و باید به من احترام ویژه‌ای شود.",
+        "unusual_experiences_and_history": "در دوران نوجوانی سابقه زیادی در قانون‌شکنی و درگیری‌های خیابانی داشتم. گاهی هم احساس می‌کنم اتفاقات عجیبی در اطرافم می‌افتد که دلیل منطقی ندارند."
+    }
+}

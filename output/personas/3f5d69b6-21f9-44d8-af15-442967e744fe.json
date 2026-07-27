@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.584,
+        "detachment_suspicion": -0.029,
+        "impulsivity_antisocial": 0.26,
+        "narcissism_attention": 1.166,
+        "rigidity_perfectionism": -0.522,
+        "unusual_experiences": 0.442
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.048,
+        "extreme_response": -0.139,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۲۱ ساله‌ای هستم، مجرد و ساکن مشهد. در حال حاضر دانشجو هستم و به طور همزمان به عنوان کارمند ساده کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، هرچند گاهی به نیت‌های دیگران شک می‌کنم و ترجیح می‌دهم با دقت بیشتری آدم‌ها را بشناسم.",
+        "behavioral_and_cognitive_traits": "بسیار دوست دارم مورد توجه باشم و احساس می‌کنم باهوش‌تر و توانمندتر از همکلاسی‌هایم هستم. گاهی بدون فکر واکنش نشان می‌دهم و تکانشی رفتار می‌کنم، اما وسواس شدیدی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "به برخی نشانه‌ها و خرافات اعتقاد دارم و گاهی احساس می‌کنم شهودم به من چیزهایی را می‌گوید که دیگران نمی‌بینند. در نوجوانی گاهی برای جلب توجه، کارهای جسورانه و خلاف قوانین مدرسه انجام می‌دادم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.287,
+        "detachment_suspicion": 2.373,
+        "impulsivity_antisocial": 0.322,
+        "narcissism_attention": -0.262,
+        "rigidity_perfectionism": 0.05,
+        "unusual_experiences": 0.74
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.048,
+        "extreme_response": -0.67,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای هستم، متاهل و ساکن کرج. تحصیلاتم کارشناسی است و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی در محیط‌های اجتماعی مضطرب می‌شوم. اما ویژگی بارزم بدبینی شدید است؛ به شدت از تنهایی لذت می‌برم و به ندرت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی متوسطی دارم و گاهی بدون فکر واکنش نشان می‌دهم. در روابطم سعی می‌کنم متعادل باشم و نیاز شدیدی به توجه دیگران یا احساس برتری ندارم؛ همچنین در مورد نظم و وسواس، نگاهی معمولی دارم.",
+        "unusual_experiences_and_history": "گاهی به خرافات اعتقاد دارم و احساس می‌کنم حس ششم دارم. در دوران کودکی، تمایل داشتم بیشتر با خودم باشم و گاهی رفتارهای منزوی و غیرعادی نشان می‌دادم."
+    }
+}

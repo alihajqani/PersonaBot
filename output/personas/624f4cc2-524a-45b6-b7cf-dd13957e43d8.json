@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.157,
+        "detachment_suspicion": -0.455,
+        "impulsivity_antisocial": 1.014,
+        "narcissism_attention": 1.903,
+        "rigidity_perfectionism": 0.6,
+        "unusual_experiences": -0.696
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.153,
+        "extreme_response": -0.274,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۵ ساله‌م، متاهل و ساکن تهران. دیپلم دارم و به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "توی محیط شلوغ تهران خیلی استرس دارم و زود عصبانی می‌شم. احساس می‌کنم بقیه به من بی‌احترامی می‌کنن و این باعث می‌شه زود به حالت تدافعی برم.",
+        "behavioral_and_cognitive_traits": "من به شدت احساس برتری می‌کنم و انتظار دارم بقیه هر طور که من می‌خوام باهام رفتار کنن. رانندگی‌ام تکانشیه و خیلی وقت‌ها قوانین راهنمایی و رانندگی رو نادیده می‌گیرم چون فکر می‌کنم برای من صدق نمی‌کنه.",
+        "unusual_experiences_and_history": "زیاد به مسائل ماورایی فکر نمی‌کنم، هرچند گاهی خرافات کوچکی دارم. در دوران مدرسه، به دلیل رفتارهای تکانشی و لجبازی، چندین بار توبیخ شدم و با همکلاسی‌هام دعوا داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.701,
+        "detachment_suspicion": -1.385,
+        "impulsivity_antisocial": 1.184,
+        "narcissism_attention": 0.652,
+        "rigidity_perfectionism": -0.299,
+        "unusual_experiences": -0.621
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.594,
+        "extreme_response": -0.347,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، اهل تبریز هستم، متاهل و خانه‌دارم و مدرک کارشناسی دارم. وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و خیلی کم پیش می‌آید که دچار اضطراب شدید شوم. با مردم راحت هستم و معمولاً به دیگران اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و هر چه به ذهنم برسد را سریع اجرا می‌کنم، حتی اگر خطرناک باشد. گاهی فکر می‌کنم می‌توانم بقیه را مدیریت کنم و توجه بیشتری جذب کنم.",
+        "unusual_experiences_and_history": "اعتقاد زیادی به مسائل ماوراءطبیعه ندارم. البته توی نوجوانی چند بار به خاطر رفتارهای یهویی و بی‌کلامم با خانواده به مشکل خوردم."
+    }
+}

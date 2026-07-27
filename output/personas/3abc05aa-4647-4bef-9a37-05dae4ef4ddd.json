@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.023,
+        "detachment_suspicion": 1.798,
+        "impulsivity_antisocial": -0.909,
+        "narcissism_attention": 0.49,
+        "rigidity_perfectionism": -1.077,
+        "unusual_experiences": 1.527
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.64,
+        "extreme_response": -0.624,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۳۶ ساله‌م، مجرد و ساکن مشهد. لیسانس دارم و به عنوان کارمند اداری کار می‌کنم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "بیشتر وقتم رو در انزوا می‌گذرونم و فکر می‌کنم بقیه سعی دارن به من آسیب بزنن یا ازم سوءاستفاده کنن. روابط اجتماعی برام خیلی دشواره و ترجیح می‌دم تنها باشم.",
+        "behavioral_and_cognitive_traits": "آدم بسیار قانون‌مندی هستم و هیچ‌وقت ریسک نمی‌کنم. با اینکه ساکتم، اما درونی فکر می‌کنم که از نظر ذهنی خیلی بالاتر از بقیه همکارام هستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی شدیدی دارم، مثل شنیدن صداهایی که دیگران نمی‌شنوند یا حس کردن حضور موجوداتی در اتاق. سابقه بیماری روان‌پزشکی دارم و سال‌هاست تحت درمان هستم."
+    }
+}

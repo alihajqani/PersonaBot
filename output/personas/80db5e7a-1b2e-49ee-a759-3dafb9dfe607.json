@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.408,
+        "detachment_suspicion": -0.882,
+        "impulsivity_antisocial": -1.154,
+        "narcissism_attention": -0.83,
+        "rigidity_perfectionism": -0.468,
+        "unusual_experiences": -1.623
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.004,
+        "extreme_response": -0.076,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۶ سالمه، اهل اهواز هستم، مجردم، دکترا دارم و در یک جایگاه مدیریتی عالی فعالیت می‌کنم. وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی بسیار بالایی دارم و در سخت‌ترین شرایط هم آرام می‌مانم. به آدم‌ها نگاهی واقع‌بینانه دارم و کمتر دچار بدبینی یا اعتماد کورکورانه می‌شوم.",
+        "behavioral_and_cognitive_traits": "تصمیماتم کاملاً منطقی و حساب‌شده است و هیچ‌وقت تکانشی عمل نمی‌کنم. به جای کمال‌گرایی افراطی، روی بهره‌وری و نتیجه نهایی تمرکز می‌کنم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی نداشته‌ام و تماماً به علم و تجربه متکی هستم. سابقه هیچ‌گونه مشکل رفتاری در دوران کودکی و نوجوانی ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.029,
+        "detachment_suspicion": 1.483,
+        "impulsivity_antisocial": -0.596,
+        "narcissism_attention": -0.624,
+        "rigidity_perfectionism": -0.545,
+        "unusual_experiences": -0.016
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.407,
+        "extreme_response": 0.113,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله و متاهل از شیراز هستم. مدرک دیپلم دارم و به صورت آزاد به عنوان راننده اسنپ و پیک فعالیت می‌کنم و درآمد متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطرابم در سطح متوسط است اما تمایل زیادی به تنهایی دارم و به راحتی به کسی اعتماد نمی‌کنم. فکر می‌کنم دنیا جای امنی نیست و آدم‌ها معمولاً نیت‌های بدی دارند.",
+        "behavioral_and_cognitive_traits": "فردی هستم که قانون را رعایت می‌کنم و رفتارهای پرخطر یا تکانشی ندارم. نه نیاز دارم توجه بقیه را جلب کنم و نه وسواس خاصی در مورد نظم و ترتیب دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات عجیبی را حس می‌کنم که توجیه منطقی ندارند. در دوران نوجوانی، فردی ساکت بودم و سابقه خاصی از هنجارشکنی یا تخلف ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.471,
+        "detachment_suspicion": 0.965,
+        "impulsivity_antisocial": -0.169,
+        "narcissism_attention": -0.737,
+        "rigidity_perfectionism": -0.506,
+        "unusual_experiences": -0.465
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.318,
+        "extreme_response": -0.131,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۸ سالمه و ساکن مشهد هستم و متاهل هستم. لیسانس دارم و مهندس متخصص هستم و وضعیت مالی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "آدم بدبینی هستم و ترجیح می‌دم با تعداد کمی از آدم‌ها در ارتباط باشم. اضطراب زیادی ندارم و از نظر عاطفی نسبتاً ثبات دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و واکنش‌های تکانشی نشون می‌دم. اما وسواس خاصی ندارم و دنبال جلب توجه بقیه نیستم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی کمی دارم و بیشتر به منطق اعتقاد دارم، هرچند گاهی پیش می‌آد که احساسات عجیبی داشته باشم که توصیفش سخته."
+    }
+}

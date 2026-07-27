@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.009,
+        "detachment_suspicion": -1.664,
+        "impulsivity_antisocial": -0.745,
+        "narcissism_attention": 0.411,
+        "rigidity_perfectionism": 0.851,
+        "unusual_experiences": -0.877
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.09,
+        "extreme_response": -0.354,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله، متاهل و ساکن اهواز هستم که مدرک کارشناسی دارم و به عنوان مهندس متخصص مشغول به کارم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام بسیار خوب است و اصلاً تمایلی به تنهایی ندارم؛ هرچند گاهی نوسانات خلقی خفیفی در محیط کار تجربه می‌کنم.",
+        "behavioral_and_cognitive_traits": "کمی روی جزئیات وسواس دارم و دوست دارم همه چیز دقیق باشد؛ همچنین گاهی احساس می‌کنم به دلیل تخصصم، دیدگاه‌های برتری نسبت به همکارانم دارم.",
+        "unusual_experiences_and_history": "سابقه رفتارهای هنجارشکنانه ندارم و در تمام عمرم تجربه‌های غیرعادی یا توهماتی را تجربه نکرده‌ام."
+    }
+}

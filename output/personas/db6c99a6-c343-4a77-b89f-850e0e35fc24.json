@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.28,
+        "detachment_suspicion": 0.333,
+        "impulsivity_antisocial": -1.264,
+        "narcissism_attention": 1.541,
+        "rigidity_perfectionism": -0.558,
+        "unusual_experiences": 0.543
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.192,
+        "extreme_response": -0.166,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۱۹ ساله، مجرد و ساکن تهران هستم. دیپلم دارم و در حال حاضر به عنوان منشی و دستیار کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و می‌ترسم اطرافیانم ترکم کنند، اما در کل رابطه‌ام با دیگران در سطح متوسطی است و بدبینی خاصی به دنیا ندارم.",
+        "behavioral_and_cognitive_traits": "حس می‌کنم خیلی خاص‌تر و برتر از بقیه هستم و همیشه انتظار دارم رفتار ویژه‌ای با من شود. در مقابل، خیلی اهل قانون‌شکنی یا رفتارهای تکانشی نیستم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم یا چیزهایی را درک می‌کنم که دیگران نمی‌بینند. در دوران کودکی و قبل از ۱۵ سالگی، رفتارهای مشکل‌ساز خاصی نداشتم."
+    }
+}

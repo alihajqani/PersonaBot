@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.478,
+        "detachment_suspicion": -0.577,
+        "impulsivity_antisocial": 0.036,
+        "narcissism_attention": 1.122,
+        "rigidity_perfectionism": 0.081,
+        "unusual_experiences": -0.636
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.691,
+        "extreme_response": -0.23,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۸ ساله‌م، متأهل و ساکن شیرازم. تحصیلاتم در حد دیپلمه و به عنوان منشی و دستیار در یک محیط اداری مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی شدیدی دارم و خیلی نگران این هستم که بقیه درباره‌ام چه فکری می‌کنن یا نکنه ازم فاصله بگیرن. با این حال، معمولاً با مردم میانه خوبی دارم و خیلی بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "دوست دارم همیشه مرکز توجه باشم و احساس می‌کنم لیاقت جایگاه بهتری نسبت به همکارام دارم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم، اما در کارهای اداری سعی می‌کنم نظم نسبی رو رعایت کنم.",
+        "unusual_experiences_and_history": "تجربیات عجیب یا توهم خاصی ندارم، فقط گاهی به خرافات کوچیک باور دارم. در دوران نوجوانی هم رفتار خاص یا هنجارشکنی شدیدی نداشتم."
+    }
+}

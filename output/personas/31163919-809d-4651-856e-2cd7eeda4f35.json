@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.015,
+        "detachment_suspicion": 0.539,
+        "impulsivity_antisocial": 1.367,
+        "narcissism_attention": -0.052,
+        "rigidity_perfectionism": -0.298,
+        "unusual_experiences": 1.264
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.657,
+        "extreme_response": -0.636,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای هستم، مجردم و در مشهد زندگی می‌کنم. لیسانس مهندسی دارم و به عنوان متخصص در حوزه‌ی کاری‌ام مشغول به فعالیتم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی نوسانات خلقی شدیدی دارم و می‌ترسم بقیه من رو نپسندند یا طردم کنند؛ به همین خاطر در روابطم کمی بدبین هستم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها بسیار تکانشی هستم و گاهی بدون فکر کارهای پرخطر می‌کنم یا با قوانین سر جنگ دارم. در عین حال دوست دارم در محیط کارم به چشم بیایم و روی جزئیات کارهام وسواس دارم.",
+        "unusual_experiences_and_history": "از نوجوانی حس می‌کردم چیزهایی را می‌بینم یا می‌شنوم که بقیه متوجه نمی‌شوند و به حس ششمم خیلی باور دارم؛ حتی گاهی احساس می‌کنم از بدنم جدا شده‌ام."
+    }
+}

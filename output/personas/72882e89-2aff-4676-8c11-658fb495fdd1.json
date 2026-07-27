@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.96,
+        "detachment_suspicion": 0.322,
+        "impulsivity_antisocial": -0.414,
+        "narcissism_attention": -0.768,
+        "rigidity_perfectionism": 1.767,
+        "unusual_experiences": 0.123
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.613,
+        "extreme_response": 0.343,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۳۷ ساله، متاهل و پزشک متخصص ساکن شیراز هستم. مدرک دکتری دارم و وضعیت اقتصادی‌ام متوسط است؛ همچنین سابقه درمان روان‌پزشکی را دارم.",
+        "emotional_and_interpersonal_style": "علیرغم جایگاه شغلی‌ام، فشار عصبی زیادی تحمل می‌کنم و نوسانات خلقی و اضطراب اجتماعی در زندگی شخصی‌ام زیاد است. گاهی احساس می‌کنم درک نمی‌شوم و این موضوع باعث اضطرابم می‌شود.",
+        "behavioral_and_cognitive_traits": "به شدت کمال‌گرا هستم و روی کوچک‌ترین جزئیات در کار و زندگی‌ام وسواس دارم؛ تحمل بی‌نظمی برایم غیرممکن است. در مقابل، رفتارهای تکانش‌گرانه ندارم و همیشه سعی می‌کنم طبق قوانین پیش بروم.",
+        "unusual_experiences_and_history": "گاهی در اوج استرس، احساس می‌کنم دنیا دور و غریب شده است یا تجربه‌هایی شبیه به مسخ شخصیت دارم. در دوران مدرسه بسیار درس‌خوان بودم اما فشار برای برترین بودن، استرس‌های شدیدی در من ایجاد کرده بود."
+    }
+}

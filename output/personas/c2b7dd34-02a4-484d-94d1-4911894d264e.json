@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.298,
+        "detachment_suspicion": 0.015,
+        "impulsivity_antisocial": 1.342,
+        "narcissism_attention": 1.058,
+        "rigidity_perfectionism": -1.634,
+        "unusual_experiences": -0.5
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.118,
+        "extreme_response": 0.006,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۳۰ ساله، متاهل و ساکن شیراز هستم. مدرک کارشناسی دارم اما در حال حاضر بیکار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی نوسان دارد و در روابطم با دیگران نوعی بی‌اعتمادی وجود دارد. گاهی حس می‌کنم در دنیای خودم زندانی شده‌ام و دیگران مرا درک نمی‌کنند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم، کنترل اعصابم را از دست می‌دهم و به قوانین اهمیتی نمی‌دهم. معتقدم لیاقت جایگاه بسیار بالاتری را دارم و بقیه باید به من احترام بیشتری بگذارند.",
+        "unusual_experiences_and_history": "تجربیات ماورایی یا توهمات خاصی ندارم و بیشتر به مسائل مادی فکر می‌کنم. در دوران مدرسه به خاطر پرخاشگری و لجبازی زیاد، با معلمانم مشکل داشتم."
+    }
+}

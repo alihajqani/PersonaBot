@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.741,
+        "detachment_suspicion": -1.105,
+        "impulsivity_antisocial": 1.619,
+        "narcissism_attention": 0.989,
+        "rigidity_perfectionism": -1.39,
+        "unusual_experiences": 0.199
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.094,
+        "extreme_response": 0.22,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله و متاهل هستم که در اهواز زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری مشغول به کارم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آدم استواری هستم و نوسانات خلقی شدیدی ندارم. با دیگران روابط معمولی دارم و خیلی اهل کینه یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "عاشق هیجان هستم و گاهی رفتارهای کاملاً بی‌پروا و خارج از چارچوب قانون انجام می‌دهم. دوست دارم در محیط کارم محور توجه باشم و انتظار دارم دیگران به خاطر جایگاهم با من رفتار خاصی داشته باشند.",
+        "unusual_experiences_and_history": "گاهی به خرافات اعتقاد دارم یا فکر می‌کنم اتفاقات خاصی از قبل تعیین شده است. در کودکی تا حدودی سرکش بودم اما هرگز به مشکلات جدی رفتاری دچار نشدم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.002,
+        "detachment_suspicion": 0.683,
+        "impulsivity_antisocial": 0.448,
+        "narcissism_attention": 1.145,
+        "rigidity_perfectionism": -1.769,
+        "unusual_experiences": 0.447
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.219,
+        "extreme_response": 0.263,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ ساله‌ام، مجرد و دانشجوی ارشد مهندسی در تهران هستم و به عنوان متخصص مشغول به کارم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب شدیدی دارم و مدام نگران قضاوت دیگرانم، اما در عین حال دوست دارم همه مرا تحسین کنند و برتر بدانند.",
+        "behavioral_and_cognitive_traits": "اصلاً آدم منظم یا وسواسی‌ای نیستم و گاهی بدون فکر ریسک‌های بزرگی می‌کنم، هرچند سعی می‌کنم وجهه‌ای حرفه‌ای داشته باشم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم شانس یا نیرویی هدایت‌کننده در زندگی‌ام هست و در نوجوانی سوابق تخلف از قوانین مدرسه را داشتم."
+    }
+}

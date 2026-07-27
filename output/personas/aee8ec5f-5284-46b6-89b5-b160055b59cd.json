@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.404,
+        "detachment_suspicion": 0.109,
+        "impulsivity_antisocial": -0.131,
+        "narcissism_attention": -0.483,
+        "rigidity_perfectionism": 0.793,
+        "unusual_experiences": 0.139
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.146,
+        "extreme_response": 0.139,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای مجرد از مشهد هستم. در حال حاضر دانشجوی کارشناسی هستم و به عنوان یک کارمند ساده کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم خیلی زود غمگین یا مضطرب می‌شوم و ترس از طرد شدن توسط دوستانم دارم. تمایل دارم بیشتر در محیط‌های خلوت باشم و گاهی نسبت به دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای عجولانه می‌کنم و در برابر قوانین سخت‌گیری نمی‌کنم. احساس برتری ندارم، اما در مطالعه و کارهایم سعی می‌کنم بسیار دقیق و کمی وسواسی عمل کنم.",
+        "unusual_experiences_and_history": "به حس ششم و مسائل ماورایی اعتقاد دارم و گاهی احساس می‌کنم اتفاقات عجیبی را تجربه می‌کنم. در دوران مدرسه گاهی رفتارهایی داشتم که با قوانین مدرسه در تضاد بود و باعث جلب توجه می‌شد."
+    }
+}

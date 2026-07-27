@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.458,
+        "detachment_suspicion": 1.734,
+        "impulsivity_antisocial": 0.68,
+        "narcissism_attention": 0.841,
+        "rigidity_perfectionism": -0.576,
+        "unusual_experiences": 1.579
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.096,
+        "extreme_response": 0.274,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای هستم، متاهل و با تحصیلات دیپلم که در اهواز به عنوان منشی و دستیار کار می‌کنم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "به شدت به دیگران بدبین هستم و فکر می‌کنم همه قصد دارند به من ضربه بزنند. اضطراب زیادی در روابطم دارم و همیشه می‌ترسم که تنها بمانم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر واکنش‌های تندی نشان می‌دهم یا حرف‌های عجولانه می‌زنم. دوست دارم بقیه من را تحسین کنند و توجه ویژه‌ای به من داشته باشند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل احساس حضور موجوداتی در اتاق وقتی تنها هستم. از سنین پایین رفتارهای تکانشی و غیرعادی داشتم که باعث مشکل در محیط خانه می‌شد."
+    }
+}

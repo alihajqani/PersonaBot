@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.075,
+        "detachment_suspicion": -0.147,
+        "impulsivity_antisocial": -0.035,
+        "narcissism_attention": -0.474,
+        "rigidity_perfectionism": 0.087,
+        "unusual_experiences": -0.43
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.174,
+        "extreme_response": 0.373,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۷ ساله‌ام، مجردم و در شیراز زندگی می‌کنم. مدرک کارشناسی دارم اما در حال حاضر بیکارم و از نظر مالی در وضعیت تنگ‌دستی قرار دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی نگرانم که دیگران درباره من چه فکر می‌کنند. در روابطم بین اعتماد و بی‌اعتمادی در نوسان هستم و گاهی احساس تنهایی می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و کارهای تکانشی انجام می‌دهم. در انجام کارهایم نه خیلی وسواسی هستم و نه بی‌دقت، و معمولاً سعی می‌کنم طبق روال پیش بروم.",
+        "unusual_experiences_and_history": "اعتقادات خفیفی به مسائل ماوراءطبیعه دارم اما هرگز توهم یا تجربه شدیدی نداشته‌ام. در دوران مدرسه گاهی به دلیل لجبازی با معلمانم دچار مشکل می‌شدم."
+    }
+}

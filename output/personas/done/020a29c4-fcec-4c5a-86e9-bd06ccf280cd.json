@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.997,
+        "detachment_suspicion": 1.013,
+        "impulsivity_antisocial": -1.082,
+        "narcissism_attention": 0.314,
+        "rigidity_perfectionism": -0.51,
+        "unusual_experiences": 0.674
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.198,
+        "extreme_response": 0.734,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۲۱ ساله‌ای هستم، مجرد و ساکن تبریز. در حال حاضر دانشجو هستم و در کنار درس، در یک مغازه کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و وقتی با دیگران هستم، مدام می‌ترسم که مرا قضاوت کنند. به آدم‌ها به راحتی اعتماد نمی‌کنم و اغلب احساس می‌کنم تنها هستم.",
+        "behavioral_and_cognitive_traits": "من خیلی محتاطم و هیچ‌وقت قوانین را نمی‌شکنم یا ریسک نمی‌کنم. دوست دارم دیگران مرا به عنوان یک فرد موفق بشناسند، هرچند در جزئیات کارهایم خیلی وسواس ندارم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها احساس می‌کنم از محیط اطرافم جدا شده‌ام و انگار دارم زندگی‌ام را از دور تماشا می‌کنم. از سنین پایین، مشکلاتی در برقراری ارتباط با همسالانم داشتم و منزوی بودم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.325,
+        "detachment_suspicion": -0.775,
+        "impulsivity_antisocial": -0.348,
+        "narcissism_attention": -1.984,
+        "rigidity_perfectionism": 0.863,
+        "unusual_experiences": -0.945
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.2,
+        "extreme_response": 0.03,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۱۸ ساله‌ای هستم، مجرد و ساکن اهواز. دانشجویی هستم و برای تامین هزینه‌هایم به عنوان پیک و راننده اسنپ کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "آدم خیلی خونسردی هستم و اضطراب اجتماعی یا ترس از طرد شدن برایم معنایی ندارد. با مردم راحت هستم و بدبینی خاصی نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در رانندگی یا کارهای روزمره تکانشی رفتار می‌کنم و ریسک می‌کنم. اصلاً اهل خودشیفتگی نیستم، اما دوست دارم وسایلم و کارهایم با نظم و دقت خاصی انجام شوند.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا توهمی در زندگی‌ام نداشته‌ام. از بچگی هم همیشه رفتاری عادی داشتم و هیچ سابقه جدی در زمینه هنجارشکنی یا مشکلات رفتاری ندارم."
+    }
+}

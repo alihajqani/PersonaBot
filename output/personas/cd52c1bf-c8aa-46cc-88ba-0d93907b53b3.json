@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.739,
+        "detachment_suspicion": 0.989,
+        "impulsivity_antisocial": 0.98,
+        "narcissism_attention": -0.17,
+        "rigidity_perfectionism": 2.031,
+        "unusual_experiences": 1.308
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.34,
+        "extreme_response": -0.01,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۷ ساله‌م، مجردم و در مشهد زندگی می‌کنم. تحصیلاتم کارشناسیه اما در حال حاضر خانه‌دار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "ترجیح می‌دم بیشتر وقتم رو تنها باشم چون به آدم‌ها اعتماد ندارم و فکر می‌کنم هر کسی دنبال مصلحت خودشه. وقتی کسی رو می‌بخشم، باز هم کینه‌اش رو برای مدت‌ها توی دلم نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و تمام جزئیات محیط اطرافم باید دقیقاً طبق میل من باشه وگرنه عصبی می‌شم. گاهی رفتارهای تندی از خودم نشون می‌دم و قانون‌ها رو اگر به نظرم بی‌منطق باشن نادیده می‌گیرم.",
+        "unusual_experiences_and_history": "خیلی به حس ششمم اعتماد دارم و اتفاقات ماورایی رو باور می‌کنم. در دوران مدرسه هم به خاطر لجبازی و رفتارهای غیرمتعارفم با معلمانم مشکل داشتم."
+    }
+}

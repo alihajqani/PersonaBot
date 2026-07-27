@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.024,
+        "detachment_suspicion": 0.522,
+        "impulsivity_antisocial": 0.551,
+        "narcissism_attention": 0.998,
+        "rigidity_perfectionism": -1.503,
+        "unusual_experiences": -0.164
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.286,
+        "extreme_response": 0.488,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۰ سالمه، متاهل و ساکن مشهد. لیسانس دارم و به عنوان مهندس کار می‌کنم و وضعیت مالی‌ام در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "اضطرابم بالاست و خیلی زود پریشون می‌شم. به بقیه اعتماد ندارم و همیشه فکر می‌کنم ممکنه پشت سرم حرف بزنن یا به من خیانت کنن.",
+        "behavioral_and_cognitive_traits": "شدیداً احساس می‌کنم از بقیه برترم و انتظار دارم همه هر چی می‌گم رو قبول کنن و با من رفتار ویژه‌ای داشته باشن. اصلاً اهل نظم و وسواس نیستم و محیط اطرافم معمولاً به‌هم‌ریخته‌ست.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آد که احساس کنم اتفاقات دور و برم یه جورایی غیرواقعی هستن. سابقه بیماری روان‌پزشکی ندارم اما همیشه با بقیه درگیر بودم."
+    }
+}

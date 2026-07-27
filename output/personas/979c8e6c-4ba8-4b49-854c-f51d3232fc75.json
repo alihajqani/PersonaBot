@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.073,
+        "detachment_suspicion": 1.181,
+        "impulsivity_antisocial": -2.165,
+        "narcissism_attention": -0.988,
+        "rigidity_perfectionism": 1.846,
+        "unusual_experiences": 0.474
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.593,
+        "extreme_response": -0.338,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۳۳ ساله، مجرد و ساکن اهواز هستم. مدرک دکترا دارم و به عنوان پزشک متخصص فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر احساسی خیلی سرد هستم و با بقیه فاصله می‌گیرم؛ به شدت بدبینم و فکر می‌کنم هر کسی دنبال منافع خودشه.",
+        "behavioral_and_cognitive_traits": "در کارم وسواس شدید دارم و هر چیزی باید با دقت میلی‌متری انجام بشه؛ هیچ‌وقت رفتارهای تکانشی یا غیرقانونی نداشتم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم قدرت پیش‌بینی اتفاقات رو دارم یا پیام‌های خاصی از محیط دریافت می‌کنم؛ سابقه بیماری روان‌پزشکی هم در پرونده‌ام هست."
+    }
+}

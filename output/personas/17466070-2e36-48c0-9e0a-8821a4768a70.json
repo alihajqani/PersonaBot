@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.831,
+        "detachment_suspicion": 1.043,
+        "impulsivity_antisocial": -0.94,
+        "narcissism_attention": 0.019,
+        "rigidity_perfectionism": -0.051,
+        "unusual_experiences": 1.91
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.684,
+        "extreme_response": 0.23,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۵ ساله و مجردم و در شیراز زندگی می‌کنم. با اینکه کارشناسی ارشد دارم، فعلاً بیکارم و وضعیت مالی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "ترجیح می‌دهم کاملاً تنها باشم و به هیچ‌کس اعتماد نمی‌کنم. هر کسی را که می‌بینم با بدبینی نگاه می‌کنم و فکر می‌کنم قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی ندارم و معمولاً آرام هستم. گاهی در ذهنم احساس می‌کنم از بقیه برتر هستم، هرچند در جمع ظاهر نمی‌شوم و وسواس متوسطی در کارهایم دارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی زیادی دارم؛ صداهایی می‌شنوم که دیگران نمی‌شنوند و گاهی احساس می‌کنم در دنیای دیگری هستم و از واقعیت جدا شده‌ام."
+    }
+}

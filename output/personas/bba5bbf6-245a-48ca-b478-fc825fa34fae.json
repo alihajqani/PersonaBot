@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.003,
+        "detachment_suspicion": 0.461,
+        "impulsivity_antisocial": -1.107,
+        "narcissism_attention": 0.93,
+        "rigidity_perfectionism": -0.236,
+        "unusual_experiences": -0.001
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.087,
+        "extreme_response": 0.393,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۷ سالمه، متاهل هستم و در اصفهان زندگی می‌کنم. لیسانس دارم و کسب‌وکار شخصی خودم رو اداره می‌کنم که وضعیت اقتصادی‌م رو عالی کرده.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی نگرانم که دیگران درباره‌ام چه فکر می‌کنند، هرچند ترجیح می‌دم دایره دوستانم محدود باشه و به راحتی به غریبه‌ها اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "خیلی دوست دارم در محیط‌های اجتماعی بدرخشم و انتظار دارم بقیه به جایگاه من احترام ویژه‌ای بذارن. در کارهایم نظم متوسطی دارم و روی جزئیات وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "به بعضی خرافات اعتقاد دارم و گاهی پیش میاد که اتفاقاتی رو پیش‌بینی کنم. در بچگی رفتارهای آرام‌بخشی داشتم و هرگز قانون‌شکن نبودم."
+    }
+}

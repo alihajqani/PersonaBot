@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.362,
+        "detachment_suspicion": -0.671,
+        "impulsivity_antisocial": -0.179,
+        "narcissism_attention": -0.315,
+        "rigidity_perfectionism": 1.764,
+        "unusual_experiences": -0.168
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.129,
+        "extreme_response": 0.372,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۶ ساله متاهل ساکن اهواز هستم؛ مدرک دیپلم دارم و به عنوان یک کارمند ساده در یک محیط اداری کار می‌کنم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "توی روابطم نسبتاً آرام هستم و اضطراب اجتماعی خاصی ندارم؛ با بقیه می‌سازم و تمایل زیادی به بدبینی یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "وسواس شدید و کمال‌گرایی دارم و اگه نظم محیط اطرافم به هم بخوره به شدت کلافه می‌شم؛ گاهی هم بدون فکر تصمیمات عجولانه‌ای می‌گیرم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعی و خرافات علاقه دارم و گاهی حس می‌کنم اتفاقات دور و برم تصادفی نیستن و معنای خاصی دارن."
+    }
+}

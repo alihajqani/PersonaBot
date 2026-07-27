@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.955,
+        "detachment_suspicion": 2.432,
+        "impulsivity_antisocial": 0.366,
+        "narcissism_attention": 0.393,
+        "rigidity_perfectionism": 1.136,
+        "unusual_experiences": 1.938
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.138,
+        "extreme_response": -0.987,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۱ ساله، متاهل و ساکن شیراز هستم. در حال حاضر دانشجو هستم و به طور همزمان به عنوان کارمند ساده مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب شدید و نوسانات خلقی زیادی دارم و همیشه می‌ترسم دیگران مرا رها کنند. به‌شدت بدبین هستم، به هیچ‌کس اعتماد نمی‌کنم و ترجیح می‌دهم کاملاً تنها باشم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی در مورد نظم دارم و گاهی به دلیل همین کمال‌گرایی عصبی می‌شوم. در عین حال، احساس می‌کنم برتری خاصی دارم و گاهی رفتارهای تکانشی و پرخاشگرانه نشان می‌دهم.",
+        "unusual_experiences_and_history": "بسیار زیاد دچار توهمات خفیف یا احساس می‌کنم از بدنم جدا شده‌ام و به حس ششم اعتقاد راسخ دارم. قبل از ۱۵ سالگی سوابق متعددی از هنجارشکنی و رفتارهای غیرعادی داشتم."
+    }
+}

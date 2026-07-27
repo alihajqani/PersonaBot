@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.944,
+        "detachment_suspicion": -0.355,
+        "impulsivity_antisocial": 0.614,
+        "narcissism_attention": 0.668,
+        "rigidity_perfectionism": -0.625,
+        "unusual_experiences": 0.428
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.278,
+        "extreme_response": 0.053,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۶ ساله‌ای هستم، مجرد و ساکن اهواز. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "خیلی زود احساس اضطراب می‌کنم و نوسانات خلقی‌ام زیاد است؛ همیشه نگران این هستم که دیگران درباره من چه فکری می‌کنند.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار بدون فکر واکنش نشان می‌دهم و پرخاشگری می‌کنم. در عین حال، دوست دارم مورد توجه باشم و احساس می‌کنم برتری‌های خاصی نسبت به همکارانم دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم واقعیت دور من تغییر می‌کند یا حس می‌کنم در دنیای دیگری هستم. در کودکی هم گاهی رفتارهای تکانشی داشتم."
+    }
+}

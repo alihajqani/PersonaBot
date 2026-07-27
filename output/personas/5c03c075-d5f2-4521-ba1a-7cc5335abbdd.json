@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.353,
+        "detachment_suspicion": -0.009,
+        "impulsivity_antisocial": -0.523,
+        "narcissism_attention": 0.181,
+        "rigidity_perfectionism": -1.06,
+        "unusual_experiences": -1.272
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.563,
+        "extreme_response": -0.553,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۴ ساله، متاهل و ساکن تهران هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم و وضعیت مالی خانواده‌ام خوبه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم، هرچند ترجیح می‌دم بیشتر با خودم باشم و زود به آدم‌های جدید اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "دوست دارم مورد توجه باشم و حس می‌کنم لیاقت رفتار ویژه‌تری نسبت به بقیه رو دارم، اما کمال‌گرایی شدیدی ندارم و با نقص‌های کوچک کنار می‌آم.",
+        "unusual_experiences_and_history": "تا به حال هیچ تجربه عجیب یا غیرعادی‌ای نداشتم و همیشه نگاهی واقع‌بینانه به زندگی داشتم؛ دوران نوجوانی‌م هم کاملاً آرام بود."
+    }
+}

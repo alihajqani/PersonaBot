@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.987,
+        "detachment_suspicion": -0.551,
+        "impulsivity_antisocial": 0.409,
+        "narcissism_attention": -0.119,
+        "rigidity_perfectionism": 0.881,
+        "unusual_experiences": -0.38
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.116,
+        "extreme_response": 0.26,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای هستم، متاهل و ساکن تبریز. مدرک دکترا دارم و به عنوان پزشک متخصص فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و ترس از طرد شدن توسط اطرافیانم همیشهe همراه من است، که منجر به اضطراب اجتماعی قابل توجهی شده است. با این حال، به طور کلی به دیگران اعتماد دارم و تمایل زیادی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌ها عجول هستم و رفتارهای تکانشی از من سر می‌زند. در محیط کار انتظار دارم به دلیل جایگاهم رفتار ویژه‌ای با من شود و روی جزئیات کاری‌ام وسواس زیادی دارم تا هیچ خطایی رخ ندهد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم، هرچند گاهی به مسائل خرافی توجه می‌کنم. در دوران پیش از ۱۵ سالگی، گاهی به دلیل کمال‌گرایی زیاد، با همسالانم دچار تنش می‌شدم."
+    }
+}

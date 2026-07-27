@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.42,
+        "detachment_suspicion": 0.214,
+        "impulsivity_antisocial": 1.295,
+        "narcissism_attention": 1.234,
+        "rigidity_perfectionism": -1.312,
+        "unusual_experiences": 0.963
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.351,
+        "extreme_response": -0.214,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۳ ساله و مجردم که در شیراز زندگی می‌کنم. دیپلم دارم و در حال حاضر خانه‌دار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود عصبانی می‌شوم یا دپرس می‌شوم و همیشه می‌ترسم کسانی که دوستشان دارم مرا ترک کنند؛ روابطم با دیگران بسیار پرتلاطم است.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و هر چه به ذهنم برسد بدون فکر انجام می‌دهم؛ فکر می‌کنم از بقیه برترم و باید همیشه مرکز توجه باشم و اگر نباشم خشمگین می‌شوم.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم و گاهی صداهایی می‌شنوم یا چیزهایی می‌بینم که دیگران نمی‌بینند؛ قبل از ۱۵ سالگی هم سابقه دعواهای شدید و فرار از خانه را داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.021,
+        "detachment_suspicion": 1.191,
+        "impulsivity_antisocial": -0.539,
+        "narcissism_attention": 0.271,
+        "rigidity_perfectionism": 0.41,
+        "unusual_experiences": 1.52
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.206,
+        "extreme_response": 0.791,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۹ ساله مجرد در تهران هستم. مدرک دیپلم دارم و برای گذران زندگی به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت مالی‌ام بسیار سخت است.",
+        "emotional_and_interpersonal_style": "خیلی سخت به آدم‌ها اعتماد می‌کنم و همیشه گارد دارم که نکند کسی بخواهد از من سوءاستفاده کند. در جمع‌ها احساس ناامنی می‌کنم و ترجیح می‌دهم تنها باشم تا با دیگران درگیر شوم.",
+        "behavioral_and_cognitive_traits": "نسبتاً منظم هستم و سعی می‌کنم کارهایم را با دقت انجام دهم. با اینکه در ظاهر آرام به نظر می‌رسم، اما درونی احساس می‌کنم از خیلی‌ها باهوش‌تر هستم و باید بیشتر دیده شوم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و تجربیات بسیار عجیبی مثل احساس جدا شدن از بدن یا شنیدن صداها داشتم. در دوران نوجوانی، به دلیل تکانشگری، درگیری‌های فیزیکی زیادی با هم‌سالانم داشتم."
+    }
+}

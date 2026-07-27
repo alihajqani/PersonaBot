@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.604,
+        "detachment_suspicion": 0.877,
+        "impulsivity_antisocial": -0.219,
+        "narcissism_attention": 1.277,
+        "rigidity_perfectionism": -0.748,
+        "unusual_experiences": 1.446
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.12,
+        "extreme_response": 0.121,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۲۵ ساله‌م، متأهل و ساکن کرج. فوق‌لیسانس دارم و در زمینه کسب‌وکار آزاد فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم، اما در مورد نیت‌های واقعی آدم‌های جدید کمی بدبین هستم و سخت به کسی اعتماد کامل می‌کنم.",
+        "behavioral_and_cognitive_traits": "به دلیل موفقیاتم احساس می‌کنم از بقیه برترم و گاهی انتظار دارم در محیط‌های اجتماعی اولویت با من باشه. در تصمیمات کاری‌ام گاهی تکانشگری به خرج می‌دم و ریسک‌های بزرگ می‌کنم.",
+        "unusual_experiences_and_history": "خیلی به نشانه‌ها و خرافات باور دارم و فکر می‌کنم بعضی اتفاقات از پیش تعیین شده یا توسط نیروهای غیرمرئی هدایت می‌شن. دوران کودکی‌ام آرام بود و مشکل رفتاری نداشتم."
+    }
+}

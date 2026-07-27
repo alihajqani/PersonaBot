@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.054,
+        "detachment_suspicion": 0.302,
+        "impulsivity_antisocial": -0.107,
+        "narcissism_attention": 0.946,
+        "rigidity_perfectionism": 0.194,
+        "unusual_experiences": -0.885
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.273,
+        "extreme_response": -0.342,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۳۱ ساله‌ای ساکن مشهد هستم، لیسانس مهندسی دارم و به عنوان متخصص در رشته‌ام کار می‌کنم. متاهل هستم اما متأسفانه وضعیت اقتصادی‌ام در حال حاضر ضعیفه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و گاهی به شدت مضطرب می‌شم، مخصوصاً وقتی فکر می‌کنم دیگران درباره‌ام قضاوت می‌کنند. در روابطم کمی بدبین هستم و همیشه گارد دارم که نکند کسی بخواهد از من سوءاستفاده کند.",
+        "behavioral_and_cognitive_traits": "با وجود مشکلات مالی، احساس می‌کنم از نظر ذهنی و علمی خیلی بالاتر از محیط اطرافم هستم و دوست دارم این برتری دیده بشه. در کارهایم نظم دارم اما گاهی در واکنش‌هایم تکانشی هستم و زود از کوره در می‌روم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم. سابقه بیماری روان‌پزشکی هم ندارم و در دوران کودکی و نوجوانی رفتارهای تخریبی یا غیرعادی نداشتم."
+    }
+}

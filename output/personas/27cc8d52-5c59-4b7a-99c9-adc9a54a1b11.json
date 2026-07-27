@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.174,
+        "detachment_suspicion": -0.265,
+        "impulsivity_antisocial": 0.387,
+        "narcissism_attention": 0.783,
+        "rigidity_perfectionism": -0.284,
+        "unusual_experiences": -0.553
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.101,
+        "extreme_response": -1.142,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۱۹ ساله‌ای هستم، مجرد و ساکن کرج. در حال حاضر دانشجویی هستم و مدرک دیپلم دارم و وضعیت مالی خانواده‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه نگرانم که دیگران درباره من چه فکری می‌کنند یا مبادا مرا نپسندند. خلق‌وخویایم خیلی سریع تغییر می‌کند و گاهی در تنهایی احساس آرامش بیشتری می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر کارهای پرخطر می‌کنم و دوست دارم در جمع‌ها مورد توجه باشم و حس کنم از بقیه برترم. سعی می‌کنم در کارهایم نظم داشته باشم، اما این وسواس همیشه بر من غلبه نمی‌کند.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و از سال‌های نوجوانی با مشکلاتی در کنترل هیجاناتم دست‌وپنجه نرم می‌کنم. تجربیات غیرعادی زیادی ندارم، اما گاهی احساس می‌کنم از محیط اطرافم جدا شده‌ام."
+    }
+}

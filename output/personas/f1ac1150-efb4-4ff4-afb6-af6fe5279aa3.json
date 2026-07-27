@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.311,
+        "detachment_suspicion": -0.656,
+        "impulsivity_antisocial": -0.194,
+        "narcissism_attention": 0.462,
+        "rigidity_perfectionism": 0.188,
+        "unusual_experiences": 0.088
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.002,
+        "extreme_response": -0.237,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۱۸ ساله مجردم که در تهران زندگی می‌کنم. دیپلم دارم و در حال حاضر در یک مغازه مشغول به فروشندگی هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "مثل بقیه هم‌سن و سال‌هام گاهی مودم عوض می‌شه و اضطراب دارم، اما کلاً آدم اجتماعی‌ای هستم و بدبینی خاصی به بقیه ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای ریسکی می‌کنم و دوست دارم در محیط کارم جلب توجه کنم و حس کنم از بقیه مهم‌تر هستم. در نظم و ترتیب کارهایم وضعیت متوسطی دارم.",
+        "unusual_experiences_and_history": "به بعضی چیزهای ماورایی اعتقاد دارم و گاهی حس می‌کنم اتفاقات آینده رو پیش‌بینی می‌کنم. در دوران راهنمایی و دبیرستان چند بار به دلیل رفتارهای تکانشی با معلمانم مشکل داشتم."
+    }
+}

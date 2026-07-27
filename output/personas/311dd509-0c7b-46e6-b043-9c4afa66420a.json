@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.019,
+        "detachment_suspicion": -0.009,
+        "impulsivity_antisocial": -0.217,
+        "narcissism_attention": -0.549,
+        "rigidity_perfectionism": 0.863,
+        "unusual_experiences": 0.031
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.153,
+        "extreme_response": 0.512,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ ساله، متاهل و دارای مدرک دکتری هستم و در کرج به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "تعادل نسبی در احساساتم دارم اما گاهی در روابطم بدبین می‌شوم و ترجیح می‌دهم در دایره‌ای کوچک از دوستان صمیمی باشم.",
+        "behavioral_and_cognitive_traits": "در کارهایم دقیق و کمی وسواس‌گونه عمل می‌کنم و گاهی بدون فکر تصمیمات سریعی می‌گیرم، اما اهل خودشیفتگی نیستم.",
+        "unusual_experiences_and_history": "به برخی مسائل ماوراءطبیعی علاقه دارم و گاهی حس می‌کنم ارتباطی با دنیای غیرمادی برقرار می‌کنم."
+    }
+}

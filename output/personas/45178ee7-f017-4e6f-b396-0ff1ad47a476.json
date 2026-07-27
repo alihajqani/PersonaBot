@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.439,
+        "detachment_suspicion": 0.894,
+        "impulsivity_antisocial": 0.414,
+        "narcissism_attention": 0.442,
+        "rigidity_perfectionism": 0.821,
+        "unusual_experiences": 0.489
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.11,
+        "extreme_response": 0.394,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله و متاهل هستم که در اصفهان زندگی می‌کنم. مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی از نظر عاطفی equilibrated هستم، اما ترجیح می‌دهم بیشتر تنها باشم تا با دیگران وقت بگذرانم. گاهی اوقات به انگیزه‌های دیگران شک می‌کنم و اعتماد کردن برایم زمان‌بر است.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در محیط کار فکر می‌کنم دیدگاه‌های من برتر از بقیه است. نظم و دقت در کارهایم برایم مهم است، هرچند به حد وسواس نرسیده است.",
+        "unusual_experiences_and_history": "در دوران نوجوانی گاهی قوانین مدرسه را به چالش می‌کشیدم. اعتقادات خرافی کمی دارم و گاهی حس می‌کنم ششمین حسی دارم که به من می‌گوید چه اتفاقی خواهد افتاد."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.494,
+        "detachment_suspicion": -0.529,
+        "impulsivity_antisocial": -0.361,
+        "narcissism_attention": -1.083,
+        "rigidity_perfectionism": -1.279,
+        "unusual_experiences": -1.145
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.143,
+        "extreme_response": -0.072,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله، مجرد و ساکن شیرازم. لیسانس دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آدم استواری هستم و نوسانات خلقی شدیدی ندارم. با دیگران راحت ارتباط می‌گیرم و معمولاً به آدم‌ها اعتماد دارم و کینه به دل نمی‌گیرم.",
+        "behavioral_and_cognitive_traits": "من همیشه سعی می‌کنم طبق قوانین پیش برم و رفتارهای تکانشی یا پرخطر ندارم. ادعای برتری نسبت به دیگران ندارم و وسواس خاصی روی جزئیات زندگی‌ام ندارم.",
+        "unusual_experiences_and_history": "تا به حال تجربه خاص یا غیرعادی مثل توهم یا حس ششم نداشتم. در دوران کودکی و نوجوانی هم هیچ سابقه رفتارهای تخریبی یا مشکل رفتاری نداشتم."
+    }
+}

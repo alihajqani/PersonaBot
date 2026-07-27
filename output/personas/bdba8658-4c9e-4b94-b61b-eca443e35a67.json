@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.3,
+        "detachment_suspicion": -0.989,
+        "impulsivity_antisocial": 0.24,
+        "narcissism_attention": -1.006,
+        "rigidity_perfectionism": -0.128,
+        "unusual_experiences": -1.225
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.263,
+        "extreme_response": -0.141,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۲ ساله متاهل هستم، ساکن مشهد. دیپلم دارم و به عنوان تکنسین و کارگر فنی مشغول به کارم و وضعیت مالی‌ام نسبتاً تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "از نظر روحی آدم استواری هستم و نوسانات خلقی شدیدی ندارم. با بقیه راحت ارتباط می‌گیرم و معمولاً به آدم‌ها اعتماد دارم و اهل کینه و بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "گاه پیش می‌آید که بدون فکر تصمیمات عجولانه بگیرم یا کمی تکانشی رفتار کنم، اما در کل آدم متواضعی هستم. در کارهایم نظم متوسطی دارم و سعی می‌کنم جزئیات را رعایت کنم.",
+        "unusual_experiences_and_history": "تجربیات عجیب یا خرافات خاصی ندارم و همیشه احساس می‌کنم با واقعیت در ارتباط هستم. در دوران کودکی و نوجوانی هم هیچ مشکل رفتاری یا تخلف خاصی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.361,
+        "detachment_suspicion": 0.078,
+        "impulsivity_antisocial": -0.414,
+        "narcissism_attention": 0.902,
+        "rigidity_perfectionism": 0.114,
+        "unusual_experiences": -0.037
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.048,
+        "extreme_response": -0.246,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ ساله، مجرد و ساکن اهواز هستم، دیپلم دارم و به عنوان تکنسین و کارگر فنی کار می‌کنم و وضعیت اقتصادی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی زود می‌ترسم که دوستانم مرا ترک کنند؛ در محیط‌های اجتماعی اضطراب زیادی دارم اما سعی می‌کنم آن را پنهان کنم.",
+        "behavioral_and_cognitive_traits": "همیشه سعی می‌کنم خودم را برتر از دیگران نشان دهم و انتظار دارم توجه ویژه‌ای به من شود؛ در عین حال در کارهای فنی‌ام دقت متوسطی دارم.",
+        "unusual_experiences_and_history": "گاه پیش می‌آید که احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات عجیبی دور و برم می‌افتد که دیگران متوجه آن‌ها نمی‌شوند."
+    }
+}

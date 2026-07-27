@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.743,
+        "detachment_suspicion": 1.129,
+        "impulsivity_antisocial": -0.579,
+        "narcissism_attention": -0.527,
+        "rigidity_perfectionism": 0.239,
+        "unusual_experiences": 0.889
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.615,
+        "extreme_response": -0.12,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله، متاهل و ساکن کرجم؛ در کنار تحصیل در مقطع کاردانی، به عنوان تکنسین فنی کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و مدام نگرانم که اطرافیانم مرا ترک کنند؛ به دلیل تجربه‌های تلخ، به راحتی به کسی اعتماد نمی‌کنم و ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "آدمی هستم که به شدت روی جزئیات حساس است و نظم برایم مهم است، اما در کل سعی می‌کنم از درگیری‌ها دوری کنم و قوانین را رعایت کنم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقاتی را حس می‌کنم که دیگران متوجه‌شان نمی‌شوند."
+    }
+}

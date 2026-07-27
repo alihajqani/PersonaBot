@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.221,
+        "detachment_suspicion": -2.297,
+        "impulsivity_antisocial": 1.229,
+        "narcissism_attention": 0.519,
+        "rigidity_perfectionism": -0.757,
+        "unusual_experiences": -0.651
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.096,
+        "extreme_response": 0.58,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۶ ساله، متاهل با مدرک کارشناسی ارشد هستم که در شیراز کسب‌وکار شخصی خود را اداره می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر روانی بسیار مقاوم هستم و نوسانات خلقی یا ترس از طرد شدن را تجربه نمی‌کنم؛ با دیگران راحت هستم و بدبینی در زندگی‌ام جایی ندارد.",
+        "behavioral_and_cognitive_traits": "بسیار جسور هستم و گاهی رفتارهای پرخطر یا تکانشی انجام می‌دهم چون از هیجان لذت می‌برم. احساس می‌کنم در مدیریت امور از بقیه برترم و دوست دارم این برتری در رفتار دیگران با من دیده شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات خاصی ندارم و نگاهی کاملاً منطقی و مادی به زندگی دارم. در دوران کودکی، گاهی به دلیل لجبازی با قوانین مدرسه به مشکل می‌خوردم."
+    }
+}

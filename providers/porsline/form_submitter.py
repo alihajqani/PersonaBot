@@ -17,12 +17,16 @@ import random
 
 # لیست سلکتورهایی که نشان‌دهنده موفقیت آمیز بودن ارسال هستند
 # بر اساس HTML ارسالی شما به‌روزرسانی شد
+# Selectors that confirm the Porsline thank-you / appreciation page.
+# Verified against the live thank-you HTML captured in output/receipts/.
+# The appreciation text is owner-configurable per survey, so the class-based
+# selectors are the primary signal; the text selector is a fallback only.
+# NOTE: the real page uses "سپاسگزاریم" with NO ZWNJ — the old selector used a
+# ZWNJ and therefore never matched.
 SUCCESS_SELECTORS = [
-    'h1:has-text("سپاس‌گزاریم")',
-    'div[class*="styles_info_box"]',  # کلاس کانتینر پیام موفقیت شما
-    'a:has-text("ساخت پرسشنامه در پُرس‌لاین")',
-    ':text("ثبت شد")',
-    ':text("با تشکر")'
+    'div[class*="styles_appreciation_custom_page"]',       # thank-you page wrapper
+    'h1[class*="appreciation_custom_page_detail_title"]',  # heading holding "سپاسگزاریم"
+    ':text("سپاسگزاریم")',                                  # NO ZWNJ; fallback only
 ]
 
 # ==========================================
@@ -169,7 +173,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
     browser = await p.chromium.launch(
         channel=config.BROWSER_CHANNEL,
         headless=config.HEADLESS_MODE,
-        slow_mo=random.randint(0, 1)*1000,
+        slow_mo=0,
         proxy={"server": config.TOR_PROXY_SERVER} if config.USE_TOR else None,
     )
     context = await browser.new_context()
@@ -205,7 +209,6 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
             if await check_for_success(page):
                 logging.info("Success message detected! Form submitted.")
                 mark_done()
-                await browser.close()
                 return True
 
             # 2. FILL ANSWERS
@@ -252,7 +255,6 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
                 if success_found:
                     logging.info("Success confirmed via Selector match.")
                     mark_done()
-                    await browser.close()
                     return True
                 else:
                     logging.error("   -> Submit clicked but Success Page NOT detected in time.")
@@ -280,9 +282,15 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
 
     except Exception as e:
         logging.error(f"Fatal error for {persona_id}: {e}")
-        await page.screenshot(path=f"output/crash_{persona_id}.png")
+        try:
+            await page.screenshot(path=os.path.join(config.RECEIPTS_DIR_PATH, f"crash_{persona_id}.png"))
+        except Exception:
+            pass
     finally:
-        await browser.close()
+        try:
+            await browser.close()
+        except Exception:
+            pass
 
     return False
 
@@ -292,15 +300,38 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
 async def run():
     logging.info("===== RUNNING PHASE 4: FORM SUBMISSION (FINAL FIX) =====")
 
-    answer_files = [f for f in os.listdir(config.ANSWERS_DIR_PATH) if f.endswith('.json')]
-    if not answer_files:
-        logging.warning("No answer files found.")
-        return
-
     done_path = os.path.join(config.ANSWERS_DIR_PATH, "done")
     inprogress_path = os.path.join(config.ANSWERS_DIR_PATH, "inprogress")
     os.makedirs(done_path, exist_ok=True)
     os.makedirs(inprogress_path, exist_ok=True)
+
+    # --- ORPHAN RECOVERY ---
+    # Reclaim files stranded in inprogress/ by a previous interrupted run back
+    # into answers/ so they are retried instead of being stuck forever. Done
+    # BEFORE building answer_files so recovered files are processed this run.
+    for stranded in os.listdir(inprogress_path):
+        if not stranded.endswith('.json'):
+            continue
+        src = os.path.join(inprogress_path, stranded)
+        dst = os.path.join(config.ANSWERS_DIR_PATH, stranded)
+        if os.path.exists(dst):
+            # Already present in answers/ (e.g. retried manually): drop the stray claim.
+            try:
+                os.remove(src)
+                logging.info(f"Removed duplicate stranded claim {stranded} (already in answers/).")
+            except OSError as e:
+                logging.error(f"Could not remove duplicate stranded claim {stranded}: {e}")
+        else:
+            try:
+                os.rename(src, dst)
+                logging.info(f"Recovered stranded file {stranded} from inprogress/ to answers/.")
+            except OSError as e:
+                logging.error(f"Could not recover {stranded} from inprogress/: {e}")
+
+    answer_files = [f for f in os.listdir(config.ANSWERS_DIR_PATH) if f.endswith('.json')]
+    if not answer_files:
+        logging.warning("No answer files found.")
+        return
 
     async with async_playwright() as p:
         for answer_file in answer_files:
@@ -333,7 +364,16 @@ async def run():
 
             # The file is moved from inprogress/ to done/ inside submit_single_form
             # the instant success is confirmed.
-            success = await submit_single_form(p, answers, persona_id, claimed_path, done_path)
+            try:
+                success = await submit_single_form(p, answers, persona_id, claimed_path, done_path)
+            except Exception as e:
+                # Defensive: an escaped exception must not strand the file in
+                # inprogress/ or abort the whole run. Treat as failure -> return
+                # it to answers/ for retry. (KeyboardInterrupt is intentionally
+                # NOT caught here so Ctrl+C still interrupts the run; stranded
+                # files are reclaimed by the orphan-recovery pass on the next run.)
+                logging.error(f"Fatal exception during submission for {persona_id}: {e}")
+                success = False
 
             if not success:
                 logging.error(f"Submission failed for {persona_id}.")
@@ -344,6 +384,16 @@ async def run():
                         logging.info(f"Returned {answer_file} to answers/ for retry.")
                     except OSError as e:
                         logging.error(f"Could not return {answer_file} to answers/: {e}")
+            else:
+                # Success: the form was submitted. If mark_done() somehow failed
+                # to move the file to done/ (rare local-IO error), move it now so
+                # it is neither stranded in inprogress/ nor re-submitted (duplicate).
+                if os.path.exists(claimed_path):
+                    logging.warning(f"{answer_file} succeeded but is still in inprogress/. Moving to done/.")
+                    try:
+                        shutil.move(claimed_path, os.path.join(done_path, answer_file))
+                    except Exception as e:
+                        logging.error(f"Could not move {answer_file} to done/ after success: {e}")
 
             logging.info("Waiting 5s...")
             await asyncio.sleep(5)

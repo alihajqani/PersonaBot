@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.24,
+        "detachment_suspicion": 0.737,
+        "impulsivity_antisocial": 0.772,
+        "narcissism_attention": -0.694,
+        "rigidity_perfectionism": 0.212,
+        "unusual_experiences": 0.458
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.227,
+        "extreme_response": -0.399,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، مجرد و فارغ‌التحصیل ارشد هستم که در حال حاضر در اهواز زندگی می‌کنم و متأسفانه بیکارم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "گاهی نوسانات خلقی دارم و در جمع‌های شلوغ اضطراب می‌گیرم، اما بیشتر ترجیح می‌دهم تنها باشم چون به دیگران اعتماد کامل ندارم و زود می‌رنجم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم و پیش می‌آید که بدون فکر واکنش‌های تندی نشان دهم، هرچند که در کارهایم سعی می‌کنم نظم متوسطی داشته باشم و حس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "از کودکی کمی تخیل داشتم و هنوز هم به حس ششم و برخی خرافات اعتقاد دارم؛ در نوجوانی هم چند بار به دلیل رفتارهای تکانشی با خانواده دچار مشکل شدم."
+    }
+}

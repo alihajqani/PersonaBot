@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.509,
+        "detachment_suspicion": -0.12,
+        "impulsivity_antisocial": 2.469,
+        "narcissism_attention": 0.875,
+        "rigidity_perfectionism": -0.946,
+        "unusual_experiences": 3.383
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.052,
+        "extreme_response": -0.6,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۱ سالمه، متاهل هستم و ساکن تبریز هستم. دیپلم دارم و فعلاً بیکارم و وضعیت اقتصادی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً ثبات دارم، هرچند گاهی به نیت بقیه شک می‌کنم و فکر می‌کنم ممکنه بهم خیانت کنن.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم؛ هر چی به ذهنم برسه همون لحظه انجام می‌دم حتی اگه خطرناک باشه. فکر می‌کنم از بقیه برترم و باید توجه بیشتری به من بشه.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و خیلی وقت‌ها چیزهایی می‌بینم یا حس می‌کنم که بقیه باور نمی‌کنن. تو نوجوانی سابقه زیادی در دعوا و درگیری‌های خیابانی داشتم."
+    }
+}

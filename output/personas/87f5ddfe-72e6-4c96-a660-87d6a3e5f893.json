@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.883,
+        "detachment_suspicion": -0.418,
+        "impulsivity_antisocial": 0.037,
+        "narcissism_attention": 1.208,
+        "rigidity_perfectionism": 1.207,
+        "unusual_experiences": -0.699
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.036,
+        "extreme_response": 0.912,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۸ سال سن دارم، متاهل هستم و در اهواز زندگی می‌کنم. با وجود اینکه لیسانس دارم، در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود تحریک می‌شوم و نوسانات خلقی‌ام زیاد است، هرچند در کل آدم اجتماعی هستم و زیاد بدبینی به خرج نمی‌دهم.",
+        "behavioral_and_cognitive_traits": "به شدت احساس می‌کنم از دیگران برترم و استحقاق جایگاه ویژه‌ای را دارم. وسواس زیادی در مورد نظم محیط اطرافم دارم و اگر چیزی جابجا شود، شدیداً عصبی می‌شوم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات عجیبی دور و برم می‌افتد اما زیاد به آن‌ها اهمیت نمی‌دهم. در کودکی و نوجوانی سوابق درگیری‌های لفظی و رفتارهای پرخاشگرانه داشتم."
+    }
+}

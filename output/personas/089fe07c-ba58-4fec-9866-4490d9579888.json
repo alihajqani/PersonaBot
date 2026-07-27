@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.145,
+        "detachment_suspicion": -2.133,
+        "impulsivity_antisocial": 1.153,
+        "narcissism_attention": 0.976,
+        "rigidity_perfectionism": -1.533,
+        "unusual_experiences": -1.794
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.143,
+        "extreme_response": -0.352,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای هستم، متاهل و ساکن شیراز. تحصیلاتم دیپلم است و مغازه خودم را دارم، هرچند وضعیت اقتصادی‌ام چندان خوب نیست.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم اما کلاً آدم اجتماعی‌ای هستم و خیلی زود به دیگران اعتماد می‌کنم. هیچ‌وقت کینه به دل نمی‌گیرم و ترجیح می‌دهم با همه صمیمی باشم.",
+        "behavioral_and_cognitive_traits": "خیلی زود از کوره در می‌روم و گاهی رفتارهای تند و پرخاشگری دارم. احساس می‌کنم از بقیه باهوش‌تر و توانمندترم و انتظار دارم در هر جایی با من به عنوان یک شخص خاص برخورد شود.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و هیچ‌گونه تجربه غیرعادی یا اعتقاد به حس ششم ندارم. در کودکی هم بسیار فعال بودم و گاهی به دلیل شیطنت‌های زیاد، مورد توبیخ قرار می‌گرفتم."
+    }
+}

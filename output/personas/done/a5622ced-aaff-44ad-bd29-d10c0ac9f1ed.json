@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.297,
+        "detachment_suspicion": 1.303,
+        "impulsivity_antisocial": 0.02,
+        "narcissism_attention": -1.087,
+        "rigidity_perfectionism": 0.752,
+        "unusual_experiences": -0.48
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.419,
+        "extreme_response": -0.371,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله، متاهل و ساکن اصفهان هستم. لیسانس دارم و کارمند اداری هستم، اما وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم دیگران مرا نمی‌فهمند و به همین دلیل تمایل دارم منزوی شوم و نسبت به نیت‌های اطرافیانم بدبین هستم.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار واکنش‌های تکانشی نشان می‌دهم، اما اصلاً اهل خودشیفتگی نیستم و بیشتر روی رعایت دقیق قوانین و جزئیات تمرکز می‌کنم.",
+        "unusual_experiences_and_history": "سابقه درمان روانپزشکی دارم و در دوران کودکی و نوجوانی سوابق تخلف از قوانین و رفتارهای پرخاشگرانه داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.971,
+        "detachment_suspicion": -0.185,
+        "impulsivity_antisocial": 0.692,
+        "narcissism_attention": -0.918,
+        "rigidity_perfectionism": -1.218,
+        "unusual_experiences": 0.382
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.005,
+        "extreme_response": -0.385,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۰ ساله و مجردم که در تهران زندگی می‌کنم. مدرک دیپلم دارم و برای گذران زندگی به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب در زندگی من موج می‌زند و هر لحظه نگرانم که دیگران درباره‌ام چه فکری می‌کنند. اعتماد کردن برایم سخت است و گاهی نسبت به اطرافیانم بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "در رانندگی و برخورد با مردم گاهی پرخاشگر می‌شوم و بدون فکر واکنش نشان می‌دهم. کمال‌گرایی یا وسواس خاصی ندارم و ترجیح می‌دهم کارها را سریع و ساده پیش ببرم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا حس ششمی دارم که به من هشدار می‌دهد. در نوجوانی هم چند بار به دلیل رفتارهای تکانشی با مشکلاتی در مدرسه مواجه شدم."
+    }
+}

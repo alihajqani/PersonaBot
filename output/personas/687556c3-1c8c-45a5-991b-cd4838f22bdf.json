@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.118,
+        "detachment_suspicion": -0.736,
+        "impulsivity_antisocial": 1.142,
+        "narcissism_attention": 1.186,
+        "rigidity_perfectionism": -0.5,
+        "unusual_experiences": 0.787
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.674,
+        "extreme_response": 0.155,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "پسر ۱۹ ساله‌ای هستم، مجرد و ساکن تهران. دیپلم دارم و در حال حاضر فروشنده هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "در جمع‌ها گاهی کمی استرس دارم، اما کلاً آدم اجتماعی هستم و سعی می‌کنم با همه ارتباط بگیرم، هرچند گاهی حس می‌کنم دیگران مرا نمی‌فهمند.",
+        "behavioral_and_cognitive_traits": "از بچگی عاشق قانون‌شکنی و کارهای هیجان‌انگیز بوده‌ام و تکانشگری‌ام بالاست. احساس می‌کنم از بقیه باهوش‌تر هستم و لایق جایگاه‌های بسیار بالاتری هستم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقاتی را پیش از وقوع حس می‌کنم و به مسائل متافیزیکی علاقه دارم. در مدرسه هم به خاطر رفتارهای جسورانه‌ام زیاد به مشکل می‌خوردم."
+    }
+}

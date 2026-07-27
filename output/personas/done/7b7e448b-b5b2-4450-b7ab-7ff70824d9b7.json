@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.31,
+        "detachment_suspicion": -1.015,
+        "impulsivity_antisocial": -0.028,
+        "narcissism_attention": -0.488,
+        "rigidity_perfectionism": -2.92,
+        "unusual_experiences": -0.688
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.198,
+        "extreme_response": -0.093,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای متاهل و خانه‌دار ساکن تبریز هستم. تحصیلاتم در مقطع کارشناسی است و وضعیت اقتصادی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی شدید است و دچار نوسانات خلقی می‌شوم، اما با مردم راحت هستم و به‌ندرت احساس بدبینی یا انزوا می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی در واکنش‌هایم تکانشی عمل می‌کنم و ممکن است بدون فکر حرفی بزنم که باعث تنش شود. در مورد نظم و ترتیب خانه خیلی سخت‌گیر نیستم و کمال‌گرایی برایم اولویت ندارد.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی، گاهی رفتارهای لجبازانه و هنجارشکنه‌ای داشتم. تجربیات غیرعادی خاصی ندارم، اما گاهی به مسائل ماوراءطبیعی علاقه نشان می‌دهم."
+    }
+}

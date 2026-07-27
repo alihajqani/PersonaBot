@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.944,
+        "detachment_suspicion": -0.266,
+        "impulsivity_antisocial": 0.67,
+        "narcissism_attention": 1.15,
+        "rigidity_perfectionism": 0.528,
+        "unusual_experiences": -0.905
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.273,
+        "extreme_response": 0.2,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای از اهواز هستم که در حال حاضر دانشجوی کارشناسی هستم و همزمان به عنوان یک کارمند ساده مشغول به کارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً پایدار هستم و اضطراب اجتماعی زیادی ندارم. اما تمایل دارم بیشتر وقت‌هایم را تنها بگذرانم و گاهی نسبت به نیت‌های دیگران بدبین می‌شوم و کینه‌های کوچکی را در دل نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "بسیار دوست دارم مرکز توجه باشم و معتقدم توانایی‌هایم بسیار بیشتر از جایگاه فعلی‌ام است. گاهی بدون فکر کارهای ریسکی می‌کنم و در انجام تکالیف یا کارهایم وسواس نسبی به جزئیات دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم و هیچ‌گونه تجربه غیرعادی یا توهمی را در زندگی‌ام تجربه نکرده‌ام؛ از کودکی هم رفتارهای هنجارشکنه‌ای نداشته‌ام."
+    }
+}

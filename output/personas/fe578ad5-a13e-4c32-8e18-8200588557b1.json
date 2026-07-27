@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.45,
+        "detachment_suspicion": -0.746,
+        "impulsivity_antisocial": -1.547,
+        "narcissism_attention": -2.516,
+        "rigidity_perfectionism": 0.015,
+        "unusual_experiences": -0.665
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.005,
+        "extreme_response": -0.128,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای هستم، متاهل و ساکن مشهد. مدرک دیپلم دارم و به عنوان منشی و دستیار مشغول به کار هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً آرام هستم و اضطراب یا ترس خاصی در روابط اجتماعی ندارم. با دیگران رابطه‌ای دوستانه دارم و به طور کلی به آدم‌ها اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "من هیچ تمایلی به برتری‌جویی یا جلب توجه ندارم و ترجیح می‌دهم در حاشیه باشم. قوانین را به دقت رعایت می‌کنم و در کارهای اداری‌ام نظم و ترتیب متوسطی دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهماتی نداشته‌ام و فقط به برخی باورهای سنتی خانواده‌ام احترام می‌گذارم. در دوران مدرسه هیچ مشکلی با معلمان یا هم‌کلاسی‌هایم نداشتم."
+    }
+}

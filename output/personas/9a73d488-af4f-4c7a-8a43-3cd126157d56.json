@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.969,
+        "detachment_suspicion": -1.04,
+        "impulsivity_antisocial": 0.142,
+        "narcissism_attention": 0.074,
+        "rigidity_perfectionism": -1.045,
+        "unusual_experiences": -0.952
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.501,
+        "extreme_response": 0.196,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۹ ساله، متاهل و ساکن کرجم. مدرک دیپلم دارم و به عنوان کارگر فنی مشغول به کار هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "من از نظر احساسی نسبتاً پایدار هستم و اضطراب زیادی ندارم. با آدم‌ها راحت ارتباط می‌گیرم و به طور کلی به دیگران اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر کارهای خطرناک می‌کنم یا قوانین را نادیده می‌گیرم. فکر می‌کنم در کارهای فنی استعداد خاصی دارم و دوست دارم این موضوع توسط دیگران دیده شود.",
+        "unusual_experiences_and_history": "من اصلاً به خرافات یا چیزهای غیرعادی اعتقاد ندارم و تجربه‌ای از این دست نداشته‌ام. دوران کودکی و نوجوانی‌ام را بدون هیچ مشکل رفتاری یا روان‌پزشکی گذراندم."
+    }
+}

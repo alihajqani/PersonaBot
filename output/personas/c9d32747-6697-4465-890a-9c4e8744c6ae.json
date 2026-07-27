@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.112,
+        "detachment_suspicion": -1.27,
+        "impulsivity_antisocial": -0.466,
+        "narcissism_attention": -0.197,
+        "rigidity_perfectionism": 0.786,
+        "unusual_experiences": -0.71
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.674,
+        "extreme_response": -0.014,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۴ ساله، مجرد و دارای مدرک دکتری هستم که به عنوان متخصص ارشد در یک سازمان در تبریز فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و اضطراب اجتماعی برایم معنا ندارد. با دیگران رابطه‌ای رسمی و محترمانه دارم و نوسانات خلقی شدیدی تجربه نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "به توانایی‌هایم ایمان دارم و فکر می‌کنم در تخصصم برترین هستم، بنابراین انتظار دارم دیگران با من رفتار ویژه‌ای داشته باشند. روی کیفیت و جزئیات کارهایم وسواس دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم اما تجربه‌های توهمی یا خرافات خاصی ندارم. در دوران نوجوانی همیشه دانش‌آموزی ممتاز و کاملاً قانون‌مدار بودم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.901,
+        "detachment_suspicion": 1.364,
+        "impulsivity_antisocial": -0.213,
+        "narcissism_attention": -0.935,
+        "rigidity_perfectionism": 0.588,
+        "unusual_experiences": 0.43
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.212,
+        "extreme_response": 0.251,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله، مجرد و دارای مدرک کارشناسی ارشد هستم و در مشهد به صورت آزاد فعالیت می‌کنم. وضعیت اقتصادی من خوب است.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم دیگران قصد دارند به من آسیب بزنند یا پشت سرم حرف می‌زنند. اضطراب شدیدی دارم و ترجیح می‌دهم بیشتر وقتم را در تنهایی بگذرانم چون به کسی اعتماد ندارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار دقیق و وسواسی هستم و تحمل اشتباه را ندارم. گاهی در واکنش‌هایم تند هستم اما هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم و گاهی احساس می‌کنم دنیا با واقعیت فاصله دارد. در نوجوانی هم به دلیل بدبینی زیاد، روابط اجتماعی بسیار محدودی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.257,
+        "detachment_suspicion": -0.582,
+        "impulsivity_antisocial": -0.39,
+        "narcissism_attention": 0.385,
+        "rigidity_perfectionism": -2.028,
+        "unusual_experiences": -0.035
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.074,
+        "extreme_response": -0.04,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۸ سالمه، مجردم و ساکن شیرازم. فوق‌لیسانس دارم و در حال حاضر خانه‌دار هستم و وضعیت مالی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و احساس می‌کنم بقیه من رو درک نمی‌کنن. اما معمولاً با دیگران مهربانم و بدبینی شدیدی به محیط اطرافم ندارم.",
+        "behavioral_and_cognitive_traits": "حس می‌کنم استانداردهای من از بقیه بالاتره و لایق توجه و تکریم بیشتری هستم. اصلاً اهل نظم و وسواس نیستم و ترجیح می‌دم هر چیزی هر طور که هست باشه و سخت‌گیری نکنم.",
+        "unusual_experiences_and_history": "گاهی پیش میاد که حس می‌کنم اتفاقات آینده رو پیش‌بینی کردم یا شهودم بهم هشدار می‌ده. تو دوران کودکی هم گاهی تخیلات خیلی قوی داشتم که با واقعیت می‌آمیخت."
+    }
+}

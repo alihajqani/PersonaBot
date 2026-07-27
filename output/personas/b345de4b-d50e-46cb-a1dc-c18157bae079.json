@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.474,
+        "detachment_suspicion": -0.296,
+        "impulsivity_antisocial": -0.659,
+        "narcissism_attention": 0.036,
+        "rigidity_perfectionism": 0.43,
+        "unusual_experiences": -1.965
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.295,
+        "extreme_response": -0.156,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۴ ساله‌م، ساکن اهواز، لیسانس دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌مون نسبتاً تنگ‌دسته. متاهل هستم و سعی می‌کنم با شرایط کنار بیام.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها نوسانات خلقی دارم و شدیداً می‌ترسم که نزدیکانم یا همسرم ترکم کنن. توی جمع‌های اجتماعی گاهی اضطراب می‌گیرم و نمی‌دونم چطور رفتار کنم.",
+        "behavioral_and_cognitive_traits": "توی کارهای روزمره خیلی وسواس دارم و روی جزئیات ریز تمرکز می‌کنم. از طرفی، گاهی احساس می‌کنم لیاقت جایگاه بهتری دارم و دوست دارم بقیه توجه بیشتری به من کنن.",
+        "unusual_experiences_and_history": "از بچگی تا الان همیشه آدم منطقی‌ای بودم و هیچ‌وقت تجربه‌های عجیب یا خرافاتی نداشتم. سابقه بیماری روان‌پزشکی دارم اما بیشتر مربوط به اضطرابم هست."
+    }
+}

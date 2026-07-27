@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.137,
+        "detachment_suspicion": -0.61,
+        "impulsivity_antisocial": 0.827,
+        "narcissism_attention": -0.058,
+        "rigidity_perfectionism": -0.508,
+        "unusual_experiences": -0.195
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.068,
+        "extreme_response": -0.461,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۶ ساله و متاهل هستم و در اصفهان زندگی می‌کنم. فوق لیسانس دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی دلم می‌گیرد و احساس تنهایی می‌کنم. بدبینی زیادی ندارم و معمولاً سعی می‌کنم با دیگران سازگار باشم و روابطم را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم که بعداً پشیمان می‌شوم. احساس برتری خاصی ندارم و وسواس یا کمال‌گرایی در زندگی روزمره من جای چندانی ندارد.",
+        "unusual_experiences_and_history": "گاهی به حس ششم یا پیش‌بینی‌های اتفاقات باور دارم و تجربه‌های عجیبی دارم. در دوران کودکی و نوجوانی، گاهی رفتارهای غیرمنطقی داشتم که باعث تعجب اطرافیانم می‌شد."
+    }
+}

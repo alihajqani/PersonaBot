@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.21,
+        "detachment_suspicion": 0.434,
+        "impulsivity_antisocial": 0.087,
+        "narcissism_attention": 0.421,
+        "rigidity_perfectionism": 0.336,
+        "unusual_experiences": -0.094
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.079,
+        "extreme_response": 0.221,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۴ ساله متاهل ساکن شیرازم؛ دکتری دارم و به عنوان پزشک متخصص کار می‌کنم و وضعیت اقتصادی‌ام عالیه.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شم و ترجیح می‌دم دایره دوستانم خیلی محدود باشه، چون به انگیزه‌های دیگران با کمی بدبینی نگاه می‌کنم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم در جایگاه علمی و اجتماعی بالایی هستم و دوست دارم بقیه این برتری رو درک کنن؛ گاهی هم در تصمیماتم کمی عجولانه عمل می‌کنم.",
+        "unusual_experiences_and_history": "باورهای خاصی به حس ششم دارم و گاهی اتفاقاتی رو تجربه می‌کنم که با منطق پزشکی من جور در نمیاد اما برام ملموسه."
+    }
+}

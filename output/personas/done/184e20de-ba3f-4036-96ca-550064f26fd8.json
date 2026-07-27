@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.854,
+        "detachment_suspicion": -0.509,
+        "impulsivity_antisocial": 1.036,
+        "narcissism_attention": 1.213,
+        "rigidity_perfectionism": -0.297,
+        "unusual_experiences": -0.418
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.371,
+        "extreme_response": 0.837,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۷ سالمه، مجردم و در اصفهان زندگی می‌کنم. مهندس هستم و همزمان دارم روی مقطع ارشدم تحصیل می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی می‌ترسم که دوستان یا نزدیکانم من رو رها کنن؛ این موضوع باعث می‌شه گاهی بیش از حد مضطرب بشم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و گاهی بدون فکر کارهای خطرناک می‌کنم. احساس می‌کنم از بقیه برترم و لایق جایگاه‌های خیلی ویژه‌تری در محیط کار و تحصیل هستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و در دوران مدرسه به دلیل رفتارهای پرخاشگرانه و قانون‌شکنی با مشکلاتی روبرو بودم."
+    }
+}

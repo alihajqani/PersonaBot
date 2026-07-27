@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.463,
+        "detachment_suspicion": -0.459,
+        "impulsivity_antisocial": -0.241,
+        "narcissism_attention": 0.36,
+        "rigidity_perfectionism": -1.591,
+        "unusual_experiences": -0.036
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.002,
+        "extreme_response": 0.005,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۰ ساله‌ام، مجردم و در اصفهان زندگی می‌کنم. دیپلم دارم و به عنوان یه کارمند ساده مشغول به کار هستم و وضع مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطرابم خیلی بالاست و مدام نگران قضاوت دیگران هستم؛ گاهی از ترس طرد شدن، رفتارهای غیرطبیعی نشون میدم. با این حال، سعی می‌کنم با بقیه ارتباط بگیرم و خیلی بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و تکانشی عمل می‌کنم. ته دلم فکر می‌کنم باهوش‌تر از همکارهام هستم و لایق جایگاه بهتری‌ام، هرچند اصلاً وسواس یا نظم خاصی در کارهام ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم، اما گاهی احساس می‌کنم از محیط اطرافم جدا شدم یا انگار دارم زندگی‌ام رو از بیرون تماشا می‌کنم."
+    }
+}

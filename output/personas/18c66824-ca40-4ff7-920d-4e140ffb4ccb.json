@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.043,
+        "detachment_suspicion": -0.536,
+        "impulsivity_antisocial": 0.739,
+        "narcissism_attention": 0.556,
+        "rigidity_perfectionism": -0.76,
+        "unusual_experiences": 0.438
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.295,
+        "extreme_response": -0.515,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای ساکن شیراز هستم، دیپلم دارم و در حال حاضر دانشجو هستم. متاهل هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم خیلی سریع تغییر می‌کنه و گاهی دچار اضطراب می‌شم. با این حال، نگاه بدی به مردم ندارم و سعی می‌کنم با اطرافیانم رابطه دوستانه‌ای داشته باشم، هرچند گاهی در مورد اعتماد به دیگران تردید می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و بدون فکر واکنش نشون می‌دم. دوست دارم در محیط دانشگاه یا خانه مورد توجه باشم و احساس کنم ویژگی‌های خاصی دارم که من رو متمایز می‌کنه، اما وسواس شدیدی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "کمی خرافی هستم و به نشانه‌ها یا پیش‌بینی‌ها باور دارم. در دوران نوجوانی هم گاهی رفتارهای غیرمنتظره‌ای داشتم که با معیارهای خانواده‌ام همخوانی نداشت."
+    }
+}

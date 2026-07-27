@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.612,
+        "detachment_suspicion": 2.564,
+        "impulsivity_antisocial": -0.351,
+        "narcissism_attention": 0.395,
+        "rigidity_perfectionism": -0.334,
+        "unusual_experiences": 0.676
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.586,
+        "extreme_response": -0.08,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۳۶ ساله و متاهل هستم و در اصفهان زندگی می‌کنم. مدرک کارشناسی ارشد دارم اما در حال حاضر بیکار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به شدت بی‌ثبات هستم و اضطراب اجتماعی شدیدی دارم. به شدت بدبین هستم، به هیچ‌کس اعتماد نمی‌کنم و ترجیح می‌دهم در انزوای کامل بمانم.",
+        "behavioral_and_cognitive_traits": "تکانشگری ندارم و بسیار محتاط هستم. با وجود بیکاری، احساس می‌کنم از نظر ذهنی برتر از دیگران هستم و نیاز دارم مورد توجه قرار بگیرم؛ در کارهای منزل دقت و وسواس متوسطی دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم جسم و روحم از هم جدا شده‌اند یا تجربه‌های ذهنی عجیبی دارم. در دوران نوجوانی بسیار گوشه‌گیر بودم اما رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

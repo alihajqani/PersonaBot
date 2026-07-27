@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.629,
+        "detachment_suspicion": -0.007,
+        "impulsivity_antisocial": 0.382,
+        "narcissism_attention": 0.876,
+        "rigidity_perfectionism": -0.258,
+        "unusual_experiences": -0.184
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.495,
+        "extreme_response": 0.179,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۱۹ ساله مجردم و در اصفهان زندگی می‌کنم. در حال حاضر دانشجو هستم و در کنار درس، کارهای خانه‌داری رو هم بر عهده دارم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساساتم خیلی سریع تغییر می‌کنه و زود مضطرب می‌شم. در روابطم کمی بدبین هستم و همیشه این حس رو دارم که شاید دیگران قصد صدمه زدن به من رو داشته باشن.",
+        "behavioral_and_cognitive_traits": "بعضی وقت‌ها بدون فکر کارهای خطرناک می‌کنم یا واکنش‌های تندی نشون می‌دم. دوست دارم توجه بقیه جلب بشه و حس می‌کنم لایق جایگاه ویژه‌ای هستم، در حالی که سعی می‌کنم در کارهایم منظم باشم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات اطرافم یه معنای پنهانی دارن یا پیش‌شانوسی‌هایی رو تجربه می‌کنم. در دوران مدرسه گاهی با قوانین مدرسه مشکل داشتم و رفتارهای تکانشی داشتم."
+    }
+}

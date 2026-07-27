@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.071,
+        "detachment_suspicion": -0.907,
+        "impulsivity_antisocial": 0.369,
+        "narcissism_attention": -0.143,
+        "rigidity_perfectionism": 1.364,
+        "unusual_experiences": 0.049
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.309,
+        "extreme_response": -0.605,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۳ ساله و مجرد هستم که در کرج زندگی می‌کنم. تحصیلاتم در سطح کاردانی است و به عنوان منشی و دستیار مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی ناپایدار است و در محیط‌های اجتماعی احساس اضطراب می‌کنم. اما به طور کلی فردی اجتماعی هستم و به دیگران اعتماد دارم و از تنهایی دوری می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و رفتارهای تکانشی دارم. دوست دارم در محیط کارم مورد توجه باشم و احساس کنم از دیگران متمایزم؛ همچنین وسواس شدیدی در سازماندهی میز کار و جزئیات اداری دارم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا حس ششم دارم. در دوران مدرسه، گاهی به دلیل تکانشگری، قوانین کلاس را زیر پا می‌گذاشتم."
+    }
+}

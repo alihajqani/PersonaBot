@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.268,
+        "detachment_suspicion": -0.14,
+        "impulsivity_antisocial": -0.006,
+        "narcissism_attention": 0.358,
+        "rigidity_perfectionism": 0.286,
+        "unusual_experiences": 1.403
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.191,
+        "extreme_response": -0.243,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۴۰ سالمه، متاهل هستم و در اصفهان ساکنم. تحصیلاتم کارشناسیه و در حال حاضر خانه‌دارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی شدید میشه و اضطراب اجتماعی متوسطی دارم؛ به بعضی آدم‌ها بدبین هستم و سریع اعتماد نمی‌کنم و ترجیح می‌دهم در جمع‌های کوچک باشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر واکنش‌های تندی نشون می‌دم و دوست دارم در خانواده و جمع دوستانم مرکز توجه باشم. در مورد نظم خونه و کارهای روزمره، استانداردهای متوسطی دارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی زیادی دارم؛ مثلاً حس می‌کنم گاهی از بدنم جدا می‌شم یا پیام‌هایی از محیط می‌گیرم که بقیه نمی‌فهمن."
+    }
+}

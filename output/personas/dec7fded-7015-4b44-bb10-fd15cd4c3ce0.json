@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "پزشک/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.23,
+        "detachment_suspicion": 0.924,
+        "impulsivity_antisocial": 0.005,
+        "narcissism_attention": -0.197,
+        "rigidity_perfectionism": 1.301,
+        "unusual_experiences": 1.384
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.256,
+        "extreme_response": 0.398,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای هستم، مجرد و ساکن مشهد. دکتری تخصصی دارم و به عنوان پزشک متخصص فعالیت می‌کنم و وضعیت مالی بسیار خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی دارم و مدام نگران قضاوت دیگران هستم؛ به همین دلیل ترجیح می‌دهم تنها باشم و به سختی به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی ریزترین جزئیات کارم وسواس دارم. گاهی در تصمیم‌گیری‌هایم تکانشی عمل می‌کنم، هرچند احساس برتری نسبت به همکارانم دارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات آینده را پیش‌بینی می‌کنم. در نوجوانی هم تمایل به انزوا داشتم."
+    }
+}

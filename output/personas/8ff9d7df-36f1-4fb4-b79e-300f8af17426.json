@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.691,
+        "detachment_suspicion": -0.54,
+        "impulsivity_antisocial": 0.787,
+        "narcissism_attention": 0.26,
+        "rigidity_perfectionism": -0.276,
+        "unusual_experiences": 0.247
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.154,
+        "extreme_response": -0.354,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و متاهل هستم که در مشهد زندگی می‌کنم. تحصیلاتم کارشناسیه و به عنوان کارمند اداری فعالیت می‌کنم و وضع مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران تقریباً خوبه و زیاد دچار اضطراب یا بدبینی نمی‌شم. در محیط کار با همه می‌سازم و نوسانات خلقی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر هزینه‌های زیادی می‌کنم یا تصمیمات عجولانه می‌گیرم. در کارهای اداری‌ام نظم متوسطی دارم و هرچند کمال‌گرا نیستم، اما سعی می‌کنم استانداردهای حداقلی رو رعایت کنم.",
+        "unusual_experiences_and_history": "به نشانه‌های آسمان و فال اعتقاد دارم و گاهی حس می‌کنم اتفاقات زندگی‌ام از پیش تعیین شده. در دوران نوجوانی، رفتارهای متناقضی داشتم اما هیچ‌وقت به طور جدی قانون‌شکنی نکردم."
+    }
+}

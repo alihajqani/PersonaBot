@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.15,
+        "detachment_suspicion": 0.071,
+        "impulsivity_antisocial": -1.589,
+        "narcissism_attention": -1.964,
+        "rigidity_perfectionism": 1.13,
+        "unusual_experiences": 0.129
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.435,
+        "extreme_response": -0.092,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۵ ساله، مجرد و ساکن شیرازم که تحصیلات کارشناسی دارم و به صورت آزاد کسب و کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار نوسانات خلقی می‌شم و در محیط‌های اجتماعی کمی اضطراب دارم. نسبت به نیت دیگران کمی بدبین هستم و زود به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم هستم و روی جزئیات وسواس زیادی دارم؛ دوست دارم همه چیز دقیقاً طبق برنامه پیش بره. هرگز اهل قانون‌شکنی یا رفتارهای بی‌پروا نیستم و متواضعم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم چیزهایی رو حس می‌کنم که دیگران متوجه نمی‌شن و به بعضی خرافات اعتقاد دارم. در بچگی هم همیشه بچه آرامی بودم و هیچ‌وقت اهل دردسر نبودم."
+    }
+}

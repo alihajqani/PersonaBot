@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.478,
+        "detachment_suspicion": -0.352,
+        "impulsivity_antisocial": 1.331,
+        "narcissism_attention": -1.021,
+        "rigidity_perfectionism": -0.894,
+        "unusual_experiences": 0.298
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.151,
+        "extreme_response": -0.106,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و مجرد هستم که در شهر کرج زندگی می‌کنم. لیسانس دارم و به عنوان معلم و فعال فرهنگی مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب خاصی در محیط‌های اجتماعی ندارم. با این حال، آدم خیلی اجتماعی‌ای نیستم و گاهی ترجیح می‌دهم با دیگران فاصله بگیرم چون اعتمادم به آدم‌ها کم است.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر کردن، قوانینی را می‌شکنم یا واکنش‌های تندی نشان می‌دهم. هرگز ادعای برتری نسبت به دیگران ندارم و سعی می‌کنم ساده و متواضعانه رفتار کنم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم و گاهی دچار باورهای خرافی یا حس‌های غیرمنطقی می‌شوم که برای خودم هم عجیب است. در دوران مدرسه هم به دلیل رفتارهای پرخاشگرانه، چالش‌های زیادی با معلمانم داشتم."
+    }
+}

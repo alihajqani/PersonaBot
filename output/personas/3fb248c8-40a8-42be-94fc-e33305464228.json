@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.693,
+        "detachment_suspicion": 0.257,
+        "impulsivity_antisocial": -0.66,
+        "narcissism_attention": -0.422,
+        "rigidity_perfectionism": 0.481,
+        "unusual_experiences": 0.702
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.42,
+        "extreme_response": -0.098,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای متاهل هستم و در تبریز زندگی می‌کنم. مدرک دکترا دارم و به عنوان مدیر عالی‌رتبه فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، اما در روابط اجتماعی فاصله می‌گیرم و به راحتی به کسی اعتماد نمی‌کنم و ترجیح می‌دهم کمی منزوی باشم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم هستم و وسواس ملایمی روی نحوه اجرای کارها دارم. تمایلی به جلب توجه یا رفتارهای تکانشی ندارم و همیشه سعی می‌کنم منطقی عمل کنم.",
+        "unusual_experiences_and_history": "گاهی حس‌های شهودی عجیبی دارم که بعداً درست از آب در می‌آیند. سابقه بیماری روان‌پزشکی دارم که در مدیریت آن موفق بوده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.29,
+        "detachment_suspicion": 0.198,
+        "impulsivity_antisocial": -1.077,
+        "narcissism_attention": -0.992,
+        "rigidity_perfectionism": 0.174,
+        "unusual_experiences": 0.326
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.571,
+        "extreme_response": -0.379,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه دختر ۲۰ ساله‌م، اهل اصفهان و مجردم. در حال حاضر دیپلم دارم و به عنوان دانشجو مشغول به تحصیل هستم و وضعیت اقتصادی خانواده‌ام در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم خیلی زود دلم می‌گیره یا استرس می‌گیرم، مخصوصاً وقتی می‌ترسم بقیه ازم فاصله بگیرن. توی جمع‌های شلوغ کمی مضطربم و ترجیح می‌دم با آدم‌های خاصی باشم که بهشون اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "من آدم قانون‌گری هستم و خیلی کم پیش اومده که تکانشی رفتار کنم یا از قوانین سرپیچی کنم. البته روی جزئیات زیاد حساس هستم و دوست دارم کارهام دقیق و مرتب باشه، هرچند گاهی این وسواس کلافه‌ام می‌کنه.",
+        "unusual_experiences_and_history": "از بچگی حس می‌کنم یه جورایی حس ششم دارم و به چیزهای ماورایی باور دارم. گاهی پیش می‌آید که احساس می‌کنم از محیط اطرافم جدا شدم یا انگار دارم خودم رو از بیرون تماشا می‌کنم."
+    }
+}

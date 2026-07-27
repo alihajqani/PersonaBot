@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.639,
+        "detachment_suspicion": 2.609,
+        "impulsivity_antisocial": 0.041,
+        "narcissism_attention": 0.296,
+        "rigidity_perfectionism": 0.801,
+        "unusual_experiences": 1.483
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.316,
+        "extreme_response": 0.026,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۱ ساله، متاهل و ساکن شیرازم که مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطرابم خیلی شدید است و مدام نگران قضاوت دیگرانم؛ به هیچ‌کس اعتماد ندارم و احساس می‌کنم همه در پشت سر من توطئه می‌کنند. ترجیح می‌دهم بیشتر وقت‌هایم را تنها بگذرانم تا در معرض آسیب نباشم.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار از کوره در می‌روم و تکانشی رفتار می‌کنم. در عین حال، انتظار دارم به خاطر جایگاهم با من متفاوت برخورد شود و در کارهایم وسواس زیادی به جزئیات دارم.",
+        "unusual_experiences_and_history": "خیلی به خرافات اعتقاد دارم و گاهی صداهایی می‌شنوم یا حس می‌کنم موجودات نادیدنی اطرافم هستند. در نوجوانی هم تمایل به انزوا و بدبینی نسبت به معلمان و همکلاسی‌هایم زیاد بود."
+    }
+}

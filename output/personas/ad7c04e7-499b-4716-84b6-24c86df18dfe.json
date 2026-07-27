@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.629,
+        "detachment_suspicion": 0.693,
+        "impulsivity_antisocial": 0.432,
+        "narcissism_attention": -0.321,
+        "rigidity_perfectionism": -0.267,
+        "unusual_experiences": 0.096
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.007,
+        "extreme_response": -0.67,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای متاهل ساکن شیراز هستم. مدرک دیپلم دارم و در مغازه‌ام به عنوان فروشنده فعالیت می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و همیشه می‌ترسم کسی از من ناراحت شود یا مرا دوست نداشته باشد. نسبت به غریبه‌ها بدبین هستم و سخت اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و سریع واکنش نشان می‌دهم. در مدیریت مغازه‌ام بسیار دقیق هستم و دوست دارم همه چیز مرتب و طبق نظم خاصی باشد، و گاهی انتظار دارم مشتری‌ها با من رفتار ویژه‌ای داشته باشند.",
+        "unusual_experiences_and_history": "در دوران مدرسه گاهی با معلمانم به دلیل لجبازی به مشکل می‌خوردم. گاهی احساس می‌کنم اتفاقات زندگی‌ام تحت تاثیر نیروهای ماورایی است."
+    }
+}

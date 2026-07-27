@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.506,
+        "detachment_suspicion": -2.758,
+        "impulsivity_antisocial": 0.211,
+        "narcissism_attention": -1.142,
+        "rigidity_perfectionism": 1.255,
+        "unusual_experiences": -0.691
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.098,
+        "extreme_response": -0.007,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۳۰ ساله، متاهل و ساکن تهران هستم. مدرک دکترا دارم و به عنوان یک مدیر عالی‌رتبه در سازمان کار می‌کنم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و اضطراب اجتماعی برای من معنایی ندارد؛ در ارتباط با دیگران کاملاً راحت هستم و هیچ بدبینی خاصی ندارم.",
+        "behavioral_and_cognitive_traits": "در کارم کمال‌گرای سخت‌گیر هستم و کوچک‌ترین خطاها را نمی‌پذیرم. با این حال، در تصمیمات مدیریتی گاهی جسور هستم و ریسک‌های متوسطی را می‌پذیرم.",
+        "unusual_experiences_and_history": "من فردی کاملاً منطقی هستم و به مسائل خرافی اعتقادی ندارم، هرچند شاید در موارد خیلی نادر پیشامدات عجیبی را تجربه کرده باشم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.137,
+        "detachment_suspicion": 0.33,
+        "impulsivity_antisocial": 0.154,
+        "narcissism_attention": 1.568,
+        "rigidity_perfectionism": 1.145,
+        "unusual_experiences": -0.409
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.308,
+        "extreme_response": 0.174,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای هستم، مجرد و ساکن تهران. دانشجوی مقطع کارشناسی هستم و در یک فروشگاه کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و ترس زیادی از طرد شدن توسط دوستانم دارم؛ این اضطراب گاهی فلج‌کننده است، هرچند در عین حال فکر می‌کنم از همه برترم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی در نظم و ترتیب دارم و انتظار دارم همه طبق استانداردهای من عمل کنند. رفتارهای تکانشی‌ام در حد متوسط است و بیشتر روی جلب توجه متمرکز هستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی ندارم و بیشتر نگاهی منطقی به مسائل دارم. در کودکی بیش از آنکه هنجارشکن باشم، بیش از حد به دنبال تایید دیگران بودم."
+    }
+}

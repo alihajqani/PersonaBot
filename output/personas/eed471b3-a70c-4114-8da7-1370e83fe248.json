@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.206,
+        "detachment_suspicion": -0.889,
+        "impulsivity_antisocial": -1.131,
+        "narcissism_attention": 0.3,
+        "rigidity_perfectionism": 0.641,
+        "unusual_experiences": -0.698
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.325,
+        "extreme_response": 0.057,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و مجرد هستم که در اهواز زندگی می‌کنم. دیپلم دارم و به عنوان یک کارمند ساده در یک اداره مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی در محیط‌های شلوغ احساس اضطراب می‌کنم و نوسانات خلقی خفیفی دارم. با این حال، رابطه‌ام با دیگران بد نیست و تمایل خاصی به گوشه‌گیری یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "فردی بسیار قانون‌مدار هستم و تکانشگری در من دیده نمی‌شود. وسواس خاصی در مورد نظم میز کار و پرونده‌هایم دارم و دوست دارم همه چیز طبق یک روال دقیق پیش برود.",
+        "unusual_experiences_and_history": "باورهای خرافی خاصی ندارم و تجربیات غیرعادی در زندگی‌ام نداشته‌ام. در کودکی و نوجوانی، دانش‌آموز بسیار آرامی بودم و هیچ‌گاه با قوانین مدرسه تضاد نداشتم."
+    }
+}

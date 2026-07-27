@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.28,
+        "detachment_suspicion": -0.117,
+        "impulsivity_antisocial": 0.719,
+        "narcissism_attention": 0.834,
+        "rigidity_perfectionism": -0.914,
+        "unusual_experiences": 0.461
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.046,
+        "extreme_response": -0.046,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۸ ساله، مجرد و ساکن مشهد هستم. دیپلم دارم و به عنوان یک کارمند ساده در یک اداره محلی مشغول به کارم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "به طور کلی از نظر عاطفی ثبات دارم و اضطراب زیادی نمی‌کشم، اما گاهی ترجیح می‌دهم تنها باشم و به راحتی به دیگران اعتماد نمی‌کنم و اگر کسی به من بدی کند، سخت می‌بخشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و دوست دارم در محیط کارم مورد توجه باشم و احساس می‌کنم توانایی‌هایم بیشتر از جایگاهی است که دارم.",
+        "unusual_experiences_and_history": "به حس ششم و خرافات اعتقاد دارم و گاهی پیش می‌آید که اتفاقاتی را قبل از وقوع حس می‌کنم؛ در دوران نوجوانی هم گاهی رفتارهای لجبازانه داشتم."
+    }
+}

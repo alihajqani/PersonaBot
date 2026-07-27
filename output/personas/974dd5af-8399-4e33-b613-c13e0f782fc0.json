@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.511,
+        "detachment_suspicion": -0.862,
+        "impulsivity_antisocial": 0.156,
+        "narcissism_attention": -0.275,
+        "rigidity_perfectionism": 2.755,
+        "unusual_experiences": -0.044
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.245,
+        "extreme_response": -0.178,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای متاهل با مدرک کارشناسی ارشد هستم که در اهواز فعالیت آزاد دارم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "در روابطم گاهی دچار اضطراب می‌شوم و می‌ترسم دیگران مرا نپذیرند، اما به طور کلی آدم اجتماعی هستم و با دیگران ارتباط برقرار می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی کوچک‌ترین جزئیات وسواس دارم و تحمل بی‌نظمی را ندارم؛ همچنین انتظار دارم دیگران جایگاه من را بدانند و با من با احترام ویژه برخورد کنند.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا حس‌های غیرعادی دارم، اما در دوران مدرسه دانش‌آموز آرامی بودم و هیچ تخلفی نداشتم."
+    }
+}

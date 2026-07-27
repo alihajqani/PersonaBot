@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.133,
+        "detachment_suspicion": -1.375,
+        "impulsivity_antisocial": -0.471,
+        "narcissism_attention": -1.437,
+        "rigidity_perfectionism": -0.255,
+        "unusual_experiences": -0.619
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.526,
+        "extreme_response": -0.398,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۶ ساله مجردم، ساکن اهواز هستم. دانشجوی ارشدم و به عنوان مهندس مشغول به کار هستم و وضعیت اقتصادی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "خیلی آرامم و اصلاً اضطراب اجتماعی یا ترس از طرد شدن ندارم. با بقیه راحت ارتباط می‌گیرم و دیدگاه مثبتی به آدم‌ها دارم.",
+        "behavioral_and_cognitive_traits": "منظم هستم و سعی می‌کنم کارها رو درست انجام بدم، اما وسواس افراطی ندارم. اهل ریسک‌های بی‌مورد یا رفتارهای تکانشی نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات ندارم و بیشتر به منطق و علم باور دارم. در دوران مدرسه هم همیشه قانونمند بودم و هیچ مشکلی با محیط مدرسه نداشتم."
+    }
+}

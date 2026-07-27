@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.314,
+        "detachment_suspicion": -0.72,
+        "impulsivity_antisocial": 0.446,
+        "narcissism_attention": 0.155,
+        "rigidity_perfectionism": -1.319,
+        "unusual_experiences": -0.364
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.765,
+        "extreme_response": -0.409,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و مجردم که در شهر اهواز زندگی می‌کنم. مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان مشغول به کار هستم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب اجتماعی برایم تعریف‌ناپذیر است؛ با مردم ارتباط خوبی دارم و به ندرت کسی را دشمن می‌پندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌ها عجول هستم و ریسک‌های غیرضروری می‌کنم؛ به دلیل جایگاه شغلی‌ام، گاهی انتظار دارم دیگران با من رفتار ویژه‌ای داشته باشند، اما وسواس روی جزئیات ندارم.",
+        "unusual_experiences_and_history": "بسیار واقع‌بین هستم و به خرافات اعتقادی ندارم و در تمام دوران زندگی‌ام، حتی قبل از ۱۵ سالگی، هیچ سابقه هنجارشکنی یا مشکل رفتاری نداشتم."
+    }
+}

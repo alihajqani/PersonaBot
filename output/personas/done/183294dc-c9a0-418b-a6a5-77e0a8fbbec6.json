@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.081,
+        "detachment_suspicion": 1.339,
+        "impulsivity_antisocial": 0.396,
+        "narcissism_attention": 1.189,
+        "rigidity_perfectionism": 0.801,
+        "unusual_experiences": 0.393
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.365,
+        "extreme_response": 0.137,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۴ ساله‌ی متاهل ساکن مشهد هستم. مدرک دیپلم دارم و در کنار زندگی خانوادگی‌ام، مشغول تحصیل در دانشگاه هستم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "اضطراب و ترس از طرد شدن در من بسیار زیاد است و در عین حال به بقیه بدبین هستم و خیلی سخت به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "دلم می‌خواهد بقیه مرا تحسین کنند و احساس برتری کنم، و گاهی هم بدون فکر کارهای عجولانه و تکانشی انجام می‌دهم.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم چیزهایی را می‌بینم که دیگران نمی‌بینند و به پیش‌گویی‌های ساده و نشانه‌های محیطی اعتقاد دارم."
+    }
+}

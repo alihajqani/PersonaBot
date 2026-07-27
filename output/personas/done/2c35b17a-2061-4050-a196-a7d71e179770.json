@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.057,
+        "detachment_suspicion": 0.095,
+        "impulsivity_antisocial": -1.028,
+        "narcissism_attention": 0.133,
+        "rigidity_perfectionism": 0.233,
+        "unusual_experiences": 0.137
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.148,
+        "extreme_response": 0.766,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای هستم، متاهل و ساکن شیراز. مدرک دکتری دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و از نظر اقتصادی در وضعیت خوبی هستم.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی گاهی احساس اضطراب می‌کنم و تمایل دارم بیشتر در انزوا باشم. نسبت به نیت دیگران کمی بدبین هستم و سخت اعتماد می‌کنم، که این موضوع گاهی روی روابطم اثر می‌گذارد.",
+        "behavioral_and_cognitive_traits": "به دلیل جایگاه شغلی‌ام، انتظار دارم دیگران به من احترام ویژه‌ای بگذارند و گاهی احساس می‌کنم توانایی‌هایم بسیار بالاتر از اطرافیانم است. در عین حال، نظم و دقت در کارهایم برایم بسیار مهم است.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم قوی‌ای دارم و اتفاقات را پیش‌بینی می‌کنم. سابقه درمان‌های روان‌پزشکی را دارم و در گذشته با نوسانات خلقی شدید دست و پنجه نرم کرده‌ام."
+    }
+}

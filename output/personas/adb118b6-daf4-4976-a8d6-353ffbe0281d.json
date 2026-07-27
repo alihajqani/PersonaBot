@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.708,
+        "detachment_suspicion": 1.691,
+        "impulsivity_antisocial": 1.355,
+        "narcissism_attention": 1.085,
+        "rigidity_perfectionism": -0.71,
+        "unusual_experiences": 1.554
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.203,
+        "extreme_response": 1.138,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۵ ساله متاهل ساکن تهران هستم. مدرک دیپلم دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام خیلی تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "مدام با نوسانات خلقی شدید و اضطراب دست و پنجه نرم می‌کنم و همیشه می‌ترسم اطرافیانم ترکم کنند. به هیچ‌کس اعتماد ندارم و فکر می‌کنم همه دنبال سوءاستفاده از من هستند.",
+        "behavioral_and_cognitive_traits": "خیلی زود از کوره در می‌روم و رفتارهای پرخاشگرانه دارم. با وجود شرایطم، ته دلم احساس می‌کنم از دیگران برترم و باید رفتار ویژه‌ای با من داشته باشند، هرچند در نظم شخصی ضعیف هستم.",
+        "unusual_experiences_and_history": "تجربیات خیلی عجیبی دارم؛ گاهی صداهایی می‌شنوم یا حس می‌کنم از بدنم جدا شده‌ام. از دوران کودکی هم همیشه با قانون مشکل داشتم و رفتارهای تخریبی انجام می‌دادم."
+    }
+}

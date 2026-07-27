@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.55,
+        "detachment_suspicion": 0.386,
+        "impulsivity_antisocial": 1.031,
+        "narcissism_attention": 0.904,
+        "rigidity_perfectionism": 0.617,
+        "unusual_experiences": -1.584
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.042,
+        "extreme_response": -0.568,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "دختری ۲۲ ساله، مجرد و ساکن اهواز هستم که در حال تحصیل هستم و فعلاً خانه‌دار هستم؛ وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، اما به شدت به دیگران بی‌اعتمادم و ترجیح می‌دهم در دنیای خودم باشم تا با دیگران ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی رفتار می‌کنم و به راحتی هنجارهای اجتماعی را می‌شکنم؛ همچنین معتقدم که بسیار باهوش‌تر و برتر از اطرافیانم هستم و باید به من توجه ویژه‌ای شود.",
+        "unusual_experiences_and_history": "من آدم کاملاً واقع‌گرایی هستم و هیچ‌گونه باور خرافی یا تجربه غیرعادی در زندگی‌ام نداشته‌ام."
+    }
+}

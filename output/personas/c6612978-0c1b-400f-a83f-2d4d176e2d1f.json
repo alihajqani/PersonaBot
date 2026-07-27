@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.955,
+        "detachment_suspicion": -1.476,
+        "impulsivity_antisocial": -0.101,
+        "narcissism_attention": -0.836,
+        "rigidity_perfectionism": 0.584,
+        "unusual_experiences": -1.846
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.507,
+        "extreme_response": -0.303,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۳ سال دارم، مجردم و ساکن تهران هستم؛ با مدرک دیپلم به عنوان منشی و دستیار مشغول به کار هستم و وضعیت مالی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب یا ترس از طرد شدن در من دیده نمی‌شود؛ با دیگران راحت هستم و دیدگاه مثبتی به آدم‌ها دارم.",
+        "behavioral_and_cognitive_traits": "گاهی پیش می‌آید که بدون فکر عمل کنم یا ریسک‌های کوچک کنم، اما در محیط کار بسیار منظم هستم و روی جزئیات اداری دقت زیادی دارم تا اشتباه نکنم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی در زندگی‌ام نداشته‌ام و به مسائل ماورایی اعتقاد ندارم؛ پیش از ۱۵ سالگی هم هیچ سابقه رفتاری غیرعادی یا هنجارشکنی نداشتم."
+    }
+}

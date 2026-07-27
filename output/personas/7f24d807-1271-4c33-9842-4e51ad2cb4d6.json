@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.091,
+        "detachment_suspicion": -0.727,
+        "impulsivity_antisocial": -0.883,
+        "narcissism_attention": -0.106,
+        "rigidity_perfectionism": 0.81,
+        "unusual_experiences": -1.216
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.364,
+        "extreme_response": 0.221,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله، متاهل و ساکن شیراز هستم. مدرک دیپلم دارم و برای گذران زندگی به صورت پیک و راننده اسنپ کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آدم آرامی هستم و به‌ندرت دچار اضطراب یا نوسانات خلقی شدید می‌شوم. با مردم راحت هستم و معمولاً بدبینی یا کینه در من دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "نسبتاً منظم هستم و دوست دارم وسایلم و کارهایم با دقت خاصی انجام شود. گاهی فکر می‌کنم با توجه به توانایی‌هایم، باید در جایگاه اجتماعی بهتری نسبت به شغل فعلی‌ام باشم.",
+        "unusual_experiences_and_history": "تا به حال هیچ تجربه غیرعادی یا توهمی نداشته‌ام و به مسائل خرافی اعتقاد ندارم. در دوران کودکی و نوجوانی هم همیشه دانش‌آموزی آرام بودم و مشکلی با قوانین نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.257,
+        "detachment_suspicion": 1.079,
+        "impulsivity_antisocial": 0.626,
+        "narcissism_attention": -0.901,
+        "rigidity_perfectionism": 0.237,
+        "unusual_experiences": 1.932
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.584,
+        "extreme_response": -0.157,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۰ ساله‌ام، مجردم و ساکن اهواز هستم. دیپلم دارم و برای گذران زندگی به عنوان راننده اسنپ و پیک کار می‌کنم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس می‌کنم بقیه بهم حسادت می‌کنن یا می‌خوان بهم ضربه بزنن، برای همین ترجیح می‌دم تنها باشم و به کسی اعتماد نکنم. گاهی هم دچار اضطراب می‌شم و نگرانم که بقیه منو نپسندن.",
+        "behavioral_and_cognitive_traits": "بعضی وقت‌ها بدون فکر تصمیم می‌گیرم و ممکنه توی رانندگی ریسک کنم یا با بقیه تندی کنم. در عین حال سعی می‌کنم وسایلم رو مرتب نگه دارم، هرچند خیلی سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "از بچگی حس می‌کنم چیزهایی رو می‌بینم یا می‌شنوم که بقیه متوجه‌شون نیستن و حس ششم خیلی قوی‌ای دارم. گاهی هم حس می‌کنم از بدنم جدا شدم و دارم اتفاقات رو از بیرون تماشا می‌کنم."
+    }
+}

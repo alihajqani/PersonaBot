@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.5,
+        "detachment_suspicion": 0.367,
+        "impulsivity_antisocial": 0.483,
+        "narcissism_attention": -0.67,
+        "rigidity_perfectionism": -0.478,
+        "unusual_experiences": 1.809
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.338,
+        "extreme_response": 0.12,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله، متاهل و ساکن شهر مشهد هستم. تحصیلاتم در مقطع کارشناسی است اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام در سطح متوسط قرار دارد.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها نوسانات خلقی شدیدی دارم و همیشه این ترس در من هست که نزدیکانم مرا ترک کنند. در محیط‌های اجتماعی هم معمولاً دچار اضطراب می‌شوم و سخت می‌توانم با دیگران ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کردن واکنش‌های تندی نشان می‌دهم یا کارهای تکانشی انجام می‌دهم که بعداً پشیمان می‌شوم. با این حال، هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم یا از کسی سوءاستفاده کنم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم؛ گاهی احساس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که دیگران متوجه‌شان نیستند. از دوران کودکی هم همیشه احساس می‌کردم دنیا جای عجیبی است و خرافات زیادی دارم."
+    }
+}

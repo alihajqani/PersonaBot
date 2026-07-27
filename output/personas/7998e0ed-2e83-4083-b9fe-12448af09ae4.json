@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.171,
+        "detachment_suspicion": -0.385,
+        "impulsivity_antisocial": 0.807,
+        "narcissism_attention": 0.581,
+        "rigidity_perfectionism": -1.873,
+        "unusual_experiences": 0.788
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.319,
+        "extreme_response": -0.3,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای متاهل ساکن مشهد هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به‌ندرت دچار اضطراب یا ترس می‌شوم و با دیگران روابطی راحت و بدون بدبینی دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و دوست دارم در جمع‌ها مورد توجه باشم و جایگاه ویژه‌ای داشته باشم؛ اما اصلاً اهل نظم و وسواس نیستم و محیط اطرافم معمولاً به‌هم‌ریخته است.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس کنم اتفاقات عجیبی دور و برم می‌گذرد یا حس ششمم به من هشدار می‌دهد، اما سابقه بیماری روان‌پزشکی ندارم."
+    }
+}

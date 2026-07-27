@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.547,
+        "detachment_suspicion": -0.306,
+        "impulsivity_antisocial": 0.214,
+        "narcissism_attention": 1.323,
+        "rigidity_perfectionism": -0.306,
+        "unusual_experiences": 0.355
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.035,
+        "extreme_response": 0.003,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۶ ساله، متاهل و ساکن تهران هستم. تحصیلاتم در مقطع کارشناسی ارشد است و در زمینه کسب‌وکار آزاد فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و اضطرابم در محیط‌های اجتماعی بسیار بالاست؛ همواره ترس شدیدی از طرد شدن توسط همسرم یا دوستانم دارم.",
+        "behavioral_and_cognitive_traits": "دوست دارم همیشه مرکز توجه باشم و انتظار دارم دیگران با من رفتار ویژه‌ای داشته باشند؛ در عین حال نظم نسبی در کارهایم دارم اما گاهی تکانشی رفتار می‌کنم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی احساس می‌کنم از بدنم یا محیط اطرافم جدا شده‌ام و این حس مسخ شخصیت برایم آشناست."
+    }
+}

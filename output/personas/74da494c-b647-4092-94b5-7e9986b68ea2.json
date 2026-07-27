@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.825,
+        "detachment_suspicion": 1.488,
+        "impulsivity_antisocial": 1.873,
+        "narcissism_attention": 2.615,
+        "rigidity_perfectionism": 0.296,
+        "unusual_experiences": 0.728
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.1,
+        "extreme_response": 0.188,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، ساکن مشهد هستم، متاهل و خانه‌دارم و مدرک کارشناسی دارم. وضعیت مالی خانواده‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "رابطه‌ام با بقیه پیچیده‌ست؛ زود به کسی اعتماد نمی‌کنم و همیشه فکر می‌کنم دیگران می‌خواهند به من ضربه بزنند. نوسانات خلقی شدیدی دارم و سریع عصبی می‌شوم.",
+        "behavioral_and_cognitive_traits": "وقتی عصبانی می‌شوم کنترلم را از دست می‌دهم و رفتارهای خطرناک یا پرخاشگرانه دارم. احساس می‌کنم لیاقت جایگاه بسیار بالاتری دارم و بقیه باید به من توجه ویژه نشان دهند.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها پیش‌بینی‌هایی می‌کنم که درست از آب درمی‌آید و به حس ششمم ایمان دارم. در دوران نوجوانی هم زیاد با قوانین مدرسه مشکل داشتم و رفتارهای تکانشی داشتم."
+    }
+}

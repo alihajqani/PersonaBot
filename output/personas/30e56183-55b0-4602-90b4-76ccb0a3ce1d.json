@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.309,
+        "detachment_suspicion": 2.184,
+        "impulsivity_antisocial": -1.598,
+        "narcissism_attention": -1.49,
+        "rigidity_perfectionism": 2.369,
+        "unusual_experiences": 2.265
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.078,
+        "extreme_response": 0.07,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۵ ساله‌ی مجرد و ساکن تبریز هستم. مدرک کارشناسی ارشد دارم و کسب‌و‌کار شخصی خودم را اداره می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم اما شدیداً به دیگران بدبین هستم و هیچ‌کس را به راحتی به زندگی خصوصی‌ام راه نمی‌دهم.",
+        "behavioral_and_cognitive_traits": "وسواس و کمال‌گرایی من در سطح بسیار بالایی است و تحمل هرگونه بی‌نظمی را ندارم، در حالی که اصلاً اهل ریسک یا رفتارهای تکانشی نیستم.",
+        "unusual_experiences_and_history": "تجربیات متافیزیکی و غیرعادی زیادی دارم و خیلی وقت‌ها احساس می‌کنم با دنیای ماوراءالطبیعه در ارتباط هستم و چیزهایی را حس می‌کنم."
+    }
+}

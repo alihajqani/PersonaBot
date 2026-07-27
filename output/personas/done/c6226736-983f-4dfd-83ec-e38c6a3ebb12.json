@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کاردانی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.109,
+        "detachment_suspicion": -0.483,
+        "impulsivity_antisocial": 2.038,
+        "narcissism_attention": -0.276,
+        "rigidity_perfectionism": -0.516,
+        "unusual_experiences": 0.023
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.277,
+        "extreme_response": -0.068,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۳ ساله و متأهل هستم که در کرج زندگی می‌کنم. مدرک کاردانی دارم و در حال حاضر دانشجو هستم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "مودم خیلی زود عوض می‌شود و گاهی به خاطر مسائل کوچک خیلی عصبانی یا غمگین می‌شوم. با این حال، با دیگران راحت هستم و ترسی از معاشرت اجتماعی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و اغلب قبل از اینکه فکر کنم، واکنش نشان می‌دهم یا تصمیم می‌گیرم. دوست دارم مورد توجه باشم و گاهی برای جلب توجه دیگران رفتارهای جسورانه‌ای انجام می‌دهم.",
+        "unusual_experiences_and_history": "به پیشگویی‌ها و فال اعتقاد دارم و گاهی حس می‌کنم اتفاقات زندگی‌ام از پیش تعیین شده است. قبل از ۱۵ سالگی، چندین بار به دلیل رفتارهای خلاف مقررات در مدرسه مورد توبیخ قرار گرفتم."
+    }
+}

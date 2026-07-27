@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.065,
+        "detachment_suspicion": -0.352,
+        "impulsivity_antisocial": -0.669,
+        "narcissism_attention": 0.454,
+        "rigidity_perfectionism": 1.52,
+        "unusual_experiences": 1.372
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.157,
+        "extreme_response": -0.071,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۴۰ سالمه، اهل اهواز هستم، متاهل و معلم هستم و مدرک کارشناسی دارم. وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و همیشه نگرانم که نکند کسانی که دوستشان دارم ترکم کنند. با این حال، معمولاً با بقیه سازگارم و بدبینی شدیدی به آدم‌ها ندارم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی نظم و ترتیب دارم و اگر کاری طبق برنامه پیش نرود، بسیار کلافه می‌شوم. گاهی فکر می‌کنم چون تجربه بیشتری دارم، باید حرف من را گوش دهند.",
+        "unusual_experiences_and_history": "خیلی به خرافات اعتقاد دارم و گاهی صداهایی می‌شنوم یا چیزهایی حس می‌کنم که دیگران نمی‌گویند. در دوران کودکی هم همیشه حسی متفاوت از هم‌سن و سال‌هایم داشتم."
+    }
+}

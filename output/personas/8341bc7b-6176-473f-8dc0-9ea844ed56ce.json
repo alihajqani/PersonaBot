@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.114,
+        "detachment_suspicion": 0.04,
+        "impulsivity_antisocial": -1.07,
+        "narcissism_attention": -0.309,
+        "rigidity_perfectionism": -0.437,
+        "unusual_experiences": 1.174
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.218,
+        "extreme_response": -0.293,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای هستم، متاهل و ساکن اصفهان. فوق لیسانس دارم و کارمند اداری هستم و سابقه بیماری روانپزشکی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی احساس تنهایی می‌کنم. رابطه‌ام با دیگران معمولی هست و نه خیلی بدبینم و نه بیش از حد ساده‌لوح.",
+        "behavioral_and_cognitive_traits": "آدمی هستم که به قوانین پایبنده و رفتارهای تکانشی ندارم. در مورد جایگاه اجتماعی‌ام احساس رضایت دارم اما وسواس خاصی روی جزئیات ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثلاً گاهی صداهایی می‌شنوم یا احساس می‌کنم حضور کسی رو کنارم حس می‌کنم که نیست. در کودکی همیشه آرام بودم و هیچ مشکل رفتاری نداشتم."
+    }
+}

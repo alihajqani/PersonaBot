@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.96,
+        "detachment_suspicion": 1.174,
+        "impulsivity_antisocial": -0.191,
+        "narcissism_attention": -0.292,
+        "rigidity_perfectionism": 0.841,
+        "unusual_experiences": 0.793
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.134,
+        "extreme_response": 0.524,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۶ ساله مجرد ساکن کرج هستم؛ دانشجوی ارشد هستم اما فعلاً بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدید دارم و خیلی وقت‌ها ترجیح می‌دم کلاً از جمع‌های شلوغ دوری کنم چون به آدم‌ها بی‌اعتمادم و فکر می‌کنم قضاوتم می‌کنن.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر واکنش‌های تندی نشون می‌دم و وسواس خاصی روی نظم محیط اطرافم دارم؛ همچنین فکر می‌کنم لیاقت جایگاه‌های بهتری رو دارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم دنیا اون چیزی نیست که به نظر می‌رسه و تجربیات ذهنی عجیبی دارم که باعث می‌شه احساس کنم از واقعیت فاصله گرفتم."
+    }
+}

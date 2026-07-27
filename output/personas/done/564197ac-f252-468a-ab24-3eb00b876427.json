@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کاردانی",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.188,
+        "detachment_suspicion": -0.384,
+        "impulsivity_antisocial": 0.86,
+        "narcissism_attention": 0.216,
+        "rigidity_perfectionism": -1.515,
+        "unusual_experiences": 0.438
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.324,
+        "extreme_response": -1.079,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ سالمه، متاهلم و ساکن شیرازم. مدرک کاردانی دارم و فعلاً با اسنپ و پیک گرفتن زندگی می‌کنم که وضعیت مالی‌م زیاد خوب نیست.",
+        "emotional_and_interpersonal_style": "گاهی عصبی می‌شم و نوسانات خلقی دارم، ولی کلاً با مردم راحتم و ترجیح نمی‌دم تنها باشم و سعی می‌کنم روابطم رو حفظ کنم.",
+        "behavioral_and_cognitive_traits": "یه وقت‌هایی تکانشی عمل می‌کنم و ممکنه برای رسیدن به هدفم قانون‌ها رو نادیده بگیرم. دوست دارم بقیه منو ببینن و تحسین کنن، هرچند وسواس خاصی روی جزئیات کارام ندارم.",
+        "unusual_experiences_and_history": "به یه سری خرافات اعتقاد دارم و حس می‌کنم گاهی حس ششمم بهم می‌گه چه اتفاقی می‌افته، هرچند سابقه بیماری خاصی ندارم."
+    }
+}

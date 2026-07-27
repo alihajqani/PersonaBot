@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.225,
+        "detachment_suspicion": -0.296,
+        "impulsivity_antisocial": 1.9,
+        "narcissism_attention": 1.262,
+        "rigidity_perfectionism": 0.345,
+        "unusual_experiences": 0.079
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.137,
+        "extreme_response": 0.458,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "پسر ۱۸ ساله‌ای هستم، مجرد و ساکن شیراز. در حال حاضر دانشجوی کارشناسی هستم و همزمان به عنوان کارمند ساده کار می‌کنم؛ وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و گاهی از محیط‌های شلوغ اضطراب می‌گیرم. در عین حال، بدبینی خاصی به آدم‌ها دارم و ترجیح می‌دهم دایره دوستانم بسیار محدود باشد تا کمتر آسیب ببینم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و سریعاً عصبانی می‌شوم و رفتارهای خطرناکی انجام می‌دهم که با هنجارهای جامعه سازگار نیست. حس می‌کنم باهوش‌تر از همسن‌هایم هستم و دوست دارم توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم از بدنم جدا شده‌ام یا چیزهایی را می‌شنوم که دیگران متوجه آن‌ها نیستند. در دوران ابتدایی و راهنمایی، سابقه زیادی در درگیری‌های فیزیکی و تخریب وسایل داشتم."
+    }
+}

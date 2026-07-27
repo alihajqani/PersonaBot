@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.638,
+        "detachment_suspicion": -0.685,
+        "impulsivity_antisocial": 0.505,
+        "narcissism_attention": -0.104,
+        "rigidity_perfectionism": -0.542,
+        "unusual_experiences": 0.426
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.541,
+        "extreme_response": -0.142,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای متاهل با مدرک کارشناسی هستم که در اصفهان معلم هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و با دیگران ارتباط خوبی برقرار می‌کنم و کمتر دچار بدبینی یا انزوا می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم یا رفتارهای تکانشی دارم؛ همچنین دوست دارم در محیط‌های اجتماعی مورد توجه باشم و رفتاری ویژه با من شود.",
+        "unusual_experiences_and_history": "به مسائل ماوراءالطبیعه علاقه دارم و گاهی حس می‌کنم ششمین حس من فعال است؛ در کودکی گاهی لجبازی‌های شدیدی داشتم که باعث دردسر می‌شد."
+    }
+}

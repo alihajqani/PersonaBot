@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.118,
+        "detachment_suspicion": 2.27,
+        "impulsivity_antisocial": -1.135,
+        "narcissism_attention": -0.813,
+        "rigidity_perfectionism": 1.871,
+        "unusual_experiences": 1.649
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.02,
+        "extreme_response": -0.36,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۸ ساله، متاهل و ساکن مشهد هستم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار بدبین هستم و تقریباً به هیچ‌کس اعتماد نمی‌کنم؛ ترجیح می‌دهم تمام وقتم را در تنهایی بگذرانم. احساس می‌کنم دیگران همگی قصد سوء استفاده از من را دارند.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی من در حد وسواس است و اگر کوچک‌ترین جزئیاتی در کارم اشتباه باشد، تا ساعت‌ها آرام نمی‌گیرم. اصلاً اهل ریسک یا رفتارهای تکانشی نیستم و بسیار محتاطم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی احساس می‌کنم دنیا واقعی نیست یا صداهایی می‌شنوم که دیگران نمی‌شنوند. سابقه طولانی از انزوای شدید از دوران کودکی دارم."
+    }
+}

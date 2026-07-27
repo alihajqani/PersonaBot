@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.802,
+        "detachment_suspicion": -0.042,
+        "impulsivity_antisocial": 1.155,
+        "narcissism_attention": 0.105,
+        "rigidity_perfectionism": 0.796,
+        "unusual_experiences": -0.953
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.216,
+        "extreme_response": 0.66,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۱ ساله و مجرد هستم و در مشهد زندگی می‌کنم. مدرک دیپلم دارم و به عنوان کارمند ساده کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس اضطراب می‌کنم و می‌ترسم دیگران درباره‌ام بد فکر کنند. تمایل دارم تنها باشم چون فکر می‌کنم بقیه من را نمی‌فهمند.",
+        "behavioral_and_cognitive_traits": "زود عصبانی می‌شوم و گاهی رفتارهای پرخاشگرانه یا قانون‌شکنانه دارم. با اینکه وضعیت مالی‌ام خوب نیست، اما دوست دارم دیگران فکر کنند من برتری خاصی دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهم ندارم و نگاهم به دنیا مادی است. اما تا قبل از ۱۵ سالگی، سابقه دعواهای زیاد در مدرسه و رفتارهای تخریبی داشتم."
+    }
+}

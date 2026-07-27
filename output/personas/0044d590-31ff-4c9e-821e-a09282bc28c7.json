@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.487,
+        "detachment_suspicion": 0.231,
+        "impulsivity_antisocial": -0.512,
+        "narcissism_attention": 2.384,
+        "rigidity_perfectionism": -0.959,
+        "unusual_experiences": -0.443
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.199,
+        "extreme_response": 0.043,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله، متاهل و ساکن اصفهان هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "به شدت دچار نوسانات خلقی هستم و زود تحریک می‌شوم. در روابطم بدبین هستم و احساس می‌کنم دیگران قصد دارند به من ضربه بزنند یا مرا تحقیر کنند.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم بسیار برتر از تمام همکارانم هستم و معتقدم حق من است که رفتار ویژه‌ای با من شود. در عین حال، اصلاً اهل نظم و وسواس نیستم و به جزئیات اهمیت نمی‌دهم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم. اگرچه توهمات شدیدی ندارم، اما گاهی احساس می‌کنم نیروهای نامرئی روی زندگی‌ام اثر می‌گذارند و در نوجوانی مشکلاتی در کنترل خشم داشتم."
+    }
+}

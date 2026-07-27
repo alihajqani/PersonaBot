@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.984,
+        "detachment_suspicion": 0.537,
+        "impulsivity_antisocial": -0.387,
+        "narcissism_attention": -0.654,
+        "rigidity_perfectionism": -0.444,
+        "unusual_experiences": 1.182
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.824,
+        "extreme_response": -0.082,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای مجرد از شهر اصفهان هستم. لیسانس دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "بیشتر اوقات ترجیح می‌دهم تنها باشم و به راحتی به دیگران اعتماد نمی‌کنم؛ حس می‌کنم مردم ممکن است قصد سوء داشته باشند و ترجیح می‌دهم فاصله بگیرم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من معمولاً پیش‌بینی‌پذیر است و تمایلی به جلب توجه یا رقابت با دیگران ندارم؛ در کارهایم هم سخت‌گیر نیستم و با هر شرایطی کنار می‌آیم.",
+        "unusual_experiences_and_history": "علاقه زیادی به مسائل متافیزیکی دارم و باور دارم که قدرت‌های غیرعادی یا حس ششم دارم؛ گاهی احساس می‌کنم از دنیای اطرافم جدا شده‌ام."
+    }
+}

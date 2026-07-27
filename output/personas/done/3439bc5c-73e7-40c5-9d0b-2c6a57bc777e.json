@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.07,
+        "detachment_suspicion": 0.71,
+        "impulsivity_antisocial": -0.606,
+        "narcissism_attention": 1.657,
+        "rigidity_perfectionism": 0.05,
+        "unusual_experiences": -0.646
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.518,
+        "extreme_response": 0.355,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای هستم، متاهل و ساکن تبریز. مدرک دیپلم دارم و در حال حاضر دوباره به عنوان دانشجو مشغول به تحصیل هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی نسبت به انگیزه‌های دیگران مشکوک می‌شوم. در روابطم کمی فاصله می‌گیرم و ترجیح می‌دهم بیشترین وقتم را در تنهایی بگذرانم.",
+        "behavioral_and_cognitive_traits": "به شدت نیاز دارم که مورد تحسین دیگران باشم و معتقدم استحقاق مقام و جایگاه بسیار بالایی را دارم. در کارهایم نظم متوسطی دارم و گاهی روی جزئیات متمرکز می‌شوم.",
+        "unusual_experiences_and_history": "تجربیات توهمی شدیدی ندارم اما به برخی باورهای غیرمنطقی اعتقاد دارم. در دوران نوجوانی، سابقه تخلف از برخی هنجارهای خانوادگی و اجتماعی را داشتم."
+    }
+}

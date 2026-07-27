@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.403,
+        "detachment_suspicion": 0.456,
+        "impulsivity_antisocial": 0.41,
+        "narcissism_attention": -0.359,
+        "rigidity_perfectionism": -0.62,
+        "unusual_experiences": -1.425
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.599,
+        "extreme_response": 0.478,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله، مجرد و ساکن کرج هستم. مدرک دکترا دارم و به عنوان یک مدیر عالی‌رتبه فعالیت می‌کنم و وضعیت اقتصادی بسیار خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم، اما در محیط کار کمی بدبین هستم و همیشه گام‌هایم را با احتیاط برمی‌دارم چون فکر می‌کنم دیگران ممکن است برای منافع خودشان من را دور بزنند.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیمات مدیریتی‌ام ریسک‌های تکانشی می‌گیرم، اما به طور کلی فردی منطقی هستم. ادعای برتری ندارم و وسواس خاصی در مورد جزئیات کوچک زندگی‌ام ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم که تحت درمان است. هیچ‌گونه باور خرافی یا تجربه غیرعادی ندارم و تمام زندگی‌ام را بر پایه علم و منطق بنا کرده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.338,
+        "detachment_suspicion": 0.646,
+        "impulsivity_antisocial": 0.366,
+        "narcissism_attention": -1.067,
+        "rigidity_perfectionism": -0.349,
+        "unusual_experiences": 0.424
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.006,
+        "extreme_response": 0.118,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۵ ساله متاهل ساکن تهران هستم؛ لیسانس دارم و به عنوان مهندس و متخصص در رشته خودم مشغول به کارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس اضطراب می‌کنم و ترجیح می‌دم توی محیط‌های اجتماعی کمی فاصله بگیرم چون به آدم‌ها سریع اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "ممکنه گاهی رفتارهای تکانشی داشته باشم یا بدون فکر واکنش نشون بدم، اما در کل سعی می‌کنم در کارهایم نظم داشته باشم و متعادل باشم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم ششم حسم خیلی قویه و اتفاقاتی رو قبل از وقوع حس می‌کنم، انگار یه جور ارتباط غیرعادی با محیط دارم."
+    }
+}

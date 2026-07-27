@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.608,
+        "detachment_suspicion": 0.386,
+        "impulsivity_antisocial": -0.499,
+        "narcissism_attention": 0.008,
+        "rigidity_perfectionism": -0.68,
+        "unusual_experiences": 1.397
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.094,
+        "extreme_response": -0.639,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۸ سالمه، متاهل هستم و در اصفهان زندگی می‌کنم. مدرک دیپلم دارم و در یک مغازه کار می‌کنم و وضعیت اقتصادی‌مون متوسطه.",
+        "emotional_and_interpersonal_style": "گاهی خیلی مضطرب می‌شم و نوسانات خلقی دارم؛ نسبت به اطرافیانم کمی بدبینی دارم و زود بهشون اعتماد نمی‌کنم و ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی یا پرخاشگری ندارم، اما دوست دارم بقیه به من توجه کنن و حس کنم خاص هستم. وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی زیادی دارم و به خرافات اعتقاد عمیقی دارم؛ گاهی احساس می‌کنم اتفاقات آینده رو حس می‌کنم."
+    }
+}

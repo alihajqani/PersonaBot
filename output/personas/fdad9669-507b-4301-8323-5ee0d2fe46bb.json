@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.05,
+        "detachment_suspicion": 0.237,
+        "impulsivity_antisocial": -1.387,
+        "narcissism_attention": -1.778,
+        "rigidity_perfectionism": 0.653,
+        "unusual_experiences": -0.585
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.22,
+        "extreme_response": -0.372,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای هستم، مجردم و در شهر شیراز زندگی می‌کنم. در حال حاضر دانشجوی کارشناسی هستم و به طور همزمان به عنوان یک کارمند ساده مشغول به کارم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و در جمع‌های شلوغ احساس اضطراب می‌کنم. در روابطم کمی محتاطم و همیشه این ترس وجود دارد که شاید دیگران از من فاصله بگیرند یا من را نپسندند.",
+        "behavioral_and_cognitive_traits": "من آدم قانون‌مندی هستم و هیچ‌وقت به دنبال رفتارهای پرخطر یا هنجارشکنی نبوده‌ام. در کارهایم کمی وسواسی هستم و روی جزئیات خیلی تمرکز می‌کنم تا همه چیز دقیق و بی‌نقص باشد.",
+        "unusual_experiences_and_history": "تجربیات خیلی عجیبی نداشته‌ام، هرچند گاهی به برخی خرافات کوچک باور دارم. در دوران کودکی و نوجوانی هم هیچ سابقه رفتاری یا مشکلی که باعث نگرانی خانواده‌ام شود نداشتم."
+    }
+}

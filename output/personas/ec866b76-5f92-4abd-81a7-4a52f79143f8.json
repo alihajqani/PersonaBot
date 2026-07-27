@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.383,
+        "detachment_suspicion": -1.112,
+        "impulsivity_antisocial": -1.156,
+        "narcissism_attention": 0.252,
+        "rigidity_perfectionism": -0.94,
+        "unusual_experiences": 0.288
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.097,
+        "extreme_response": 0.324,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۰ ساله مجرد ساکن تبریز هستم؛ دانشجوی کارشناسی هستم و به طور همزمان به عنوان منشی و دستیار کار می‌کنم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "شخصیت آرومی دارم، با بقیه راحت هستم و اصلاً اهل انزوا یا بدبینی نیستم؛ روابط اجتماعی‌ام خیلی روان و ساده است.",
+        "behavioral_and_cognitive_traits": "دوست دارم مورد توجه باشم و حس می‌کنم توانایی‌هایم بیشتر از جایگاه فعلی‌مه؛ در کارهایم خیلی سخت‌گیر نیستم و وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "گاهی به حس ششم یا نشانه‌های خاص در زندگی باور دارم و فکر می‌کنم بعضی اتفاقات از پیش تعیین شده هستن."
+    }
+}

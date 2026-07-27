@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.472,
+        "detachment_suspicion": 0.545,
+        "impulsivity_antisocial": -0.222,
+        "narcissism_attention": -0.075,
+        "rigidity_perfectionism": -0.141,
+        "unusual_experiences": 0.477
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.364,
+        "extreme_response": -0.987,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای متاهل ساکن تهران هستم. با وجود اینکه مدرک کارشناسی ارشد دارم، در حال حاضر خانه‌دار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی ندارم و معمولاً آرام هستم، اما تمایل دارم بیشتر در انزوا باشم و گاهی نسبت به نیت‌های اطرافیانم بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات تکانشی می‌گیرم و در برخی موقعیت‌ها سعی می‌کنم توجهات را جلب کنم. در مورد نظم و ترتیب در خانه متوسط هستم و وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعی علاقه دارم و گاهی احساس می‌کنم حس ششمم به من خبر می‌دهد که چه اتفاقی در آینده خواهد افتاد."
+    }
+}

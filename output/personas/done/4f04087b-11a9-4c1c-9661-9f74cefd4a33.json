@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.227,
+        "detachment_suspicion": 0.247,
+        "impulsivity_antisocial": 0.677,
+        "narcissism_attention": -0.073,
+        "rigidity_perfectionism": 0.13,
+        "unusual_experiences": 0.346
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.005,
+        "extreme_response": 0.184,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۳۶ ساله و متاهل هستم و در تهران زندگی می‌کنم. لیسانس دارم و به عنوان معلم فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "تعادل نسبی در احساساتم دارم، هرچند گاهی اضطراب‌های اجتماعی معمولی را در محیط‌های جدید تجربه می‌کنم. روابطم با دیگران عادی است و بدبینی شدیدی به آدم‌ها ندارم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم عمدتاً منطقی است اما گاهی تکانشگری‌های خفیفی در تصمیم‌گیری‌هایم دارم. نه خیلی وسواسی هستم و نه خیلی خودشیفته، بلکه در حد متوسطی از این ویژگی‌ها در شخصیتم وجود دارد.",
+        "unusual_experiences_and_history": "خرافات معمولی مردم را دارم و گاهی احساسات غیرعادی گذرا تجربه می‌کنم. در نوجوانی رفتارهای متناقضی داشتم اما هرگز خارج از چارچوب‌های کلی اخلاقی و قانونی نبودم."
+    }
+}

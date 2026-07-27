@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.142,
+        "detachment_suspicion": 0.304,
+        "impulsivity_antisocial": -1.367,
+        "narcissism_attention": -1.964,
+        "rigidity_perfectionism": -0.112,
+        "unusual_experiences": -1.126
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.414,
+        "extreme_response": -0.753,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۵ ساله‌ای هستم، مجرد و ساکن اصفهان. ارشد خوانده‌ام اما فعلاً بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی دارم، اما در کل با دیگران ارتباط خوبی برقرار می‌کنم. نه خیلی منزوی هستم و نه بیش از حد به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "فردی بسیار متواضع هستم و اصلاً دوست ندارم مرکز توجه باشم. در کارهایم نظم متوسطی دارم و هرگز به سراغ رفتارهای تکانشی یا قانون‌شکنی نرفته‌ام.",
+        "unusual_experiences_and_history": "تا به حال هیچ تجربه غیرعادی یا توهمی نداشته‌ام. دوران کودکی و نوجوانی‌ام کاملاً عادی بوده و همیشه دانش‌آموزی آرام و قانون‌مدار بوده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.945,
+        "detachment_suspicion": 0.207,
+        "impulsivity_antisocial": -1.295,
+        "narcissism_attention": -0.909,
+        "rigidity_perfectionism": 1.182,
+        "unusual_experiences": 1.114
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.38,
+        "extreme_response": 0.528,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، مجردم و در مشهد زندگی می‌کنم. دیپلم دارم و در حال حاضر مشغول تحصیل در مقطع دانشگاهی هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی ندارم، اما گاهی در روابطم بدبین می‌شم و ترجیح می‌دم با دایره محدودی از آدم‌های مورد اعتمادم باشم.",
+        "behavioral_and_cognitive_traits": "روی نظم و تمیزی وسواس شدیدی دارم و اگر هر چیزی جابجا بشه کلافه می‌شم؛ رفتارهایم کاملاً قانون‌مند و چهارچوب‌دار است.",
+        "unusual_experiences_and_history": "به مسائل متافیزیکی علاقه زیادی دارم و تجربه‌هایی مثل دیدن خواب‌های پیش‌گو یا حس‌های غیرعادی داشتم."
+    }
+}

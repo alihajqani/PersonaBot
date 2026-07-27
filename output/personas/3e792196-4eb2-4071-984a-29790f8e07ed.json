@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.837,
+        "detachment_suspicion": -2.153,
+        "impulsivity_antisocial": 0.533,
+        "narcissism_attention": 0.606,
+        "rigidity_perfectionism": -1.641,
+        "unusual_experiences": -1.357
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.518,
+        "extreme_response": 0.169,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۰ سالمه، خانم هستم و در اهواز زندگی می‌کنم. متاهل هستم و مدرک کارشناسی ارشد مهندسی دارم و به عنوان متخصص در این زمینه مشغول به کارم؛ وضعیت اقتصادی‌مون در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "معمولاً آرام هستم و اضطراب زیادی ندارم؛ با بقیه راحت ارتباط می‌گیرم و ترسی از طرد شدن یا قضاوت دیگران ندارم و بدبینی در روابطم جایگاهی ندارد.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم‌های سریع می‌گیرم و دوست دارم در محیط کاری‌ام مورد توجه باشم و حس می‌کنم توانایی‌هایم بیشتر از بقیه است، اما کمال‌گرایی یا وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "تجربه‌های عجیب یا خرافات خاصی ندارم و در دوران کودکی و نوجوانی هم رفتار مشکل‌سازی یا هنجارشکنانه شدیدی نداشتم."
+    }
+}

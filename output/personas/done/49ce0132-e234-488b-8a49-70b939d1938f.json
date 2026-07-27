@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.74,
+        "detachment_suspicion": 0.533,
+        "impulsivity_antisocial": 1.445,
+        "narcissism_attention": 2.781,
+        "rigidity_perfectionism": -1.106,
+        "unusual_experiences": 0.958
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.074,
+        "extreme_response": -0.36,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله، متاهل و ساکن تبریز هستم. تحصیلاتم در حد دیپلم است و متاسفانه در حال حاضر بیکارم و وضعیت مالی‌ام خیلی سخت است.",
+        "emotional_and_interpersonal_style": "تلاطمات خلقی زیادی دارم و همیشه می‌ترسم اطرافیانم مرا رها کنند یا قضاوتم کنند. به آدم‌ها به راحتی اعتماد نمی‌کنم و معمولاً وقتی کسی به من بدی می‌کند، سال‌ها در دلم نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "خیلی زود تصمیمات تکانشی می‌گیرم و گاهی بدون فکر رفتارهای پرخطر یا تندی می‌کنم. با اینکه وضعم خوب نیست، اما ته دلم احساس می‌کنم از بقیه برترم و لایق جایگاه ویژه‌ای هستم که دیگران از من دریغ کرده‌اند.",
+        "unusual_experiences_and_history": "خیلی زیاد به حس ششمم اعتماد می‌کنم و گاهی چیزهایی را حس می‌کنم که دیگران نمی‌بینند. در دوران مدرسه و قبل از ۱۵ سالگی، به خاطر لجبازی و قانون‌شکنی زیاد، با معلمانم مشکل جدی داشتم."
+    }
+}

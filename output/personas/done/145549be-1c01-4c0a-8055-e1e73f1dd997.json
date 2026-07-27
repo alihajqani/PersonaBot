@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.656,
+        "detachment_suspicion": -0.419,
+        "impulsivity_antisocial": -0.31,
+        "narcissism_attention": 0.149,
+        "rigidity_perfectionism": -0.515,
+        "unusual_experiences": -1.148
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.257,
+        "extreme_response": 0.503,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای متاهل هستم و در تهران زندگی می‌کنم. در حال حاضر دانشجوی ارشد هستم و به عنوان خانه‌دار فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "روحیاتم معمولاً آرام است و خیلی کم پیش می‌آید که احساس اضطراب یا ترس از طرد شدن توسط دیگران داشته باشم؛ با اطرافیانم رابطه دوستانه‌ای دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم. دوست دارم در جمع‌ها مورد توجه باشم، اما وسواس خاصی روی نظم و ترتیب ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و همیشه نگاهی منطقی به مسائل داشته‌ام. در دوران کودکی و نوجوانی هم رفتار خاص یا هنجارشکنی نداشته‌ام."
+    }
+}

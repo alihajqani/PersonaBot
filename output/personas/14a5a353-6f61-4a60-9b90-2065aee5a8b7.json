@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.059,
+        "detachment_suspicion": -0.114,
+        "impulsivity_antisocial": 0.477,
+        "narcissism_attention": -0.365,
+        "rigidity_perfectionism": -0.445,
+        "unusual_experiences": -0.532
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.412,
+        "extreme_response": 0.057,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله، متاهل و ساکن مشهد هستم؛ مدرک دکتری دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "بسیار خونسرد هستم و اضطراب در زندگی‌ام جایگاهی ندارد، اما در عین حال تمایل دارم فاصله اجتماعی بگیرم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در محیط‌های غیررسمی گاهی تکانشی رفتار می‌کنم و ریسک‌های غیرمنتظره‌ای می‌پذیرم، اما در محیط کار کاملاً متعهد به اصول هستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم، اما تجربه‌های توهمی یا غیرعادی شدیدی نداشته‌ام و بیشتر با مسائل ذهنی ساختاریافته سر و کار دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.521,
+        "detachment_suspicion": -1.67,
+        "impulsivity_antisocial": 0.1,
+        "narcissism_attention": 1.262,
+        "rigidity_perfectionism": 0.028,
+        "unusual_experiences": -1.129
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.005,
+        "extreme_response": -0.189,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای هستم، مجرد و ساکن تبریز. مدرک دیپلم دارم و در حال حاضر به عنوان دانشجو در مقطع دانشگاهی تحصیل می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نگران قضاوت دیگران هستم، اما به شدت اجتماعی هستم و از تنهایی بیزارم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم جذاب‌تر و توانمندتر از دیگران هستم و همیشه سعی می‌کنم مرکز توجه باشم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در نظم شخصی متوسط هستم.",
+        "unusual_experiences_and_history": "سابقه پیگیری‌های روانپزشکی دارم. در دوران نوجوانی گاهی رفتارهای تکانشی داشتم اما تجربه‌ای از توهمات یا حس ششم نداشته‌ام."
+    }
+}

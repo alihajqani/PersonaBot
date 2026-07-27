@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.3,
+        "detachment_suspicion": -0.172,
+        "impulsivity_antisocial": -0.511,
+        "narcissism_attention": 0.617,
+        "rigidity_perfectionism": 0.446,
+        "unusual_experiences": -1.174
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.332,
+        "extreme_response": -0.398,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک دختر ۲۰ ساله‌ام، مجردم و در مشهد دانشجوی مقطع کارشناسی هستم. وضعیت مالی خانواده‌ام متوسط است و در حال حاضر تمام تمرکزم روی تحصیلاتم است.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران در سطح معمولی است، هرچند گاهی دچار اضطراب اجتماعی می‌شوم و ترجیح می‌دهم در جمع‌های کوچک و صمیمی باشم تا محیط‌های شلوغ.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم نظم زیادی در زندگی‌ام داشته باشم و روی نمراتم وسواس دارم. دوست دارم بقیه من را تحسین کنند و گاهی حس می‌کنم لیاقت توجه بیشتری نسبت به هم‌کلاسی‌هایم دارم.",
+        "unusual_experiences_and_history": "من انسان منطقی‌ای هستم و زیاد به خرافات یا تجربیات غیرعادی اعتقاد ندارم و تا به حال مورد چنین تجربه‌ای قرار نگرفته‌ام."
+    }
+}

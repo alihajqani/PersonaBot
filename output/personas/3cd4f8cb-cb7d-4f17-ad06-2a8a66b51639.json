@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.441,
+        "detachment_suspicion": -0.515,
+        "impulsivity_antisocial": -0.55,
+        "narcissism_attention": 0.296,
+        "rigidity_perfectionism": 0.144,
+        "unusual_experiences": 1.052
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.204,
+        "extreme_response": 0.537,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "۳۷ ساله‌ام، متاهل و ساکن کرج هستم. لیسانس مهندسی دارم و به عنوان متخصص در رشته‌ام فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب اجتماعی می‌شوم و می‌ترسم دیگران مرا نپذیرند، اما در کل با مردم مهربانم و بدبینی خاصی ندارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم تعادل دارم و اهل ریسک یا قانون‌شکنی نیستم. گاهی دلم می‌خواهد توانایی‌هایم بیشتر دیده شود و توجه بیشتری از سوی همکارانم دریافت کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً گاهی صداهایی می‌شنوم یا تصاویری می‌بینم که دیگران متوجه‌شان نمی‌شوند. از کودکی بسیار خیال‌پرداز بودم و در دنیای خودم زندگی می‌کردم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.495,
+        "detachment_suspicion": 1.08,
+        "impulsivity_antisocial": -0.507,
+        "narcissism_attention": -1.453,
+        "rigidity_perfectionism": -0.534,
+        "unusual_experiences": 0.945
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.193,
+        "extreme_response": -0.01,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای هستم، متاهل و ساکن اهواز. تحصیلاتم کارشناسی است، در یک اداره کارمند هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و همیشه می‌ترسم که اطرافیانم مرا دوست نداشته باشند. نسبت به نیت‌های دیگران بدبین هستم و ترجیح می‌دهم دایره دوستانم بسیار محدود باشد.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار قانون‌مندی هستم و هیچ‌وقت به فکر رفتارهای پرخطر یا هنجارشکنی نیستم. احساس برتری نسبت به دیگران ندارم و خودم را فردی معمولی می‌بینم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و به شدت به حس ششم و نشانه‌های متافیزیکی اعتقاد دارم. از کودکی هم همیشه احساس می‌کردم دنیای من با بقیه متفاوت است و گاهی دچار توهمات خفیف می‌شدم."
+    }
+}

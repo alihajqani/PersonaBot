@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.891,
+        "detachment_suspicion": 1.426,
+        "impulsivity_antisocial": 0.528,
+        "narcissism_attention": 0.383,
+        "rigidity_perfectionism": 2.15,
+        "unusual_experiences": 1.034
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.776,
+        "extreme_response": -0.181,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، مجرد و ساکن اهواز هستم. مدرک کارشناسی دارم و در زمینه کسب‌وکار آزاد فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار بدبین هستم و به راحتی به کسی اعتماد نمی‌کنم، به همین دلیل بیشتر وقت‌هایم را در تنهایی می‌گذرانم. گاهی دچار اضطراب می‌شوم و احساس می‌کنم دیگران قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "در کار و زندگی‌ام وسواس شدیدی دارم و روی کوچک‌ترین جزئیات تمرکز می‌کنم تا همه چیز بی‌نقص باشد. گاهی رفتارهای تکانشی دارم و احساس می‌کنم به دلیل جایگاهم، باید امتیازات ویژه‌ای داشته باشم.",
+        "unusual_experiences_and_history": "باورهای عمیقی به حس ششم و مسائل ماوراءطبیعی دارم و گاهی احساس می‌کنم پیام‌هایی از دنیای دیگر دریافت می‌کنم. در نوجوانی هم به دلیل سخت‌گیری‌هایم با همسالانم اصطکاک زیادی داشتم."
+    }
+}

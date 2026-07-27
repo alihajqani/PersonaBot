@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.533,
+        "detachment_suspicion": 1.416,
+        "impulsivity_antisocial": 0.627,
+        "narcissism_attention": 0.088,
+        "rigidity_perfectionism": 0.704,
+        "unusual_experiences": 0.999
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.371,
+        "extreme_response": 0.97,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۸ ساله، متاهل و دارای مدرک کارشناسی هستم؛ در حال حاضر در اهواز بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و فکر می‌کنم دیگران همیشه نقشه‌ای علیه من دارند. ترجیح می‌دهم منزوی باشم تا اینکه با افرادی باشم که به آن‌ها اعتماد ندارم.",
+        "behavioral_and_cognitive_traits": "گاه끔 رفتارهای تندی دارم و فکر می‌کنم لیاقت جایگاه اجتماعی بهتری را دارم. روی نظم محیطم حساس هستم و دوست دارم همه چیز طبق میل و استانداردهای من پیش برود.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و به شدت به مسائل ماوراءطبیعی و حس ششم باور دارم. در دوران نوجوانی سوابق متعددی در زمینه بی‌نظمی و درگیری‌های محیطی داشتم."
+    }
+}

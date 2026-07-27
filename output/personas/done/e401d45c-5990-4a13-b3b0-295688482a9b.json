@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.64,
+        "detachment_suspicion": 0.83,
+        "impulsivity_antisocial": -0.007,
+        "narcissism_attention": 0.162,
+        "rigidity_perfectionism": -0.418,
+        "unusual_experiences": -1.455
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.051,
+        "extreme_response": -0.108,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقای ۳۶ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی. در شهر اصفهان به عنوان کارمند اداری فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و خیلی زود دچار اضطراب می‌شوم؛ ترس از طرد شدن توسط دیگران همیشه در پس‌زمینه ذهنم هست.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار یا خانه بدون فکر واکنش‌های تندی نشان می‌دهم و تکانشی رفتار می‌کنم، هرچند سعی می‌کنم در ظاهر نظم اداری را حفظ کنم.",
+        "unusual_experiences_and_history": "سابقه خاصی از تجربیات غیرعادی ندارم، اما اضطراب‌های شدیدم گاهی باعث می‌شود احساس کنم در محیط اطرافم غریبه هستم."
+    }
+}

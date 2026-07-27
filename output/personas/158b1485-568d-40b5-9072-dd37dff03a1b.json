@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.543,
+        "detachment_suspicion": 0.326,
+        "impulsivity_antisocial": 0.995,
+        "narcissism_attention": 1.516,
+        "rigidity_perfectionism": -0.462,
+        "unusual_experiences": 0.46
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.475,
+        "extreme_response": -0.146,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای متاهل و ساکن شیرازم. مدرک کارشناسی ارشد دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار حساس و مضطرب هستم و همیشه می‌ترسم دیگران مرا ترک کنند یا از من ناراضی باشند، اما در عین حال در روابطم تمایل دارم مرکز توجه باشم و برتری‌ام را نشان دهم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه و پرخطر می‌گیرم و انتظار دارم همه نیازهای من را در اولویت قرار دهند؛ در مقابل، خیلی روی جزئیات و نظم وسواس ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم ارتباطم با دنیای واقعی قطع شده یا اتفاقاتی را حس می‌کنم که منطقی نیستند و در دوران کودکی هم رفتارهای تکانشی زیادی داشتم."
+    }
+}

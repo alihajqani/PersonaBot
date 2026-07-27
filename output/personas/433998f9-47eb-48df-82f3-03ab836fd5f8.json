@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.876,
+        "detachment_suspicion": 0.898,
+        "impulsivity_antisocial": 1.348,
+        "narcissism_attention": 1.903,
+        "rigidity_perfectionism": 1.363,
+        "unusual_experiences": 0.338
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.074,
+        "extreme_response": -0.679,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۳ ساله و مجرد هستم و در کرج زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان مهندس متخصص مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار بی‌ثبات هستم، نوسانات خلقی شدیدی دارم و ترس زیادی از طرد شدن و اضطراب اجتماعی تجربه می‌کنم. روابطم اغلب پرتنش است و به دیگران بدبین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی رفتارهای پرخاشگرانه دارم. احساس برتری شدیدی نسبت به دیگران دارم و انتظار دارم همه طبق خواسته من عمل کنند؛ همچنین در کارهای مهندسی‌ام وسواس شدید دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی احساس می‌کنم از واقعیت جدا شده‌ام یا تجربه‌های ذهنی غیرعادی دارم. در نوجوانی سابقه تخلفات جدی و هنجارشکنی داشتم."
+    }
+}

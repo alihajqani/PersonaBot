@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.101,
+        "detachment_suspicion": 1.289,
+        "impulsivity_antisocial": -0.885,
+        "narcissism_attention": -0.353,
+        "rigidity_perfectionism": 0.673,
+        "unusual_experiences": -0.348
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.211,
+        "extreme_response": -0.577,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای هستم، مجرد و ساکن اهواز. دیپلم دارم و به عنوان فروشنده در یک مغازه کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و مدام نگرانم که دیگران درباره من چه فکری می‌کنند. به شدت بدبین هستم و ترجیح می‌دهم تنها بمانم تا آسیب نبینم.",
+        "behavioral_and_cognitive_traits": "بیشتر اوقات محتاط هستم و از ریسک کردن یا قانون‌شکنی دوری می‌کنم. کمال‌گرایی خفیفی دارم اما میل به توجه یا احساس برتری در من نیست.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات عجیبی دور و برم می‌افتد که نمی‌توانم توضیح دهم. در دوران کودکی بسیار خجالتی بودم و هیچ سابقه رفتارهای پرخطر نداشتم."
+    }
+}

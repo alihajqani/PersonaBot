@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.062,
+        "detachment_suspicion": -1.214,
+        "impulsivity_antisocial": -1.035,
+        "narcissism_attention": -1.554,
+        "rigidity_perfectionism": -0.841,
+        "unusual_experiences": -0.022
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.06,
+        "extreme_response": -0.59,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و مجردم که در اهواز زندگی می‌کنم. مدرک کارشناسی مهندسی دارم و به عنوان متخصص در رشته خودم مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی با دیگران سازگارم و میل زیادی به تنهایی ندارم، هرچند گاهی در محیط‌های اجتماعی کمی اضطراب می‌گیرم و نگرانم که دیگران درباره‌ام چه فکری می‌کنند.",
+        "behavioral_and_cognitive_traits": "آدمی آرام هستم و به ندرت پیش می‌آید که تکانشی رفتار کنم یا قوانین را زیر پا بزنم؛ همچنین هرگز احساس برتری نسبت به دیگران ندارم و در مورد جزئیات وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم اتفاقات طبق یک الگوی خاص پیش می‌روند یا حس ششمم به من هشدار می‌دهد، اما در کودکی هیچ مشکل رفتاری یا تخریبی نداشتم."
+    }
+}

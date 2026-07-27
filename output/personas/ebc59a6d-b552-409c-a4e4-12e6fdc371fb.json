@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.316,
+        "detachment_suspicion": 1.237,
+        "impulsivity_antisocial": 0.374,
+        "narcissism_attention": -1.757,
+        "rigidity_perfectionism": 0.373,
+        "unusual_experiences": -1.616
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.169,
+        "extreme_response": 0.217,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۹ ساله‌م، متاهل و ساکن کرجم. تحصیلاتم کارشناسی هست و به عنوان مهندس فعالیت می‌کنم، هرچند شرایط مالی‌ام در حال حاضر اصلاً خوب نیست و در سطح ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی سخت به کسی اعتماد می‌کنم و همیشه فکر می‌کنم بقیه ممکنه به من آسیب بزنن یا ازم سوءاستفاده کنن. این بدبینی باعث شده که بیشتر منزوی باشم و روابط اجتماعی‌ام محدود بشه.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات وقتی عصبانی می‌شم، کنترل خودم رو از دست می‌دم و رفتارهای تکانشی یا تندی دارم. در عین حال، توی کارهای فنی‌ام خیلی کمال‌گرا هستم و روی کوچک‌ترین خطاها حساسیت دارم.",
+        "unusual_experiences_and_history": "من اصلاً به مسائل خرافی یا تجربیات غیرعادی اعتقاد ندارم و دنیا رو کاملاً مادی می‌بینم. در دوران مدرسه هم دانش‌آموز آرومی بودم و هیچ سابقه رفتاری غیرعادی یا تخلفی نداشتم."
+    }
+}

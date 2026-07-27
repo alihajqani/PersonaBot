@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.609,
+        "detachment_suspicion": -0.179,
+        "impulsivity_antisocial": -0.484,
+        "narcissism_attention": 0.163,
+        "rigidity_perfectionism": -0.45,
+        "unusual_experiences": 0.224
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.184,
+        "extreme_response": -0.203,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۹ ساله و متاهل هستم و در اصفهان ساکنم. مدرک دیپلم دارم و در حال حاضر مشغول به تحصیل هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً باثبات هستم و اضطراب کمی دارم، اما در محیط‌های جدید کمی بدبین هستم و سخت به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "آدمی آرام هستم و رفتارهای تکانشی ندارم. تمایل دارم در محیط دانشگاه مورد توجه باشم و احساس کنم ویژگی‌های خاصی دارم، اما در کارهایم سخت‌گیر یا وسواسی نیستم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم حس ششم دارم یا اتفاقات عجیبی را تجربه می‌کنم که منطقی نیستند. در کودکی رفتارهای متناسب با سنم داشتم و مشکلی با قوانین نداشتم."
+    }
+}

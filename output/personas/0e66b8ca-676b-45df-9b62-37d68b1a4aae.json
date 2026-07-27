@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.898,
+        "detachment_suspicion": 0.176,
+        "impulsivity_antisocial": -0.203,
+        "narcissism_attention": 0.078,
+        "rigidity_perfectionism": 0.187,
+        "unusual_experiences": 0.557
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.398,
+        "extreme_response": -0.524,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک دختر ۱۹ ساله، مجرد و دانشجو در شهر اصفهان هستم و تحصیلاتم تا مقطع دیپلم است و در حال حاضر در دانشگاه تحصیل می‌کنم. وضعیت اقتصادی خانواده‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و همیشه می‌ترسم دوستانم مرا ترک کنند یا از من فاصله بگیرند. نوسانات خلقی شدیدی دارم و در محیط‌های اجتماعی احساس ناامنی می‌کنم و گاهی ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات تکانشی می‌گیرم و در برابر قوانین سخت‌گیرانه واکنش تندی نشان می‌دهم. در عین حال، دوست دارم مورد توجه باشم و گاهی احساس می‌کنم استانداردهای من از دیگران بالاتر است.",
+        "unusual_experiences_and_history": "از بچگی رفتارهای متناقضی داشتم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات آینده را پیش‌بینی می‌کنم. تجربیات عجیبی دارم که دیگران شاید آن‌ها را باور نکنند."
+    }
+}

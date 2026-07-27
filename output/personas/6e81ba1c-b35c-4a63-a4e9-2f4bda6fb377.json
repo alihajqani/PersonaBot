@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.61,
+        "detachment_suspicion": -0.382,
+        "impulsivity_antisocial": -0.346,
+        "narcissism_attention": -0.503,
+        "rigidity_perfectionism": -0.064,
+        "unusual_experiences": -0.073
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.704,
+        "extreme_response": 0.07,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله، متاهل و ساکن تبریز هستم که با مدرک کارشناسی ارشد در حوزه فرهنگی و آموزش به عنوان معلم فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی متوازن هستم و اضطراب خاصی در برخورد با مردم ندارم. با دیگران صمیمی هستم و تمایل به انزوا یا کینه داشتن ندارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم متوسطی دارم و گاهی در تصمیم‌گیری‌ها عجولانه عمل می‌کنم. ادعای برتری ندارم و سعی می‌کنم با همه با احترام برخورد کنم.",
+        "unusual_experiences_and_history": "به برخی خرافات محلی یا حس ششم اعتقاد دارم و گاهی پیشامده که چیزهای عجیبی حس کنم. در دوران کودکی، گاهی رفتارهای شیطنت‌آمیز داشتم اما هرگز از حد گذرم."
+    }
+}

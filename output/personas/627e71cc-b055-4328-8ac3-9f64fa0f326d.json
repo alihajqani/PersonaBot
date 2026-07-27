@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.146,
+        "detachment_suspicion": -1.625,
+        "impulsivity_antisocial": -1.086,
+        "narcissism_attention": -0.412,
+        "rigidity_perfectionism": 1.364,
+        "unusual_experiences": -0.922
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.167,
+        "extreme_response": -0.233,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله، متاهل و ساکن کرج هستم. لیسانس دارم و به عنوان معلم در بخش فرهنگی فعالیت می‌کنم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی متوسطی دارم، اما به‌طور کلی آدم اجتماعی‌ای هستم و هیچ تمایلی به انزوا یا بدبینی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار مبادی آداب هستم و هرگز قوانین را نمی‌شکنم. وسواس زیادی در مورد نظم و ترتیب دارم و سعی می‌کنم هر کاری را به صورت بی‌نقص انجام دهم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا باور خرافاتی ندارم. تمام دوران رشد من در آرامش و بدون هیچ‌گونه مشکل رفتاری یا روان‌پزشکی بوده است."
+    }
+}

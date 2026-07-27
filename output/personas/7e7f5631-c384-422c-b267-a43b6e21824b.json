@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.592,
+        "detachment_suspicion": -1.102,
+        "impulsivity_antisocial": -2.585,
+        "narcissism_attention": -1.961,
+        "rigidity_perfectionism": 1.682,
+        "unusual_experiences": -0.795
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.179,
+        "extreme_response": 0.003,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و مجرد هستم، ساکن تهران و دارای مدرک دیپلم. به عنوان تکنسین فنی کار می‌کنم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب یا ترس از طرد شدن در من دیده نمی‌شود؛ با دیگران رابطه‌ای ساده دارم و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و هرگز جسارت قانون‌شکنی ندارم؛ وسواس من در مورد دقت در کار و جزئیات فنی بسیار زیاد است و هیچ‌چیز را ناقص رها نمی‌کنم.",
+        "unusual_experiences_and_history": "تقریباً هیچ تجربه غیرعادی یا خرافاتی ندارم و همیشه به منطق اعتقاد داشته‌ام. در دوران کودکی و نوجوانی هم همیشه مطیع قوانین بودم."
+    }
+}

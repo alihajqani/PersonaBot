@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.161,
+        "detachment_suspicion": 0.497,
+        "impulsivity_antisocial": -0.426,
+        "narcissism_attention": 0.539,
+        "rigidity_perfectionism": 1.442,
+        "unusual_experiences": 0.625
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.365,
+        "extreme_response": -0.111,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، متاهل و ساکن اصفهان. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی دارم و مدام نگران قضاوت دیگران هستم. نسبت به همکارانم کمی بدبینم و حس می‌کنم شاید پشت سرم حرف بزنن.",
+        "behavioral_and_cognitive_traits": "خیلی کمال‌گرا هستم و تا وقتی کاری بی‌نقص نشه آروم نمی‌گیرم. گاهی فکر می‌کنم از بقیه باهوش‌تر هستم، هرچند معمولاً قانون‌مند هستم و ریسک نمی‌کنم.",
+        "unusual_experiences_and_history": "به بعضی نشانه‌ها و خرافات اعتقاد دارم و گاهی احساس می‌کنم اتفاقات آینده رو حس می‌کنم. در کودکی بیش از حد گوشه‌گیر بودم اما هیچ‌وقت هنجارشکنی نکردم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.926,
+        "detachment_suspicion": 0.258,
+        "impulsivity_antisocial": -0.684,
+        "narcissism_attention": 0.654,
+        "rigidity_perfectionism": 1.425,
+        "unusual_experiences": -1.086
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.169,
+        "extreme_response": -0.054,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۰ ساله، مجرد و ساکن شیرازم که مدرک دیپلم دارم و در مغازه‌ام مشغول به فروش و کسب‌وکار هستم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار مضطرب هستم و همیشه می‌ترسم در جمع‌ها مورد قضاوت قرار بگیرم. گاهی دوری از مردم را ترجیح می‌دهم چون احساس می‌کنم دیگران قصد سوءاستفاده از من را دارند.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و تمام جزئیات مغازه و کارهایم باید دقیقاً طبق میل من باشد. گاهی احساس می‌کنم از بقیه باهوش‌تر هستم و باید به من توجه ویژه‌ای شود.",
+        "unusual_experiences_and_history": "به خرافات اعتقادی ندارم و تجربه‌های غیرعادی در زندگی‌ام نداشته‌ام. در نوجوانی هم همیشه دانش‌آموزی آرام بودم و هرگز قوانین را زیر پا نگذاشتم."
+    }
+}

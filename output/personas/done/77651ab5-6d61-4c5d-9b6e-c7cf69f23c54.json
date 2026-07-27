@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.604,
+        "detachment_suspicion": -0.763,
+        "impulsivity_antisocial": -1.229,
+        "narcissism_attention": -0.199,
+        "rigidity_perfectionism": 0.884,
+        "unusual_experiences": -0.638
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.095,
+        "extreme_response": -0.157,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۹ سال دارم، متاهل هستم و در مشهد به عنوان منشی کار می‌کنم. مدرک دیپلم دارم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدارم و اصلاً اضطراب یا ترس از تنها شدن ندارم؛ با دیگران رابطه‌ای آرام، صمیمی و بدون کینه دارم.",
+        "behavioral_and_cognitive_traits": "من انسان قانون‌مندی هستم و رفتارهای پرخطر یا تکانشی ندارم. روی تمیزی و نظم محیط کارم وسواس دارم و دوست دارم همه چیز دقیق و مرتب باشد.",
+        "unusual_experiences_and_history": "تجربه‌ی خاصی از توهم یا حس ششم ندارم و زندگی من همیشه در چارچوب واقعیت‌های ملموس و منطقی بوده است."
+    }
+}

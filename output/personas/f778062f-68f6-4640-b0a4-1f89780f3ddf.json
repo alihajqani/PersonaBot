@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.182,
+        "detachment_suspicion": -1.764,
+        "impulsivity_antisocial": 2.151,
+        "narcissism_attention": 1.076,
+        "rigidity_perfectionism": -1.736,
+        "unusual_experiences": 1.143
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.115,
+        "extreme_response": 0.544,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۴ سالمه و توی شیراز زندگی می‌کنم و متاهل هستم. دیپلم دارم و فعلاً بیکارم و وضعیت مالی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی‌م زیاده اما برخلاف خیلی‌ها، خیلی اجتماعی هستم و به بقیه اعتماد می‌کنم و ترجیح نمی‌دم تنها باشم.",
+        "behavioral_and_cognitive_traits": "اصلاً نمی‌تونم جلوی خودم رو بگیرم و کارهای خیلی خطرناک و خلاف قانون انجام می‌دم. فکر می‌کنم از همه برترم و باید هر چی می‌خوام داشته باشم.",
+        "unusual_experiences_and_history": "تجربه‌های خیلی عجیبی دارم، مثلاً صداهایی می‌شنوم یا حس می‌کنم موجودات دیگه‌ای اطرافمن. از ۱۵ سالگی هم مشکل رفتاری شدید و سابقه بیماری روانپزشکی داشتم."
+    }
+}

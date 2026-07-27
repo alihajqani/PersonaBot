@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.119,
+        "detachment_suspicion": -0.011,
+        "impulsivity_antisocial": 0.787,
+        "narcissism_attention": -0.054,
+        "rigidity_perfectionism": -1.858,
+        "unusual_experiences": 0.612
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.167,
+        "extreme_response": -0.037,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۳۷ ساله، متاهل و ساکن تهران هستم با تحصیلات کارشناسی در رشته مهندسی، اما متأسفانه وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی فردی آرام هستم، اما به دلیل تجربیات زندگی، دیگران را به راحتی قبول ندارم و تمایل دارم فاصله اجتماعی‌ام را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "اصلاً اهل وسواس و نظم نیستم و هر جا بتوانم از قوانین سخت‌گیرانه عبور می‌کنم و ریسک می‌کنم؛ گاهی هم حس می‌کنم لیاقت جایگاه بالاتری را دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم دنیا واقعی نیست یا انگار از دور به خودم نگاه می‌کنم و به برخی نشانه‌های ماورایی اعتقاد دارم."
+    }
+}

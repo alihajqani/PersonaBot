@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.761,
+        "detachment_suspicion": 0.387,
+        "impulsivity_antisocial": 1.701,
+        "narcissism_attention": 2.088,
+        "rigidity_perfectionism": 1.327,
+        "unusual_experiences": 1.085
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.649,
+        "extreme_response": 0.504,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، مجردم و ساکن کرجم. لیسانس دارم و در یک اداره کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب کمی دارم اما به دیگران بی‌اعتماد هستم و خیلی سریع کینه به دل می‌گیرم و سخت می‌بخشم.",
+        "behavioral_and_cognitive_traits": "عاشق هیجان و کارهای خطرناکم و گاهی عمداً قوانین رو می‌شکنم. فکر می‌کنم خیلی خاص‌تر از بقیه هستم و باید به من توجه ویژه بشه؛ همچنین وسواس شدیدی در سازماندهی وسایلم دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی داشتم و به حس ششم خودم اعتماد می‌کنم؛ در دوران کودکی هم زیاد با معلمانم به خاطر لجبازی به مشکل می‌خوردم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.497,
+        "detachment_suspicion": 1.768,
+        "impulsivity_antisocial": -0.918,
+        "narcissism_attention": -0.564,
+        "rigidity_perfectionism": 0.416,
+        "unusual_experiences": -0.033
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.107,
+        "extreme_response": -0.419,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۷ سالمه، متاهلم و توی اصفهان زندگی می‌کنم. فوق‌لیسانس دارم و کسب‌وکار خودم رو دارم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "به شدت به آدم‌ها بدبین هستم و همیشه فکر می‌کنم بقیه می‌خوان از من سوءاستفاده کنن یا پشت سرم حرف می‌زنن. اضطراب اجتماعی زیادی دارم و سخت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "خیلی محتاطم و هیچ‌وقت کارهای تکانشی یا خطرناک انجام نمی‌دم. در کارهام کمی وسواسی هستم و ترجیح می‌دم همه چیز طبق نقشه پیش بره تا ریسک نکنم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات دور و برم معنای پنهانی دارن که فقط من می‌فهمم. در دوران نوجوانی هم خیلی گوشه‌گیر بودم و ترجیح می‌دادم با خودم باشم تا با هم‌کلاسی‌هام."
+    }
+}

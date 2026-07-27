@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.419,
+        "detachment_suspicion": -0.069,
+        "impulsivity_antisocial": -1.842,
+        "narcissism_attention": -1.969,
+        "rigidity_perfectionism": 1.663,
+        "unusual_experiences": 0.84
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.343,
+        "extreme_response": -0.324,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و مجرد هستم که در تبریز زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب کمی دارم اما ترجیح می‌دهم بیشتر با خودم باشم تا در جمع‌های شلوغ. گاهی نسبت به نیت‌های دیگران تردید می‌کنم و به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "وسواس شدید دارم و ساعت‌ها روی جزئیات کوچک وقت می‌گذارم تا بی‌نقص شوند. هیچ تمایلی به ریسک یا قانون‌شکنی ندارم و بسیار محتاطانه زندگی می‌کنم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم و اتفاقات آینده را پیش‌بینی می‌کنم. در دوران کودکی بسیار گوشه‌گیر بودم اما هرگز رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

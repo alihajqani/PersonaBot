@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.65,
+        "detachment_suspicion": -0.551,
+        "impulsivity_antisocial": -0.079,
+        "narcissism_attention": 0.036,
+        "rigidity_perfectionism": -0.697,
+        "unusual_experiences": 1.434
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.635,
+        "extreme_response": 0.449,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۱ ساله و مجرد ساکن اصفهان هستم. مدرک دیپلم دارم و به عنوان یک کارمند ساده در یک اداره مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن در من خیلی زیاد نیست. با دیگران راحت هستم و تمایلی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در رفتارهایم تکانشی هستم و بدون فکر ریسک می‌کنم. تمایل دارم در جمع‌ها دیده شوم و مورد توجه قرار بگیرم، اما در مورد نظم و وسواس، سخت‌گیر نیستم و با هر شرایطی کنار می‌آیم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً گاهی احساس می‌کنم از بدنم جدا شده‌ام یا چیزهایی می‌بینم که دیگران متوجه آن‌ها نمی‌شوند. در کودکی هم همیشه می‌گفتم که صداهایی می‌شنوم یا حس‌های عجیبی دارم."
+    }
+}

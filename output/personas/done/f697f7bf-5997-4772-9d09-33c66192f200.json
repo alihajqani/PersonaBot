@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.12,
+        "detachment_suspicion": -0.283,
+        "impulsivity_antisocial": 1.911,
+        "narcissism_attention": 0.45,
+        "rigidity_perfectionism": 0.064,
+        "unusual_experiences": -0.207
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.416,
+        "extreme_response": -0.454,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "دختری ۱۹ ساله، مجرد و ساکن اهواز هستم که در حال تحصیل در مقطع کارشناسی هستم و همزمان به عنوان منشی کار می‌کنم؛ وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "احساساتم ناپایدار است و گاهی در روابطم دچار اضطراب می‌شوم، همچنین نگاهی نسبتاً بدبینانه به نیت‌های دیگران دارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم کنترل ندارم و قوانین را می‌شکنم؛ همچنین دوست دارم در محیط کار مورد توجه باشم و برتری‌ام را نشان دهم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم که برای دیگران قابل درک نیست و در دوران نوجوانی سوابق زیادی از درگیری و رفتارهای غیرمتعارف داشتم."
+    }
+}

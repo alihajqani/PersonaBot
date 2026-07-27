@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.624,
+        "detachment_suspicion": 0.45,
+        "impulsivity_antisocial": -0.694,
+        "narcissism_attention": -1.632,
+        "rigidity_perfectionism": 0.144,
+        "unusual_experiences": -0.024
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.59,
+        "extreme_response": -0.375,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقای ۲۳ ساله‌ای هستم، متاهل و دارای مدرک دیپلم که همزمان مشغول تحصیل هستم. ساکن شهر تبریز هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "در جمع‌ها احساس اضطراب می‌کنم و می‌ترسم مورد قضاوت قرار بگیرم، به همین دلیل ترجیح می‌دهم دایره دوستانم بسیار کوچک باشد.",
+        "behavioral_and_cognitive_traits": "اصلاً حس برتری نسبت به دیگران ندارم و بسیار متواضع هستم؛ در کارهای تحصیلی‌ام نظم متوسطی دارم و وسواس شدیدی ندارم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم دنیا واقعی نیست یا انگار دارم زندگی‌ام را از بیرون تماشا می‌کنم؛ سابقه بیماری روانپزشکی هم دارم."
+    }
+}

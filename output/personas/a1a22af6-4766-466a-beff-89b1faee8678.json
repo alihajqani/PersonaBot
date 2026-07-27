@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.407,
+        "detachment_suspicion": -0.68,
+        "impulsivity_antisocial": -1.719,
+        "narcissism_attention": -0.301,
+        "rigidity_perfectionism": 0.876,
+        "unusual_experiences": -0.361
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.277,
+        "extreme_response": 0.301,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، مجرد و ساکن شیراز. تحصیلاتم کارشناسی است و به صورت آزاد کسب‌وکار خودم را دارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "تعادل عاطفی خوبی دارم و به‌ندرت دچار اضطراب شدید می‌شوم. با مردم ارتباط خوب دارم و تمایل چندانی به تنهایی یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و هرگز رفتارهای پرخطر یا خلاف قانون انجام نمی‌دهم. مقدار متوسطی نیاز به توجه دارم و در کارهایم تا حدودی روی جزئیات حساس هستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی نداشته‌ام و زندگی‌ام طبق روال عادی پیش رفته است. در کودکی و نوجوانی هم هیچ سابقه بیماری یا مشکل رفتاری نداشتم."
+    }
+}

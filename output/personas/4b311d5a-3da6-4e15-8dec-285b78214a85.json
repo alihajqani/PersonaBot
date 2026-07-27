@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.307,
+        "detachment_suspicion": -0.414,
+        "impulsivity_antisocial": -0.63,
+        "narcissism_attention": -0.173,
+        "rigidity_perfectionism": 0.816,
+        "unusual_experiences": -1.016
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.921,
+        "extreme_response": 0.427,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ سالمه، ساکن تهران هستم، متاهل و دانشجوی ارشد هستم و همزمان به عنوان کارمند اداری فعالیت می‌کنم. وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و نگرانم که بقیه درباره‌ام چه فکری می‌کنند. اما کلاً با مردم خوب هستم و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "دوست دارم کارهایم دقیق و بی‌نقص باشد و گاهی روی جزئیات خیلی حساس می‌شوم. حس می‌کنم در محیط کارم جایگاه ویژه‌ای دارم و دوست دارم بقیه متوجه توانایی‌های من بشوند.",
+        "unusual_experiences_and_history": "به مسائل ماورایی علاقه ندارم و تجربیات غیرعادی نداشته‌ام. در دوران مدرسه هم همیشه به قوانین پایبند بودم و رفتارهای تکانشی نداشتم."
+    }
+}

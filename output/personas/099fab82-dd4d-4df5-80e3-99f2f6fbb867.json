@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.03,
+        "detachment_suspicion": 0.111,
+        "impulsivity_antisocial": 0.38,
+        "narcissism_attention": -0.48,
+        "rigidity_perfectionism": 0.953,
+        "unusual_experiences": -0.219
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.377,
+        "extreme_response": 0.381,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۸ ساله، مجرد و ساکن شیرازم. دیپلم دارم و به عنوان یک کارمند ساده مشغول به کار هستم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاه به گاه دچار نوسانات خلقی می‌شوم و از اینکه دیگران مرا طرد کنند یا در محیط‌های اجتماعی مورد قضاوت قرار بگیرم، اضطراب دارم. در روابطم تا حدودی بدبین هستم و ترجیح می‌دهم بیشتر با خودم باشم تا به دیگران اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "بسیار روی جزئیات حساس هستم و وسواس زیادی در نظم و ترتیب وسایلم دارم. گاهی بدون فکر تصمیم‌های ناگهانی می‌گیرم و رفتارهای تکانشی دارم، هرچند هرگز احساس برتری نسبت به دیگران نداشته‌ام.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم ششم حسی دارم یا اتفاقاتی را پیش‌بینی می‌کنم. در دوران کودکی و قبل از ۱۵ سالگی، گاهی با قوانین مدرسه مشکل داشتم و رفتارهای متناقضی نشان می‌دادم."
+    }
+}

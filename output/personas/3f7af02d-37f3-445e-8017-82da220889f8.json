@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.129,
+        "detachment_suspicion": 0.994,
+        "impulsivity_antisocial": -0.353,
+        "narcissism_attention": -1.79,
+        "rigidity_perfectionism": -0.296,
+        "unusual_experiences": -1.105
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.185,
+        "extreme_response": 0.69,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۲۱ ساله‌م، مجرد و ساکن شیراز. دانشجوی کارشناسی هستم اما فعلاً بیکارم و وضعیت مالی‌ام خیلی تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "بیشتر ترجیح می‌دم تنها باشم چون حس می‌کنم با دیگران تفاهم ندارم و به انگیزه‌های آدم‌ها بی‌اعتمادم. اضطراب اجتماعی متوسطی دارم و سخت با غریبه‌ها ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "اصلاً اهل جلب توجه نیستم و ترجیح می‌دم در حاشیه باشم؛ احساس برتری ندارم و حتی گاهی فکر می‌کنم از بقیه کمترم. در کارهای شخصی‌ام نظم نسبی رو رعایت می‌کنم و اهل ریسک نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم. دوران کودکی و نوجوانی‌ام بسیار آرام گذشت و هیچ سابقه هنجارشکنی یا بیماری روان‌پزشکی ندارم."
+    }
+}

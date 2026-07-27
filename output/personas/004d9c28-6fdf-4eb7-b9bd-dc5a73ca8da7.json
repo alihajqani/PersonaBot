@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.455,
+        "detachment_suspicion": -2.55,
+        "impulsivity_antisocial": 0.463,
+        "narcissism_attention": -0.862,
+        "rigidity_perfectionism": -0.951,
+        "unusual_experiences": 0.189
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.128,
+        "extreme_response": 0.05,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و مجردم که در اهواز زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر روانی بسیار پایدار هستم و اضطراب یا نوسانات خلقی ندارم. بسیار اجتماعی هستم، به مردم اعتماد دارم و اصلا تمایلی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "گاه پیش می‌آید که در لحظه تصمیمات ریسکی می‌گیرم و کمی تکانشگر هستم. احساس برتری نسبت به دیگران ندارم و در کارهایم سخت‌گیر یا وسواسی نیستم و با انعطاف عمل می‌کنم.",
+        "unusual_experiences_and_history": "گاهی به خرافات اعتقاد پیدا می‌کنم یا احساس می‌کنم اتفاقات خاصی از قبل تعیین شده‌اند. در کودکی و نوجوانی، فردی بسیار آرام بودم و هیچ‌گونه مشکل رفتاری یا بیماری روان‌پزشکی نداشتم."
+    }
+}

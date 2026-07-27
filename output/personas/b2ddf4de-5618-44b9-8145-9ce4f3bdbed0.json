@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.614,
+        "detachment_suspicion": 0.238,
+        "impulsivity_antisocial": 0.636,
+        "narcissism_attention": 1.543,
+        "rigidity_perfectionism": 0.331,
+        "unusual_experiences": 1.562
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.094,
+        "extreme_response": -0.678,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۱ سالمه و توی اهواز زندگی می‌کنم و مجردم. دانشجوی کاردانی هستم و همزمان آرایشگری می‌کنم، هرچند وضعیت مالی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "گاهی ترجیح می‌دم تنها باشم و به راحتی به بقیه اعتماد نمی‌کنم. با این حال، نوسانات خلقی شدیدی ندارم و اضطرابم در حد کمیه.",
+        "behavioral_and_cognitive_traits": "خیلی دوست دارم مرکز توجه باشم و همیشه حس می‌کنم لایق رفتار ویژه و برتر هستم. گاهی بدون فکر تصمیم می‌گیرم و وسواسم در کارهای روزمره در سطح متوسطه.",
+        "unusual_experiences_and_history": "تجربیات خیلی عجیبی دارم، مثلاً گاهی چیزهایی می‌شنوم یا می‌بینم که بقیه متوجه نمی‌شن و به خرافات شدیداً باور دارم. از سنین پایین همیشه دنیا برای من متفاوت بود."
+    }
+}

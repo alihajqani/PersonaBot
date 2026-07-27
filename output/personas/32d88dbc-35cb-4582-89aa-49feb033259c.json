@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.62,
+        "detachment_suspicion": -0.113,
+        "impulsivity_antisocial": 0.012,
+        "narcissism_attention": 0.252,
+        "rigidity_perfectionism": -1.157,
+        "unusual_experiences": 0.099
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.004,
+        "extreme_response": 0.4,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و ساکن شیراز. تحصیلاتم کارشناسیه و به عنوان کارمند اداری کار می‌کنم و وضعیت اقتصادی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "من آدم نسبتاً توداری هستم و ترجیح می‌دم بیشتر تنها باشم تا با دیگران وقت بگذرونم. گاهی نسبت به نیت‌های دیگران بدبین می‌شم و سخت اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً متعادله، اما گاهی پیش می‌آد که تکانشی واکنش نشون بدم. من اصلاً آدم وسواسی‌ای نیستم و برخلاف خیلی‌ها، روی جزئیات ریز حساس نیستم و با هر شرایطی کنار می‌آم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقاتی رو پیش‌بینی کردم که بعداً اتفاق افتاده. در دوران کودکی، کمی گوشه‌گیر بودم اما هیچ سابقه رفتاری خشونت‌آمیز یا هنجارشکنی نداشتم."
+    }
+}

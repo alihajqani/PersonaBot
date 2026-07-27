@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.931,
+        "detachment_suspicion": 0.839,
+        "impulsivity_antisocial": -0.759,
+        "narcissism_attention": -0.26,
+        "rigidity_perfectionism": 0.148,
+        "unusual_experiences": 0.753
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.239,
+        "extreme_response": -0.063,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای هستم، مجرد و ساکن تهران. دانشجو هستم و در حال حاضر بیکارم و وضعیت مالی‌ام کمی سخت است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، اما به مردم اعتماد ندارم و فکر می‌کنم هر کسی دنبال مصلحت خودشه.",
+        "behavioral_and_cognitive_traits": "به اندازه کافی به خودم اعتماد دارم و دوست دارم در جمع‌ها دیده بشم. نظم متوسطی در زندگی دارم و معمولاً طبق قوانین پیش می‌رم و اهل کارهای خطرناک نیستم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم اتفاقات عجیبی دور و برم می‌افته یا حس ششم دارم. در دوران کودکی بچه‌ای ساکت بودم و هیچ‌وقت با قانون یا هنجارهای اجتماعی تضاد نداشتم."
+    }
+}

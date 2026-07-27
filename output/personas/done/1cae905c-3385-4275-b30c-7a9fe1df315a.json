@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.009,
+        "detachment_suspicion": -0.685,
+        "impulsivity_antisocial": -0.316,
+        "narcissism_attention": -1.454,
+        "rigidity_perfectionism": -0.004,
+        "unusual_experiences": -1.127
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.285,
+        "extreme_response": 0.608,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله، متاهل و ساکن اهواز هستم و مدرک کارشناسی دارم و به عنوان معلم در بخش فرهنگی فعالیت می‌کنم. وضعیت اقتصادی من در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات در جمع‌ها احساس اضطراب می‌کنم و نوسانات خلقی دارم، اما به طور کلی آدم بدبینی نیستم و با دیگران با اعتماد به نفس ارتباط برقرار می‌کنم.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم نسبی دارم و به جزئیات اهمیت می‌دهم، هرچند گاهی در لحظات استرس‌زا ممکن است بدون فکر تصمیمات تکانشی بگیرم.",
+        "unusual_experiences_and_history": "تا به حال تجربه خاص یا غیرعادی نداشته‌ام و در دوران کودکی و نوجوانی هم هیچ سابقه رفتارهای هنجارشکن یا مشکل روان‌پزشکی نداشتم."
+    }
+}

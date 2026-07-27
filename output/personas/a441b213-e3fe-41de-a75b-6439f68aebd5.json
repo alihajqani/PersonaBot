@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.851,
+        "detachment_suspicion": 1.318,
+        "impulsivity_antisocial": 0.543,
+        "narcissism_attention": 2.179,
+        "rigidity_perfectionism": 1.286,
+        "unusual_experiences": -0.053
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.621,
+        "extreme_response": 0.376,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و مجرد هستم که در شیراز زندگی می‌کنم. مدرک کاردانی دارم و در حال حاضر به عنوان پیک و راننده اسنپ کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "دائماً دچار اضطراب هستم و می‌ترسم دیگران مرا دوست نداشته باشند یا رهایم کنند. به شدت بدبین هستم و حس می‌کنم مردم پشت سر من حرف می‌زنند یا قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "در عین حال که بسیار وسواسی هستم و روی کوچک‌ترین جزئیات حساسم، اما نیاز شدیدی به توجه دارم و دوست دارم همه فکر کنند من فردی بسیار مهم و برترم. گاهی در لحظه عصبانیت، رفتارهای تکانشی و تندی دارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم دنیا واقعی نیست یا اتفاقات عجیبی دور و برم می‌افتد که بقیه نمی‌بینند. قبل از ۱۵ سالگی، به دلیل عدم کنترل روی هیجاناتم، مشکلات رفتاری زیادی در مدرسه داشتم."
+    }
+}

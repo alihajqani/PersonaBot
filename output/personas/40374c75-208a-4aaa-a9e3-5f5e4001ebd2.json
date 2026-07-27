@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.138,
+        "detachment_suspicion": -1.052,
+        "impulsivity_antisocial": -1.853,
+        "narcissism_attention": -0.999,
+        "rigidity_perfectionism": -1.656,
+        "unusual_experiences": -1.94
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.66,
+        "extreme_response": -0.182,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۲۴ ساله‌ای هستم، مجرد و ساکن اصفهان. تحصیلاتم در حد کاردانی است اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "زندگی آرامی دارم و به‌ندرت دچار اضطراب یا نوسانات خلقی می‌شوم. با مردم راحت هستم و احساس بدبینی یا انزوای اجتماعی ندارم.",
+        "behavioral_and_cognitive_traits": "همیشه سعی کرده‌ام طبق قوانین پیش بروم و هیچ‌وقت رفتارهای تکانشی یا پرخطر نداشته‌ام. نیازی به جلب توجه دیگران ندارم و کمال‌گرایی هم در کارهایم جایگاهی ندارد.",
+        "unusual_experiences_and_history": "تا به حال هیچ تجربه غیرعادی، توهم یا باور خرافی شدیدی نداشته‌ام. دوران کودکی و نوجوانی‌ام بسیار آرام بوده و هیچ سابقه تخلف یا مشکل رفتاری نداشته‌ام."
+    }
+}

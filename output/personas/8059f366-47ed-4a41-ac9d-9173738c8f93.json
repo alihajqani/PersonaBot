@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.448,
+        "detachment_suspicion": -0.954,
+        "impulsivity_antisocial": -1.074,
+        "narcissism_attention": -0.78,
+        "rigidity_perfectionism": 1.669,
+        "unusual_experiences": 0.277
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.313,
+        "extreme_response": 0.572,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۶ ساله مجردم و در مشهد زندگی می‌کنم. مدرک کارشناسی ارشد دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "برخلاف خیلی‌ها، اضطراب اجتماعی یا ترس از طرد شدن ندارم و در روابطم نسبتاً خونسرد هستم. تمایلم به انزوا یا بدبینی نسبت به دیگران در سطح پایینی است.",
+        "behavioral_and_cognitive_traits": "وسواس من در حد افراطی است؛ ساعت‌ها روی یک جزئیات کوچک وقت می‌گذارم تا کاملاً درست شود و نمی‌توانم از بی‌نظمی بگذرم. به ندرت رفتارهای تکانشی دارم یا سعی کنم جلب توجه کنم.",
+        "unusual_experiences_and_history": "گاهی تجربه‌های ذهنی عجیبی دارم که نمی‌توانم توضیح دهم، انگار بخشی از واقعیت را متفاوت از دیگران می‌بینم."
+    }
+}

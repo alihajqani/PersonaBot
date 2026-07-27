@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.849,
+        "detachment_suspicion": -0.022,
+        "impulsivity_antisocial": -0.773,
+        "narcissism_attention": -1.117,
+        "rigidity_perfectionism": -0.176,
+        "unusual_experiences": -1.968
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.044,
+        "extreme_response": -0.549,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ سالمه، متاهلم و ساکن تهرانم. ارشد دارم و کارمند اداری هستم، هرچند وضعیت اقتصادی‌م در حال حاضر ضعیفه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی ثبات دارم و اصلاً اضطراب اجتماعی ندارم. هرچند گاهی ترجیح می‌دم تنها باشم تا با دیگران وقت بگذرونم.",
+        "behavioral_and_cognitive_traits": "آدم قانون‌مندی هستم و رفتارهای تکانشی ندارم. نظم متوسطی دارم و به دنبال جلب توجه بقیه یا برتری داشتن روی اون‌ها نیستم.",
+        "unusual_experiences_and_history": "هیچ‌وقت تجربه‌های عجیب یا خرافاتی نداشتم و همیشه به منطق و شواهد واقعی تکیه کردم."
+    }
+}

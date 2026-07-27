@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.455,
+        "detachment_suspicion": -0.667,
+        "impulsivity_antisocial": 1.204,
+        "narcissism_attention": -0.156,
+        "rigidity_perfectionism": -1.819,
+        "unusual_experiences": -0.413
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.337,
+        "extreme_response": 0.076,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله، متاهل و ساکن تهران هستم. مدرک کارشناسی ارشد مهندسی دارم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم، اما بیشتر مشکل من در کنترل هیجاناتم است. به طور کلی با مردم ارتباط خوبی دارم و تمایل به انزوای شدید ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم؛ هر چه به ذهنم برسد سریع انجام می‌دهم حتی اگر خطرناک باشد یا قانون را بشکند. اصلاً اهل وسواس یا دقت به جزئیات نیستم و هر چه باشد برایم قابل قبول است.",
+        "unusual_experiences_and_history": "سابقه خاصی از توهمات ندارم و بیشتر به منطق اعتقاد دارم، هرچند در کودکی گاهی رفتارهای هنجارشکنه‌ای داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.247,
+        "detachment_suspicion": 0.226,
+        "impulsivity_antisocial": 0.817,
+        "narcissism_attention": -0.167,
+        "rigidity_perfectionism": 0.255,
+        "unusual_experiences": 0.852
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.036,
+        "extreme_response": 0.205,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۹ سالمه، ساکن اصفهان هستم، مجردم و دانشجوی کارشناسی هستم و برای گذران زندگی به عنوان پیک و راننده اسنپ کار می‌کنم. وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی بالا و پایین می‌شود و در محیط‌های شلوغ کمی اضطراب دارم. رابطه‌ام با مردم معمولی است و نه خیلی به آن‌ها اعتماد دارم و نه خیلی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و کارهای ریسکی می‌کنم، مخصوصاً موقع رانندگی. سعی می‌کنم تعادلی بین نظم و بی‌نظمی داشته باشم و احساس برتری خاصی نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها حس می‌کنم اتفاقات آینده را می‌توانم حدس بزنم. توی دوران مدرسه گاهی کارهای تکانشی می‌کردم که باعث دردسر می‌شد."
+    }
+}

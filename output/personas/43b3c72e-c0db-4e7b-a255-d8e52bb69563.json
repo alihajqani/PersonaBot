@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.318,
+        "detachment_suspicion": 0.485,
+        "impulsivity_antisocial": -3.068,
+        "narcissism_attention": -0.519,
+        "rigidity_perfectionism": 0.588,
+        "unusual_experiences": 1.147
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.103,
+        "extreme_response": 0.476,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۲۹ ساله‌ای از شیراز هستم، مدرک کارشناسی دارم و در کسب و کار آزاد فعالیت می‌کنم. متاهل هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی ثبات دارم و اضطراب کمی را تجربه می‌کنم. اما به شدت بدبین هستم و ترجیح می‌دم در انزوا باشم؛ فکر می‌کنم اکثر آدم‌ها نیت‌های بدی دارند و نباید به کسی اعتماد کرد.",
+        "behavioral_and_cognitive_traits": "من بسیار منظم هستم و هر کاری رو با دقت وسواس‌گونه‌ای انجام می‌دم؛ هر اتفاقی باید طبق برنامه پیش بره. اصلاً اهل ریسک یا قانون‌شکنی نیستم و همیشه سعی می‌کنم محتاط‌ترین فرد محیط باشم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و تجربیات غیرعادی شدیدی دارم؛ گاهی احساس می‌کنم از بدنم جدا شدم یا صداهایی می‌شنوم که دیگران نمی‌شنوند. در کودکی هم بسیار گوشه‌گیر بودم و هیچ‌وقت با هم‌سن و سال‌هایم بازی نمی‌کردم."
+    }
+}

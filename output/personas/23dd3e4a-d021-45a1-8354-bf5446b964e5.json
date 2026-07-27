@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.3,
+        "detachment_suspicion": -0.282,
+        "impulsivity_antisocial": 0.822,
+        "narcissism_attention": 1.605,
+        "rigidity_perfectionism": -0.062,
+        "unusual_experiences": 0.217
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.117,
+        "extreme_response": -0.29,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای هستم، مجرد و ساکن اهواز. تحصیلاتم کارشناسی است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود. نسبت به دیگران بدبینی متوسطی دارم و گاهی ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی از من سر می‌زند. احساس برتری بسیار شدیدی دارم و معتقدم از اکثر اطرافیانم باهوش‌تر و توانمندترم و انتظار دارم همه این را بدانند؛ در عین حال، نظم و وسواس متوسطی در کارهایم دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی متوسطی دارم و گاهی احساس می‌کنم ارتباطات خاصی با محیط اطرافم دارم. سابقه بیماری روانپزشکی دارم و در دوران کودکی هم رفتارهای تکانشی و لجبازی‌های شدیدی داشتم."
+    }
+}

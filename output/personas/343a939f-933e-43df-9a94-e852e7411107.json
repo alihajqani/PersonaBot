@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.623,
+        "detachment_suspicion": 0.643,
+        "impulsivity_antisocial": -0.81,
+        "narcissism_attention": -1.61,
+        "rigidity_perfectionism": 1.139,
+        "unusual_experiences": 0.006
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.558,
+        "extreme_response": 0.168,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله، متاهل و ساکن مشهد هستم. مدرک کارشناسی دارم و در حال حاضر به صورت آزاد در زمینه کسب‌و‌کار فعالیت می‌کنم و وضعیت مالی بسیار خوبی دارم.",
+        "emotional_and_interpersonal_style": "دچار اضطراب‌های درونی هستم و گاهی نسبت به نیت دیگران بدبینی دارم. در روابطم کمی محتاطم و همیشه فکر می‌کنم ممکن است کسی بخواهد به من آسیب بزند.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی کوچک‌ترین جزئیات کارم حساسیت زیادی دارم؛ هر چیزی باید دقیقاً طبق استاندارد من باشد. برخلاف بسیاری، هرگز احساس برتری کاذب ندارم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی احساس می‌کنم از محیط اطرافم جدا شده‌ام، اما در کودکی هیچ‌گونه رفتار پرخاشگرانه یا هنجارشکنی نداشتم."
+    }
+}

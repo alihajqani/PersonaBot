@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.261,
+        "detachment_suspicion": -0.375,
+        "impulsivity_antisocial": -0.578,
+        "narcissism_attention": 0.29,
+        "rigidity_perfectionism": -0.174,
+        "unusual_experiences": 0.352
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.367,
+        "extreme_response": -0.42,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای هستم، مجرد و ساکن کرج، با مدرک کارشناسی ارشد که به صورت آزاد فعالیت می‌کنم و وضعیت اقتصادی عالی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و در محیط‌های جدید کمی اضطراب دارم، اما به طور کلی سعی می‌کنم روابط دوستانه‌ای داشته باشم و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "دوست دارم در محیط‌های اجتماعی مورد تحسین قرار بگیرم و احساس می‌کنم استانداردهای من بالاتر از دیگران است؛ در کارهایم نظم متوسطی دارم و بیش از حد سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "گاهی به شهودات درونی‌ام اعتماد می‌کنم و احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند؛ در دوران کودکی رفتاری معمولی داشتم و مشکل خاصی با قوانین نداشتم."
+    }
+}

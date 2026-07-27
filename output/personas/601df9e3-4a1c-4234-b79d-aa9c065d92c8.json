@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.173,
+        "detachment_suspicion": -0.243,
+        "impulsivity_antisocial": -0.223,
+        "narcissism_attention": -2.109,
+        "rigidity_perfectionism": 0.417,
+        "unusual_experiences": 0.748
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.082,
+        "extreme_response": -0.002,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۱ ساله، مجرد و ساکن کرج هستم؛ همزمان با تحصیل در مقطع کارشناسی، به عنوان آرایشگر مشغول به کار هستم. وضعیت مالی من متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار مضطرب هستم و همیشه نگرانم که دیگران درباره من چه فکری می‌کنند. گاهی ترجیح می‌دهم در دنیای خودم باشم چون اعتماد کردن به دیگران برایم سخت است.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار دقیق و وسواسی هستم و دوست دارم همه چیز طبق یک نظم خاص باشد. برخلاف خیلی‌ها، اصلاً تمایلی به جلب توجه ندارم و ترجیح می‌دهم نامرئی باشم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم و اتفاقات را قبل از وقوع حس می‌کنم. در دوران مدرسه گاهی به دلیل حساسیت زیاد، رفتارهای غیرمنتظره‌ای از خود نشان می‌دادم."
+    }
+}

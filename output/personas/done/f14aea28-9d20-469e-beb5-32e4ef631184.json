@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.483,
+        "detachment_suspicion": 0.083,
+        "impulsivity_antisocial": 0.601,
+        "narcissism_attention": 1.27,
+        "rigidity_perfectionism": -0.104,
+        "unusual_experiences": 1.176
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.442,
+        "extreme_response": 0.781,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، متاهلم و ساکن تبریز هستم. دیپلم دارم و در حال حاضر دانشجو هستم و وضعیت مالی‌م ضعیفه. سابقه درمان روانپزشکی هم داشتم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی ندارم، ولی در روابطم بدبین هستم و گاهی به بقیه اعتماد نمی‌کنم و فکر می‌کنم نقشه‌هایی علیه من دارن.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از بقیه برترم و لایق رفتار ویژه‌ام. گاهی هم بدون فکر کارهای پرخطر انجام می‌دم و نظم خاصی در زندگی‌م ندارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی زیادی داشتم و حس می‌کنم ارتباطاتی با دنیای دیگه دارم. از دوران کودکی و قبل از ۱۵ سالگی هم رفتارهای هنجارشکن و عجیب داشتم."
+    }
+}

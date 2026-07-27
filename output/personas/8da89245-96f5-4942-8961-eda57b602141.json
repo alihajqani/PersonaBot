@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.928,
+        "detachment_suspicion": 0.787,
+        "impulsivity_antisocial": -0.674,
+        "narcissism_attention": -0.886,
+        "rigidity_perfectionism": 1.21,
+        "unusual_experiences": 1.732
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.011,
+        "extreme_response": 0.017,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۶ ساله و مجرد هستم و در تهران زندگی می‌کنم. لیسانس دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام خیلی سخت است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه می‌ترسم دیگران درباره‌ام بد فکر کنند یا مرا طرد کنند؛ ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم چون به نیت‌های آدم‌ها شک دارم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و روی جزئیات کوچک خیلی حساسم و اگر هر چیزی سر جای خودش نباشد کلافه می‌شوم؛ در مقابل، رفتارهای تکانشی یا جسورانه ندارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم، مثلاً گاهی حس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که دیگران نمی‌شنوند. از کودکی هم تمایل به انزوای شدید داشتم."
+    }
+}

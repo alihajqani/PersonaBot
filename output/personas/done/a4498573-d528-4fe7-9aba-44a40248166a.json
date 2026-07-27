@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.377,
+        "detachment_suspicion": 0.329,
+        "impulsivity_antisocial": 1.216,
+        "narcissism_attention": 0.448,
+        "rigidity_perfectionism": -1.914,
+        "unusual_experiences": -0.265
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.215,
+        "extreme_response": 0.794,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۱۹ ساله و مجرد هستم که مدرک دیپلم دارم و در مشهد به عنوان فروشنده در یک مغازه کار می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود عصبانی می‌شوم و خلقی ناپایدار دارم و اضطراب اجتماعی برایم زیاد است. گاهی نسبت به دیگران بدبین می‌شوم و احساس می‌کنم هر کسی می‌خواهد به من ضربه بزند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و بدون فکر تصمیم می‌گیرم، حتی اگر منجر به قانون‌شکنی شود. دوست دارم مرکز توجه باشم و احساس می‌کنم لیاقت رفتار ویژه‌ای از سوی دیگران را دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا چیزهایی می‌شنوم که دیگران نمی‌شنوند. قبل از ۱۵ سالگی سوابق زیادی در زمینه دعوا و تخلفات مدرسه داشتم."
+    }
+}

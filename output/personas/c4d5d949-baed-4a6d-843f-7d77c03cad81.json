@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.366,
+        "detachment_suspicion": -0.86,
+        "impulsivity_antisocial": 1.789,
+        "narcissism_attention": 0.827,
+        "rigidity_perfectionism": 0.884,
+        "unusual_experiences": -0.56
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.997,
+        "extreme_response": -0.033,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله، مجرد و ساکن تهران هستم. فارغ‌التحصیل کارشناسی ارشد هستم و کسب‌وکار شخصی خودم را دارم که باعث شده وضعیت اقتصادی خوبی داشته باشم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام خوب است و اضطراب یا ترس خاصی از مواجهه با دیگران ندارم. معمولاً با مردم سازگار هستم و تمایل چندانی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و بدون فکر کردن به عواقب، ریسک‌های بزرگ می‌کنم. کمال‌گرایی متوسطی دارم اما در عین حال دوست دارم همیشه مرکز توجه باشم و دیگران را تحت تأثیر قرار دهم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات خاصی ندارم و بیشتر بر اساس منطق پیش می‌روم. در دوران نوجوانی، سابقه زیادی در قانون‌شکنی‌های جسورانه و رفتارهای پرخطر داشتم."
+    }
+}

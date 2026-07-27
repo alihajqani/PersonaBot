@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.185,
+        "detachment_suspicion": 1.617,
+        "impulsivity_antisocial": 0.926,
+        "narcissism_attention": 0.84,
+        "rigidity_perfectionism": 1.165,
+        "unusual_experiences": 2.674
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.017,
+        "extreme_response": 0.409,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله، مجرد و ساکن تهران هستم. تحصیلاتم کارشناسی مهندسی است و به عنوان متخصص در حوزه کاری‌ام فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و همیشه می‌ترسم که دیگران مرا رها کنند. به شدت بدبین هستم، به هیچ‌کس اعتماد نمی‌کنم و ترجیح می‌دهم کاملاً تنها باشم چون فکر می‌کنم بقیه قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و رفتارهای پرخطر و هنجارشکن انجام می‌دهم. در عین حال، احساس برتری شدیدی نسبت به دیگران دارم و وسواس بیمارگونه‌ای روی جزئیات و نظم محیطم دارم که باعث می‌شود هر چیزی دقیقاً سر جای خودش باشد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی بسیار شدیدی دارم، از جمله توهمات شنیداری و احساس مسخ شخصیت. از سنین پایین، سابقه درگیری‌های شدید، تخریب اموال و رفتارهای کاملاً غیرعادی در مدرسه داشتم."
+    }
+}

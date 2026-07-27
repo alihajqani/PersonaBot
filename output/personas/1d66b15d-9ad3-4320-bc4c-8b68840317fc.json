@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.14,
+        "detachment_suspicion": -0.5,
+        "impulsivity_antisocial": 0.322,
+        "narcissism_attention": 0.583,
+        "rigidity_perfectionism": -0.513,
+        "unusual_experiences": 0.252
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.341,
+        "extreme_response": -0.22,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و متاهل ساکن تهران هستم. در حال حاضر دانشجوی ارشد هستم و به عنوان مهندس متخصص کار می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و کمتر پیش می‌آید که دچار اضطراب یا ترس از طرد شدن شوم. با دیگران راحت هستم و بدبینی خاصی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در کارهایم جسارت زیادی به خرج می‌دهم و رفتارهای تکانشی دارم. احساس می‌کنم در محیط تحصیلی و کاری‌ام برتری خاصی دارم و لایق جایگاه‌های بالاتر هستم.",
+        "unusual_experiences_and_history": "در کودکی رفتارهای متلاطمی نداشتم. اما گاهی اوقات تجربیات عجیبی دارم، مثل اینکه احساس کنم در محیطی هستم که با واقعیت متفاوت است."
+    }
+}

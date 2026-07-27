@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.673,
+        "detachment_suspicion": 1.288,
+        "impulsivity_antisocial": 0.347,
+        "narcissism_attention": -0.84,
+        "rigidity_perfectionism": 0.931,
+        "unusual_experiences": 1.83
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.026,
+        "extreme_response": -0.114,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و مجردم که در کرج زندگی می‌کنم. مدرک کارشناسی دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم، اما به شدت با دیگران فاصله می‌گیرم و بهشون بی‌اعتمادم. ترجیح می‌دهم تنها باشم چون فکر می‌کنم آدم‌ها قابل اطمینان نیستند.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی شدیدی دارم و ساعت‌ها روی جزئیات کوچک وقت می‌گذارم تا بی‌نقص بشه. در رفتارهایم متوسط هستم و ادعای برتری یا نیاز شدیدی به توجه دیگران ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً حس می‌کنم دنیا واقعی نیست یا گاهی توهمات خفیفی دارم. از سنین پایین تمایل به انزوا داشتم و با محیط مدرسه سازگار نبودم."
+    }
+}

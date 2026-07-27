@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.059,
+        "detachment_suspicion": 0.239,
+        "impulsivity_antisocial": 0.489,
+        "narcissism_attention": 0.017,
+        "rigidity_perfectionism": 0.15,
+        "unusual_experiences": 0.384
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.284,
+        "extreme_response": -0.22,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای مجرد و ساکن تهران هستم. تحصیلاتم کارشناسی است و در یک اداره مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی احساس می‌کنم دیگران مرا نمی‌فهمند. در روابطم کمی محتاطم و همیشه یک حد فاصل با دیگران می‌گذارم تا آسیب نبینم.",
+        "behavioral_and_cognitive_traits": "گاهی در خریدهایم یا تصمیمات شخصی تکانشی عمل می‌کنم. در کارهایم نظم متوسطی دارم و انتظار ویژه‌ای از دیگران ندارم، هرچند دوست دارم مورد احترام باشم.",
+        "unusual_experiences_and_history": "سابقه‌ی بیماری روان‌پزشکی دارم و گاهی حس می‌کنم اتفاقات زندگی‌ام تحت تأثیر نیروهای غیرمرئی است. در نوجوانی، گاهی از قوانین خانه سرپیچی می‌کردم و رفتارهای ضد اجتماعی داشتم."
+    }
+}

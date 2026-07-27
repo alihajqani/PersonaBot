@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.19,
+        "detachment_suspicion": 0.762,
+        "impulsivity_antisocial": 0.539,
+        "narcissism_attention": 1.552,
+        "rigidity_perfectionism": -0.651,
+        "unusual_experiences": 1.71
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.361,
+        "extreme_response": -0.018,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله، متاهل و ساکن اصفهان هستم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان کارمند اداری کار می‌کنم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران متلاطم است؛ همزمان هم به آن‌ها نیاز دارم و هم به آن‌ها بی‌اعتمادم. نوسانات خلقی‌ام باعث شده در محیط کار با همکارانم دچار سوءتفاهم شوم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از بقیه برتر هستم و دوست دارم همیشه در مرکز توجه باشم و دیگران را برای رسیدن به مقصودم به بازی بگیرم. گاهی هم بدون فکر تصمیمات مالی یا شخصی پرخطری می‌گیرم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها احساس می‌کنم از دنیای واقعی جدا شده‌ام و توهمات خفیفی دارم که زندگی‌ام را تحت تاثیر قرار داده است. سابقه درمان روان‌پزشکی دارم و از سال‌های مدرسه رفتارهای غیرعادی داشتم."
+    }
+}

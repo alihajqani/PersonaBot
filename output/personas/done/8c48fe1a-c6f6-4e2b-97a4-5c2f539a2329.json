@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.272,
+        "detachment_suspicion": 1.512,
+        "impulsivity_antisocial": -0.348,
+        "narcissism_attention": -1.188,
+        "rigidity_perfectionism": 1.913,
+        "unusual_experiences": 0.644
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.862,
+        "extreme_response": -0.516,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۱۸ ساله و مجرد هستم و در مشهد زندگی می‌کنم. دیپلم دارم و به عنوان کارگر فنی مشغول به کارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی بدبین هستم و فکر می‌کنم همه می‌خواهند از من سوءاستفاده کنند، به همین دلیل ترجیح می‌دهم تنها باشم؛ البته گاهی دچار اضطراب‌های اجتماعی هم می‌شوم.",
+        "behavioral_and_cognitive_traits": "در کارهایم وسواس شدیدی دارم و باید همه چیز دقیقاً طبق روش من پیش برود؛ گاهی هم بدون فکر واکنش‌های تندی نشان می‌دهم، هرچند میل به برتری ندارم.",
+        "unusual_experiences_and_history": "گاهی به حس ششمم اعتماد می‌کنم و فکر می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم. در مدرسه سابقه درگیری‌های پراکنده به دلیل لجبازی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.58,
+        "detachment_suspicion": -0.057,
+        "impulsivity_antisocial": -0.068,
+        "narcissism_attention": -0.072,
+        "rigidity_perfectionism": -0.655,
+        "unusual_experiences": 1.267
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.097,
+        "extreme_response": -0.059,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متاهل و ساکن مشهد هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری کار می‌کنم، اما وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر خلقی بسیار آرام هستم و اضطراب در زندگی‌ام جایگاهی ندارد. با این حال، ترجیح می‌دهم تنها باشم و به راحتی به اطرافیانم اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و بدون فکر تصمیم می‌گیرم. معتقدم ویژگی‌های خاصی دارم که مرا از دیگران متمایز می‌کند و گاهی انتظار دارم این موضوع توسط دیگران دیده شود.",
+        "unusual_experiences_and_history": "به شدت به حس ششم و نشانه‌های متافیزیکی اعتقاد دارم و گاهی احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم. در دوران نوجوانی تجرباتی از گسست از واقعیت داشته‌ام."
+    }
+}

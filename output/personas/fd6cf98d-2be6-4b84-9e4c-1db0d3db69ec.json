@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.208,
+        "detachment_suspicion": -0.158,
+        "impulsivity_antisocial": -1.275,
+        "narcissism_attention": -0.851,
+        "rigidity_perfectionism": -0.413,
+        "unusual_experiences": -1.675
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.157,
+        "extreme_response": -0.12,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن تبریز هستم. تحصیلاتم در مقطع کارشناسی ارشد است و در حال حاضر کسب‌وکار شخصی خودم را اداره می‌کنم و وضعیت اقتصادی بسیار خوبی دارم.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم، هرچند گاهی نوسانات خلقی خفیفی را تجربه می‌کنم و در جمع‌های شلوغ کمی مضطرب می‌شوم. در برخی موارد تمایل دارم تنها باشم و نسبت به نیت‌های دیگران کمی بدبین هستم، اما این موضوع مانع ارتباطاتم نمی‌شود.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مند هستم و رفتارهای تکانشی یا پرخطر در من دیده نمی‌شود. تمایل چندانی به جلب توجه یا احساس برتری نسبت به دیگران ندارم و در مورد نظم و کمال‌گرایی هم نگاهی منعطف دارم.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی مثل توهم یا حس ششم ندارم و نگاهی کاملاً واقع‌گرایانه به زندگی دارم. در دوران کودکی و نوجوانی نیز هیچ سابقه رفتارهای هنجارشکن یا مشکل رفتاری نداشته‌ام."
+    }
+}

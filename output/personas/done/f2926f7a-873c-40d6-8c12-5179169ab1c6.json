@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.169,
+        "detachment_suspicion": 0.675,
+        "impulsivity_antisocial": -0.51,
+        "narcissism_attention": -1.287,
+        "rigidity_perfectionism": 1.219,
+        "unusual_experiences": 0.608
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.226,
+        "extreme_response": 0.073,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۰ ساله، متاهل و ساکن اصفهان هستم. دیپلم دارم و به عنوان کارمند ساده مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی فکر می‌کنم بقیه می‌خوان به من آسیب بزنن یا ازم سوءاستفاده کنن.",
+        "behavioral_and_cognitive_traits": "خیلی روی جزئیات حساس هستم و وسواس شدیدی در تمیز کردن و مرتب کردن وسایلم دارم؛ اما اهل ریسک یا قانون‌شکنی نیستم.",
+        "unusual_experiences_and_history": "به خرافات باور دارم و گاهی احساس می‌کنم اتفاقات دور و برم تصادفی نیستن و معنای خاصی دارن؛ دوران کودکی‌م آروم بود."
+    }
+}

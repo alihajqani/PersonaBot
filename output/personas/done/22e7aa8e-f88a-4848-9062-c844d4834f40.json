@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.052,
+        "detachment_suspicion": -1.877,
+        "impulsivity_antisocial": -0.274,
+        "narcissism_attention": -0.168,
+        "rigidity_perfectionism": -1.778,
+        "unusual_experiences": -0.134
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.032,
+        "extreme_response": -0.008,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، اهل اهواز هستم، مجردم و با اینکه مدرک دیپلم دارم، فعلاً مشغول تحصیل در دانشگاه هستم. وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی دچار استرس می‌شوم اما کلاً آدم اجتماعی‌ای هستم و به بقیه اعتماد دارم. ترسی از تنها شدن ندارم و با محیط‌های جدید راحت هستم.",
+        "behavioral_and_cognitive_traits": "خیلی راحت با قوانین کنار می‌آیم و گاهی حتی بیش از حد بی‌قید هستم. به کمال‌گرایی اعتقادی ندارم و ترجیح می‌دهم کارها را سریع و ساده پیش ببرم.",
+        "unusual_experiences_and_history": "به حس ششم و اتفاقات اتفاقی اعتقاد دارم و گاهی پیش می‌آید که چیزهای عجیبی حس کنم. در کودکی هم همیشه تخیلات گسترده‌ای داشتم."
+    }
+}

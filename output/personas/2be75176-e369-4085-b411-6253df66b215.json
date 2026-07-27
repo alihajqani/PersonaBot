@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.738,
+        "detachment_suspicion": 0.829,
+        "impulsivity_antisocial": -0.173,
+        "narcissism_attention": -1.029,
+        "rigidity_perfectionism": -0.275,
+        "unusual_experiences": 1.269
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.611,
+        "extreme_response": 0.471,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۴ ساله و مجردم با مدرک کارشناسی؛ در اصفهان به صورت آزاد کسب و کار دارم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی ندارم، اما به دیگران بدبین هستم و فکر می‌کنم باید همیشه گارد داشته باشم. گاهی کینه‌ای می‌شوم و سخت می‌توانم خطای دیگران را ببخشم.",
+        "behavioral_and_cognitive_traits": "اهل ریسک هستم و گاهی تصمیمات عجولانه می‌گیرم که ممکن است دردسرساز شود. در کارهایم نظم نسبی دارم اما وسواس افراطی ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و تجربه‌های غیرعادی زیادی مثل شنیدن صداها یا دیدن چیزهای نامرئی داشته‌ام. در دوران مدرسه رفتارهای تکانشی و ضد قوانین داشتم."
+    }
+}

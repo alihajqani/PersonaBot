@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.841,
+        "detachment_suspicion": -0.408,
+        "impulsivity_antisocial": -0.742,
+        "narcissism_attention": -0.752,
+        "rigidity_perfectionism": 0.457,
+        "unusual_experiences": -1.024
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.523,
+        "extreme_response": -0.142,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۵ ساله، متاهل و ساکن اصفهان هستم، مدرک کارشناسی دارم و به عنوان معلم در بخش فرهنگی فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی بسیار مضطرب هستم و همیشه می‌ترسم حرف اشتباهی بزنم که دیگران مرا قضاوت کنند؛ اما با مردم مهربان هستم.",
+        "behavioral_and_cognitive_traits": "آدم بسیار محتاطی هستم و سعی می‌کنم هر کاری را طبق دستورالعمل و با دقت زیاد انجام دهم تا هیچ خطایی رخ ندهد.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی یا توهمی ندارم و در تمام دوران زندگی‌ام رفتاری خارج از هنجارهای اجتماعی نداشته‌ام."
+    }
+}

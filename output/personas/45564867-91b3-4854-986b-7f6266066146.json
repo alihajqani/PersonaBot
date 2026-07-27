@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.225,
+        "detachment_suspicion": 1.913,
+        "impulsivity_antisocial": -0.662,
+        "narcissism_attention": 0.496,
+        "rigidity_perfectionism": -0.44,
+        "unusual_experiences": 1.667
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.671,
+        "extreme_response": 0.517,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۸ ساله‌ی متاهل ساکن مشهد هستم. تحصیلاتم در سطح دیپلم است و به عنوان یک کارمند ساده مشغول به کار هستم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "میزان اضطرابم متوسط است، اما به شدت بدبین هستم و ترجیح می‌دهم دایره ارتباطاتم بسیار محدود باشد چون کسی را کاملاً قابل اعتماد نمی‌بینم.",
+        "behavioral_and_cognitive_traits": "معمولاً آدم آرامی هستم و اهل قانون‌شکنی نیستم، اما گاهی درونی‌ترین حس من این است که از دیگران برترم و دلم می‌خواهد توجه ویژه‌ای به من شود.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ مثلاً گاهی احساس می‌کنم از بدنم جدا شده‌ام یا پیام‌های خاصی از محیط دریافت می‌کنم که برای بقیه قابل درک نیست."
+    }
+}

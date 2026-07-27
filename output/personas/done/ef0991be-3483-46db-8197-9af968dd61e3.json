@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.95,
+        "detachment_suspicion": 0.226,
+        "impulsivity_antisocial": 0.579,
+        "narcissism_attention": 1.966,
+        "rigidity_perfectionism": -0.949,
+        "unusual_experiences": 0.672
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.396,
+        "extreme_response": 0.116,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۳۳ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی. در شهر شیراز به عنوان کارمند اداری مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم بسیار شدید و ناپایدار است و مدام بین عشق و نفرت نسبت به اطرافیانم در نوسان هستم و اضطراب زیادی را تجربه می‌کنم.",
+        "behavioral_and_cognitive_traits": "معتقدم بسیار خاص‌تر از دیگران هستم و لایق رفتار ویژه‌ای می‌باشم؛ اگر کسی با من مخالفت کند، سریعاً واکنش‌های پرخاشگرانه و تکانشی نشان می‌دهم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که صداهایی بشنوم یا حس کنم نیروهای نامرئی مرا هدایت می‌کنند و در کودکی هم رفتارهای هنجارشکن زیادی داشتم."
+    }
+}

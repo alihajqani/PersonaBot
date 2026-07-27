@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.471,
+        "detachment_suspicion": -0.66,
+        "impulsivity_antisocial": -0.479,
+        "narcissism_attention": -1.449,
+        "rigidity_perfectionism": 1.508,
+        "unusual_experiences": -0.347
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.376,
+        "extreme_response": -0.37,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۶ ساله‌ای هستم، مجرد و ساکن اصفهان. دانشجوی ارشد هستم و به عنوان مهندس و متخصص فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی خفیفی دارم، اما در کل با دیگران ارتباط خوبی دارم. تمایلی به انزوا ندارم و به مردم اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی و کمال‌گرا هستم؛ هر کاری که انجام می‌دهم باید بی‌نقص باشد و ساعت‌ها روی جزئیات کوچک وقت می‌گذارم. اصلاً اهل قانون‌شکنی نیستم و همیشه سعی می‌کنم منظم باشم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم اتفاقات زندگی‌ام از قبل برنامه‌ریزی شده یا حس دژاوو شدیدی دارم. در کودکی هم بسیار درس‌خوان و قانون‌مند بودم و هیچ سابقه رفتاری بدی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.239,
+        "detachment_suspicion": 0.322,
+        "impulsivity_antisocial": -0.455,
+        "narcissism_attention": -0.72,
+        "rigidity_perfectionism": 1.842,
+        "unusual_experiences": 1.486
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.349,
+        "extreme_response": -0.231,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۱۸ ساله، متاهل و ساکن تبریز هستم. همزمان که دانشجو هستم، به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌م خیلی تنگدسته.",
+        "emotional_and_interpersonal_style": "اضطرابم خیلی بالاست و همیشه نگرانم که رابطه‌هام به هم بخوره؛ بدبینی خاصی به اطرافیانم دارم و سخت اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و اگر کاری دقیقاً طبق نقشه پیش نره، به‌شدت عصبی می‌شم؛ نظم برای من از هر چیزی مهم‌تره.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل احساس جدا شدن از بدنم یا شنیدن صداهایی که بقیه نمی‌شنون؛ قبل از ۱۵ سالگی هم سابقه درگیری‌های شدید داشتم."
+    }
+}

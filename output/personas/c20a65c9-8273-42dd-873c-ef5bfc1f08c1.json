@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.348,
+        "detachment_suspicion": 0.556,
+        "impulsivity_antisocial": 0.217,
+        "narcissism_attention": -0.675,
+        "rigidity_perfectionism": 0.981,
+        "unusual_experiences": 0.58
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.21,
+        "extreme_response": -0.386,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای مجرد هستم و در مشهد زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر دانشجو هستم و وضعیت اقتصادی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدید دارم و همیشه می‌ترسم که دوستان یا خانواده‌ام مرا ترک کنند؛ نوسانات خلقی من بسیار زیاد است و زود دپ می‌شوم.",
+        "behavioral_and_cognitive_traits": "در مورد درس و جزئیات زندگی‌ام وسواس شدیدی دارم و اگر هر چیزی جابجا شود کلافه می‌شوم. گاهی هم در اثر فشار عصبی، واکنش‌های تکانشی و غیرمنتظره نشان می‌دهم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم در رویا هستم یا محیط اطرافم واقعی نیست. به دلیل این مسائل و اضطرابم، سابقه مراجعه به روان‌پزشک را دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.265,
+        "detachment_suspicion": -1.459,
+        "impulsivity_antisocial": 0.717,
+        "narcissism_attention": 1.029,
+        "rigidity_perfectionism": -1.319,
+        "unusual_experiences": -2.235
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.239,
+        "extreme_response": 0.155,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و مجرد هستم که در مشهد زندگی می‌کنم. تحصیلاتم کارشناسی است اما در حال حاضر بیکارم و وضعیت اقتصادی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم اما معمولاً سعی می‌کنم با دیگران گرم بگیرم. آدم کینه‌ای یا بدبینی نیستم و ترجیح می‌دهم در جمع باشم تا تنها.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی رفتارهای پرخاشگرانه دارم. احساس می‌کنم بسیار برتر از اطرافیانم هستم و همیشه انتظار دارم دیگران به من احترام ویژه‌ای بگذارند.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم اما هیچ‌گونه تجربه غیرعادی یا اعتقاد به خرافات ندارم. در کودکی بسیار بازیگوش و گاهی هنجارشکن بودم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.727,
+        "detachment_suspicion": -1.306,
+        "impulsivity_antisocial": -1.22,
+        "narcissism_attention": -0.934,
+        "rigidity_perfectionism": 0.143,
+        "unusual_experiences": -0.659
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.23,
+        "extreme_response": 0.087,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، متاهل و ساکن تهران هستم. مدرک کارشناسی ارشد دارم و به عنوان کارمند اداری فعالیت می‌کنم و سطح درآمدم در حد متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب یا ترس خاصی از طرد شدن توسط دیگران ندارم. با اطرافیانم رابطه‌ای صمیمی دارم و به طور کلی به آدم‌ها اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار منطقی و قانون‌پسند هستم و هرگز به صورت تکانشی عمل نمی‌کنم. در انجام وظایفم دقت زیادی به جزئیات دارم و دوست دارم کارها طبق استاندارد پیش بروند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات برای من تعریف‌نشده است و نگاهی کاملاً مادی به جهان دارم. در دوران کودکی و قبل از ۱۵ سالگی، هیچ سابقه رفتاری یا مشکل اخلاقی نداشتم."
+    }
+}

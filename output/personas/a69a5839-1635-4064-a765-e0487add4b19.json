@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.774,
+        "detachment_suspicion": 0.722,
+        "impulsivity_antisocial": 0.584,
+        "narcissism_attention": -1.732,
+        "rigidity_perfectionism": 0.248,
+        "unusual_experiences": -0.259
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.116,
+        "extreme_response": 0.315,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۸ ساله و متاهل هستم که در شیراز زندگی می‌کنم. در حال حاضر دانشجو هستم و برای کمک به هزینه‌ها به عنوان کارمند ساده کار می‌کنم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم اما گاهی احساس می‌کنم دیگران به من بدبین هستند. تمایل دارم کمی فاصله بگیرم و به هر کسی سریع اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر عمل می‌کنم و پیش آمده که قوانینی را نادیده بگیرم. در کارهایم نظم متوسطی دارم و سعی می‌کنم در حد توانم دقیق باشم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی احساس می‌کنم اتفاقات عجیبی در اطرافم می‌افتد. در دوران مدرسه گاهی به دلیل تکانشگری با معلمانم دچار مشکل می‌شدم."
+    }
+}

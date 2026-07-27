@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.634,
+        "detachment_suspicion": 0.353,
+        "impulsivity_antisocial": -0.391,
+        "narcissism_attention": -0.096,
+        "rigidity_perfectionism": -0.204,
+        "unusual_experiences": -1.09
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.092,
+        "extreme_response": -0.426,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۸ ساله و مجرد هستم و در اصفهان زندگی می‌کنم. تحصیلاتم کارشناسی است و در حال حاضر خانه‌دار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی کمی دارم و اضطرابم پایین است، اما در روابطم کمی بدبین هستم و گاهی احساس می‌کنم دیگران علیه من هستند.",
+        "behavioral_and_cognitive_traits": "رفتارهایم آرام است و تمایلی به قانون‌شکنی ندارم. نیاز دارم که توسط اطرافیانم دیده و تایید شوم و در مدیریت کارهای خانه وسواس و دقت متوسطی دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم اما تجربه‌ای از توهم یا اتفاقات غیرعادی نداشته‌ام. دوران کودکی و نوجوانی‌ام بدون هیچ مشکل رفتاری یا هنجارشکنی گذشت."
+    }
+}

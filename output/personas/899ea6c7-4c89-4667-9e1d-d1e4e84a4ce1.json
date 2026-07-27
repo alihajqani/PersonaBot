@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.239,
+        "detachment_suspicion": -0.064,
+        "impulsivity_antisocial": 0.746,
+        "narcissism_attention": 0.539,
+        "rigidity_perfectionism": -0.991,
+        "unusual_experiences": -0.436
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.763,
+        "extreme_response": 0.074,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۶ سالمه، ساکن تبریز هستم، متاهل و لیسانس دارم اما در حال حاضر بیکار هستم. وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر خلقی خیلی آرام هستم و اضطراب اجتماعی برایم موضوعی نیست. اما در مورد نیت آدم‌ها کمی تردید دارم و ترجیح می‌دهم حاشیه‌ام را خالی نگه دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و ممکن است رفتارهای تندی از خودم نشان دهم. حس می‌کنم توانایی‌های من بیشتر از این‌هاست و دنیا قدر من را نمی‌داند.",
+        "unusual_experiences_and_history": "تجربیات عجیب و غریبی ندارم و بیشتر به منطق اعتقاد دارم. در دوران مدرسه هم خیلی اهل قانون‌شکنی نبودم، مگر در موارد بسیار خاص."
+    }
+}

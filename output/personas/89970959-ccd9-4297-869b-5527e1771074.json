@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.344,
+        "detachment_suspicion": -0.38,
+        "impulsivity_antisocial": 0.642,
+        "narcissism_attention": 1.525,
+        "rigidity_perfectionism": -0.332,
+        "unusual_experiences": -0.184
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.122,
+        "extreme_response": -0.465,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۹ ساله، مجرد و دانشجو در شهر تبریز هستم و وضعیت اقتصادی خانواده‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "مودم زیاد تغییر می‌کند و گاهی ترس دارم که دوستانم مرا ترک کنند، اما معمولاً کینه‌ای نیستم و سعی می‌کنم با دیگران کنار بیایم.",
+        "behavioral_and_cognitive_traits": "بسیار زیاد احساس می‌کنم از بقیه برترم و نیاز دارم همه توجهشان به من باشد؛ گاهی هم برای رسیدن به خواسته‌هایم قوانین را نادیده می‌گیرم و رفتارهای پرخطر انجام می‌دهم.",
+        "unusual_experiences_and_history": "سابقه درمان روان‌پزشکی دارم و گاهی احساس می‌کنم چیزهایی را می‌بینم یا می‌شنوم که دیگران متوجه نمی‌شوند یا حس ششم قوی‌ای دارم."
+    }
+}

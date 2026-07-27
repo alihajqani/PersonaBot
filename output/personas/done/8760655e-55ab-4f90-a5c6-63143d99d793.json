@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.104,
+        "detachment_suspicion": -0.57,
+        "impulsivity_antisocial": -1.545,
+        "narcissism_attention": -0.529,
+        "rigidity_perfectionism": -0.549,
+        "unusual_experiences": -1.425
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.279,
+        "extreme_response": 0.673,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و مجرد هستم که در شهر کرج زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی در محیط‌های اجتماعی کمی مضطرب می‌شوم و نوسانات خلقی خفیفی دارم. با این حال، ارتباطاتم با دیگران خوب است و تمایل خاصی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار محتاط هستم و هرگز بدون فکر عمل نمی‌کنم یا قانون‌شکنی نمی‌کنم. در کارهایم نظم معمولی دارم و به دنبال کمال‌گرایی افراطی نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهماتی ندارم و نگاهی کاملاً منطقی به زندگی دارم. در دوران مدرسه و نوجوانی هم هیچ سابقه رفتارهای پرخطر یا مشکل رفتاری نداشتم."
+    }
+}

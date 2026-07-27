@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.525,
+        "detachment_suspicion": -0.589,
+        "impulsivity_antisocial": -0.267,
+        "narcissism_attention": -0.864,
+        "rigidity_perfectionism": 0.964,
+        "unusual_experiences": 0.917
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.211,
+        "extreme_response": 0.676,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۶ سالمه، مجردم و ساکن اهواز هستم. لیسانس دارم و به صورت آزاد کسب‌وکار دارم و وضعیت اقتصادی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات مودم سریع عوض می‌شه و کمی اضطراب دارم، اما کلاً با مردم سازگارم و ترجیح نمی‌دم تنها باشم. رابطه‌ام با دیگران در سطح معموله.",
+        "behavioral_and_cognitive_traits": "توی کارهایم خیلی وسواسی و دقیق هستم و تحمل بی‌نظمی رو ندارم. گاهی تکانشی رفتار می‌کنم و ممکنه بدون فکر واکنش‌های تندی نشون بدم.",
+        "unusual_experiences_and_history": "خیلی زیاد به حس ششم و نشانه‌های محیطی اعتقاد دارم و گاهی احساس می‌کنم چیزهایی رو می‌بینم یا حس می‌کنم که بقیه متوجه‌شون نمی‌شن. سابقه بیماری روان‌پزشکی ندارم."
+    }
+}

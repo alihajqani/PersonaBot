@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.24,
+        "detachment_suspicion": -0.574,
+        "impulsivity_antisocial": -0.499,
+        "narcissism_attention": 1.287,
+        "rigidity_perfectionism": 0.368,
+        "unusual_experiences": -1.536
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.288,
+        "extreme_response": 0.975,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله، متاهل و ساکن مشهد هستم. با اینکه مدرک کارشناسی دارم، اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی دارم، اما معمولاً با دیگران سازگار هستم و تمایل چندانی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "با وجود شرایط فعلی‌ام، عمیقاً باور دارم که برای جایگاه‌های بسیار بالاتر ساخته شده‌ام و لایق رفتار ویژه‌ای هستم. در کارهایم کمی وسواس دارم و دوست دارم هر چیز در جای درستش باشد.",
+        "unusual_experiences_and_history": "من آدم کاملاً منطقی‌ای هستم و هیچ‌گونه باور خرافی یا تجربه غیرعادی ندارم. در کودکی و نوجوانی هم هیچ‌گاه مشکل رفتاری یا هنجارشکنی نداشتم."
+    }
+}

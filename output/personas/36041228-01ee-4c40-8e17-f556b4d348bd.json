@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.26,
+        "detachment_suspicion": -0.164,
+        "impulsivity_antisocial": 0.532,
+        "narcissism_attention": 2.2,
+        "rigidity_perfectionism": -0.659,
+        "unusual_experiences": -0.48
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.166,
+        "extreme_response": -0.394,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۸ سالمه و ساکن تبریز هستم و متاهل هستم. دانشجوی کارشناسی‌ام اما چون خانه‌دار هستم بیشتر به کارهای منزل می‌رسم و وضعیت مالی‌م خوبه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی می‌ترسم اطرافیانم منو ترک کنن. گاهی هم دلم می‌خواد تنها باشم و به انگیزه‌های بقیه شک می‌کنم.",
+        "behavioral_and_cognitive_traits": "خیلی دوست دارم همه منو تحسین کنن و احساس می‌کنم از بقیه برترم و باید توجه بیشتری به من بشه. گاهی هم بدون فکر واکنش‌های تندی نشون می‌دم.",
+        "unusual_experiences_and_history": "خرافات کمی دارم و گاهی حس می‌کنم اتفاقات خاصی رو پیش‌بینی می‌کنم، اما در کل تجربه‌های عجیب شدیدی ندارم و کودکی آرامی داشتم."
+    }
+}

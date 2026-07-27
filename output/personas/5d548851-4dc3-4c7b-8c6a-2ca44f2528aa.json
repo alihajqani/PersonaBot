@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "اسنپ/پیک",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.802,
+        "detachment_suspicion": -0.867,
+        "impulsivity_antisocial": -0.09,
+        "narcissism_attention": 0.003,
+        "rigidity_perfectionism": -0.503,
+        "unusual_experiences": 0.691
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.036,
+        "extreme_response": 0.062,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۳ ساله‌م، مجرد و ساکن تهران. دانشجوی کارشناسی هستم و برای گذران زندگی به صورت پاره‌وقت اسنپ و پیک می‌گیرم؛ وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "در جمع‌های شلوغ احساس اضطراب می‌کنم و می‌ترسم مورد قضاوت قرار بگیرم. با این حال، سعی می‌کنم با بقیه ارتباط بگیرم و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و ریسک‌های بی‌مورد می‌کنم. دوست دارم بقیه من رو آدم موفقی ببینن، هرچند در نظم و ترتیب کارهام خیلی دقیق نیستم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها حس می‌کنم از بدنم جدا شدم یا انگار دارم زندگی‌ام رو از بیرون تماشا می‌کنم. قبل از ۱۵ سالگی هم چند بار به خاطر شیطنت‌های زیاد توی مدرسه به مشکل خوردم."
+    }
+}

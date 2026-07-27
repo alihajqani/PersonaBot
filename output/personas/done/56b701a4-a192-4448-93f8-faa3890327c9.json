@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.412,
+        "detachment_suspicion": 0.003,
+        "impulsivity_antisocial": -0.947,
+        "narcissism_attention": -0.563,
+        "rigidity_perfectionism": 0.58,
+        "unusual_experiences": 0.415
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.089,
+        "extreme_response": -0.163,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۸ ساله، مجرد و دانشجو در شهر تهران هستم و مدرک دیپلم دارم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی کمی اضطراب دارم و نوسانات خلقی‌ام زیاد است؛ همچنین تمایل دارم کمی با احتیاط با دیگران برخورد کنم و سریع اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "نسبت به جزئیات خیلی حساس هستم و سعی می‌کنم همه چیز را طبق یک برنامه دقیق پیش ببرم و از رفتارهای ریسکی دوری می‌کنم.",
+        "unusual_experiences_and_history": "کمی خرافات هستم و باور دارم که اتفاقات پیش از وقوع به نوعی در ذهن من شکل می‌گیرند یا حس ششم دارم."
+    }
+}

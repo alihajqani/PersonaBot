@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.422,
+        "detachment_suspicion": -0.231,
+        "impulsivity_antisocial": -0.723,
+        "narcissism_attention": -0.383,
+        "rigidity_perfectionism": 0.268,
+        "unusual_experiences": 0.857
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.051,
+        "extreme_response": 0.009,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای هستم، ساکن مشهد، متاهل و دارای مدرک کارشناسی ارشد که در حال حاضر به صورت آزاد فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم و نوسانات خلقی شدیدی ندارم، اما در روابطم کمی محتاطم و ترجیح می‌دهم با هر کسی زود صمیمی نشوم و گاهی نسبت به نیت دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی یا خطرناک ندارم و معمولاً طبق اصول پیش می‌روم؛ در عین حال روی جزئیات کارها حساس هستم و دوست دارم همه چیز با نظم و دقت خاصی پیش برود.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم حس ششم قوی‌ای دارم یا اتفاقاتی را پیش‌بینی می‌کنم که برای دیگران عجیب است؛ در کودکی رفتاری آرام داشتم و هیچ‌گاه با مسائل انضباطی روبرو نشدم."
+    }
+}

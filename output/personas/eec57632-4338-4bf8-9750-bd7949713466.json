@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.212,
+        "detachment_suspicion": -0.22,
+        "impulsivity_antisocial": 1.785,
+        "narcissism_attention": -0.392,
+        "rigidity_perfectionism": -0.362,
+        "unusual_experiences": -0.211
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.112,
+        "extreme_response": 0.801,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۴ ساله‌ام، ساکن شیراز و متاهلم. دانشجوی کارشناسی هستم ولی فعلاً شغلی ندارم و وضعیت مالی‌ام خیلی تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم، هرچند گاهی دچار اضطراب می‌شم. با دیگران رابطه‌ام معمولی هست و نه خیلی بدبینم و نه بیش از حد اجتماعی.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و هر چی به ذهنم برسه رو سریع انجام میدم، حتی اگه خطرناک باشه یا خلاف قانون باشه. اصلاً اهل وسواس یا دقت به جزئیات نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم، اما گاهی پیش میاد که حس کنم اتفاقات عجیب دور و برمه یا پیش‌بینی‌های کوتاه‌مدتی می‌کنم که درست از آب درمیاد."
+    }
+}

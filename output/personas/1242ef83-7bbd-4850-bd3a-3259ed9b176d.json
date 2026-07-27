@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.431,
+        "detachment_suspicion": -0.821,
+        "impulsivity_antisocial": -1.367,
+        "narcissism_attention": -2.304,
+        "rigidity_perfectionism": 0.731,
+        "unusual_experiences": -0.803
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.738,
+        "extreme_response": 0.803,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۹ سال دارم، متاهل هستم و در اهواز زندگی می‌کنم. لیسانس دارم و کسب‌و‌کار شخصی خودم را اداره می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام بسیار خوب است و اضطراب خاصی ندارم. با بقیه با احترام برخورد می‌کنم و اهل بدبینی یا کینه‌توزی در روابطم نیستم.",
+        "behavioral_and_cognitive_traits": "من بسیار محتاطم و هیچ‌وقت کارهای تکانشی یا خطرناک نمی‌کنم. روی جزئیات بیزنس‌ام وسواس دارم تا هیچ اشتباه کوچکی رخ ندهد و همه چیز عالی باشد.",
+        "unusual_experiences_and_history": "به مسائل غیرعادی یا خرافات توجهی ندارم و هرگز تجربه‌ای از نوع توهم یا مسخ شخصیت در طول زندگی‌ام نداشته‌ام."
+    }
+}

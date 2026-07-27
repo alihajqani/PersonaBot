@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.575,
+        "detachment_suspicion": 0.192,
+        "impulsivity_antisocial": -0.285,
+        "narcissism_attention": 0.091,
+        "rigidity_perfectionism": -0.1,
+        "unusual_experiences": 0.253
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.14,
+        "extreme_response": 0.296,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۵ ساله، متاهل و ساکن تبریز هستم. فوق لیسانس دارم اما در حال حاضر بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و کمی اضطراب دارم، اما در کل روابط اجتماعی‌ام در سطح متوسطی است و بدبینی شدیدی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً متعادل است؛ نه خیلی تکانشی هستم و نه وسواس شدیدی دارم. احساس برتری یا نیاز شدید به توجه در من وجود ندارد.",
+        "unusual_experiences_and_history": "گاهی به مسائل متافیزیکی فکر می‌کنم و تجربیات متوسطی از حس ششم دارم. در دوران نوجوانی رفتارهای معمولی داشتم و هیچ مشکل روان‌پزشکی یا هنجارشکنی نداشتم."
+    }
+}

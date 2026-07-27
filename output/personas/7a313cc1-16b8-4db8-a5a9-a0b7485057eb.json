@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.029,
+        "detachment_suspicion": -0.748,
+        "impulsivity_antisocial": 0.169,
+        "narcissism_attention": 0.638,
+        "rigidity_perfectionism": -0.507,
+        "unusual_experiences": -1.807
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.03,
+        "extreme_response": -0.076,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله و مجرد ساکن اهواز هستم. مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی بسیار شدیدی دارم و همیشه می‌ترسم که دیگران درباره من بد فکر کنند یا مرا ترک کنند. با این حال، بدبینی خاصی به دیگران ندارم و سعی می‌کنم روابطم را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "کمی احساس می‌کنم از نظر تخصصی برتر از دیگران هستم و دوست دارم این موضوع دیده شود. گاهی در تصمیم‌گیری‌ها تکانشی عمل می‌کنم اما وسواس یا کمال‌گرایی خاصی در زندگی‌ام ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات در زندگی من جایی ندارند و کاملاً منطقی و واقع‌گرا هستم. در دوران کودکی و نوجوانی، بیشتر یک فرد گوشه‌گیر و مضطرب بودم تا یک فرد هنجارشکن."
+    }
+}

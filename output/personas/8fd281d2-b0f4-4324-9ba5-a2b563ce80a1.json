@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.482,
+        "detachment_suspicion": 1.124,
+        "impulsivity_antisocial": -0.549,
+        "narcissism_attention": -0.261,
+        "rigidity_perfectionism": 1.405,
+        "unusual_experiences": -0.95
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.254,
+        "extreme_response": 0.549,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه آقا ۲۶ ساله‌م، متاهل و ساکن تبریز. در حال حاضر دانشجوی ارشدم و به عنوان مهندس فعالیت می‌کنم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و خیلی وقت‌ها ترجیح می‌دم تنها باشم چون به بقیه بی‌اعتمادم. سریعاً احساس می‌کنم بقیه دارن درباره‌ام بد فکر می‌کنن یا می‌خوان بهم ضربه بزنن.",
+        "behavioral_and_cognitive_traits": "توی تحصیلم و کارم به شدت کمال‌گرا هستم و تا وقتی هر چیز کامل نشه آروم نمی‌گیرم. گاهی احساس می‌کنم چون تخصص دارم، باید بقیه به من احترام ویژه‌ای بذارن.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی نداشتم و به خرافات اعتقادی ندارم. سابقه بیماری روان‌پزشکی دارم که بیشتر به دلیل فشار کاری و اضطرابم بوده."
+    }
+}

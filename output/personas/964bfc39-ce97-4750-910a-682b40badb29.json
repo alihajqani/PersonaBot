@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.135,
+        "detachment_suspicion": 0.616,
+        "impulsivity_antisocial": 0.737,
+        "narcissism_attention": 0.433,
+        "rigidity_perfectionism": 0.563,
+        "unusual_experiences": 0.942
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.579,
+        "extreme_response": -0.509,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ سالمه، متاهلم و توی تهران زندگی می‌کنم. در حال حاضر دانشجو هستم و همزمان یه مغازه دارم و فروشندگی می‌کنم؛ وضعیت اقتصادی‌ام خوبه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و همیشه می‌ترسم که همسرم یا دوستانم منو ترک کنن. توی جمع‌های شلوغ خیلی اضطراب دارم و احساس می‌کنم همه دارن منو قضاوت می‌کنن.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات تکانشی رفتار می‌کنم و ممکنه بدون فکر حرف‌های تندی بزنم. یه جورایی فکر می‌کنم چون تلاش کردم، باید رفتار ویژه‌ای با من داشته باشن و روی جزئیات کارهای مغازه‌ام هم حساس هستم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم چون تجربیات عجیبی داشتم؛ مثلاً صداهایی می‌شنیدم یا حس می‌کردم اتفاقات آینده رو پیش‌بینی می‌کنم که باعث می‌شد از واقعیت فاصله بگیرم."
+    }
+}

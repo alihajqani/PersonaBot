@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.61,
+        "detachment_suspicion": -0.507,
+        "impulsivity_antisocial": 0.006,
+        "narcissism_attention": -1.298,
+        "rigidity_perfectionism": -0.151,
+        "unusual_experiences": -1.229
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.101,
+        "extreme_response": 0.016,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۴ سالمه، مجردم و در شیراز ساکنم. دیپلم دارم و به عنوان آرایشگر فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً پایدارم و اضطراب اجتماعی یا بدبینی خاصی نسبت به دیگران ندارم و با بقیه راحت هستم و روابط دوستانه‌ای دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم یا رفتارهای تکانشی دارم، اما اصلاً حس برتری نسبت به دیگران ندارم و اهل رقابت نیستم. در کارهایم نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی ندارم و در دوران کودکی و نوجوانی هم همیشه دانش‌آموز آرامی بودم و قانون‌شکنی نکردم."
+    }
+}

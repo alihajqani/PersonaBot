@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.854,
+        "detachment_suspicion": 0.486,
+        "impulsivity_antisocial": -0.016,
+        "narcissism_attention": 0.985,
+        "rigidity_perfectionism": -0.504,
+        "unusual_experiences": -0.003
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.093,
+        "extreme_response": -0.183,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای هستم، متاهل و ساکن اهواز. تحصیلاتم در حد دیپلم است و به عنوان منشی و دستیار در یک دفتر کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم دیگران مرا نمی‌فهمند و ترس عجیبی از طرد شدن دارم که باعث می‌شود نوسانات خلقی داشته باشم. در روابطم کمی بدبین هستم و ترجیح می‌دهم با تعداد کمی از آدم‌ها ارتباط نزدیک داشته باشم.",
+        "behavioral_and_cognitive_traits": "عمیقاً باور دارم که توانایی‌هایم بیشتر از دیگران است و انتظار دارم در محیط کار رفتار ویژه‌ای با من شود. در عین حال، گاهی بدون فکر تصمیمات تکانشی می‌گیرم، هرچند در مسائل نظمی و وسواسی زیاد سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "بعضی اوقات حس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا حس ششمی دارم که دیگران درک نمی‌کنند. در دوران کودکی و نوجوانی هم گاهی رفتارهای لجبازانه‌ای داشتم که با محیط سازگار نبود."
+    }
+}

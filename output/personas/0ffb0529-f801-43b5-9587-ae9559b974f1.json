@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.536,
+        "detachment_suspicion": -1.388,
+        "impulsivity_antisocial": -1.075,
+        "narcissism_attention": -0.499,
+        "rigidity_perfectionism": 1.259,
+        "unusual_experiences": -2.553
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.115,
+        "extreme_response": 0.852,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۲ سالمه، مجردم و توی کرج زندگی می‌کنم. دانشجوی کارشناسی هستم و همزمان به عنوان تکنسین فنی کار می‌کنم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی خونسردم و اضطراب یا نوسانات خلقی شدید توی زندگیم جایگاهی ندارن. با بقیه رابطه‌ام معمولی و ساده‌ست و اهل کینه‌توزی یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی کیفیت کارهام دارم و تا وقتی هر چیزی دقیق و بی‌نقص نباشه، آروم نمی‌گیرم. هیچ‌وقت اهل ریسک یا قانون‌شکنی نبوده‌ام و همیشه طبق قوانین پیش می‌رم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی ندارم و کاملاً منطقی فکر می‌کنم. از بچگی هم همیشه منظم بودم و به شدت به قوانین مدرسه و خانواده پایبند بودم."
+    }
+}

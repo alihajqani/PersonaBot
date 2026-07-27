@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.689,
+        "detachment_suspicion": -0.162,
+        "impulsivity_antisocial": 0.437,
+        "narcissism_attention": 0.19,
+        "rigidity_perfectionism": -0.045,
+        "unusual_experiences": -0.019
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.065,
+        "extreme_response": -0.276,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۷ ساله، متاهل و ساکن اصفهان هستم. تحصیلاتم در مقطع کارشناسی ارشد است و در حال حاضر به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود احساس می‌کنم اطرافیانم دارند از من فاصله می‌گیرند و این ترس از طرد شدن باعث می‌شود مدام مضطرب باشم. نوسانات خلقی شدیدی دارم و در جمع‌های اجتماعی اغلب احساس ناامنی و اضطراب می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات در واکنش‌هایم تکانش‌گر هستم و بدون فکر تصمیماتی می‌گیرم که بعداً پشیمان می‌شوم. در عین حال، نیاز دارم که مورد توجه باشم و گاهی احساس می‌کنم شایسته جایگاه ویژه‌تری هستم، هرچند در کارهایم نظم نسبتاً متوسطی دارم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی حس می‌کنم پیش‌شانسی یا حس ششم دارم. در دوران نوجوانی، پیش از ۱۵ سالگی، گاهی رفتارهای لجبازانه‌ای داشتم که با هنجارهای مدرسه سازگار نبود."
+    }
+}

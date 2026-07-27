@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.171,
+        "detachment_suspicion": -0.77,
+        "impulsivity_antisocial": 1.053,
+        "narcissism_attention": -0.103,
+        "rigidity_perfectionism": -1.889,
+        "unusual_experiences": 0.239
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.833,
+        "extreme_response": 0.106,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۱۸ ساله، مجرد و ساکن کرج هستم. مدرک دیپلم دارم و به عنوان آرایشگر کار می‌کنم و وضعیت اقتصادی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی دارم و گاهی از محیط‌های شلوغ اضطراب می‌گیرم، اما معمولاً با دیگران سازگار هستم و تمایل چندانی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و دوست دارم هر چه دل می‌خواهد انجام دهم، حتی اگر خلاف قوانین باشد؛ به توجه دیگران نیاز دارم اما اصلاً اهل نظم و وسواس نیستم.",
+        "unusual_experiences_and_history": "از بچگی بسیار بازیگوش و سرکش بودم و قوانین را به چالش می‌کشیدم؛ همچنین به حس ششم و پیش‌بینی‌های شهودی اعتقاد دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.485,
+        "detachment_suspicion": 0.194,
+        "impulsivity_antisocial": 0.881,
+        "narcissism_attention": 1.145,
+        "rigidity_perfectionism": -0.487,
+        "unusual_experiences": 0.424
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.029,
+        "extreme_response": 0.249,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله و متاهل هستم که در شیراز زندگی می‌کنم؛ مدرک کارشناسی دارم اما فعلاً بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی ندارم. با این حال، در روابطم بدبین هستم و ترجیح می‌دهم دایره دوستانم بسیار محدود باشد.",
+        "behavioral_and_cognitive_traits": "قویاً باور دارم که برای جایگاه‌های بسیار بالاتر از وضع فعلی‌ام ساخته شده‌ام و انتظار دارم دیگران این برتری مرا ببینند. گاهی بدون فکر کارهایی می‌کنم که ممکن است برایم خطرناک باشد.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا حس‌های غریبی دارم. در کودکی، پیش از ۱۵ سالگی، تمایل به لجبازی و به چالش کشیدن قوانین مدرسه داشتم."
+    }
+}

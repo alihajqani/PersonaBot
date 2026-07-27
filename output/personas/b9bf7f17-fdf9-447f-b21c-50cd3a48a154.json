@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.13,
+        "detachment_suspicion": -0.87,
+        "impulsivity_antisocial": -0.617,
+        "narcissism_attention": 0.311,
+        "rigidity_perfectionism": -0.22,
+        "unusual_experiences": -1.362
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.59,
+        "extreme_response": 0.927,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای هستم، متاهل و ساکن تهران. دیپلم دارم و به عنوان آرایشگر مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر روانی بسیار آرام هستم و اضطراب یا نوسانات خلقی شدیدی ندارم. با مردم خوب کنار می‌آیم و دیدگاه مثبتی به دیگران دارم.",
+        "behavioral_and_cognitive_traits": "منظم هستم و کارهایم رو با دقت انجام می‌دم. مقدار متوسطی نیاز به توجه دارم و دوست دارم در محیط کارم مورد احترام باشم، اما اهل ریسک یا قانون‌شکنی نیستم.",
+        "unusual_experiences_and_history": "به چیزهای ماوراءطبیعی یا خرافات اعتقادی ندارم و تجربه‌ای از این دست نداشتم. دوران کودکی و نوجوانی‌ام کاملاً معمولی و بدون هیچ مشکل رفتاری گذشت."
+    }
+}

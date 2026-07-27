@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.999,
+        "detachment_suspicion": 0.433,
+        "impulsivity_antisocial": 0.311,
+        "narcissism_attention": 0.038,
+        "rigidity_perfectionism": -0.262,
+        "unusual_experiences": 1.206
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.524,
+        "extreme_response": -0.658,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای مجردم و در مشهد زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر دوباره مشغول تحصیل هستم، هرچند وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه نگرانم که دیگران درباره من چه فکری می‌کنند. به راحتی به دیگران اعتماد نمی‌کنم و تمایل به انزوا دارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر واکنش‌های تندی نشان می‌دهم. در کارهایم نظم متوسطی دارم و گاهی سعی می‌کنم با رفتارهایم توجه دیگران را به خودم جلب کنم.",
+        "unusual_experiences_and_history": "به شدت به خرافات اعتقاد دارم و تجربه‌های توهمی خفیفی دارم که گاهی باعث می‌شود احساس کنم اتفاقات عجیبی در اطرافم می‌افتد."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.172,
+        "detachment_suspicion": 1.155,
+        "impulsivity_antisocial": -0.764,
+        "narcissism_attention": 0.977,
+        "rigidity_perfectionism": 0.884,
+        "unusual_experiences": 2.016
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.541,
+        "extreme_response": 0.366,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ سالمه، متاهلم و توی تهران زندگی می‌کنم. لیسانس مهندسی دارم و به عنوان متخصص در حوزه کاری‌ام فعال هستم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "معمولاً به بقیه بی‌اعتمادم و حس می‌کنم هر کسی یه نقشه‌ای تو سرش داره تا به من ضربه بزنه. گاهی اوقات نوسانات خلقی دارم و زود عصبی می‌شم، اما ترجیح می‌دم تنها باشم تا با دیگران درگیر نشم.",
+        "behavioral_and_cognitive_traits": "فکر می‌کنم از بقیه برترم و لیاقت جایگاه‌های خیلی بالاتری رو دارم و انتظار دارم بقیه این رو درک کنن. توی کارهام خیلی سخت‌گیرم و وسواس زیادی روی جزئیات دارم چون معتقدم فقط من می‌تونم درست انجامشون بدم.",
+        "unusual_experiences_and_history": "تجربه‌های عجیبی دارم؛ مثلاً گاهی حس می‌کنم صداهایی می‌شنوم که بقیه نمی‌شنون یا پیش‌بینی‌های دقیقی می‌کنم که انگار حس ششم دارم. از بچگی هم همیشه احساس می‌کردم با بقیه فرق دارم و دنیا رو متفاوت می‌بینم."
+    }
+}

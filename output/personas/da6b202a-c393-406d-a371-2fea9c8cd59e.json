@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.043,
+        "detachment_suspicion": -1.449,
+        "impulsivity_antisocial": -1.165,
+        "narcissism_attention": -2.271,
+        "rigidity_perfectionism": -0.026,
+        "unusual_experiences": 0.055
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.491,
+        "extreme_response": -0.407,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۱ سالمه، متاهل هستم و توی اهواز زندگی می‌کنم. دیپلم دارم و به عنوان آرایشگر کار می‌کنم و وضعیت مالی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساساتم شدید می‌شه و نوسان دارم، اما کلاً آدم مهربونی هستم و با بقیه رابطه‌م خوبه و ترجیح نمی‌دم تنها باشم.",
+        "behavioral_and_cognitive_traits": "توی کارم منظم هستم اما وسواس شدید ندارم. اصلاً اهل تکانش‌گری یا قانون‌شکنی نیستم و سعی می‌کنم منطقی رفتار کنم.",
+        "unusual_experiences_and_history": "به چیزهایی مثل چشم‌زخم و فال باور دارم و گاهی حس می‌کنم اتفاقات خاصی از قبل تعیین شده. سابقه بیماری روان‌پزشکی دارم اما تو بچگی رفتارهای پرخاشگری نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.917,
+        "detachment_suspicion": 0.851,
+        "impulsivity_antisocial": -0.116,
+        "narcissism_attention": -0.568,
+        "rigidity_perfectionism": 0.866,
+        "unusual_experiences": 1.022
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.117,
+        "extreme_response": 0.398,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۱ ساله‌ام، مجرد و ساکن اهواز هستم. دانشجوی مقطع کارشناسی هستم و در کنار تحصیل، در یک مغازه فروشندگی می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطرابم بسیار بالاست و مدام نگران قضاوت دیگران هستم. هر لحظه می‌ترسم رابطه‌هایم را از دست بدهم و این باعث می‌شود رفتارهای نوسانی داشته باشم.",
+        "behavioral_and_cognitive_traits": "در کارهایم کمی وسواسی هستم و گاهی بدون فکر تصمیمات عجولانه‌ای می‌گیرم که بعداً پشیمان می‌شوم. تمایل زیادی به جلب توجه ندارم و ترجیح می‌دهم ساده باشم.",
+        "unusual_experiences_and_history": "تجربه‌های توهمی خفیفی دارم و گاهی احساس می‌کنم محیط اطرافم واقعی نیست. سابقه درمان روانپزشکی دارم و از کودکی دچار بی‌قراری و اضطراب شدید بودم."
+    }
+}

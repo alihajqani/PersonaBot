@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.413,
+        "detachment_suspicion": 1.032,
+        "impulsivity_antisocial": -0.475,
+        "narcissism_attention": -0.357,
+        "rigidity_perfectionism": -0.514,
+        "unusual_experiences": 1.066
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.196,
+        "extreme_response": -0.393,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۸ سال دارم، مجردم و در شهر کرج زندگی می‌کنم. دیپلم را گرفته‌ام و در حال حاضر دانشجو هستم و وضعیت اقتصادی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی ندارم و از نظر هیجانی Relatively پایدارم، اما خیلی منزوی هستم و به بقیه بی‌اعتمادم و ترجیح می‌دهم در دنیای خودم باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهای پرخطر ندارم و معمولاً قانون‌ها را رعایت می‌کنم؛ همچنین خیلی دنبال توجه دیگران یا احساس برتری نسبت به همسالانم نیستم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی احساس می‌کنم محیط اطرافم واقعی نیست یا صداهایی می‌شنوم که دیگران متوجه آن‌ها نمی‌شوند."
+    }
+}

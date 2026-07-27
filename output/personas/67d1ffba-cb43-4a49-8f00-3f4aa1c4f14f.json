@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.386,
+        "detachment_suspicion": -0.557,
+        "impulsivity_antisocial": 1.467,
+        "narcissism_attention": 0.686,
+        "rigidity_perfectionism": -1.816,
+        "unusual_experiences": 0.607
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.539,
+        "extreme_response": -0.355,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای از تبریز هستم، دیپلم دارم و به عنوان فروشنده کار می‌کنم. مجردم و وضعیت اقتصادی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و نوسانات خلقی‌ام زیاده، اما به طور کلی به آدم‌ها بدبین نیستم. سعی می‌کنم با بقیه مهربان باشم، هرچند گاهی ترس از طرد شدن در روابطم اثر می‌گذاره.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و بدون فکر تصمیم می‌گیرم، مثلاً ممکنه یهو تصمیم بگیرم یه کاری رو شروع کنم و بعدش پشیمون شم. دوست دارم بقیه من رو ببینند و تحسینم کنند، اما هیچ علاقه یا دقتی به نظم و وسواس ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم یا چیزهایی رو حس می‌کنم که دیگران نمی‌بینند. در دوران کودکی هم کمی سرکش بودم و گاهی کارهای خطرناک می‌کردم که باعث نگرانی خانواده‌ام می‌شد."
+    }
+}

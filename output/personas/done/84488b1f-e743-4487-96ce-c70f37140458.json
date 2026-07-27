@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.217,
+        "detachment_suspicion": 0.408,
+        "impulsivity_antisocial": 0.909,
+        "narcissism_attention": 0.588,
+        "rigidity_perfectionism": -1.14,
+        "unusual_experiences": 0.724
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.145,
+        "extreme_response": 0.352,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۵ سالمه، مجردم و توی مشهد زندگی می‌کنم. لیسانس دارم اما در حال حاضر بیکارم و از نظر مالی وضعیتم خیلی تنگ‌دسته.",
+        "emotional_and_interpersonal_style": "احساس می‌کنم دنیا با من نامردی کرده، برای همین کمی بدبین شدم و بیشتر وقت‌ها ترجیح می‌دم تنها باشم تا با بقیه درگیر شم.",
+        "behavioral_and_cognitive_traits": "وقتی عصبی می‌شم، کنترل خودم رو از دست می‌دم و ممکنه رفتارهای پرخطر یا تندی ازم سر بزنه. خیلی اهمیتی به نظم و ترتیب یا جزئیات نمی‌دم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم از محیط اطرافم جدا شدم یا انگار دارم یه خواب طولانی می‌بینم. توی نوجوانی هم چند بار به خاطر رفتارهای هنجارشکنانه به مشکل خوردم."
+    }
+}

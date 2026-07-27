@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.013,
+        "detachment_suspicion": -0.419,
+        "impulsivity_antisocial": -0.517,
+        "narcissism_attention": -0.676,
+        "rigidity_perfectionism": 0.199,
+        "unusual_experiences": -0.099
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.538,
+        "extreme_response": 0.423,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و متاهل هستم که در تهران زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری مشغول به کارم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "در محیط کار و خانه معمولاً آرام هستم، هرچند گاهی استرس‌های روزمره باعث بی‌ثباتی موقت در خلقم می‌شه. به طور کلی آدم اجتماعی‌ای هستم و بدبینی خاصی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و به‌ندرت پیش می‌آید که بدون فکر یا به صورت تکانشی کاری انجام دهم. در کارهایم نظم و دقت متوسطی دارم و ادعای برتری نسبت به دیگران نمی‌کنم.",
+        "unusual_experiences_and_history": "گاهی اوقات به حس ششم یا شهودهای درونی‌ام اعتماد می‌کنم، هرچند منطق برایم اولویت دارد. در دوران نوجوانی دانش‌آموز آرامی بودم و هیچ سابقه هنجارشکنی نداشتم."
+    }
+}

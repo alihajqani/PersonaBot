@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.841,
+        "detachment_suspicion": 1.597,
+        "impulsivity_antisocial": -0.923,
+        "narcissism_attention": -0.654,
+        "rigidity_perfectionism": -1.083,
+        "unusual_experiences": 0.168
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.079,
+        "extreme_response": 0.189,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۶ ساله‌م، مجرد و ساکن تبریز. تحصیلاتم کارشناسیه و به عنوان مهندس متخصص کار می‌کنم و وضعیت اقتصادی‌م خوبه.",
+        "emotional_and_interpersonal_style": "من واقعاً به آدم‌ها بی‌اعتمادم و ترجیح می‌دم تک و تنها باشم. کینه‌های قدیمی رو سخت فراموش می‌کنم و دوری از محیط‌های شلوغ برایم آرام‌بخش‌تره.",
+        "behavioral_and_cognitive_traits": "در کارهام منظم هستم اما وسواس شدیدی ندارم. تکانشگری ندارم و معمولاً منطقی رفتار می‌کنم، هرچند میل چندانی به جلب توجه دیگران ندارم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها احساس می‌کنم با واقعیت فاصله دارم یا تجربه‌هایی دارم که با منطق مهندسی‌م جور در نمیاد. سابقه بیماری خاصی ندارم اما این حس‌ها گاهی تکرار می‌شن."
+    }
+}

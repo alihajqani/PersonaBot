@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.013,
+        "detachment_suspicion": 0.496,
+        "impulsivity_antisocial": 0.771,
+        "narcissism_attention": -0.856,
+        "rigidity_perfectionism": 0.516,
+        "unusual_experiences": 1.437
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.465,
+        "extreme_response": -0.381,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای هستم، مجرد و ساکن اهواز. لیسانس دارم، به صورت آزاد کسب و کار می‌کنم و وضعیت مالی خوبی دارم، هرچند سابقه درمان روانپزشکی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و نوسانات خلقی شدیدی دارم. نسبت به اطرافیانم بدبین هستم و همیشه فکر می‌کنم ممکنه بهم آسیب بزنن.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم و کمی تکانشی هستم. روی کارهایم وسواس دارم و دوست دارم همه چیز دقیق باشه، اما احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "خیلی زیاد با توهمات خفیف یا احساسات غیرعادی دست و پنجه نرم می‌کنم و به خرافات شدیداً باور دارم. در نوجوانی سابقه رفتارهای پرخاشگرانه و عصبانیت‌های شدید داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.165,
+        "detachment_suspicion": -0.327,
+        "impulsivity_antisocial": -1.22,
+        "narcissism_attention": 0.877,
+        "rigidity_perfectionism": 0.04,
+        "unusual_experiences": -0.214
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.586,
+        "extreme_response": 0.227,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۲۴ ساله‌ای هستم، مجرد و با تحصیلات دیپلم که در اصفهان به عنوان کارمند ساده مشغول به کارم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و همیشه این ترس را دارم که دیگران از من خوششان نیاید یا مرا طرد کنند. گاهی نسبت به نیت‌های دیگران بدبین می‌شوم و اعتماد کردن برایم سخت است.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم نسبی دارم و به جزئیات اهمیت می‌دهم. گاهی دوست دارم بقیه متوجه توانایی‌هایم شوند و رفتاری ویژه با من داشته باشند، اما اهل ریسک یا کارهای خطرناک نیستم.",
+        "unusual_experiences_and_history": "گاهی به حس ششمم اعتماد می‌کنم و به مسائل خرافی علاقه دارم. در کودکی حساس بودم اما سابقه جدی در زمینه هنجارشکنی یا رفتارهای پرخاشگرانه نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.438,
+        "detachment_suspicion": -1.806,
+        "impulsivity_antisocial": 0.523,
+        "narcissism_attention": -0.044,
+        "rigidity_perfectionism": 0.45,
+        "unusual_experiences": 0.229
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.616,
+        "extreme_response": 0.136,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه پسر ۲۳ ساله‌م، متاهل و ساکن اصفهان. دیپلم دارم و در حال حاضر به عنوان دانشجو مشغول به تحصیل هستم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "من آدم بسیار اجتماعی‌ای هستم و اصلاً حس انزوا یا بدبینی نسبت به دیگران ندارم. در روابطم راحت هستم و به‌ندرت دچار اضطراب یا نوسانات خلقی می‌شم.",
+        "behavioral_and_cognitive_traits": "گاهی احساس می‌کنم از بقیه برتری دارم و دوست دارم توجهات مرکز باشه. همچنین گاهی بدون فکر تصمیم می‌گیرم و کارهای پرریسک می‌کنم، هرچند در کارهای تحصیلی‌ام سعی می‌کنم منظم و دقیق باشم.",
+        "unusual_experiences_and_history": "باورهای خرافی خاصی دارم و گاهی حس می‌کنم اتفاقات عجیب دور و برم می‌افته. قبل از ۱۵ سالگی، چند بار به دلیل لجبازی و تکانشگری، با والدینم و معلمانم درگیر شدم."
+    }
+}

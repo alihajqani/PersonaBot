@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -3.0,
+        "detachment_suspicion": -0.928,
+        "impulsivity_antisocial": -1.134,
+        "narcissism_attention": 0.366,
+        "rigidity_perfectionism": -0.026,
+        "unusual_experiences": -0.688
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.503,
+        "extreme_response": 0.488,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، متاهل و ساکن اصفهان هستم. مدرک کارشناسی دارم اما در حال حاضر بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار آرام هستم و تقریباً هیچ‌گونه اضطراب یا نوسان خلقی ندارم. به دیگران اعتماد دارم و تمایلی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "آدمی منطقی هستم و رفتارهای تکانشی ندارم. کمی احساس می‌کنم در تحلیل مسائل برتری دارم، اما در کل متواضع هستم و روی جزئیات زندگی‌ام نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی ندارم و در تمام دوران زندگی‌ام، از کودکی تا کنون، هیچ سابقه بیماری روانپزشکی یا رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

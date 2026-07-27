@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.515,
+        "detachment_suspicion": 1.116,
+        "impulsivity_antisocial": 0.764,
+        "narcissism_attention": 1.227,
+        "rigidity_perfectionism": 0.295,
+        "unusual_experiences": -0.499
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.533,
+        "extreme_response": -0.143,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و متاهل ساکن اهواز هستم. با وجود اینکه مدرک کارشناسی دارم، در حال حاضر بیکار هستم و شرایط اقتصادی دشواری دارم.",
+        "emotional_and_interpersonal_style": "به شدت نسبت به دیگران بدبین هستم و زود اعتماد نمی‌کنم و معمولاً کینه‌های قدیمی را در دل نگه می‌دارم؛ ترجیح می‌دهم بیشتر در تنهایی خودم باشم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم توانایی‌های من بسیار بیشتر از جایگاهم است و شایسته رفتار ویژه‌ای هستم؛ گاهی هم در اثر عصبانیت رفتارهای تکانشی و تندی از من سر می‌زند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهمات خاصی ندارم، اما در دوران نوجوانی به دلیل لجبازی و عدم پذیرش قوانین، چالش‌های رفتاری زیادی داشتم."
+    }
+}

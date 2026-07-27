@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.187,
+        "detachment_suspicion": -0.65,
+        "impulsivity_antisocial": -0.599,
+        "narcissism_attention": 0.512,
+        "rigidity_perfectionism": -0.37,
+        "unusual_experiences": 0.165
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.045,
+        "extreme_response": -0.386,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای متاهل ساکن شیراز هستم. مدرک کارشناسی دارم و به صورت آزاد کسب‌وکار خودم را اداره می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی دارم، اما به طور کلی با مردم سازگارم و تمایلی به انزوا یا کینه‌توزی ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی نیستم و سعی می‌کنم سنجیده رفتار کنم، اما دوست دارم در جمع‌ها مرکز توجه باشم و احساس می‌کنم لیاقت تقدیر بیشتری دارم. وسواس خاصی در زندگی‌ام ندارم.",
+        "unusual_experiences_and_history": "سابقه رفتاری خاصی در کودکی ندارم. به شدت به فال و خرافات اعتقاد دارم و فکر می‌کنم حس ششم من در مورد اتفاقات آینده درست عمل می‌کند."
+    }
+}

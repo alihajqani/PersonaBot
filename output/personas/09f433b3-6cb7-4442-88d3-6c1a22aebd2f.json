@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.97,
+        "detachment_suspicion": 0.053,
+        "impulsivity_antisocial": 0.137,
+        "narcissism_attention": 0.354,
+        "rigidity_perfectionism": 1.224,
+        "unusual_experiences": -0.047
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.049,
+        "extreme_response": 0.469,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای هستم، متاهل و ساکن تهران. در زمینه کسب‌وکار آزاد فعالیت می‌کنم و مدرک کارشناسی ارشد دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و اضطراب زیادی نمی‌کشم، اما در روابطم کمی بدبین هستم و زود به دیگران اعتماد نمی‌کنم و گاهی کینه‌های قدیمی را نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و روی جزئیات کوچک وسواس دارم؛ همچنین دوست دارم در محیط‌های کاری مورد توجه باشم و انتظار دارم دیگران به من احترام ویژه‌ای بگذارند.",
+        "unusual_experiences_and_history": "گاهی به حس ششم یا اتفاقات تقدیرگرایانه باور دارم. در نوجوانی هم گاهی رفتارهای تکانشی داشتم و لجبازی‌های شدیدی در محیط مدرسه نشان می‌دادم."
+    }
+}

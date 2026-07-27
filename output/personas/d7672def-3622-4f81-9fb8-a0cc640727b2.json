@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.908,
+        "detachment_suspicion": 0.655,
+        "impulsivity_antisocial": 0.769,
+        "narcissism_attention": -0.321,
+        "rigidity_perfectionism": 0.395,
+        "unusual_experiences": 1.078
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.084,
+        "extreme_response": -0.18,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله‌ام، مجردم و در شیراز به عنوان کارمند ساده مشغول به کار هستم. مدرک دیپلم دارم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و همیشه می‌ترسم بقیه در مورد من بد فکر کنند یا من را دوست نداشته باشند؛ به همین خاطر به دیگران بی‌اعتماد هستم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای عجولانه می‌کنم و روی نظم کارهای اداری‌ام کمی وسواس دارم. فکر می‌کنم اگر بقیه من را عمیق‌تر بشناسند، متوجه برتری من نسبت به دیگران می‌شوند.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و زیاد پیش می‌آید که احساس کنم از واقعیت جدا شده‌ام یا صداهایی را می‌شنوم که دیگران متوجه آن‌ها نمی‌شوند."
+    }
+}

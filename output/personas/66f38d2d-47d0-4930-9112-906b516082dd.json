@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.423,
+        "detachment_suspicion": 0.749,
+        "impulsivity_antisocial": 0.095,
+        "narcissism_attention": 0.428,
+        "rigidity_perfectionism": 0.716,
+        "unusual_experiences": 0.532
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.798,
+        "extreme_response": -0.035,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و ساکن مشهد. مدرک کارشناسی دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام تنگ‌دست است.",
+        "emotional_and_interpersonal_style": "نسبتاً آرام هستم اما به دیگران با بدبینی نگاه می‌کنم و احساس می‌کنم هر کسی دنبال منافع خودش است. ترجیح می‌دهم دایره دوستانم بسیار محدود باشد.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و در تصمیم‌گیری‌هایم عجول هستم. در عین حال، فکر می‌کنم از نظر فکری برتر از اطرافیانم هستم و روی نظم و ترتیب وسایلم خیلی حساس هستم.",
+        "unusual_experiences_and_history": "گاهی اتفاقات عجیبی را تجربه می‌کنم که با منطق جور در نمی‌آید و به حس ششم اعتقاد دارم. در نوجوانی تجربه‌هایی از بی‌قراری و رفتارهای غیرمتعارف داشتم."
+    }
+}

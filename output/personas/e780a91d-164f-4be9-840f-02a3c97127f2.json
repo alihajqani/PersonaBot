@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.632,
+        "detachment_suspicion": 1.099,
+        "impulsivity_antisocial": -0.608,
+        "narcissism_attention": -0.809,
+        "rigidity_perfectionism": 1.383,
+        "unusual_experiences": 1.042
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.823,
+        "extreme_response": 0.066,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۳ ساله متاهل ساکن تبریز هستم؛ دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی خانواده‌ام خوبه.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و همیشه می‌ترسم بقیه من رو ترک کنن یا ازم دور بشن؛ به خاطر همین اضطرابم بالاست و بیشتر ترجیح می‌دم تنها باشم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی و وسواس زیادی در مطالعه و کارهای روزمره‌ام دارم و تحمل اشتباه رو ندارم، هرچند معمولاً رفتارهای پرخطر یا قانون‌شکنانه ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل شنیدن صداهایی که بقیه نمی‌شنون یا احساس اینکه دنیا یه محیط مجازیه؛ از بچگی هم همیشه احساس متفاوت بودن می‌کردم."
+    }
+}

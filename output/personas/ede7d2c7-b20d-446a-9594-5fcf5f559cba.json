@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.977,
+        "detachment_suspicion": 0.55,
+        "impulsivity_antisocial": 0.774,
+        "narcissism_attention": 0.17,
+        "rigidity_perfectionism": 0.047,
+        "unusual_experiences": 0.648
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.289,
+        "extreme_response": 0.057,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۱۸ ساله و مجردم که دیپلم دارم و در تهران در یک مغازه به عنوان فروشنده کار می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "تغییرات خلقی شدیدی دارم و خیلی زود از حالت شادی به غم یا اضطراب می‌روم؛ همیشه می‌ترسم دوستانم مرا ترک کنند و به همین دلیل گاهی با آن‌ها بدرفتاری می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی برای جلب توجه یا از روی عصبانیت کارهایی می‌کنم که خلاف قوانین است؛ در عین حال دوست دارم دیگران مرا تحسین کنند و به من توجه ویژه‌ای داشته باشند.",
+        "unusual_experiences_and_history": "سابقه مراجعه به روان‌پزشک دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام؛ در دوران ابتدایی و راهنمایی به دلیل پرخاشگری زیاد با معلمانم مشکل داشتم."
+    }
+}

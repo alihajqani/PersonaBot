@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.137,
+        "detachment_suspicion": -1.127,
+        "impulsivity_antisocial": -1.031,
+        "narcissism_attention": -0.983,
+        "rigidity_perfectionism": -0.987,
+        "unusual_experiences": -1.718
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.107,
+        "extreme_response": 0.328,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۸ ساله و مجردم که در شیراز زندگی می‌کنم. مدرک دیپلم دارم و به عنوان یک کارمند ساده مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر احساسی بسیار آرام هستم و هیچ‌گونه اضطراب اجتماعی یا نوسان خلقی ندارم. با دیگران راحت هستم، به آن‌ها اعتماد دارم و هیچ تمایلی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هیچ‌گونه رفتارهای تکانشی یا پرخطر ندارم. ادعای برتری نمی‌کنم و در عین حال، وسواس یا کمال‌گرایی خاصی هم در کارهایم دیده نمی‌شود.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، توهم یا اعتقاد به خرافات ندارم. دوران کودکی و نوجوانی من کاملاً عادی بود و هیچ سابقه بیماری یا مشکل رفتاری نداشته‌ام."
+    }
+}

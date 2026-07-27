@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.002,
+        "detachment_suspicion": 0.117,
+        "impulsivity_antisocial": -0.314,
+        "narcissism_attention": 1.064,
+        "rigidity_perfectionism": 0.234,
+        "unusual_experiences": -1.367
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.131,
+        "extreme_response": -0.575,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانمی ۴۰ ساله، متاهل و ساکن اهواز هستم که تحصیلات کارشناسی دارم و در رشته مهندسی متخصص هستم، هرچند وضعیت مالی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی فردی پایدار هستم، اما با گذشت زمان نسبت به آدم‌ها بدبین‌تر شده‌ام و ترجیح می‌دهم بیشتر در تنهایی خودم باشم تا با دیگران درگیر شوم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم به دلیل تخصص و دانشم برتر از اطرافیانم هستم و انتظار دارم دیگران با من برخورد ویژه‌ای داشته باشند؛ در عین حال در کارهایم دقت و وسواس متوسطی دارم.",
+        "unusual_experiences_and_history": "من همیشه نگاهی منطقی و مهندسی به دنیا داشته‌ام و هرگز خرافات یا تجربیات غیرعادی را قبول نکرده‌ام."
+    }
+}

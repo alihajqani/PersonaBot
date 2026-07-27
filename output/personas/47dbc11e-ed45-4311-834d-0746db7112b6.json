@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.441,
+        "detachment_suspicion": -1.124,
+        "impulsivity_antisocial": -0.057,
+        "narcissism_attention": -0.772,
+        "rigidity_perfectionism": 0.618,
+        "unusual_experiences": -0.634
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.141,
+        "extreme_response": -0.529,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای متاهل از اهواز هستم. دیپلم دارم و به عنوان کارمند ساده مشغول به کارم و وضعیت مالی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و نگرانم که دیگران درباره من چه فکری می‌کنند. با این حال، آدم بدبینی نیستم و سعی می‌کنم با همه با مهربانی برخورد کنم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم اما در مجموع سعی می‌کنم نظم داشته باشم و به جزئیات کارم دقت کنم. نیازی ندارم که همیشه مرکز توجه باشم و ترجیح می‌دهم در آرامش باشم.",
+        "unusual_experiences_and_history": "سابقه‌ای در درمان‌های روان‌پزشکی دارم که باعث شده بیشتر به سلامت ذهنی‌ام توجه کنم. در کودکی گاهی رفتارهای لجبازانه داشتم که باعث تنش در خانه می‌شد."
+    }
+}

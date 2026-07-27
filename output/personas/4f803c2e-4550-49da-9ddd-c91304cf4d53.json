@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.297,
+        "detachment_suspicion": 0.579,
+        "impulsivity_antisocial": -1.285,
+        "narcissism_attention": -1.378,
+        "rigidity_perfectionism": 1.194,
+        "unusual_experiences": 0.199
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.18,
+        "extreme_response": -0.57,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۴ ساله مجرد از شهر اصفهان هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم و به عنوان تکنسین فنی مشغول به کارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "میزان اضطراب اجتماعی‌ام متوسط است و گاهی از طرد شدن می‌ترسم. تمایل دارم بیشتر با خودم باشم و نسبت به آدم‌های جدید کمی بدبینی دارم، هرچند نه به طور افراطی.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و کمال‌گرا هستم و روی جزئیات کوچک خیلی حساسم؛ تحمل بی‌نظمی برایم سخت است. رفتارهای تکانشی یا نیاز به جلب توجه در من دیده نمی‌شود و معمولاً طبق قوانین پیش می‌روم.",
+        "unusual_experiences_and_history": "بعضی اوقات احساس می‌کنم از محیط اطرافم جدا شده‌ام یا تجربه‌هایی شبیه به خرافات دارم که برایم جذاب است. در کودکی و نوجوانی، فردی آرام بودم و هیچ سابقه تخلف یا رفتارهای غیرعادی نداشتم."
+    }
+}

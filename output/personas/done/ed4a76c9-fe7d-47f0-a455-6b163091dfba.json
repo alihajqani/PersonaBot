@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.181,
+        "detachment_suspicion": 0.121,
+        "impulsivity_antisocial": 0.029,
+        "narcissism_attention": -1.175,
+        "rigidity_perfectionism": -0.261,
+        "unusual_experiences": -0.474
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.213,
+        "extreme_response": -0.426,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۱۹ ساله، مجرد و دانشجو در مقطع کارشناسی ساکن اصفهان هستم. در کنار تحصیل، به عنوان کارمند ساده کار می‌کنم و وضعیت اقتصادی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام در سطح معمولی است و گاهی دچار اضطراب‌های دانشجویی می‌شوم، اما به طور کلی تعادل هیجانی‌ام را حفظ می‌کنم و ترسی شدید از تنهایی ندارم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم تا حد زیادی پیش‌بینی‌پذیر است و تمایلی به جلب توجه بیش از حد یا احساس برتری نسبت به همکلاسی‌هایم ندارم. در انجام تکالیفم نظم متوسطی دارم و به دنبال کمال‌گرایی افراطی نیستم.",
+        "unusual_experiences_and_history": "بسیار واقع‌گرا هستم و به خرافات یا حس‌های ششم اعتقادی ندارم. دوران کودکی و نوجوانی من بدون اتفاقات غیرعادی یا مشکلات رفتاری شدید سپری شده است."
+    }
+}

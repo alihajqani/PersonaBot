@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.816,
+        "detachment_suspicion": -1.441,
+        "impulsivity_antisocial": -0.458,
+        "narcissism_attention": -0.459,
+        "rigidity_perfectionism": 1.455,
+        "unusual_experiences": -1.142
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.176,
+        "extreme_response": 0.329,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۴ ساله و مجرد هستم که در شیراز زندگی می‌کنم. دیپلم دارم و در حال حاضر مشغول به تحصیل هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار آرام هستم و اصلاً اضطراب اجتماعی یا ترس از طرد شدن ندارم؛ با دیگران راحت هستم و به طور کلی نگاه مثبتی به آدم‌ها دارم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و وسواسی هستم و تمام کارهایم باید طبق یک برنامه دقیق و با جزئیات کامل انجام شود؛ هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، توهم یا باور خرافی ندارم و از کودکی هم همیشه دانش‌آموزی آرام و قانون‌مدار بوده‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.953,
+        "detachment_suspicion": 0.999,
+        "impulsivity_antisocial": -0.899,
+        "narcissism_attention": -0.602,
+        "rigidity_perfectionism": 1.075,
+        "unusual_experiences": 0.652
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.176,
+        "extreme_response": -0.587,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای مجرد و ساکن شیراز هستم. فوق لیسانس دارم و به عنوان معلم در محیط فرهنگی فعالیت می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی ندارم اما به شدت بدبین هستم و ترجیح می‌دهم تنهایی باشم. به ندرت به کسی اعتماد می‌کنم و همیشه منتظرم دیگران به من خیانت کنند.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا و وسواسی هستم و تحمل نمی‌کنم کاری خارج از نظم و ترتیب من انجام شود. نیازی به توجه دیگران ندارم و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم پیام‌های خاصی از محیط یا خواب‌هایم دریافت می‌کنم که برای دیگران قابل درک نیست. در کودکی بسیار آرام بودم و همیشه طبق قوانین مدرسه عمل می‌کردم."
+    }
+}

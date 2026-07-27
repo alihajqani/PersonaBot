@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.723,
+        "detachment_suspicion": 0.004,
+        "impulsivity_antisocial": 1.3,
+        "narcissism_attention": 2.358,
+        "rigidity_perfectionism": -1.423,
+        "unusual_experiences": 0.299
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.233,
+        "extreme_response": 0.235,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله، متاهل و ساکن اصفهان هستم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم و اضطراب زیادی ندارم، اما در روابطم کمی بدبین هستم و ترجیح می‌دهم با فاصله از دیگران برخورد کنم و به راحتی به کسی اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "بسیار به خودم اعتماد دارم و معتقدم توانایی‌هایم از بقیه بیشتر است و انتظار دارم در محیط کار جایگاه ویژه‌ای داشته باشم؛ همچنین گاهی بدون فکر تصمیمات جسورانه می‌گیرم و از قانون‌شکنی لذت می‌برم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات اطرافم معنای خاصی دارند یا حس ششمم به من هشدار می‌دهد و در دوران نوجوانی هم تجربه رفتارهای تکانشی داشتم."
+    }
+}

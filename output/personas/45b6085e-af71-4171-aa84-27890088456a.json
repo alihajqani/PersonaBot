@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.741,
+        "detachment_suspicion": -0.087,
+        "impulsivity_antisocial": -0.296,
+        "narcissism_attention": -0.539,
+        "rigidity_perfectionism": -0.407,
+        "unusual_experiences": -0.156
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.077,
+        "extreme_response": -0.461,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و متاهل ساکن تبریز هستم. تحصیلاتم در حد دیپلم است و در حال حاضر بیکارم، هرچند وضعیت اقتصادی خانواده‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "اصلاً اضطراب ندارم و از نظر هیجانی بسیار خونسرد هستم. با این حال، به مردم زیاد اعتماد نمی‌کنم و گاهی ترجیح می‌دهم در انزوای خودم باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من در سطح متوسط است؛ نه خیلی تکانشی هستم و نه خیلی قانون‌مند. وسواس خاصی ندارم و نسبت به جزئیات بی‌تفاوت هستم و احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روانپزشکی دارم و گاهی به خرافات اعتقاد پیدا می‌کنم یا حس می‌کنم اتفاقات خاصی برایم پیش‌بینی شده است. در دوران مدرسه رفتارهای متناقضی داشتم."
+    }
+}

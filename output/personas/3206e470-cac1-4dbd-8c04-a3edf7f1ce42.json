@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.149,
+        "detachment_suspicion": -0.37,
+        "impulsivity_antisocial": -0.68,
+        "narcissism_attention": -1.291,
+        "rigidity_perfectionism": -0.716,
+        "unusual_experiences": 0.572
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.759,
+        "extreme_response": 0.685,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۲۶ ساله‌ام از اصفهان، دیپلم دارم و توی یه مغازه به عنوان فروشنده کار می‌کنم. متاهلم و وضعیت اقتصادی‌ام کمی ضعیفه.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی بالا و پایین میشه و استرس‌های روزمره رو زیاد حس می‌کنم، اما کلاً با مردم راحتم و بدبینی خاصی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "آدم ساده‌ای هستم، نه خیلی وسواسی‌ام و نه اهل قانون‌شکنی و کارهای عجیب‌وغریب. دنبال توجه بقیه نیستم و به زندگی فعلیم قانعم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم، اما خیلی به مسائل ماوراءطبیعی، فال و حس ششم اعتقاد دارم و گاهی چیزهایی رو حس می‌کنم که بقیه متوجه نمی‌شن."
+    }
+}

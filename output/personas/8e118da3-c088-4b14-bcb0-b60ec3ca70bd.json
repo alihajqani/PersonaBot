@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.527,
+        "detachment_suspicion": 1.171,
+        "impulsivity_antisocial": 1.384,
+        "narcissism_attention": 1.522,
+        "rigidity_perfectionism": -1.476,
+        "unusual_experiences": 1.643
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.092,
+        "extreme_response": 0.386,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، متاهل و مهندس ساکن تهران با مدرک کارشناسی، اما متأسفانه وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "مدام نگران هستم و احساس می‌کنم دیگران علیه من توطئه می‌کنند. نوسانات خلقی شدیدی دارم و روابطم به دلیل بدبینی زیاد، اغلب پرتنش است.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم کنترل رفتارم را از دست می‌دهم. با وجود مشکلات مالی، قلباً معتقدم که از همه برترم و باید به گونه‌ای با من رفتار شود که این برتری پذیرفته شود.",
+        "unusual_experiences_and_history": "تجربیات روان‌پریشی خفیفی دارم و گاهی متقاعد می‌شوم که قدرت‌های خاصی دارم یا پیام‌های رمزگذاری شده در محیط می‌بینم. در کودکی سوابق زیادی در زمینه درگیری‌های شدید و تخلفات رفتاری داشتم."
+    }
+}

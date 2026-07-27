@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.6,
+        "detachment_suspicion": 0.709,
+        "impulsivity_antisocial": -1.003,
+        "narcissism_attention": 0.002,
+        "rigidity_perfectionism": -0.344,
+        "unusual_experiences": 0.816
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.455,
+        "extreme_response": -0.399,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۲۳ ساله‌ای هستم که در مشهد زندگی می‌کنم و مجردم. در حال حاضر دانشجوی کارشناسی هستم و برای تأمین هزینه‌هایم به عنوان تکنسین و کارگر فنی مشغول به کارم.",
+        "emotional_and_interpersonal_style": "اضطراب خاصی در روابطم ندارم، اما به طور کلی آدم بدبینی هستم و ترجیح می‌دهم با تعداد کمی از افراد ارتباط داشته باشم و بیشتر تنها بمانم.",
+        "behavioral_and_cognitive_traits": "معتقدم در کارهای فنی برتری خاصی نسبت به همسالانم دارم و دوست دارم این موضوع دیده شود. در نظم و ترتیب وسایلم متوسط هستم و به قوانین احترام می‌گذارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند یا نوعی حس ششم دارم، اما سابقه بیماری روانپزشکی ندارم."
+    }
+}

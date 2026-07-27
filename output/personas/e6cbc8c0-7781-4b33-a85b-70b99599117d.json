@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.79,
+        "detachment_suspicion": -1.677,
+        "impulsivity_antisocial": -0.035,
+        "narcissism_attention": 1.183,
+        "rigidity_perfectionism": 0.577,
+        "unusual_experiences": -1.32
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.02,
+        "extreme_response": -0.105,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۸ ساله و مجرد هستم که در کرج زندگی می‌کنم. در حال حاضر دانشجوی کارشناسی هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "اضطراب کمی دارم و بسیار اجتماعی هستم؛ اصلاً بدبین نیستم و به راحتی به دیگران اعتماد می‌کنم و از تنهایی بیزارم.",
+        "behavioral_and_cognitive_traits": "شدیداً احساس می‌کنم خاص هستم و لایق بهترین‌ها هستم و انتظار دارم بقیه به من توجه ویژه کنند. در درس‌هایم کمال‌گرایم و روی جزئیات خیلی حساس هستم، هرچند گاهی بدون فکر تصمیمات عجولانه می‌گیرم.",
+        "unusual_experiences_and_history": "تقریباً هیچ تجربه غیرعادی یا خرافاتی ندارم و به منطق اعتقاد دارم. در دوران مدرسه هیچ مشکل رفتاری یا هنجارشکنی نداشتم."
+    }
+}

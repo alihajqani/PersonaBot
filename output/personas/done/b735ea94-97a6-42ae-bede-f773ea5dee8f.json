@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.306,
+        "detachment_suspicion": -0.002,
+        "impulsivity_antisocial": -0.102,
+        "narcissism_attention": 0.218,
+        "rigidity_perfectionism": -0.91,
+        "unusual_experiences": -0.865
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.126,
+        "extreme_response": 0.122,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله، متأهل و ساکن اصفهان هستم. تحصیلاتم کارشناسی است و به عنوان مهندس متخصص کار می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام در سطح متوسطی است و گاهی اوقات دچار تردید در اعتماد به دیگران می‌شوم. نوسانات خلقی‌ام زیاد نیست و معمولاً سعی می‌کنم تعادل را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "من آدم سخت‌گیری نیستم و وسواس خاصی روی جزئیات ندارم؛ ترجیح می‌دهم کلیات کار درست باشد تا اینکه درگیر ریزه‌کاری‌ها شوم. رفتارهایم منطقی است و تمایل زیادی به ریسک یا قانون‌شکنی ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و بیشتر به منطق و علم تکیه می‌کنم. در دوران کودکی و نوجوانی هم هیچ سابقه بیماری یا مشکل رفتاری نداشتم."
+    }
+}

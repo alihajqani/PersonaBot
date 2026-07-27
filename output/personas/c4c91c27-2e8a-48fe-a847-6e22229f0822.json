@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.056,
+        "detachment_suspicion": 1.624,
+        "impulsivity_antisocial": -0.102,
+        "narcissism_attention": 0.519,
+        "rigidity_perfectionism": 1.575,
+        "unusual_experiences": 0.409
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.111,
+        "extreme_response": -0.118,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متأهل و ساکن تبریز هستم. تحصیلاتم در مقطع کارشناسی است و به عنوان مهندس فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "خیلی سخت به بقیه اعتماد می‌کنم و همیشه حس می‌کنم دیگران قصد دارند از من سوءاستفاده کنند یا پشت سرم حرف بزنند. ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم چون ارتباط با آدم‌ها برایم خسته‌کننده و مشکوک است.",
+        "behavioral_and_cognitive_traits": "در کارهایم وسواس شدیدی به جزئیات دارم و تا وقتی همه چیز دقیقاً طبق نقشه پیش نرود، آرام نمی‌گیرم. گاهی احساس می‌کنم از بقیه برترم و انتظار دارم در محیط کار توجه ویژه‌ای به من شود.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس می‌کنم اتفاقات آینده را پیش‌بینی کرده‌ام یا حس ششمم به من هشدار می‌دهد. در دوران نوجوانی هم همیشه احساس می‌کردم با بقیه هم‌سن و سال‌هایم فرق دارم و منزوی بودم."
+    }
+}

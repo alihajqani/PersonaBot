@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.491,
+        "detachment_suspicion": -0.741,
+        "impulsivity_antisocial": 0.066,
+        "narcissism_attention": 1.045,
+        "rigidity_perfectionism": -1.827,
+        "unusual_experiences": -0.367
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.038,
+        "extreme_response": -0.176,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و متاهل از شیراز هستم. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و اضطراب یا ترس از طرد شدن ندارم. با دیگران راحت هستم و بدبینی یا کینه‌ای در من وجود ندارد.",
+        "behavioral_and_cognitive_traits": "به شدت احساس برتری می‌کنم و انتظار دارم دیگران با من متفاوت و ویژه رفتار کنند. گاهی بدون فکر کارهای خطرناک می‌کنم و اصلاً اهل نظم و وسواس نیستم؛ محیط اطرافم معمولاً به‌هم‌ریخته است.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و زندگی را کاملاً مادی می‌بینم. در دوران پیش از ۱۵ سالگی، به دلیل اعتماد به نفس بالا و تکانشگری، زیاد قوانین مدرسه را زیر پا می‌گذاشتم."
+    }
+}

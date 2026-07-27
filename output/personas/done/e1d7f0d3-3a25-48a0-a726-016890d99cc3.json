@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "تکنسین/کارگر فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.797,
+        "detachment_suspicion": 1.244,
+        "impulsivity_antisocial": 0.115,
+        "narcissism_attention": 0.25,
+        "rigidity_perfectionism": -0.899,
+        "unusual_experiences": -1.016
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.192,
+        "extreme_response": 0.049,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۲۱ ساله‌ای از شیراز هستم، دیپلم دارم و به عنوان کارگر فنی کار می‌کنم. متاهل هستم و شرایط مالی‌ام زیاد خوب نیست.",
+        "emotional_and_interpersonal_style": "خیلی زود عصبی می‌شم و اضطرابم بالاست، مخصوصاً وقتی در جمع هستم. به شدت بدبین هستم و فکر می‌کنم هر کسی دنبال سوءاستفاده از منه، برای همین ترجیح می‌دم دایره ارتباطاتم خیلی کوچک باشه و با کسی صمیمی نشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات عجولانه می‌گیرم یا با دیگران تندی می‌کنم. با اینکه وضعیت مالی‌ام ضعیفه، اما ته دلم حس می‌کنم لایق جایگاه بهتری هستم و دلم می‌خواد بقیه بهم احترام بیشتری بذارند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم و دنیا رو خیلی واقع‌بینانه می‌بینم. در کودکی و نوجوانی هم رفتارهای خاصی نداشتم و بیشتر درگیر مشکلات زندگی بودم."
+    }
+}

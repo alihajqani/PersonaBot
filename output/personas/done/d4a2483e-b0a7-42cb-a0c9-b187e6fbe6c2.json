@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.042,
+        "detachment_suspicion": -1.462,
+        "impulsivity_antisocial": 1.065,
+        "narcissism_attention": 0.472,
+        "rigidity_perfectionism": -1.46,
+        "unusual_experiences": -0.635
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.295,
+        "extreme_response": -0.335,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۲ ساله‌ام، متاهل و ساکن شیرازم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی کم پیش می‌آید که مضطرب شوم یا احساس ناامنی کنم. با دیگران راحت هستم و بدبینی یا کینه در زندگی‌ام جایگاهی ندارد.",
+        "behavioral_and_cognitive_traits": "تکانشگری بالایی دارم و گاهی بدون فکر کارهایی می‌کنم که خلاف قوانین است. احساس می‌کنم در محیط کارم باید توجه ویژه‌ای به من شود چون توانایی‌هایم بیشتر است.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی خاصی ندارم، هرچند گاهی به شانس و تقدیر اعتقاد دارم. در نوجوانی سابقه تخلفات مدرسه و درگیری‌های فیزیکی با دیگران داشتم و سابقه درمان روانپزشکی دارم."
+    }
+}

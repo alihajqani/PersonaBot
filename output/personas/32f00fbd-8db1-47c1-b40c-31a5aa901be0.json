@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.188,
+        "detachment_suspicion": 0.365,
+        "impulsivity_antisocial": -0.524,
+        "narcissism_attention": -0.409,
+        "rigidity_perfectionism": 0.826,
+        "unusual_experiences": -0.367
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.523,
+        "extreme_response": 0.381,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای متاهل از شیراز هستم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "میزان اضطرابم متوسط است و گاهی نگران قضاوت دیگران هستم. تمایل دارم بیشتر در محیط‌های کوچک و آشنا باشم و نسبت به غریبه‌ها کمی بدبینی دارم.",
+        "behavioral_and_cognitive_traits": "فردی هستم که به نظم اهمیت می‌دهد و کمی وسواس در انجام کارهای اداری دارم. رفتارهای تکانشی یا نیاز به جلب توجه در من دیده نمی‌شود و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خیلی کمی دارم و فقط در حد خرافات ساده و عامیانه است. در دوران پیش از ۱۵ سالگی، بسیار درس‌خوان و منضبط بودم و هرگز رفتاری خارج از هنجارها نداشتم."
+    }
+}

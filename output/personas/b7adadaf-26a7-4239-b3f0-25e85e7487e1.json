@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "آرایشگر",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.851,
+        "detachment_suspicion": -0.693,
+        "impulsivity_antisocial": 1.281,
+        "narcissism_attention": 0.441,
+        "rigidity_perfectionism": -0.062,
+        "unusual_experiences": -1.863
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.304,
+        "extreme_response": 0.396,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای هستم، مجرد و ساکن اصفهان. مدرک کاردانی دارم و به عنوان آرایشگر فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی زیادی ندارم. با دیگران گرم می‌گیرم و به‌ندرت پیش می‌آید که نسبت به کسی کینه داشته باشم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و عاشق هیجان و ریسک کردنم؛ گاهی بدون فکر کارهای جسورانه‌ای انجام می‌دهم که بقیه را می‌ترساند. دوست دارم مرکز توجه باشم و احساس می‌کنم جذابیت و توانایی‌هایم بیشتر از دیگران است.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا خرافاتی ندارم و کاملاً واقع‌بین هستم. البته در دوران مدرسه، به دلیل لجبازی و قانون‌شکنی‌های مکرر، چندین بار مورد توبیخ قرار گرفتم."
+    }
+}

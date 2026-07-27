@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.791,
+        "detachment_suspicion": -0.228,
+        "impulsivity_antisocial": 0.199,
+        "narcissism_attention": -0.053,
+        "rigidity_perfectionism": 0.072,
+        "unusual_experiences": -1.306
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.422,
+        "extreme_response": 0.324,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، مجرد و ساکن تهران. تحصیلاتم کارشناسی است و به عنوان مهندس متخصص کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "من بسیار آرام هستم و تقریباً هیچ اضطراب یا نوسان خلقی ندارم. در روابطم متعادل هستم و نه بیش از حد اعتماد می‌کنم و نه بدبین هستم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌ها عجول هستم، اما در کل متعادل عمل می‌کنم. اعتماد به نفس کافی دارم و در کارهایم دقت لازم را دارم بدون اینکه دچار وسواس شدید شوم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی برای من تعریف‌نشده است و به مسائل خرافاتی اعتقادی ندارم. در دوران کودکی و نوجوانی، دانش‌آموزی آرام و بهنجار بودم."
+    }
+}

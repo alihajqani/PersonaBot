@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.622,
+        "detachment_suspicion": -0.418,
+        "impulsivity_antisocial": 0.121,
+        "narcissism_attention": 0.297,
+        "rigidity_perfectionism": -0.482,
+        "unusual_experiences": 0.545
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.092,
+        "extreme_response": 0.054,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۴ ساله، مجرد و ساکن شیرازم. لیسانس دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و احساساتم مدام تغییر می‌کنه؛ گاهی فکر می‌کنم بقیه درباره من بد فکر می‌کنن.",
+        "behavioral_and_cognitive_traits": "بعضی وقت‌ها بدون فکر تصمیم‌های عجولانه می‌گیرم و دوست دارم در محیط کارم جایگاه ویژه‌ای داشته باشم و همه به من توجه کنن.",
+        "unusual_experiences_and_history": "باورهای خرافاتی خاصی دارم و گاهی حس می‌کنم چیزهایی رو می‌بینم یا می‌شنوم که بقیه متوجه‌شون نمی‌شن؛ توی دوران مدرسه هم گاهی رفتارهای تکانشی داشتم."
+    }
+}

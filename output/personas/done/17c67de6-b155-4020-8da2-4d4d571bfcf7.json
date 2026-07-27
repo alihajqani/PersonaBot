@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.186,
+        "detachment_suspicion": 0.686,
+        "impulsivity_antisocial": -0.995,
+        "narcissism_attention": -0.802,
+        "rigidity_perfectionism": 2.088,
+        "unusual_experiences": -0.113
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.004,
+        "extreme_response": -0.111,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۴۰ ساله، مجرد و دارای مدرک کارشناسی هستم که در حال حاضر در اصفهان بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی احساس می‌کنم دیگران من را نمی‌فهمند. بدبینی خاصی به محیط اطرافم دارم و سخت می‌توانم به کسی اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی جزئیات دارم و اگر هر چیزی دقیقاً سر جای خودش نباشد، شدیداً مضطرب می‌شوم. بسیار سخت‌گیرم و هرگز کارهای عجولانه یا تکانشی انجام نمی‌دهم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم از بدنم جدا شده‌ام یا دنیا دور و برم غیرواقعی به نظر می‌رسد. در نوجوانی کمی منزوی بودم اما سابقه رفتارهای پرخاشگرانه نداشتم."
+    }
+}

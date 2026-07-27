@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.682,
+        "detachment_suspicion": 0.007,
+        "impulsivity_antisocial": -0.429,
+        "narcissism_attention": -0.193,
+        "rigidity_perfectionism": 0.561,
+        "unusual_experiences": 1.127
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.459,
+        "extreme_response": 0.11,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۹ ساله‌ام، متاهل و ساکن تهران هستم. مدرک کارشناسی ارشد مهندسی دارم، اما در حال حاضر وضعیت اقتصادی‌ام ضعیف است و فشارهای مالی زیادی را تحمل می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی شدیدی دارم و ترس از این می‌خورم که عزیزانم مرا ترک کنند. در محیط‌های اجتماعی کمی مضطرب هستم و به راحتی به دیگران اعتماد نمی‌کنم و تمایل دارم کمی فاصله بگیرم.",
+        "behavioral_and_cognitive_traits": "روی جزئیات بسیار حساس هستم و دوست دارم همه چیز با دقت کامل انجام شود. گاهی احساس می‌کنم توانایی‌هایم از بقیه بیشتر است و انتظار دارم در محیط کار توجه ویژه‌ای به من شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً احساس می‌کنم حس ششم دارم یا گاهی حس می‌کنم از بدنم جدا شده‌ام. در دوران کودکی هم تمایل به انزوا داشتم و زیاد با همسالانم بازی نمی‌کردم."
+    }
+}

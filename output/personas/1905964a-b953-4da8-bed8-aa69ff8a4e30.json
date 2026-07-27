@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.163,
+        "detachment_suspicion": 0.082,
+        "impulsivity_antisocial": 0.183,
+        "narcissism_attention": -0.29,
+        "rigidity_perfectionism": -0.092,
+        "unusual_experiences": 0.613
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.656,
+        "extreme_response": 0.172,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۱ ساله متاهل ساکن تهران هستم؛ مدرک دیپلم دارم و در حال حاضر برای ارتقای تحصیلی دوباره به دانشگاه برگشتم و دانشجو هستم. وضعیت اقتصادی من در سطح متوسطه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی خیلی استوار هستم و نوسانات خلقی شدیدی ندارم، هرچند گاهی ترجیح می‌دم در جمع‌ها کم‌حرف باشم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در رفتارهای روزمره‌ام تعادل نسبی دارم، اما گاهی بدون فکر تصمیم می‌گیرم یا کمی تند برخورد می‌کنم؛ همچنین روی جزئیات کارهام دقت می‌کنم و دوست دارم همه چیز مرتب باشه.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم شهود یا حس ششم قوی‌ای دارم و اتفاقاتی رو پیش‌بینی می‌کنم که بقیه متوجه‌شون نیستن؛ در دوران کودکی هم گاهی رفتارهای عجیب داشتم."
+    }
+}

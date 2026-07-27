@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.041,
+        "detachment_suspicion": -0.448,
+        "impulsivity_antisocial": 0.72,
+        "narcissism_attention": 1.185,
+        "rigidity_perfectionism": 2.033,
+        "unusual_experiences": 1.136
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.03,
+        "extreme_response": -0.367,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و مجردم که در تبریز زندگی می‌کنم. دیپلم دارم و در حال حاضر بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود به هم می‌ریزم و اضطراب زیادی در روابطم دارم، هرچند سعی می‌کنم با دیگران گرم بگیرم و بدبین نباشم.",
+        "behavioral_and_cognitive_traits": "خیلی روی نظم وسواس دارم و اگر چیزی طبق میل من نباشد کلافه می‌شوم؛ فکر می‌کنم استعدادهای من دیده نشده و لایق جایگاه بسیار بالاتری هستم.",
+        "unusual_experiences_and_history": "باور دارم که حس ششم بسیار قوی‌ای دارم و گاهی پیام‌هایی از محیط دریافت می‌کنم که دیگران نمی‌فهمند؛ سابقه درمان روان‌پزشکی هم دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.509,
+        "detachment_suspicion": -0.064,
+        "impulsivity_antisocial": 1.318,
+        "narcissism_attention": -0.364,
+        "rigidity_perfectionism": 0.202,
+        "unusual_experiences": 0.954
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.027,
+        "extreme_response": -0.062,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای مجرد هستم که در تبریز زندگی می‌کنم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان معلم در بخش فرهنگی مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی زیادی ندارم، اما در روابطم کمی بدبین هستم و سخت به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر کردن، قوانینی را می‌شکنم یا رفتارهای پرخطری انجام می‌دهم که بعداً پشیمان می‌شوم. در کارهایم تا حدی کمال‌گرا هستم و سعی می‌کنم نظم خاصی را رعایت کنم.",
+        "unusual_experiences_and_history": "شدیداً به حس ششم و مسائل ماوراءالطبیعه اعتقاد دارم و گاهی اتفاقاتی را حس می‌کنم که دیگران متوجه‌شان نمی‌شوند. در کودکی هم تمایل داشتم از هنجارهای مدرسه فاصله بگیرم."
+    }
+}

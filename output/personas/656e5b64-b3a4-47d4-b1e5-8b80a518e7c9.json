@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.519,
+        "detachment_suspicion": 1.353,
+        "impulsivity_antisocial": 0.658,
+        "narcissism_attention": -0.539,
+        "rigidity_perfectionism": 0.326,
+        "unusual_experiences": 0.804
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.988,
+        "extreme_response": -0.37,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، متاهل و ساکن اصفهان هستم. مدرک کارشناسی ارشد دارم و در حوزه فرهنگی به عنوان معلم فعالیت می‌کنم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و فکر می‌کنم مردم همیشه نقشه‌ای در سر دارند، به همین دلیل ترجیح می‌دهم دایره دوستانم بسیار کوچک باشد. نوسانات خلقی شدیدی ندارم اما سرد و منزوی هستم.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار یا خانه دچار خشم ناگهانی می‌شوم و تندی می‌کنم. در کارهای اداری‌ام بسیار دقیق و وسواسی هستم و تحمل بی‌نظمی دیگران را ندارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی احساس می‌کنم اتفاقات پیرامونم نمادهایی از چیزهای دیگر هستند. سابقه بیماری روان‌پزشکی دارم و از نوجوانی با احساسات متناقضی دست‌وپنجه نرم می‌کردم."
+    }
+}

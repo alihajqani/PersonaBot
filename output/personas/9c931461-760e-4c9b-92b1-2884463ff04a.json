@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.68,
+        "detachment_suspicion": 0.026,
+        "impulsivity_antisocial": 0.516,
+        "narcissism_attention": 0.976,
+        "rigidity_perfectionism": -0.698,
+        "unusual_experiences": 0.668
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.927,
+        "extreme_response": -0.331,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۴۰ ساله، مجرد و ساکن اصفهان هستم. مدرک کارشناسی ارشد دارم و به عنوان مهندس و متخصص مشغول به کار هستم و وضعیت اقتصادی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "کمی مضطرب هستم و ترجیح می‌دهم با تعداد محدودی از آدم‌ها ارتباط داشته باشم. گاهی فکر می‌کنم دیگران به اندازه من صادق نیستند و نباید کاملاً به آن‌ها اعتماد کرد.",
+        "behavioral_and_cognitive_traits": "خودم را بسیار بااستعدادتر از همکارانم می‌بینم و معتقدم باید مدیریت یا جایگاه ویژه‌ای داشته باشم. هرچند گاهی رفتارهای تکانشی دارم، اما در کل نظم نسبی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "به حس ششم اعتقاد دارم و گاهی چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند. در نوجوانی کمی سرکش بودم اما هرگز از چارچوب‌های کلی جامعه خارج نشدم."
+    }
+}

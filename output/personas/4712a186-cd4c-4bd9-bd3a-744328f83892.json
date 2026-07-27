@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.458,
+        "detachment_suspicion": -1.662,
+        "impulsivity_antisocial": -0.464,
+        "narcissism_attention": -0.006,
+        "rigidity_perfectionism": -1.716,
+        "unusual_experiences": -1.562
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.051,
+        "extreme_response": 0.186,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۱۹ ساله، مجرد و دانشجوی مقطع کارشناسی ساکن اصفهان هستم. وضعیت اقتصادی‌ام متوسط است و در حال حاضر فقط مشغول تحصیل هستم.",
+        "emotional_and_interpersonal_style": "بسیار اجتماعی هستم و به راحتی به دیگران اعتماد می‌کنم؛ اصلاً تمایلی به تنهایی ندارم و از معاشرت با آدم‌های جدید لذت می‌برم، هرچند گاهی اضطراب‌های معمولی دوران دانشجویی را دارم.",
+        "behavioral_and_cognitive_traits": "آدم بسیار منعطفی هستم و اصلاً وسواس یا کمال‌گرایی ندارم. نسبت به قوانین سخت‌گیر نیستم و ترجیح می‌دهم زندگی را با آرامش و بدون فشار پیش ببرم.",
+        "unusual_experiences_and_history": "به هیچ وجه به خرافات یا تجربیات غیرعادی اعتقاد ندارم و دنیا را کاملاً منطقی می‌بینم. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ‌گونه سابقه رفتارهای هنجارشکنانه نداشتم."
+    }
+}

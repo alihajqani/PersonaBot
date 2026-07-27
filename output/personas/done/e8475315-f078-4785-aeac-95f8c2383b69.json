@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.131,
+        "detachment_suspicion": 0.255,
+        "impulsivity_antisocial": 1.659,
+        "narcissism_attention": 0.713,
+        "rigidity_perfectionism": -0.968,
+        "unusual_experiences": -0.559
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.23,
+        "extreme_response": -0.34,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۲۶ ساله متاهل ساکن تبریز هستم؛ مدرک کارشناسی ارشد دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام ضعیفه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثابتم و اضطراب زیادی ندارم، هرچند در روابطم کمی بدبین هستم و ترجیح می‌دم با تعداد کمی از آدم‌ها ارتباط داشته باشم.",
+        "behavioral_and_cognitive_traits": "کنترل اعصابم خیلی کمه و سریع از کوره در می‌رم؛ تمایل زیادی به کارهای پرخطر و قانون‌شکنی دارم و اصلاً اهل نظم و وسواس نیستم.",
+        "unusual_experiences_and_history": "در دوران نوجوانی سوابق رفتارهای تکانشی و درگیری‌های زیادی داشتم؛ در حال حاضر تجربیات غیرعادی خاصی ندارم اما گاهی به خرافات اعتقاد دارم."
+    }
+}

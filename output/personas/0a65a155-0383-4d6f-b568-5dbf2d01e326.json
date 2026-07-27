@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.518,
+        "detachment_suspicion": -0.346,
+        "impulsivity_antisocial": 2.713,
+        "narcissism_attention": 0.494,
+        "rigidity_perfectionism": -0.859,
+        "unusual_experiences": 0.313
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.128,
+        "extreme_response": 0.133,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای هستم، مجرد و ساکن تهران. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان معلم در بخش فرهنگی مشغول به کارم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و اضطراب شدیدی حس نمی‌کنم، اما در روابطم بدبین هستم و زود به دیگران اعتماد نمی‌کنم و گاهی کینه‌های قدیمی را نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و گاهی بدون فکر کارهایی می‌کنم که خلاف قوانین است یا باعث دردسر می‌شود؛ در عین حال احساس می‌کنم توانایی‌هایم بیشتر از دیگران است و باید توجه ویژه‌ای به من شود.",
+        "unusual_experiences_and_history": "گاهی حس می‌کنم اتفاقات عجیبی دور و برم می‌افتد یا پیش‌آگاهی‌هایی دارم که دیگران نمی‌بینند. در نوجوانی هم سابقه رفتارهای جسورانه و هنجارشکنه‌ای داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.471,
+        "detachment_suspicion": -1.357,
+        "impulsivity_antisocial": 1.277,
+        "narcissism_attention": 2.17,
+        "rigidity_perfectionism": -0.997,
+        "unusual_experiences": 1.217
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.079,
+        "extreme_response": 0.715,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای هستم، متاهل و ساکن اهواز. مدرک دکترا دارم و به عنوان متخصص ارشد در یک سازمان فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "با وجود جایگاه شغلی‌ام، گاهی دچار اضطراب‌های شدید می‌شوم و می‌ترسم جایگاهم را از دست بدهم. اما در روابطم معمولاً سلطه‌گر هستم و دیگران را نادیده می‌گیرم.",
+        "behavioral_and_cognitive_traits": "من معتقدم لایق بهترین‌ها هستم و انتظار دارم همه با من رفتار ویژه‌ای داشته باشند. گاهی برای رسیدن به اهدافم قوانین را دور می‌زنم و رفتارهای تکانشی و جسورانه‌ای دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ گاهی صداهایی می‌شنوم یا احساس می‌کنم قدرت‌های خاصی دارم که دیگران ندارند. در نوجوانی هم به دلیل سرکشی و هنجارشکنی‌های زیاد، همیشه با خانواده‌ام درگیر بودم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.762,
+        "detachment_suspicion": 0.727,
+        "impulsivity_antisocial": 0.254,
+        "narcissism_attention": -0.432,
+        "rigidity_perfectionism": -0.866,
+        "unusual_experiences": -0.106
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.711,
+        "extreme_response": 0.067,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۸ ساله، مجرد و ساکن کرج هستم. به تازگی دیپلمم را گرفته‌ام و در حال حاضر بیکارم و وضعیت اقتصادی خانواده‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم، اما تمایل دارم بیشتر تنها باشم و به راحتی به هم‌سن و سال‌هایم اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهای خطرناک می‌کنم یا هر طور که دلم بخواهد رفتار می‌کنم بدون اینکه به عواقبش فکر کنم. وسواس خاصی ندارم و نسبت به نظم محیط اطرافم بی‌تفاوت هستم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعی علاقه دارم و گاهی حس می‌کنم اتفاقات عجیبی دور و برم می‌افتد. در دوران راهنمایی، چند بار به خاطر رفتارهای تکانشی با معلمانم دچار مشکل شدم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.971,
+        "detachment_suspicion": 1.03,
+        "impulsivity_antisocial": -0.837,
+        "narcissism_attention": -0.193,
+        "rigidity_perfectionism": 1.32,
+        "unusual_experiences": -0.716
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.159,
+        "extreme_response": 0.19,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۸ ساله مجردم که در اهواز زندگی می‌کنم. مدرک کارشناسی ارشد مهندسی دارم و به عنوان متخصص در این حوزه فعالیت می‌کنم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم دیگران در مورد من قضاوت می‌کنند و ترس شدیدی از طرد شدن دارم. ترجیح می‌دهم بیشتر تنها باشم چون به راحتی به کسی اعتماد نمی‌کنم و تمایل دارم اتفاقات را با بدبینی تحلیل کنم.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار وسواسی هستم و روی جزئیات کوچک گیر می‌کنم تا همه چیز بی‌نقص باشد. گاهی احساس می‌کنم از بقیه برتری دارم، اما معمولاً در محیط‌های اجتماعی محتاط هستم و رفتارهای پرخطر انجام نمی‌دهم.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی رفتار خاصی نداشتم، اما گاهی پیش می‌آید که احساس کنم اتفاقات اطرافم کمی غیرواقعی هستند، هرچند این تجربه‌ها خیلی کم است."
+    }
+}

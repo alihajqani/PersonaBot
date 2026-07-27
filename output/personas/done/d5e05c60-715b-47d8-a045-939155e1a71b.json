@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کاردانی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.46,
+        "detachment_suspicion": -0.231,
+        "impulsivity_antisocial": 0.466,
+        "narcissism_attention": 0.538,
+        "rigidity_perfectionism": -0.907,
+        "unusual_experiences": -0.181
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.315,
+        "extreme_response": 0.198,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۳ ساله و متاهل هستم و در تبریز زندگی می‌کنم. مدرک کاردانی دارم اما در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس اضطراب می‌کنم و فکر می‌کنم دیگران نسبت به من بدبین هستند، به همین دلیل تمایل دارم بیشتر تنها باشم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم. با اینکه بیکارم، اما در ذهنم احساس می‌کنم لیاقت جایگاه‌های بسیار بالاتری را دارم و باید مورد توجه باشم.",
+        "unusual_experiences_and_history": "به مسائل ماورایی و حس ششم علاقه دارم و گاهی تجربیات غیرعادی در خواب یا بیداری دارم. در دوران کودکی هم گاهی رفتارهای هنجارشکنانه داشتم."
+    }
+}

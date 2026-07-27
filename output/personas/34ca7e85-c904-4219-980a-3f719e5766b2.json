@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.78,
+        "detachment_suspicion": -1.843,
+        "impulsivity_antisocial": -1.246,
+        "narcissism_attention": -1.454,
+        "rigidity_perfectionism": -0.654,
+        "unusual_experiences": -0.523
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.128,
+        "extreme_response": 0.338,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۶ سالمه، متاهل هستم و در اصفهان زندگی می‌کنم. کارشناسی ارشد دارم و کارمند اداری هستم، هرچند وضعیت اقتصادی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی آرام هستم و هیچ‌گونه اضطراب اجتماعی یا بدبینی نسبت به دیگران ندارم؛ روابطم با اطرافیانم بسیار صمیمی، ساده و بدون تنش است.",
+        "behavioral_and_cognitive_traits": "اصلاً تکانشی نیستم، قوانین رو کاملاً رعایت می‌کنم و هیچ نیازی به جلب توجه یا احساس برتری نسبت به همکارانم ندارم. وسواس خاصی هم در کارهایم نیست.",
+        "unusual_experiences_and_history": "هیچ تجربه غیرعادی یا خرافاتی ندارم و در تمام دوران زندگی‌ام، از بچگی تا الان، هیچ سابقه رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

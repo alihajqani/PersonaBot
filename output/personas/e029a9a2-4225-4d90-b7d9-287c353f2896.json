@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.061,
+        "detachment_suspicion": -1.127,
+        "impulsivity_antisocial": 0.1,
+        "narcissism_attention": -0.439,
+        "rigidity_perfectionism": 0.415,
+        "unusual_experiences": -0.364
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.345,
+        "extreme_response": -0.807,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۵ ساله‌ای مجرد از تهران هستم. مدرک کارشناسی دارم و به عنوان مهندس و متخصص در رشته‌ام مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی تعادل هیجانی متوسطی دارم و گاهی دچار اضطراب می‌شوم، اما به ندرت احساس تنهایی یا بدبینی می‌کنم. روابط اجتماعی‌ام نرمال است و به دیگران اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم و تکانشگری متوسطی دارم. ادعای برتری ندارم و متواضع هستم، اما در کارهای مهندسی‌ام وسواس زیادی به جزئیات دارم و دوست دارم همه چیز دقیق باشد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی ندارم و به خرافات اعتقاد چندانی ندارم. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ‌گونه سابقه بیماری یا رفتارهای هنجارشکنی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.55,
+        "detachment_suspicion": 1.183,
+        "impulsivity_antisocial": -0.955,
+        "narcissism_attention": -1.536,
+        "rigidity_perfectionism": 1.964,
+        "unusual_experiences": 1.154
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.028,
+        "extreme_response": -0.509,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۵ سالمه، متاهلم و تو شیراز زندگی می‌کنم. لیسانس دارم و کسب‌و‌کار شخصی دارم که خوشبختانه وضعیت مالی‌م عالیه.",
+        "emotional_and_interpersonal_style": "با اینکه از نظر مالی موفقم، اما خیلی بدبین هستم و سخت به کسی اعتماد می‌کنم. گاهی هم دچار اضطراب‌های پیش‌بینی‌نشده در محیط‌های اجتماعی می‌شم.",
+        "behavioral_and_cognitive_traits": "وسواس شدید دارم و هر چیزی باید با دقت میلی‌متری و طبق اصول من انجام بشه. اصلاً اهل ریسک یا شکستن قانون نیستم و خیلی محتاطم.",
+        "unusual_experiences_and_history": "به حس ششم و مسائل ماوراءطبیعه خیلی اعتقاد دارم و اتفاقات عجیبی رو در زندگی‌م تجربه کردم که با منطق جور در نمیاد."
+    }
+}

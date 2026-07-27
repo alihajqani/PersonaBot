@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.103,
+        "detachment_suspicion": 0.186,
+        "impulsivity_antisocial": 1.686,
+        "narcissism_attention": 0.392,
+        "rigidity_perfectionism": -0.185,
+        "unusual_experiences": -0.385
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.401,
+        "extreme_response": 0.034,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۷ سالمه، متاهلم و تو کرج زندگی می‌کنم. لیسانس دارم و مهندسم و وضعیت مالی‌م خوبه.",
+        "emotional_and_interpersonal_style": "اضطراب خاصی ندارم و با خودم راحتم، هرچند گاهی ترجیح می‌دم از جمع‌های شلوغ فاصله بگیرم و کمی تنها باشم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و گاهی بدون فکر کارهای خطرناکی می‌کنم یا قانون‌ها رو دور می‌زنم. دوست دارم مرکز توجه باشم و حس کنم از بقیه متمایزم.",
+        "unusual_experiences_and_history": "خیلی کم پیش اومده که حس‌های عجیبی داشته باشم و بیشتر به منطق تکیه می‌کنم، هرچند گاهی به اتفاقات تصادفی فکر می‌کنم."
+    }
+}

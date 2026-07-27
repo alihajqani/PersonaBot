@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.262,
+        "detachment_suspicion": 1.24,
+        "impulsivity_antisocial": 0.652,
+        "narcissism_attention": -1.555,
+        "rigidity_perfectionism": -0.221,
+        "unusual_experiences": 0.131
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.146,
+        "extreme_response": -0.187,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی که در اصفهان به عنوان معلم و فعال فرهنگی کار می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و نوسانات خلقی شدیدی دارم و همیشه می‌ترسم دیگران مرا رها کنند. ترجیح می‌دهم در انزوا باشم چون به آدم‌ها بی‌اعتمادم و زود رنج می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظات عصبانیت تکانشی عمل می‌کنم و رفتارهای غیرمنتظره‌ای دارم. در کارهایم نظم متوسطی دارم و سعی می‌کنم تعادلی بین دقت و سرعت برقرار کنم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم دنیا با من متفاوت است و به حس‌های ششم یا مسائل ماورایی باور دارم. در نوجوانی گاهی با قوانین مدرسه مشکل داشتم و رفتارهای تکانشی نشان می‌دادم."
+    }
+}

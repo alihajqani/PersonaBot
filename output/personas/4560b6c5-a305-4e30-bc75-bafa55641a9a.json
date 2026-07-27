@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.718,
+        "detachment_suspicion": 2.246,
+        "impulsivity_antisocial": -0.574,
+        "narcissism_attention": -0.645,
+        "rigidity_perfectionism": 2.065,
+        "unusual_experiences": 0.086
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.117,
+        "extreme_response": 0.378,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله، مجرد و دانشجوی مقطع کارشناسی در تهران هستم و وضعیت اقتصادی خانواده‌ام خوب است.",
+        "emotional_and_interpersonal_style": "خیلی سخت به بقیه اعتماد می‌کنم و ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم، چون همیشه حس می‌کنم دیگران قصد دارند از من سوءاستفاده کنند. گاهی اوقات اضطراب اجتماعی شدیدی می‌گیرم و می‌ترسم که نکند دیگران از من خوششان نیاید.",
+        "behavioral_and_cognitive_traits": "در کارهایم به شدت وسواسی هستم و روی کوچک‌ترین جزئیات تمرکز می‌کنم تا همه چیز دقیقاً همان‌طور که می‌خواهم باشد. معمولاً آدم آرامی هستم و سعی می‌کنم از درگیری یا رفتارهای تکانشی دوری کنم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا انگار دنیا واقعی نیست. در دوران کودکی و قبل از ۱۵ سالگی، بیشتر به دلیل گوشه‌گیری و کم‌حرفی با محیط مدرسه مشکل داشتم."
+    }
+}

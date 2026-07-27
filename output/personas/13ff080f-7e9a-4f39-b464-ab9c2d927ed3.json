@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.249,
+        "detachment_suspicion": 1.555,
+        "impulsivity_antisocial": -0.271,
+        "narcissism_attention": 0.465,
+        "rigidity_perfectionism": -0.648,
+        "unusual_experiences": 1.205
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.486,
+        "extreme_response": 0.836,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۷ ساله، مجرد و ساکن شیراز هستم. فوق لیسانس دارم و کسب و کار شخصی خودم را اداره می‌کنم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و به شدت بدبین هستم؛ تقریباً به هیچ‌کس اعتماد نمی‌کنم و ترجیح می‌دهم در دنیای خودم تنها باشم.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب و کارم گاهی تصمیمات تکانشی می‌گیرم و احساس می‌کنم به دلیل تخصصم از دیگران برترم و باید به من احترام ویژه‌ای شود.",
+        "unusual_experiences_and_history": "به شدت به خرافات اعتقاد دارم و فکر می‌کنم قدرت‌های غیرعادی یا حس ششم دارم که به من در زندگی کمک می‌کند."
+    }
+}

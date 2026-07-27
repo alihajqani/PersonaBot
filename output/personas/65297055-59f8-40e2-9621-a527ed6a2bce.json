@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.31,
+        "detachment_suspicion": -0.029,
+        "impulsivity_antisocial": 0.012,
+        "narcissism_attention": 0.364,
+        "rigidity_perfectionism": 2.533,
+        "unusual_experiences": -0.451
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.377,
+        "extreme_response": -0.432,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و متاهل با مدرک کارشناسی ارشد هستم که در اهواز کسب‌وکار خودم را دارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و در روابطم کمی بدبین هستم و ترجیح می‌دهم ابتدا آدم‌ها را کاملاً بسنجم و بعد به آن‌ها اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی نظم و ترتیب دارم و اگر چیزی طبق برنامه من نباشد کلافه می‌شوم؛ همچنین معتقدم به دلیل تحصیلات و توانایی‌هایم، برتر از بسیاری از اطرافیانم هستم.",
+        "unusual_experiences_and_history": "بسیار واقع‌گرا هستم و به خرافات اعتقادی ندارم؛ در کودکی و نوجوانی هم همیشه تلاش می‌کردم طبق قوانین پیش بروم و هیچ سابقه تخلفی نداشتم."
+    }
+}

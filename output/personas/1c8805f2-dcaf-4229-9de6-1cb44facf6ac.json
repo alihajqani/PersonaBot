@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.162,
+        "detachment_suspicion": 0.712,
+        "impulsivity_antisocial": 1.086,
+        "narcissism_attention": 0.962,
+        "rigidity_perfectionism": -1.806,
+        "unusual_experiences": 1.108
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.844,
+        "extreme_response": -0.309,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله، متاهل و ساکن اهواز هستم و مدرک کارشناسی دارم اما در حال حاضر بیکارم و شرایط مالی سختی دارم.",
+        "emotional_and_interpersonal_style": "تلاطمات احساسی زیادی دارم و خیلی زود عصبانی یا غمگین می‌شوم. به دیگران بی‌اعتماد هستم و حس می‌کنم اکثر مردم علیه من هستند.",
+        "behavioral_and_cognitive_traits": "اصلاً اهل نظم و ترتیب نیستم و از قوانین متنفرم؛ هر چه بر به من تحمیل شود را می‌شکنم. احساس می‌کنم بسیار خاص‌تر از دیگران هستم و باید همه توجهشان به من باشد.",
+        "unusual_experiences_and_history": "تجربیات بسیار غیرعادی دارم، مثل شنیدن صداهایی که دیگران نمی‌شنوند یا احساس جدا شدن از بدنم. از سنین پایین، سابقه دعواهای شدید و رفتارهای تکانشی در مدرسه داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.129,
+        "detachment_suspicion": -0.839,
+        "impulsivity_antisocial": 0.806,
+        "narcissism_attention": -0.292,
+        "rigidity_perfectionism": 0.575,
+        "unusual_experiences": -0.15
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.004,
+        "extreme_response": 0.442,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و متاهل هستم که در مشهد زندگی می‌کنم. مدرک کارشناسی دارم و در حوزه فرهنگی به عنوان معلم مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار نوسانات خلقی می‌شوم و در محیط‌های اجتماعی کمی اضطراب دارم، اما در کل سعی می‌کنم روابطم را مدیریت کنم و بدبینی شدیدی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌هایم گاهی تکانشی عمل می‌کنم و ممکن است کمی سخت‌گیر و وسواسی در مورد جزئیات کاری‌ام باشم؛ همچنین دوست دارم در محیط کارم مورد توجه باشم و جایگاه ویژه‌ای داشته باشم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی احساس می‌کنم حس ششم من قوی است یا اتفاقاتی را پیش‌بینی می‌کنم که دیگران متوجه‌شان نمی‌شوند."
+    }
+}

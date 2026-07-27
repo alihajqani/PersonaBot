@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.352,
+        "detachment_suspicion": 0.726,
+        "impulsivity_antisocial": 0.346,
+        "narcissism_attention": 0.972,
+        "rigidity_perfectionism": -1.533,
+        "unusual_experiences": 1.114
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.275,
+        "extreme_response": 0.227,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و مجردم که در اهواز زندگی می‌کنم. لیسانس دارم و به صورت آزاد کسب‌وکار خودم را اداره می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و به سرعت مضطرب می‌شوم. نسبت به اطرافیانم بدبین هستم و فکر می‌کنم خیلی‌ها قصد دارند از من سوءاستفاده کنند، به همین دلیل ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "بسیار معتقدم که از دیگران برترم و لایق جایگاه‌های بسیار بالاتر هستم و گاهی از این موضوع برای فشار آوردن به دیگران استفاده می‌کنم. در کارهایم اصلا نظم ندارم و از وسواس یا دقت زیاد متنفرم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و گاهی احساس می‌کنم قدرت‌های خاصی دارم یا صداهایی می‌شنوم که راهنمایی‌ام می‌کنند. در نوجوانی سوابق زیادی در زمینه درگیری‌های شدید و قانون‌شکنی داشتم."
+    }
+}

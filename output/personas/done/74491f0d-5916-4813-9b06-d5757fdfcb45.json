@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.033,
+        "detachment_suspicion": -1.972,
+        "impulsivity_antisocial": -0.549,
+        "narcissism_attention": -1.93,
+        "rigidity_perfectionism": 0.094,
+        "unusual_experiences": -1.471
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.303,
+        "extreme_response": 0.047,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله و مجردم که در اصفهان زندگی می‌کنم. لیسانس دارم اما در حال حاضر بیکارم و وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "گاهی احساس دلشوره و اضطراب می‌کنم، اما با مردم مهربان هستم و هیچ حس بدبینی یا کینه‌ای نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار متواضعی هستم و هرگز سعی نمی‌کنم خودم را برتر نشان دهم. در کارهای روزمره کمی وسواس دارم و سعی می‌کنم طبق یک برنامه مشخص پیش بروم تا احساس آرامش کنم.",
+        "unusual_experiences_and_history": "من تجربه‌ای از شنیدن صداها یا دیدن چیزهای غیرعادی نداشته‌ام و نگاهی کاملاً منطقی به زندگی دارم. در دوران نوجوانی هم دانش‌آموز آرامی بودم و هیچ سابقه درگیری یا هنجارشکنی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.476,
+        "detachment_suspicion": -0.007,
+        "impulsivity_antisocial": -0.295,
+        "narcissism_attention": 0.091,
+        "rigidity_perfectionism": -0.131,
+        "unusual_experiences": 0.273
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.649,
+        "extreme_response": -1.076,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۵ سال سن دارم، متاهل هستم و در شهر اصفهان به عنوان معلم فعالیت می‌کنم. تحصیلاتم در مقطع کارشناسی است و وضعیت مالی‌ام در سطح ضعیفی قرار دارد.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم، اما در روابطم کمی بدبین هستم و ترجیح می‌دهم زمان زیادی را در تنهایی بگذرانم تا با دیگران درگیر شوم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم و پیش می‌آید که قوانین را نادیده بگیرم. در کارهایم تعادلی بین وسواس و بی‌خیالی دارم و ادعای برتری خاصی نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی فکر می‌کنم اتفاقات زندگی طبق یک الگوی پنهان پیش می‌روند. در نوجوانی گاهی رفتارهای تکانشی داشتم که باعث ایجاد تنش در خانه می‌شد."
+    }
+}

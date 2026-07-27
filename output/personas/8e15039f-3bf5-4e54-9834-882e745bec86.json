@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.932,
+        "detachment_suspicion": -1.021,
+        "impulsivity_antisocial": 0.597,
+        "narcissism_attention": 0.815,
+        "rigidity_perfectionism": 0.321,
+        "unusual_experiences": -2.169
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.096,
+        "extreme_response": -0.588,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله، متاهل و ساکن اصفهان هستم؛ با مدرک کارشناسی به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار متوازن هستم و هیچ‌گونه اضطراب اجتماعی یا ترس از طرد شدن ندارم؛ با همکاران و خانواده‌ام روابطی صمیمی و trusting دارم.",
+        "behavioral_and_cognitive_traits": "گاهی احساس می‌کنم از دیگران باهوش‌تر هستم و دوست دارم در محیط اداره مورد توجه باشم؛ در کارهایم نظم متوسطی دارم و گاهی بدون فکر تصمیمات سریع می‌گیرم.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی یا حس ششم ندارم و کاملاً بر اساس واقعیت‌ها فکر می‌کنم؛ در دوران کودکی رفتاری عادی داشتم و هیچ‌گاه قانون‌شکنی نکردم."
+    }
+}

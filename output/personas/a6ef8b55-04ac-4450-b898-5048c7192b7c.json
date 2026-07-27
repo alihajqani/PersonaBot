@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.675,
+        "detachment_suspicion": 1.296,
+        "impulsivity_antisocial": -1.801,
+        "narcissism_attention": -2.937,
+        "rigidity_perfectionism": -0.781,
+        "unusual_experiences": -0.007
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.173,
+        "extreme_response": -0.663,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۵ سالمه و توی شیراز زندگی می‌کنم و مجردم. لیسانس دارم و کارمند اداری هستم اما وضعیت مالی‌م ضعیفه.",
+        "emotional_and_interpersonal_style": "من خیلی منزوی‌ام و به راحتی به کسی اعتماد نمی‌کنم. ترجیح می‌دم در دنیای خودم باشم و از شلوغی‌ها و آدم‌های جدید دوری کنم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاطم و هرگز کارهای خطرناک یا تکانشی انجام نمی‌دم. میل به توجه یا احساس برتری روی دیگران اصلاً در من وجود نداره.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعه و خرافات علاقه دارم و گاهی حس می‌کنم چیزهایی رو می‌بینم یا می‌شنوم که بقیه متوجه نمی‌شن."
+    }
+}

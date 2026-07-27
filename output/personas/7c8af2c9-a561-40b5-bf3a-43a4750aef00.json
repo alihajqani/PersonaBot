@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.447,
+        "detachment_suspicion": -1.624,
+        "impulsivity_antisocial": -1.522,
+        "narcissism_attention": 0.261,
+        "rigidity_perfectionism": -0.01,
+        "unusual_experiences": 0.693
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.409,
+        "extreme_response": 0.089,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۴ ساله و متاهل ساکن مشهد هستم. فارغ‌التحصیل کارشناسی هستم و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "روحیات بسیار پایداری دارم و به ندرت دچار اضطراب می‌شوم؛ با دیگران با اعتماد به نفس ارتباط می‌گیرم و تمایلی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار منطقی و قانون‌مدار هستم و هرگز رفتارهای تکانشی ندارم؛ در کارهایم نظم متوسطی دارم و گاهی دوست دارم توانمندی‌هایم مورد تحسین دیگران قرار بگیرد.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی ندارم، اما گاهی به مسائل ماوراءطبیعی یا حس ششم باور دارم و اتفاقات تصادفی را به نشانه‌های خاصی تعبیر می‌کنم."
+    }
+}

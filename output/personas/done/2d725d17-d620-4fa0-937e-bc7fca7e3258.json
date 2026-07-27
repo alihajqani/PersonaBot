@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.336,
+        "detachment_suspicion": 0.546,
+        "impulsivity_antisocial": 1.672,
+        "narcissism_attention": 0.751,
+        "rigidity_perfectionism": 0.084,
+        "unusual_experiences": 1.406
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.557,
+        "extreme_response": -0.46,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و مجرد هستم که در تبریز زندگی می‌کنم. دکتری دارم و به عنوان متخصص ارشد در یک سازمان فعالیت می‌کنم و وضعیت مالی‌ام متوسط است.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی در زندگی‌ام دارم و معمولاً به انگیزه‌های دیگران شک می‌کنم. ترجیح می‌دهم در محیط کارم منزوی باشم چون احساس می‌کنم دیگران لایق اعتماد نیستند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم، ممکن است رفتارهای تندی نشان دهم یا قوانین را نادیده بگیرم. به دلیل تحصیلاتم، احساس برتری زیادی نسبت به اطرافیانم دارم.",
+        "unusual_experiences_and_history": "سابقه‌ی روان‌پزشکی دارم و تجربه‌های عجیبی مثل احساس جدا شدن از واقعیت یا شنیدن صداهای مبهم داشته‌ام. در کودکی بسیار پرخاشگر بودم و زیاد با دیگران دعوا می‌کردم."
+    }
+}

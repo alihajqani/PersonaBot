@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.061,
+        "detachment_suspicion": 1.024,
+        "impulsivity_antisocial": 0.538,
+        "narcissism_attention": -1.348,
+        "rigidity_perfectionism": 0.469,
+        "unusual_experiences": 0.328
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.056,
+        "extreme_response": 0.453,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۵ ساله‌ی مجرد و ساکن کرج هستم. مدرک دیپلم دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم و وضعیت اقتصادی خانواده‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار نوسانات خلقی می‌شوم و می‌ترسم دیگران مرا نپسندند، اما در مجموع ترجیح می‌دهم تنها باشم چون به مردم بی‌اعتماد هستم و زود کینه به دل می‌گیرم.",
+        "behavioral_and_cognitive_traits": "بعضی وقت‌ها بدون فکر تصمیم می‌گیرم و ممکن است تند برخورد کنم، هرچند روی جزئیات کارهایم وسواس دارم و دوست دارم همه چیز دقیق و مرتب باشد.",
+        "unusual_experiences_and_history": "از دوران نوجوانی حس می‌کردم چیزهایی را می‌بینم یا می‌شنوم که دیگران متوجه آن‌ها نیستند و به حس ششم خودم خیلی اعتقاد دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.375,
+        "detachment_suspicion": -0.333,
+        "impulsivity_antisocial": 0.37,
+        "narcissism_attention": 0.571,
+        "rigidity_perfectionism": -0.311,
+        "unusual_experiences": -0.911
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.048,
+        "extreme_response": -0.055,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن تهران هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری در یک سازمان مشغول به کارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی آرام هستم و نوسانات خلقی شدیدی ندارم، اما در محیط کار کمی بدبین هستم و فکر می‌کنم برخی همکارانم قصد دارند به من ضربه بزنند.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیمات عجولانه می‌گیرم و کمی میل به برتری نسبت به اطرافیانم دارم، هرچند در کارهایم نظم متوسطی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و زندگی‌ام از نظر ذهنی کاملاً منطقی و پیش‌بینی‌پذیر است. در دوران مدرسه هم دانش‌آموز آرامی بودم."
+    }
+}

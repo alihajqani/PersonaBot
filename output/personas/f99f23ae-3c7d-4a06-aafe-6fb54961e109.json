@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.431,
+        "detachment_suspicion": 0.308,
+        "impulsivity_antisocial": 0.678,
+        "narcissism_attention": -0.715,
+        "rigidity_perfectionism": -1.35,
+        "unusual_experiences": -1.077
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.336,
+        "extreme_response": -0.335,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۵ ساله، مجرد و ساکن مشهد هستم؛ با مدرک دیپلم به عنوان منشی و دستیار مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب شدیدی ندارم اما ترجیح می‌دهم تنها باشم و به راحتی به دیگران اعتماد نمی‌کنم و گاهی نسبت به رفتار مردم بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "در کارهایم خیلی سخت‌گیر نیستم و وسواس خاصی ندارم، اما گاهی در واکنش‌هایم تند هستم و رفتارهای تکانشی از من سر می‌زند که باعث ایجاد تنش می‌شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا توهماتی ندارم و زندگی را ساده می‌بینم؛ در دوران کودکی و پیش از ۱۵ سالگی، گاهی به دلیل لجبازی با والدین و معلمان دچار مشکل می‌شدم."
+    }
+}

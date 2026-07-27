@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.929,
+        "detachment_suspicion": -1.057,
+        "impulsivity_antisocial": 1.044,
+        "narcissism_attention": 0.199,
+        "rigidity_perfectionism": -2.219,
+        "unusual_experiences": 0.256
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.208,
+        "extreme_response": 0.443,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "دختری ۱۹ ساله، مجرد و ساکن تهران هستم که دیپلم دارم و در حال حاضر به عنوان فروشنده در یک مغازه کار می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و همیشه می‌ترسم دیگران از من فاصله بگیرند، اما در عین حال آدم بدبینی نیستم و به راحتی با مردم ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و بدون فکر کردن کارهای عجولانه انجام می‌دهم؛ اصلاً اهل نظم و وسواس نیستم و هر چه بی‌نظمتر باشم راحت‌ترم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات عجیبی دور و برم می‌افتد؛ در دوران مدرسه هم زیاد به دلیل رفتارهای جسورانه و قانون‌شکنی توبیخ می‌شدم."
+    }
+}

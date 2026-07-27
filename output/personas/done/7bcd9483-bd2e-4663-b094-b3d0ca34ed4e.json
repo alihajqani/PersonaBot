@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.304,
+        "detachment_suspicion": 1.256,
+        "impulsivity_antisocial": 1.695,
+        "narcissism_attention": -0.482,
+        "rigidity_perfectionism": 1.156,
+        "unusual_experiences": 1.415
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.013,
+        "extreme_response": 0.189,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۳ ساله و مجرد هستم و در تبریز زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و معمولاً به دیگران بی‌اعتماد هستم و ترجیح می‌دهم تنها باشم. وقتی کسی را می‌شناسم، سخت می‌توانم کینه‌هایم را فراموش کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون توجه به عواقب، قوانین را می‌شکنم یا رفتارهای پرخطر انجام می‌دهم. در کارهایم بسیار وسواسی هستم و روی کوچک‌ترین جزئیات تمرکز می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم، مثل احساس اینکه حس ششم قوی‌ای دارم یا گاهی احساس می‌کنم از بدنم جدا شده‌ام. در نوجوانی هم سابقه درگیری و تخلفات رفتاری داشتم."
+    }
+}

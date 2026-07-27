@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.034,
+        "detachment_suspicion": -0.502,
+        "impulsivity_antisocial": -1.024,
+        "narcissism_attention": -0.311,
+        "rigidity_perfectionism": 1.424,
+        "unusual_experiences": -0.546
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.415,
+        "extreme_response": 0.049,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و مجرد هستم که در اصفهان زندگی می‌کنم. تحصیلاتم کارشناسی ارشد است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار خونسرد هستم و تقریباً هیچ اضطراب اجتماعی یا نوسان خلقی را تجربه نمی‌کنم. در روابطم کمی فاصله می‌گیرم اما بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی در من بسیار شدید است و تا زمانی که هر جزئیاتی دقیق نباشد، آرام نمی‌گیرم. گاهی احساس می‌کنم به دلیل تخصصم برتر از دیگران هستم و انتظار دارم این موضوع دیده شود.",
+        "unusual_experiences_and_history": "سابقه پیگیری مسائل روان‌پزشکی را دارم اما تجربیات توهمی یا خرافی ندارم. در نوجوانی بسیار درس‌خوان بودم و هرگز قانونی را زیر پا نگذاشتم."
+    }
+}

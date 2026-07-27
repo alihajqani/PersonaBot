@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند ساده",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.145,
+        "detachment_suspicion": 0.132,
+        "impulsivity_antisocial": 0.275,
+        "narcissism_attention": -0.009,
+        "rigidity_perfectionism": 1.281,
+        "unusual_experiences": 2.0
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.139,
+        "extreme_response": 0.038,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای هستم، متاهل و ساکن مشهد. دیپلم دارم و به عنوان یک کارمند ساده در یک اداره مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام معمولی است و گاهی دچار اضطراب می‌شوم، اما به طور کلی با محیط اطرافم سازگاری دارم و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار دقیق و سخت‌گیر هستم و گاهی این کمال‌گرایی باعث خستگی‌ام می‌شود. رفتارهای تکانشی یا میل به برتری خاصی در من دیده نمی‌شود.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی بسیار زیادی دارم؛ مثلاً صدای‌هایی می‌شنوم یا احساس می‌کنم نیروهای ماوراءطبیعی با من ارتباط برقرار می‌کنند. در کودکی بسیار ساکت و گوشه‌گیر بودم."
+    }
+}

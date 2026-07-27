@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.114,
+        "detachment_suspicion": -0.508,
+        "impulsivity_antisocial": -0.186,
+        "narcissism_attention": -1.221,
+        "rigidity_perfectionism": 0.678,
+        "unusual_experiences": -0.1
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.165,
+        "extreme_response": 0.534,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای هستم، متاهل و ساکن اهواز، با مدرک کارشناسی که به عنوان معلم در بخش فرهنگی فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "بسیار آرام و باثبات هستم و تقریباً هیچ‌گونه اضطراب اجتماعی یا ترس از طرد شدن ندارم؛ با دیگران رابطه‌ای محترمانه دارم و به ندرت دچار بدبینی می‌شوم.",
+        "behavioral_and_cognitive_traits": "در محیط مدرسه بسیار دقیق و وسواسی هستم و انتظار دارم همه قوانین به طور سخت‌گیرانه اجرا شوند؛ با این حال در زندگی شخصی گاهی رفتارهای تکانشی از من سر می‌زند.",
+        "unusual_experiences_and_history": "به برخی مسائل متافیزیکی و خرافات اعتقاد دارم و گاهی احساس می‌کنم پیام‌های خاصی از محیط دریافت می‌کنم؛ در نوجوانی گاهی با قوانین مدرسه به دلیل لجبازی به مشکل می‌خوردم."
+    }
+}

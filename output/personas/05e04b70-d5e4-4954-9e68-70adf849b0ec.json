@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آزاد/کسب و کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.964,
+        "detachment_suspicion": 0.165,
+        "impulsivity_antisocial": 0.644,
+        "narcissism_attention": 0.427,
+        "rigidity_perfectionism": -0.677,
+        "unusual_experiences": -0.06
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.1,
+        "extreme_response": -0.094,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای هستم، متاهل و ساکن شیرازم. تحصیلاتم در مقطع کارشناسی است و در حال حاضر به صورت آزاد کسب‌وکار خودم را دارم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها نوسانات خلقی شدیدی دارم و همیشه این ترس در من هست که نکند همسرم یا دوستانم مرا ترک کنند؛ به همین خاطر در محیط‌های اجتماعی زود مضطرب می‌شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیمات تکانشی می‌گیرم و رفتارهای پرخطر می‌کنم. در عین حال، احساس می‌کنم توانایی‌های خاصی دارم و دوست دارم دیگران با من رفتار ویژه‌ای داشته باشند.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم «حس ششم» دارم و اتفاقات آینده را پیش‌بینی می‌کنم. در دوران نوجوانی هم گاهی رفتارهای خارج از هنجار داشتم."
+    }
+}

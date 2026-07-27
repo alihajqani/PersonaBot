@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "متخصص ارشد سازمان",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.396,
+        "detachment_suspicion": -0.589,
+        "impulsivity_antisocial": -0.565,
+        "narcissism_attention": -1.251,
+        "rigidity_perfectionism": 0.544,
+        "unusual_experiences": 0.991
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.009,
+        "extreme_response": -0.37,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۸ ساله مجردم که ساکن تهران هستم؛ مدرک دکتری دارم و به عنوان متخصص ارشد در یک سازمان مشغول به کارم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب‌های شدید و نوسانات خلقی می‌شم، اما در کل با دیگران ارتباط خوبی دارم و تمایلی به انزوای مطلق ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی روی جزئیات حساس هستم و کمال‌گرایی در تمام ابعاد زندگیم جاریه، هرچند در تصمیم‌گیری‌ها معمولاً محتاطم و رفتارهای تکانشی ندارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی غیرعادی زیادی دارم؛ مثلاً گاهی احساس می‌کنم از بدنم جدا شدم یا پیام‌های خاصی رو دریافت می‌کنم که برای دیگران قابل درک نیست."
+    }
+}

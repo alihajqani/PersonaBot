@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.486,
+        "detachment_suspicion": -0.415,
+        "impulsivity_antisocial": -1.711,
+        "narcissism_attention": -0.467,
+        "rigidity_perfectionism": -0.635,
+        "unusual_experiences": -2.738
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.892,
+        "extreme_response": -0.516,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و ساکن اصفهان. تحصیلاتم کارشناسی است و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی فردی بسیار باثبات هستم و نوسانات خلقی شدیدی ندارم. با دیگران روابط سالمی دارم و به‌طور کلی به آدم‌ها اعتماد می‌کنم و اهل کینه‌توزی نیستم.",
+        "behavioral_and_cognitive_traits": "من همیشه سعی می‌کنم طبق قوانین پیش بروم و هرگز رفتارهای پرخطر یا تکانشی ندارم. متواضع هستم و هیچ تمایلی به جلب توجه بیش از حد یا احساس برتری نسبت به همکارانم ندارم.",
+        "unusual_experiences_and_history": "من کاملاً واقع‌بین هستم و هرگز تجربیات غیرعادی یا توهماتی نداشته‌ام. دوران کودکی و نوجوانی‌ام بسیار آرام گذشت و هیچ سابقه تخلف یا مشکل رفتاری نداشتم."
+    }
+}

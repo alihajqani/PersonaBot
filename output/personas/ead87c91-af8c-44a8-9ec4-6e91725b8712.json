@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.971,
+        "detachment_suspicion": -0.935,
+        "impulsivity_antisocial": 0.539,
+        "narcissism_attention": 0.033,
+        "rigidity_perfectionism": -0.262,
+        "unusual_experiences": 0.594
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.073,
+        "extreme_response": 0.146,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و مجردم که در تهران زندگی می‌کنم. لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم، اما وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و نوسانات خلقی‌ام شدید است؛ همیشه می‌ترسم که دیگران مرا دوست نداشته باشند. با این حال، آدم بدبینی نیستم و سعی می‌کنم با دیگران ارتباط دوستانه داشته باشم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظات عصبانیت تکانشی رفتار می‌کنم و کارهای بدون فکر انجام می‌دهم. فکر می‌کنم اگر شرایط بهتری داشتم می‌توانستم برتری‌ام را به رخ بکشم و در کارهایم سعی می‌کنم نظم و وسواس متوسطی داشته باشم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم بدنم متعلق به خودم نیست یا در موقعیت‌های خاص، حس می‌کنم اتفاقات آینده را پیش‌بینی کرده‌ام. در نوجوانی هم گاهی رفتارهای عجیب و غیرمنتظره‌ای داشتم که باعث تعجب اطرافیانم می‌شد."
+    }
+}

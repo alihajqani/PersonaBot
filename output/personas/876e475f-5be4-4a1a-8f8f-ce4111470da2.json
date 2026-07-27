@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.394,
+        "detachment_suspicion": -0.722,
+        "impulsivity_antisocial": 0.809,
+        "narcissism_attention": -0.703,
+        "rigidity_perfectionism": 0.398,
+        "unusual_experiences": -1.26
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.411,
+        "extreme_response": 0.401,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله و متاهل از مشهد هستم. مدرک کارشناسی دارم و در یک اداره به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آرام هستم و اضطراب اجتماعی یا ترس از تنهایی ندارم. روابطم با دیگران خوب است و تمایلی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "کمی کمال‌گرا هستم و دوست دارم کارهایم با دقت انجام شود. گاهی اوقات در تصمیماتم کمی عجول و تکانشی هستم، اما هرگز سعی نمی‌کنم با تظاهر به برتری، توجه دیگران را جلب کنم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا توهمی ندارم و به مسائل ماوراءطبیعه اعتقادی ندارم. در دوران کودکی و نوجوانی، دانش‌آموزی نمونه و قانون‌مدار بودم و هیچ سابقه تخلفی ندارم."
+    }
+}

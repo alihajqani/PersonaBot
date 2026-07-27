@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.387,
+        "detachment_suspicion": 0.116,
+        "impulsivity_antisocial": -0.96,
+        "narcissism_attention": -1.052,
+        "rigidity_perfectionism": 0.937,
+        "unusual_experiences": 1.801
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.038,
+        "extreme_response": -0.428,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۹ ساله، مجرد و ساکن اصفهان هستم. لیسانس مهندسی دارم، اما به دلیل مشکلات شخصی در حال حاضر وضعیت اقتصادی ضعیفی دارم.",
+        "emotional_and_interpersonal_style": "تلاطمات احساسی زیادی دارم و معمولاً نسبت به نیت‌های دیگران بدبین هستم و ترجیح می‌دم تنها باشم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و ساعت‌ها روی جزئیات کوچک وقت می‌ذارم؛ اما هیچ‌وقت اهل ریسک کردن یا شکستن قوانین نبودم.",
+        "unusual_experiences_and_history": "تجربیات روان‌پریشی خفیفی دارم و گاهی احساس می‌کنم دنیا دور و برم واقعی نیست؛ سابقه درمان روان‌پزشکی هم دارم."
+    }
+}

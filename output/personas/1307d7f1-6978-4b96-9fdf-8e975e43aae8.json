@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.059,
+        "detachment_suspicion": -0.149,
+        "impulsivity_antisocial": 0.289,
+        "narcissism_attention": -1.236,
+        "rigidity_perfectionism": 1.34,
+        "unusual_experiences": -0.782
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.192,
+        "extreme_response": 0.536,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ ساله و مجردم و در اهواز زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر بیکارم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی زیادی دارم و خیلی زود مضطرب می‌شوم. ترس زیادی دارم که دوستانم مرا ترک کنند یا از من دوری کنند و گاهی در روابطم بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "در انجام تکالیف یا کارهای روزمره بسیار وسواسی هستم و اگر چیزی جابه‌جا شود عصبی می‌شوم. معمولاً سعی نمی‌کنم مرکز توجه باشم و ترجیح می‌دهم بی‌سروصدا باشم.",
+        "unusual_experiences_and_history": "در کودکی کمی لجباز بودم و گاهی با قوانین مدرسه مشکل داشتم، اما تجربه‌های غیرعادی یا توهمات خاصی ندارم."
+    }
+}

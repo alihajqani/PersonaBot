@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.076,
+        "detachment_suspicion": 1.197,
+        "impulsivity_antisocial": 0.043,
+        "narcissism_attention": 0.571,
+        "rigidity_perfectionism": -1.279,
+        "unusual_experiences": 1.515
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.056,
+        "extreme_response": -0.042,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، مجردم و توی کرج زندگی می‌کنم. هم دانشجوی کارشناسی هستم و هم یه مغازه دارم و وضعیت مالی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "خیلی سخت به کسی اعتماد می‌کنم و ترجیح می‌دم تنها باشم چون حس می‌کنم بقیه ممکنه بهم ضربه بزنن. گاهی هم نوسانات خلقی دارم.",
+        "behavioral_and_cognitive_traits": "فکر می‌کنم از بقیه باهوش‌تر و برترم و دوست دارم همیشه مرکز توجه باشم. کمال‌گرایی ندارم و بیشتر روی نتیجه سریع تمرکز می‌کنم تا جزئیات.",
+        "unusual_experiences_and_history": "تجربیات خیلی عجیبی دارم؛ مثلاً گاهی صداهایی می‌شنوم یا حس می‌کنم موجوداتی دور و برم هستن. قبل از ۱۵ سالگی هم زیاد از قوانین مدرسه سرپیچی می‌کردم."
+    }
+}

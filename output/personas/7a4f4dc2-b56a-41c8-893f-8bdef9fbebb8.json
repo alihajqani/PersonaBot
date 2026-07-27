@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.665,
+        "detachment_suspicion": -0.779,
+        "impulsivity_antisocial": -0.058,
+        "narcissism_attention": -1.304,
+        "rigidity_perfectionism": -0.267,
+        "unusual_experiences": 0.974
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.467,
+        "extreme_response": -0.52,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۱ ساله، متاهل و خانه‌دار در تهران هستم و تحصیلاتم در حد دیپلم است و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "گاهی بی‌دلیل غمگین می‌شوم و نگرانم که اطرافیانم از من ناراضی باشند؛ اما به طور کلی با دیگران سازگار هستم و بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیم می‌گیرم و کارهای تکانشی انجام می‌دهم که بعداً پشیمان می‌شوم؛ در کارهای خانه نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "به خرافات و فال خیلی باور دارم و گاهی احساس می‌کنم پیام‌هایی از دنیای دیگر یا حس‌های ششم دریافت می‌کنم که راهنمای من هستند."
+    }
+}

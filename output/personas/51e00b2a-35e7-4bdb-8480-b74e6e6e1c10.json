@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس/متخصص",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.451,
+        "detachment_suspicion": 0.54,
+        "impulsivity_antisocial": -1.244,
+        "narcissism_attention": 0.548,
+        "rigidity_perfectionism": 0.69,
+        "unusual_experiences": 0.056
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.122,
+        "extreme_response": 0.035,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۶ ساله، متاهل و ساکن شیراز هستم. مدرک کارشناسی ارشد دارم و به عنوان مهندس متخصص فعالیت می‌کنم و وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "گاه‌هایی دچار اضطراب اجتماعی می‌شوم و در محیط‌های جدید احساس راحتی نمی‌کنم. کمی بدبین هستم و تمایل دارم هر چیزی را چندین بار بررسی کنم تا مطمئن شوم کسی قصد فریب من را ندارد.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم در تخصصم برتری دارم و انتظار دارم در محیط کار جایگاه ویژه‌ای داشته باشم. در اجرای پروژه‌ها بسیار دقیق و وسواسی هستم و تحمل اشتباهات کوچک را ندارم.",
+        "unusual_experiences_and_history": "گاهی به حس ششم یا پیش‌بینی‌های غیبی باور دارم، هرچند سعی می‌کنم منطقی باشم. در دوران کودکی و نوجوانی دانش‌آموز آرامی بودم و هیچ سابقه هنجارشکنی یا مشکل رفتاری نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.002,
+        "detachment_suspicion": 0.856,
+        "impulsivity_antisocial": 2.149,
+        "narcissism_attention": 0.824,
+        "rigidity_perfectionism": -3.285,
+        "unusual_experiences": 1.151
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.5,
+        "extreme_response": -0.488,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سالمه، مجردم و ساکن اصفهان هستم. دانشجوی کارشناسی هستم و در کنار درس، توی یه مغازه فروشندگی می‌کنم و وضعیت مالی‌ام متوسطه.",
+        "emotional_and_interpersonal_style": "معمولاً با بقیه خوبم، اما یه بی‌اعتمادی ذاتی به آدم‌ها دارم و ترجیح می‌دم دایره دوستانم خیلی محدود باشه.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و از بچگی عادت داشتم قانون‌ها رو بشکنم و هر کاری دلم خواست بدون فکر به عاقبتش انجام بدم. اصلاً حوصله نظم و وسواس ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی داشتم و به خرافات اعتقاد دارم. قبل از ۱۵ سالگی هم سابقه دعواهای شدید و رفتارهای پرخاشگرانه توی مدرسه داشتم."
+    }
+}

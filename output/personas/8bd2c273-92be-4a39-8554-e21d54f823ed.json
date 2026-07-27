@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم/فرهنگی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.55,
+        "detachment_suspicion": -0.406,
+        "impulsivity_antisocial": 0.253,
+        "narcissism_attention": -0.875,
+        "rigidity_perfectionism": 0.766,
+        "unusual_experiences": -0.295
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.761,
+        "extreme_response": 0.185,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله، متاهل و ساکن اهواز هستم. مدرک کارشناسی دارم و در بخش فرهنگی و آموزش به عنوان معلم فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نگران نظرات دیگران هستم، به خصوص در محیط کار. با این حال، در کل با مردم مهربانم و اهل انزوا یا بدبینی نیستم.",
+        "behavioral_and_cognitive_traits": "گاهی در واکنش‌هایم تند هستم و تکانشی رفتار می‌کنم. در کارهایم دقت زیادی به جزئیات دارم و دوست دارم همه چیز طبق یک استاندارد خاص پیش برود.",
+        "unusual_experiences_and_history": "به برخی خرافات سنتی اعتقاد دارم و گاهی احساس می‌کنم شهودم به من چیزهایی می‌گوید. در دوران کودکی تا قبل از ۱۵ سالگی، سابقه رفتارهای لجبازانه و مشکل در پذیرش قوانین داشتم."
+    }
+}

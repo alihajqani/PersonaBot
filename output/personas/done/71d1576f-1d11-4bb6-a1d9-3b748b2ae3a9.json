@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.233,
+        "detachment_suspicion": -0.554,
+        "impulsivity_antisocial": -1.727,
+        "narcissism_attention": -0.926,
+        "rigidity_perfectionism": 1.592,
+        "unusual_experiences": -1.679
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.229,
+        "extreme_response": -0.612,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، متاهل و ساکن تهران. تحصیلاتم دیپلم است و به عنوان خانه‌دار فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و در محیط‌های جدید دچار اضطراب اجتماعی می‌شوم. با این حال، رابطه‌ام با اطرافیانم خوب است و بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "شدیداً کمال‌گرا هستم و وسواس زیادی روی نظافت و نظم خانه دارم؛ هر چیزی باید در جای دقیق خودش باشد. هرگز تمایلی به قانون‌شکنی یا رفتارهای پرخطر نداشته‌ام.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، توهم یا باور خرافی ندارم و دوران کودکی و نوجوانی‌ام بسیار آرام و بدون هیچ مشکلی سپری شده است."
+    }
+}

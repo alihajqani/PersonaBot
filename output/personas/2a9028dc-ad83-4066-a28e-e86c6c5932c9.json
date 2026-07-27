@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.254,
+        "detachment_suspicion": -1.406,
+        "impulsivity_antisocial": -2.039,
+        "narcissism_attention": 0.346,
+        "rigidity_perfectionism": 1.169,
+        "unusual_experiences": 0.288
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.398,
+        "extreme_response": 0.174,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه خانم ۳۵ ساله متاهل هستم و در اهواز زندگی می‌کنم. دکترا دارم و به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم و وضعیت مالی‌م متوسطه.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی کاملاً ثبات دارم و اضطراب خاصی در روابط اجتماعی ندارم. به بقیه اعتماد دارم و اهل کینه یا انزوا نیستم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا هستم و انتظار دارم همه کارها در بالاترین سطح کیفیت انجام بشه. گاهی فکر می‌کنم به دلیل تخصصم، جایگاه ویژه‌ای دارم و دوست دارم بقیه این رو حس کنن.",
+        "unusual_experiences_and_history": "به مسائل متافیزیکی علاقه دارم و گاهی اتفاقاتی رو حس می‌کنم که با منطق جور در نمیاد. در دوران کودکی و نوجوانی همیشه دانش‌آموز نمونه بودم و هیچ‌گونه رفتارهای هنجارشکنه‌ای نداشتم."
+    }
+}

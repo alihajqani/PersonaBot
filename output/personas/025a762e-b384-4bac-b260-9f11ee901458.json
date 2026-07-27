@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.199,
+        "detachment_suspicion": 2.454,
+        "impulsivity_antisocial": 1.425,
+        "narcissism_attention": -2.142,
+        "rigidity_perfectionism": -0.59,
+        "unusual_experiences": 0.239
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.061,
+        "extreme_response": 0.296,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متاهل و ساکن تهران هستم. مدرک دکترا دارم و در حال حاضر به عنوان یک مدیر عالی‌رتبه در سازمان فعالیت می‌کنم و وضعیت اقتصادی‌ام بسیار خوب است.",
+        "emotional_and_interpersonal_style": "در روابطم به شدت بدبین هستم و سخت به دیگران اعتماد می‌کنم؛ ترجیح می‌دهم بیشتر وقت‌هایم را در تنهایی بگذرانم و معمولاً نسبت به نیت‌های اطرافیانم مشکوکم. نوسانات خلقی متوسطی دارم اما بیشتر روی بی‌اعتمادی‌ام متمرکز هستم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیمات تکانشی می‌گیرم و در محیط کار یا زندگی شخصی رفتارهای پرخطر یا تندی از خود نشان می‌دهم. برخلاف جایگاه شغلی‌ام، هیچ احساس برتری نسبت به دیگران ندارم و به دنبال توجه خاصی نیستم و در مسائل وسواس شدیدی هم ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم حس ششم دارم یا اتفاقات عجیبی را پیش‌بینی می‌کنم که برای بقیه قابل درک نیست. در دوران نوجوانی، پیش از ۱۵ سالگی، سابقه درگیری‌های شدید و رفتارهای قانون‌شکنانه داشتم."
+    }
+}

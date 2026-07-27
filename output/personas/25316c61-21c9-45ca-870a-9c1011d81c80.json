@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "مدیر عالی‌رتبه",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.13,
+        "detachment_suspicion": 0.577,
+        "impulsivity_antisocial": -0.844,
+        "narcissism_attention": -1.114,
+        "rigidity_perfectionism": -1.4,
+        "unusual_experiences": -0.286
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.014,
+        "extreme_response": 0.564,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله، متاهل و ساکن مشهد هستم؛ مدرک دکتری دارم و در جایگاه مدیر عالی‌رتبه مشغول به کارم و وضعیت اقتصادی‌ام در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار مضطرب هستم و نوسانات خلقی شدیدی دارم؛ مدام نگران قضاوت دیگران هستم و گاهی احساس می‌کنم در محیط اجتماعی منزوی شده‌ام.",
+        "behavioral_and_cognitive_traits": "آدمی هستم که به شدت از ریسک دوری می‌کند و سعی می‌کنم هر کاری را با احتیاط کامل انجام دهم و هیچ ادعای برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "گاهی دچار احساسات عجیبی می‌شوم یا به مسائل ماوراءطبیعی فکر می‌کنم، اما این‌ها هرگز مانع از عملکرد شغلی من نشده‌اند."
+    }
+}

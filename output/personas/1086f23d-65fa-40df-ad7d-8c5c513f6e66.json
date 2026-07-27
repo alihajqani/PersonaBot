@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "منشی/دستیار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.972,
+        "detachment_suspicion": -0.433,
+        "impulsivity_antisocial": -1.519,
+        "narcissism_attention": -2.173,
+        "rigidity_perfectionism": -1.699,
+        "unusual_experiences": -1.693
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.158,
+        "extreme_response": 0.284,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم ۱۹ ساله و مجردم و در شهر تبریز زندگی می‌کنم. دانشجوی کارشناسی هستم و به عنوان منشی و دستیار فعالیت می‌کنم؛ وضعیت مالی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب یا ترس خاصی از طرد شدن توسط دیگران ندارم. با اطرافیانم رابطه‌ای آرام دارم و هیچ‌گونه بدبینی یا کینه‌ای در من دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و هیچ تمایلی به رفتارهای تکانشی، پرخاشگری یا کارهای خطرناک ندارم. متواضع هستم و هیچ نیازی به جلب توجه افراطی یا احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "هرگز تجربه غیرعادی، توهم یا خرافات شدیدی نداشته‌ام. دوران کودکی و نوجوانی من کاملاً آرام بود و هرگز با قوانین مدرسه یا خانه تضاد نداشتم."
+    }
+}

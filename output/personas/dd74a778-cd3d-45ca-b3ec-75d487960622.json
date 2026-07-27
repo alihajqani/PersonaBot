@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.669,
+        "detachment_suspicion": -1.623,
+        "impulsivity_antisocial": 1.72,
+        "narcissism_attention": 1.243,
+        "rigidity_perfectionism": -0.587,
+        "unusual_experiences": -0.286
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.022,
+        "extreme_response": 0.155,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای هستم، مجرد و ساکن تهران. در حال حاضر دانشجوی ارشد هستم و به طور همزمان به عنوان کارمند اداری فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اصلاً ترس از طرد شدن یا اضطراب اجتماعی را تجربه نمی‌کنم. با دیگران راحت هستم و بدبینی یا کینه‌توزی در من دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "عاشق هیجان و ریسک هستم و هیچ ترسی از قانون‌شکنی یا رفتارهای جسورانه ندارم. فکر می‌کنم توانایی‌هایم بسیار بیشتر از بقیه است و دوست دارم مرکز توجه باشم و دیگران به من توجه ویژه‌ای کنند.",
+        "unusual_experiences_and_history": "گاهی اوقات پیشامداتی را تجربه می‌کنم که به نظر می‌رسد پیش‌بینی کرده بودم، اما در کل تجربه‌ای توهم‌آمیز نداشته‌ام. در دوران کودکی هم همیشه đứaکی بودم که قوانین را به چالش می‌کشید."
+    }
+}

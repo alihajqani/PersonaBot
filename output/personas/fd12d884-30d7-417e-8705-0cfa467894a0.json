@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.578,
+        "detachment_suspicion": -0.455,
+        "impulsivity_antisocial": -0.457,
+        "narcissism_attention": 0.386,
+        "rigidity_perfectionism": 1.772,
+        "unusual_experiences": 0.77
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.404,
+        "extreme_response": -0.188,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۸ ساله و مجردم که در تهران زندگی می‌کنم؛ دیپلم دارم و فعلاً بیکارم و وضعیت مالی خانواده‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم، اما گاهی در جمع‌های بزرگ احساس معذب بودن می‌کنم و ترجیح می‌دهم با تعداد کمی از دوستانم باشم.",
+        "behavioral_and_cognitive_traits": "به شدت روی جزئیات حساس هستم و وسواس زیادی در مورد نظم دارم؛ گاهی فکر می‌کنم باهوش‌تر از هم‌سن‌هایم هستم و باید توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس کنم اتفاقات اطرافم واقعی نیستند یا به نشانه‌های محیطی معنای خاصی می‌دهم."
+    }
+}

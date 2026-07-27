@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مغازه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.841,
+        "detachment_suspicion": 0.255,
+        "impulsivity_antisocial": -0.294,
+        "narcissism_attention": 1.623,
+        "rigidity_perfectionism": -0.535,
+        "unusual_experiences": -1.188
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.65,
+        "extreme_response": 0.524,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای از تبریز هستم، مدرک دیپلم دارم و در مغازه خودم فروشندگی می‌کنم. مجردم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "به طور کلی آرام هستم و اضطراب زیادی ندارم، اما در روابطم کمی احتیاط می‌کنم و سریع به کسی اعتماد نمی‌کنم. گاهی ترجیح می‌دم تنها باشم تا اینکه با آدم‌های غیرضروری وقت بگذرونم.",
+        "behavioral_and_cognitive_traits": "من واقعاً باور دارم که از بقیه برترم و لایق بهترین‌ها هستم؛ دوست دارم همیشه مرکز توجه باشم و انتظار دارم بقیه برای من استثنا قائل بشن. گاهی بدون فکر هزینه می‌کنم یا رفتارهای تکانشی دارم، اما وسواس خاصی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "هرگز تجربه توهم یا حس‌های غیرعادی نداشتم و همیشه نگاهی کاملاً مادی به زندگی داشتم. در دوران مدرسه هم دانش‌آموز آرامی بودم و هیچ سابقه هنجارشکنی ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.851,
+        "detachment_suspicion": 1.126,
+        "impulsivity_antisocial": 0.438,
+        "narcissism_attention": -1.144,
+        "rigidity_perfectionism": 0.78,
+        "unusual_experiences": 1.079
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.212,
+        "extreme_response": -0.43,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من پسر ۲۶ ساله‌ای هستم، مجرد و ساکن مشهد. تحصیلاتم در حد دیپلم است و در حال حاضر بیکارم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "احساس می‌کنم در دنیایی از تنهایی هستم و به آدم‌ها بی‌اعتمادم، که این موضوع باعث می‌شود در جمع‌ها دچار اضطراب شوم. معمولاً ترجیح می‌دهم در اتاقم بمانم تا با دیگران مواجه شوم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهایی می‌کنم که ممکن است برایم خطرناک باشد. در برخی مسائل وسواس دارم و می‌خواهم همه چیز طبق نظم خاصی باشد، هرچند هیچ ادعای برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم؛ گاهی صداهایی می‌شنوم یا چیزهایی می‌بینم که دیگران متوجه‌شان نمی‌شوند. از کودکی هم همیشه احساس می‌کردم با بقیه متفاوت هستم و رفتارهای من برای خانواده‌ام عجیب بود."
+    }
+}
