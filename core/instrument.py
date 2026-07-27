@@ -1,80 +1,118 @@
 # core/instrument.py
 """
-Maps the marital-relationship questionnaire schema onto its latent constructs so
-answer generation can be CHUNKED by construct (breaking the one-shot self-
-consistency that inflates Cronbach's alpha) and conditioned on the right
+Maps the CURRENT questionnaire schema (output/form_schema.json) onto its latent
+constructs so answer generation can be CHUNKED by construct (breaking the one-shot
+self-consistency that inflates Cronbach's alpha) and conditioned on the right
 latent-trait bands.
 
-The questionnaire (Porsline form) is a marital-satisfaction battery combining
-several validated instruments:
+The current questionnaire is a young-adult Iranian psychological battery:
 
-  - Demographics           : gender, occupation, children, years married,
-                             psychological-problem disclosure  (TEXT + 2 RADIO)
-  - Dyadic Consensus       : 6-point agreement on finances/recreation/religion/
-                             affection/friends/sex/decisions…  (RDAS consensus)
-  - Dyadic Satisfaction     : 5-point frequency incl. thoughts of divorce, trust
-                             + a 7-point global happiness item
-  - Dyadic Cohesion        : 5/6-point frequency of kissing, shared interests,
-                             laughing, calm talk, working together
-  - Affective Expression    : yes/no items on sexual fatigue / lack of affection
-  - Commitment             : one graded-statements item (strongest → weakest)
-  - Attachment             : 5-point degree (Collins-Read style), split into an
-                             anxiety pole and a closeness/trust (avoidance) pole
-  - Partner Responsiveness : 5-point agreement about the spouse ( Reis & Shaver )
+  - Demographics (5 RADIO):
+      سن (age bands)                                 lik_1_1
+      جنسیت (gender)                                 lik_1_2   زن / مرد
+      مقطع تحصیلی (education)                        lik_1_3   کارشناسی / کارشناسی ارشد / دکتری
+      وضعیت تأهل (marital status)                    lik_1_4   مجرد / متاهل / مطلقه / جداشده
+      مدت زمان استفاده روزانه از فضای مجازی          lik_1_5   (daily social-media use)
 
-DEMOGRAPHIC and INSTRUCTION pseudo-questions are answered directly in code (see
-`static_answers`) so a persona's identity stays perfectly consistent and every
-respondent is female; only the psychometric items are sent to the LLM. Detection
-is signature/content-driven (not hard-coded IDs), so it survives ID changes.
+  - Internet Addiction Test (IAT)        msc_1_6_*  (20 items, 5-pt frequency
+                                          بندرت … همیشه; ALL DIRECT;
+                                          higher = more addiction)  -> internet_addiction
+  - Parental Bonding — Care subscale      msc_1_7_*  (16 items = 8 behaviours ×
+                                          father/mother: warmth, affection, touch,
+                                          approval, open talk, gifts, encouragement,
+                                          trust, security; 5-pt amount خیلی کم … خیلی زیاد;
+                                          ALL DIRECT; higher = more care)  -> parental_care
+  - Dysfunctional Attitudes               msc_1_8_*  (26 items, 7-pt agreement
+                                          کاملاً موافقم … کاملاً مخالفم; items 13, 19,
+                                          20, 26 are REVERSE — they state healthy /
+                                          adaptive beliefs, so agreeing means LESS of
+                                          the construct)  -> dysfunctional_attitudes
+  - Loneliness / low social & family     msc_1_9_*  (16 items, 5-pt agreement
+      support                              کاملاً مخالفم … کاملاً موافقم; ALL DIRECT;
+                                          higher = more loneliness)  -> loneliness
 
-`numeric_code` codes each scale monotonically by the SEMANTIC direction of THAT
-question's own option list (not a flat option→score dict), which resolves scales
-that share option strings — e.g. «ب بیشتر اوقات» belongs to both the satisfaction
-frequency scale (=4) and the interaction-frequency scale (=6). The validation
-harness auto-reverses negative item-total correlations, so coding only needs to be
-monotonic and consistent within a scale.
+DEMOGRAPHIC questions are answered directly in code (see `static_answers`) so a
+persona's identity stays perfectly consistent; only the psychometric items are
+sent to the LLM. Detection is signature / content-driven and is NORMALISED for
+the Arabic↔Persian character traps that porsa sprinkles in (ک/ك, ی/ي, tanwin ً,
+ZWNJ ‌, NBSP), with the question-id prefix as a safety net — so it survives both
+character variation and id changes, and no real item is mis-binned as "other".
+
+`numeric_code` codes each scale monotonically by the SEMANTIC direction of the
+item: scales whose option[0] is the HIGH/strong end are reverse-position coded
+(score = K - index), and reverse-worded items within such a scale are flipped
+back (score = index + 1).
 """
 
 from __future__ import annotations
 
 import random
+import re
 from typing import Any, Dict, List, Tuple
 
 
-# construct_key -> (Persian label, latent dims relevant to that construct)
-CONSTRUCT_TRAIT_DIMS: Dict[str, Tuple[str, List[str]]] = {
-    "consensus":              ("توافق زناشویی",        ["marital_satisfaction"]),
-    "satisfaction":           ("رضایت زناشویی",        ["marital_satisfaction"]),
-    "cohesion":               ("انسجام و ابراز محبت",  ["dyadic_cohesion"]),
-    "affectional_expression": ("ابراز عاطفی",          ["marital_satisfaction"]),
-    "global_happiness":       ("شادکامی زناشویی",      ["marital_satisfaction"]),
-    "commitment":             ("تعهد به رابطه",        ["relationship_commitment"]),
-    "partner_responsiveness": ("پاسخگویی همسر",        ["partner_responsiveness"]),
-    "attachment_avoidance":   ("اجتناب دلبستگی",       ["attachment_avoidance"]),
-    "attachment_anxiety":     ("اضطراب دلبستگی",       ["attachment_anxiety"]),
-    "other":                  ("سایر",                  ["marital_satisfaction"]),
-}
+# ---------------------------------------------------------------------------
+# Character normalisation — the schema stores Persian and Arabic forms
+# interchangeably (Arabic ك vs Persian ک, Arabic ي vs Persian ی, tanwin ً,
+# ZWNJ ‌, NBSP). All signature matching is done on the normalised form so the
+# two look identical to the detector.
+# ---------------------------------------------------------------------------
 
-# Stable ordering of psychometric constructs in the output.
-_CONSTRUCT_ORDER: List[str] = [
-    "consensus", "satisfaction", "cohesion", "affectional_expression",
-    "global_happiness", "commitment", "partner_responsiveness",
-    "attachment_avoidance", "attachment_anxiety", "other",
-]
+_KAF_AR, _KAF_FA = "ك", "ک"
+_YEH_AR, _YEH_FA = "ي", "ی"
+# Arabic diacritics / tashkeel to strip (tanwin, harakat, superscript alef).
+_DIACRITICS = "ًٌٍَُِّْٰ"
+_WS_RE = re.compile(r"\s+")
 
-# Scales whose option list runs HIGH → LOW (position 0 = the high/strong end),
-# so the ordinal score is reversed: score = K - index. Everything else is coded
-# low → high by raw list position: score = index + 1.
-_SCALE_HIGH_AT_ZERO = {"consensus", "satisfaction", "cohesion_freq_7", "commitment"}
 
-# Keyword sets for attachment-pole splitting and reverse-key detection.
-_ATTACH_ANXIETY_KEYS = ("نگرانم", "دوست ندارند", "تمایل ندارند", "در کنارم نباشند")
-_SATIS_REVERSE_KEYS = ("طلاق", "جدایی", "پایان دادن", "ترک کرده", "متاسف", "دعوا", "اعصاب")
-_AVOID_COMFORT_KEYS = ("راحت است", "در دسترس هستند", "خوشحال می شوم")
+def _norm(s: str) -> str:
+    if not s:
+        return ""
+    s = s.replace(_KAF_AR, _KAF_FA).replace(_YEH_AR, _YEH_FA)
+    for d in _DIACRITICS:
+        s = s.replace(d, "")
+    s = s.replace(" ", " ").replace("‌", " ")  # NBSP, ZWNJ
+    return _WS_RE.sub(" ", s).strip()
 
 
 # ---------------------------------------------------------------------------
-# Scale + construct detection (signature / content driven, ID-agnostic)
+# construct_key -> (Persian label, latent dims relevant to that construct)
+# ---------------------------------------------------------------------------
+
+CONSTRUCT_TRAIT_DIMS: Dict[str, Tuple[str, List[str]]] = {
+    "internet_addiction":     ("اعتیاد به اینترنت",               ["internet_addiction"]),
+    "parental_care":          ("محبت و مراقبت ادراک‌شده والدین",   ["parental_care"]),
+    "dysfunctional_attitudes":("نگرش‌های اختلال‌ساز و کمال‌گرایی",   ["dysfunctional_attitudes"]),
+    "loneliness":             ("تنهایی و کمبود حمایت اجتماعی",   ["loneliness"]),
+    "other":                  ("سایر",                             [
+        "internet_addiction", "parental_care", "dysfunctional_attitudes", "loneliness"]),
+}
+
+# Stable ordering of constructs in the output.
+_CONSTRUCT_ORDER: List[str] = [
+    "internet_addiction", "parental_care", "dysfunctional_attitudes",
+    "loneliness", "other",
+]
+
+# Constructs whose items mix direct and reverse wording — the answer generator
+# emits per-item [معکوس]/[مستقیم] direction tags only for these.
+REVERSE_KEYED_CONSTRUCTS = {"dysfunctional_attitudes"}
+
+# Scales whose option list runs HIGH → LOW (option[0] = the high/strong end),
+# so direct items are reverse-position coded: score = K - index. Reverse-worded
+# items inside such a scale are flipped back to score = index + 1.
+_SCALE_HIGH_AT_ZERO = {"dysfunctional_attitudes"}
+
+# Reverse-worded items of the dysfunctional-attitudes scale: these four state
+# HEALTHY / adaptive beliefs, so agreeing (کاملاً موافقم) means LESS of the
+# construct.  (13) one can enjoy an activity without regard to its outcome;
+# (19) one can reach goals without being too hard on oneself; (20) one can be
+# blamed without becoming sad; (26) one can be happy without anyone loving them.
+_DYSF_REVERSE_IDS = {"msc_1_8_13", "msc_1_8_19", "msc_1_8_20", "msc_1_8_26"}
+
+
+# ---------------------------------------------------------------------------
+# Scale + demographic detection (signature / content driven, id safety net)
 # ---------------------------------------------------------------------------
 
 def _option_values(question: Dict[str, Any]) -> List[str]:
@@ -82,141 +120,118 @@ def _option_values(question: Dict[str, Any]) -> List[str]:
 
 
 def _scale_of(question: Dict[str, Any]) -> str:
-    """Identify the rating scale of a RADIO question by its option signature."""
-    values = _option_values(question)
-    vset = set(values)
-    if "همیشه توافق داریم" in vset:
-        return "consensus"
-    if "کمی بعضی اوقات" in vset:
-        return "satisfaction"
-    if "هر روز" in vset:
-        return "cohesion_freq_7"
-    if "کمتر از یکبار در ماه" in vset:
-        return "cohesion_freq_8"
-    if "بسیار ناخشنود" in vset:
-        return "happiness"
-    if "خیلی کم" in vset and "خیلی زیاد" in vset:
-        return "attachment"
-    if "نه موافق و نه مخالف" in vset:
-        return "ppr"
-    if vset == {"بله", "خیر"}:
-        return "affectional"
-    if any("ته دل" in v for v in values) or "امیدی به موفقیت رابطه ام ندارم" in vset:
-        return "commitment"
+    """Identify the rating scale of a MATRIX_RADIO question by its (normalised)
+    option signature. Each scale has a unique anchor that no other scale shares."""
+    vset = {_norm(v) for v in _option_values(question)}
+    if "بندرت" in vset and "همیشه" in vset:        # IAT frequency
+        return "internet_addiction"
+    if "خیلی کم" in vset and "خیلی زیاد" in vset:  # parental-care amount
+        return "parental_care"
+    if "بی تفاوتم" in vset and "کاملا موافقم" in vset:  # 7-pt agreement
+        return "dysfunctional_attitudes"
+    if "تاحدی" in vset and "کاملا مخالفم" in vset:      # 5-pt agreement (loneliness)
+        return "loneliness"
     return "other"
 
 
-def _is_attachment_anxiety(question: Dict[str, Any]) -> bool:
-    text = question.get("question_text", "")
-    return any(k in text for k in _ATTACH_ANXIETY_KEYS)
+def _scale_of_id(question: Dict[str, Any]) -> str:
+    """Safety-net: classify by question-id prefix so no real item ever falls
+    through to 'other' even if a signature edge-case fails."""
+    qid = question.get("question_id", "")
+    if qid.startswith("msc_1_6_"):
+        return "internet_addiction"
+    if qid.startswith("msc_1_7_"):
+        return "parental_care"
+    if qid.startswith("msc_1_8_"):
+        return "dysfunctional_attitudes"
+    if qid.startswith("msc_1_9_"):
+        return "loneliness"
+    return "other"
+
+
+def _demographic_of(question: Dict[str, Any]) -> str | None:
+    """Identify one of the five demographic RADIO questions by content (with the
+    gender option-set as the primary signal), normalised for kaf/ye/diacritics."""
+    if question.get("type") != "RADIO":
+        return None
+    t = _norm(question.get("question_text", ""))
+    vals = _option_values(question)
+    vset_norm = {_norm(v) for v in vals}
+    if vset_norm == {"زن", "مرد"}:
+        return "demographic_gender"
+    # age: every option is an age band ending in «سال»
+    if vals and all("سال" in _norm(v) for v in vals):
+        return "demographic_age"
+    if "تحصیل" in t or "مقطع" in t:
+        return "demographic_education"
+    if "تاهل" in t or "تأهل" in t:
+        return "demographic_marital"
+    if "مجازی" in t or ("استفاده" in t and "روزانه" in t):
+        return "demographic_social_media"
+    return None
 
 
 def classify(question: Dict[str, Any]) -> str:
     """
-    Classify a question into:
-      demographic_gender | demographic_psych | demographic_occupation |
-      demographic_children | demographic_years | instruction
-    or a psychometric construct key (consensus / satisfaction / cohesion /
-    affectional_expression / global_happiness / commitment /
-    partner_responsiveness / attachment_avoidance / attachment_anxiety / other).
+    Classify a question into one of the five demographic keys
+    (demographic_age | demographic_gender | demographic_education |
+     demographic_marital | demographic_social_media) or a psychometric construct
+    (internet_addiction | parental_care | dysfunctional_attitudes | loneliness |
+     other).
     """
-    if question.get("type") == "TEXT_INPUT":
-        t = question.get("question_text", "")
-        if "شغل" in t:
-            return "demographic_occupation"
-        if "فرزند" in t:
-            return "demographic_children"
-        if "مشترک" in t or "سابقه" in t:
-            return "demographic_years"
-        # Factual numeric fields (age, spouse age, menopause age/duration,
-        # marriage duration, weight, height) and the survey's instruction
-        # prose blocks are real answerable TEXT_INPUTs whose values are mapped
-        # explicitly in prompts/answer_generation_prompt.json (e.g. "age" ->
-        # "سن شما", "خواندم" for instruction texts). Route them to a construct
-        # chunk that IS sent to the LLM instead of binning them as
-        # "instruction", which previously made static_answers() hard-code "0".
-        if any(k in t for k in ("سن", "وزن", "قد", "یائسگی", "ازدواج", "مدت")) or "عبارت" in t:
-            return "other"
-        return "instruction"
-
-    vset = set(_option_values(question))
-    if vset == {"زن", "مرد"}:
-        return "demographic_gender"
-    if vset == {"دارم", "ندارم"}:
-        return "demographic_psych"
-
+    demo = _demographic_of(question)
+    if demo:
+        return demo
     sk = _scale_of(question)
-    if sk == "consensus":
-        return "consensus"
-    if sk == "satisfaction":
-        return "satisfaction"
-    if sk in ("cohesion_freq_7", "cohesion_freq_8"):
-        return "cohesion"
-    if sk == "affectional":
-        return "affectional_expression"
-    if sk == "happiness":
-        return "global_happiness"
-    if sk == "commitment":
-        return "commitment"
-    if sk == "ppr":
-        return "partner_responsiveness"
-    if sk == "attachment":
-        return "attachment_anxiety" if _is_attachment_anxiety(question) else "attachment_avoidance"
-    return "other"
+    if sk == "other":
+        sk = _scale_of_id(question)
+    return sk
 
 
 def group_by_construct(schema: List[Dict[str, Any]]) -> List[Tuple[str, List[Dict[str, Any]]]]:
-    """Psychometric constructs only (demographics & instructions excluded), in stable order."""
+    """Psychometric constructs only (demographics excluded), in stable order."""
     buckets: Dict[str, List[Dict[str, Any]]] = {}
     for q in schema:
         ck = classify(q)
-        if ck.startswith("demographic_") or ck == "instruction":
+        if ck.startswith("demographic_"):
             continue
         buckets.setdefault(ck, []).append(q)
     return [(ck, buckets[ck]) for ck in _CONSTRUCT_ORDER if ck in buckets]
 
 
 # ---------------------------------------------------------------------------
-# Demographic + instruction answers, answered directly in code (no LLM) so a
-# persona's identity is perfectly consistent and every respondent is female.
+# Demographic answers, answered directly in code (no LLM) so a persona's
+# identity is perfectly consistent. The persona stores the EXACT schema option
+# strings, so these answers are always valid options.
 # ---------------------------------------------------------------------------
 
 def static_answers(schema: List[Dict[str, Any]], persona: Dict[str, Any]) -> Dict[str, str]:
-    """Map demographic / instruction questions to fixed answers drawn from the persona."""
     d = persona.get("demographics", {})
     out: Dict[str, str] = {}
     for q in schema:
         ck = classify(q)
         qid = q["question_id"]
-        if ck == "demographic_gender":
-            out[qid] = str(d.get("gender", "زن"))
-        elif ck == "demographic_psych":
-            out[qid] = str(d.get("psych_problem", "ندارم"))
-        elif ck == "demographic_occupation":
-            out[qid] = str(d.get("occupation", "")).strip()
-        elif ck == "demographic_children":
-            out[qid] = str(d.get("children_count", 0))
-        elif ck == "demographic_years":
-            out[qid] = str(d.get("years_married", 1))
-        elif ck == "instruction":
-            out[qid] = "0"
+        if ck == "demographic_age":
+            out[qid] = str(d.get("age_band", ""))
+        elif ck == "demographic_gender":
+            out[qid] = str(d.get("gender", ""))
+        elif ck == "demographic_education":
+            out[qid] = str(d.get("education", ""))
+        elif ck == "demographic_marital":
+            out[qid] = str(d.get("marital_status", ""))
+        elif ck == "demographic_social_media":
+            out[qid] = str(d.get("social_media_use", ""))
     return out
 
 
 # ---------------------------------------------------------------------------
-# Reverse-keying detection — only the constructs whose items are a MIX of direct
-# and reverse wording. The answer prompt turns these into per-item [معکوس] tags.
+# Reverse-keying — only dysfunctional_attitudes mixes direct and reverse items.
 # ---------------------------------------------------------------------------
 
 def is_reverse(question: Dict[str, Any], construct_key: str) -> bool:
-    """True if the HIGH/agree end of this item's scale means LOWER of the construct's trait."""
-    text = question.get("question_text", "")
-    if construct_key == "satisfaction":
-        return any(k in text for k in _SATIS_REVERSE_KEYS)
-    if construct_key == "attachment_avoidance":
-        return any(k in text for k in _AVOID_COMFORT_KEYS)
-    if construct_key == "attachment_anxiety":
-        return "نگران نیستم" in text
+    """True if the HIGH/agree end of this item means LOWER of the construct."""
+    if construct_key == "dysfunctional_attitudes":
+        return question.get("question_id") in _DYSF_REVERSE_IDS
     return False
 
 
@@ -225,16 +240,27 @@ def is_reverse(question: Dict[str, Any], construct_key: str) -> bool:
 # ---------------------------------------------------------------------------
 
 def numeric_code(question: Dict[str, Any], value: str) -> int | None:
-    """Map an option string to its ordinal score for this question's scale (monotonic)."""
+    """Map an option string to its ordinal score for this question's scale
+    (monotonic, with reverse-keyed items flipped)."""
     opts = _option_values(question)
-    if value not in opts:
-        return None
+    if value in opts:
+        i = opts.index(value)
+    else:
+        nopts = [_norm(o) for o in opts]
+        nv = _norm(value)
+        if nv not in nopts:
+            return None
+        i = nopts.index(nv)
     sk = _scale_of(question)
-    i = opts.index(value)
+    if sk == "other":
+        sk = _scale_of_id(question)
     k = len(opts)
+    rev = is_reverse(question, sk)
     if sk in _SCALE_HIGH_AT_ZERO:
-        return k - i          # position 0 = high end → K; last → 1
-    return i + 1               # position 0 = low end → 1; last → K
+        # option[0] = strong/high end. Direct: high→K. Reverse items: flipped.
+        return (i + 1) if rev else (k - i)
+    # option[0] = low end. Direct: low→1. (Reverse would flip, but none here.)
+    return (k - i) if rev else (i + 1)
 
 
 def scale_size(question: Dict[str, Any]) -> int:
@@ -243,7 +269,7 @@ def scale_size(question: Dict[str, Any]) -> int:
 
 # ---------------------------------------------------------------------------
 # Response-style -> natural-language nudges for the answering LLM.
-# These inject realistic METHOD VARIANCE (acquiescence, extreme/midpoint style)
+# Injects realistic METHOD VARIANCE (acquiescence, extreme/midpoint style)
 # without telling the model the actual trait answers.
 # ---------------------------------------------------------------------------
 
@@ -252,15 +278,15 @@ def response_style_instruction(style: Dict[str, Any]) -> str:
 
     acq = style.get("acquiescence", 0.0)
     if acq > 0.30:
-        parts.append("در سؤال‌های مرزی که مطمئن نیستی، گرایش خفیفی به سمت گزینه‌های موافق/بالاتر داری.")
+        parts.append("در سؤال‌های مرزی که مطمئن نیستی، گرایش خفیفی به سمت گزینه‌های موافق/بالاتر (مثل «کاملاً موافقم» یا «همیشه») داری.")
     elif acq < -0.30:
-        parts.append("در سؤال‌های مرزی که مطمئن نیستی، گرایش خفیفی به سمت گزینه‌های مخالف/پایین‌تر داری.")
+        parts.append("در سؤال‌های مرزی که مطمئن نیستی، گرایش خفیفی به سمت گزینه‌های مخالف/پایین‌تر (مثل «کاملاً مخالفم» یا «بندرت») داری.")
 
     ers = style.get("extreme_response", 0.0)
     if ers > 0.30:
-        parts.append("وقتی گزینه‌ای واقعاً با حال‌وروزت می‌خواند، راحت از گزینه‌ی نهاییِ طیف (مثل «کاملا موافقم»، «خیلی زیاد» یا «همیشه») استفاده می‌کنی.")
+        parts.append("وقتی گزینه‌ای واقعاً با حال‌وروزت می‌خواند، راحت از گزینه‌ی نهاییِ طیف (مثل «کاملاً موافقم»، «خیلی زیاد» یا «همیشه») استفاده می‌کنی.")
     elif ers < -0.30:
-        parts.append("حتی وقتی موافق یا مخالفی، معمولاً گزینه‌های ملایم/میانی را به گزینه‌های نهاییِ طیف ترجیح می‌دهی و کمتر سراغ «کاملا…» یا «خیلی زیاد» می‌روی.")
+        parts.append("حتی وقتی موافق یا مخالفی، معمولاً گزینه‌های ملایم/میانی (مثل «تاحدی» یا «در حد متوسط») را به گزینه‌های نهاییِ طیف ترجیح می‌دهی.")
 
     if not parts:
         return "سبک پاسخ‌دهی‌ات معمولی و متعادل است."
