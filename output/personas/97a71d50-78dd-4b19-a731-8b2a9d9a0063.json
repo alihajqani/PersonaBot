@@ -1,0 +1,34 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "age": 37,
+        "age_band": "35 سال به بالا",
+        "gender": "زن",
+        "education": "کارشناسی",
+        "marital_status": "متاهل",
+        "social_media_use": "بیشتر از ۷ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": 0.842,
+        "parental_care": -1.381,
+        "dysfunctional_attitudes": 0.203,
+        "loneliness": 1.012
+    },
+    "latent_traits_band": {
+        "internet_addiction": "کمی بالا",
+        "parental_care": "پایین",
+        "dysfunctional_attitudes": "متوسط",
+        "loneliness": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.648,
+        "extreme_response": 0.267,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی بالای ۳۵ سال از تهران هستم، لیسانس دارم و متاهلم. روزانه بیش از ۷ ساعت در فضای مجازی هستم و این موضوع به شدت روی کیفیت خواب و روابط خانوادگی من اثر گذاشته و گاهی برای پنهان کردن میزان استفاده‌ام از همسرم دروغ می‌گم.",
+        "upbringing_and_parents": "در کودکی هیچ‌وقت حس نکردم پدر و مادرم من رو درک کنند یا به من محبت کنند. محیط خانه سرد و خشک بود و من همیشه احساس کردم که باید برای جلب توجه‌شون تلاش کنم اما باز هم کافی نبود.",
+        "relationships_and_belonging": "خیلی احساس تنهایی می‌کنم و حس می‌کنم حتی در کنار همسرم هم درک نمی‌شم. هیچ دوست صمیمی یا محرم سری ندارم که بتونم بدون شرمندگی باهاش حرف بزنم.",
+        "cognitive_style": "خیلی به تایید دیگران وابسته هستم و اگر حس کنم کسی از من ناراضی است، تمام روزم خراب می‌شه. فکر می‌کنم اگه نتونم کاری رو عالی انجام بدم، پس اصلاً ارزشی ندارم."
+    }
+}

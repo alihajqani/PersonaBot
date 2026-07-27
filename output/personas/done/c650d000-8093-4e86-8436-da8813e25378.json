@@ -1,0 +1,34 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "age": 24,
+        "age_band": "26-23 سال",
+        "gender": "زن",
+        "education": "کارشناسی",
+        "marital_status": "متاهل",
+        "social_media_use": "۱ تا ۳ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": -1.278,
+        "parental_care": 0.218,
+        "dysfunctional_attitudes": -0.327,
+        "loneliness": -1.289
+    },
+    "latent_traits_band": {
+        "internet_addiction": "پایین",
+        "parental_care": "متوسط",
+        "dysfunctional_attitudes": "متوسط",
+        "loneliness": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.38,
+        "extreme_response": -0.434,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی بین ۲۳ تا ۲۶ سال، متاهل و فارغ‌التحصیل کارشناسی هستم که در مشهد زندگی می‌کنم. استفاده‌ام از فضای مجازی روزانه بین ۱ تا ۳ ساعت است و هیچ‌گونه وابستگی وسواسی به آن ندارم.",
+        "upbringing_and_parents": "والدینم رفتار متوسطی با من داشتند. محبت می‌کردند اما گاهی سخت‌گیر بودند؛ در کل احساس می‌کردم مورد حمایت هستم اما فضای خانه همیشه برای گفتگوهای عمیق عاطفی مهیا نبود.",
+        "relationships_and_belonging": "رابطه خوبی با همسرم و دوستانم دارم و حس می‌کنم در زندگی‌ام تنها نیستم. هر زمان که نیاز داشته باشم، افرادی را دارم که بتوانم به آن‌ها تکیه کنم و با آن‌ها دردودل کنم.",
+        "cognitive_style": "من نگاهی متعادل به موفقیت دارم و اگر اشتباهی کنم، سعی می‌کنم از آن درس بگیرم. نیاز به تأیید دیگران برایم وجود دارد اما نه به حدی که ارزش شخصی‌ام را به آن وابسته کنم."
+    }
+}

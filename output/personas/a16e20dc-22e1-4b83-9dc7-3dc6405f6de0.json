@@ -1,0 +1,34 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "age": 29,
+        "age_band": "30-27 سال",
+        "gender": "مرد",
+        "education": "دکتری",
+        "marital_status": "مجرد",
+        "social_media_use": "کمتر از ۱ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": -0.567,
+        "parental_care": 0.248,
+        "dysfunctional_attitudes": -0.189,
+        "loneliness": 0.409
+    },
+    "latent_traits_band": {
+        "internet_addiction": "کمی پایین",
+        "parental_care": "متوسط",
+        "dysfunctional_attitudes": "متوسط",
+        "loneliness": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.394,
+        "extreme_response": -0.541,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی بین ۲۷ تا ۳۰ سال، مجرد و ساکن اصفهان هستم و مدرک دکتری دارم. استفاده‌ام از فضای مجازی بسیار محدود و کمتر از یک ساعت در روز است و هیچ‌گونه وابستگی وسواسی به اینترنت ندارم.",
+        "upbringing_and_parents": "رابطه‌ام با والدینم در حد متوسطی بود. پدر و مادرم حمایت‌های لازم را می‌کردند و مهربان بودند، هرچند همیشه فضای باز و صمیمانه برای صحبت درباره تمام احساسات وجود نداشت.",
+        "relationships_and_belonging": "گاهی احساس می‌کنم در محیط‌های اجتماعی تنها هستم و کسی را ندارم که بتوانم با او صمیمیت عمیقی داشته باشم. با اینکه خانواده دارم، اما گاهی حس می‌کنم درک نمی‌شوم.",
+        "cognitive_style": "در برخی زمینه‌ها به دنبال کمال هستم و نظرات دیگران برایم اهمیت دارد. گاهی فکر می‌کنم باید برای پذیرفته شدن توسط دیگران، استانداردهای بالایی از خودم داشته باشم."
+    }
+}

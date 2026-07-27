@@ -1,0 +1,34 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "age": 29,
+        "age_band": "30-27 سال",
+        "gender": "مرد",
+        "education": "دکتری",
+        "marital_status": "مجرد",
+        "social_media_use": "۱ تا ۳ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": -1.045,
+        "parental_care": 0.682,
+        "dysfunctional_attitudes": -0.83,
+        "loneliness": 0.812
+    },
+    "latent_traits_band": {
+        "internet_addiction": "پایین",
+        "parental_care": "کمی بالا",
+        "dysfunctional_attitudes": "کمی پایین",
+        "loneliness": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.246,
+        "extreme_response": -0.09,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مرد ۲۹ ساله‌ای از کرج هستم، مدرک دکتری دارم و مجردم. روزانه ۱ تا ۳ ساعت در فضای مجازی می‌گذرونم و این استفاده برای من کاملاً مدیریت شده است و هیچ‌وقت باعث نشده کارهایم رو رها کنم.",
+        "upbringing_and_parents": "والدین من آدم‌های حمایتگری بودند و هرچند خیلی اهل ابراز احساسات شدید نبودند، اما همیشه به من اعتماد داشتند و محیط خانه برای من امن بود.",
+        "relationships_and_belonging": "دوستان خوبی دارم، اما گاهی احساس می‌کنم درونی‌ترین لایه‌های وجودم رو با کسی به اشتراک نمی‌ذارم و در برخی موقعیت‌ها احساس تنهایی می‌کنم.",
+        "cognitive_style": "من نسبت به خودم و دیگران منعطف هستم و معتقدم هیچ‌کس کامل نیست. نیازی نمی‌بینم که برای داشتن اعتماد به نفس، مدام تایید بقیه رو بگیرم و اشتباهاتم رو به عنوان بخشی از رشد می‌بینم."
+    }
+}

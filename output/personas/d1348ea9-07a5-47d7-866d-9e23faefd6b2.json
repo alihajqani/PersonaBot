@@ -1,0 +1,34 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "age": 40,
+        "age_band": "35 سال به بالا",
+        "gender": "مرد",
+        "education": "کارشناسی",
+        "marital_status": "مجرد",
+        "social_media_use": "۵ تا ۷ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": 0.237,
+        "parental_care": -1.07,
+        "dysfunctional_attitudes": 0.67,
+        "loneliness": 1.227
+    },
+    "latent_traits_band": {
+        "internet_addiction": "متوسط",
+        "parental_care": "پایین",
+        "dysfunctional_attitudes": "کمی بالا",
+        "loneliness": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.271,
+        "extreme_response": 0.337,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی بالای ۳۵ سال، مجرد و ساکن کرج هستم و مدرک کارشناسی دارم. روزانه ۵ تا ۷ ساعت در فضای مجازی هستم و این عادت باعث شده که گاهی خوابم به‌هم بریزد یا در انجام کارهای روزانه تنبلی کنم.",
+        "upbringing_and_parents": "پدر و مادرم در دوران رشد من حضور کمرنگی داشتند و محبتشان را به‌ندرت ابراز می‌کردند. احساس می‌کردم نادیده گرفته شده‌ام و فضای خانه برای من امن و گرم نبود.",
+        "relationships_and_belonging": "دوست‌های زیادی ندارم و بیشتر اوقات احساس می‌کنم از جمع‌ها رانده شده‌ام. حس می‌کنم هیچ هم‌دلی در زندگی‌ام نیست و در لحظات سخت، هیچ‌کس را برای درد‌دل ندارم.",
+        "cognitive_style": "بسیار به تأیید دیگران وابسته هستم و اگر کسی با من مخالفت کند، سریعاً فکر می‌کنم که او از من متنفر است. سعی می‌کنم خودم را بیش از حد وفق دهم تا مورد پذیرش دیگران قرار بگیرم."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "age": 19,
+        "age_band": "22-19 سال",
+        "gender": "زن",
+        "education": "کارشناسی",
+        "marital_status": "مطلقه / جداشده",
+        "social_media_use": "۱ تا ۳ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": -1.366,
+        "parental_care": -1.152,
+        "dysfunctional_attitudes": 0.642,
+        "loneliness": 0.119
+    },
+    "latent_traits_band": {
+        "internet_addiction": "پایین",
+        "parental_care": "پایین",
+        "dysfunctional_attitudes": "کمی بالا",
+        "loneliness": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.025,
+        "extreme_response": -0.443,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۰ ساله از تبریز هستم، لیسانس دارم و تجربه جدایی دارم. روزانه ۱ تا ۳ ساعت از فضای مجازی استفاده می‌کنم و این موضوع هیچ اختلال یا وابستگی وسواسی در زندگی من ایجاد نکرده است.",
+        "upbringing_and_parents": "کودکی سختی داشتم؛ پدر و مادرم خیلی سرد بودند و من هرگز حس نکردم که مورد حمایت عاطفی یا نوازش باشند. بیشتر اوقات احساس می‌کردم نادیده گرفته می‌شم و هرگز باهاشون راحت نبودم.",
+        "relationships_and_belonging": "احساس می‌کنم از محیط خانواده و دوستانم فاصله گرفته‌ام و در حال حاضر کسی رو ندارم که بتونم بهش اعتماد کنم یا باهاش درددل کنم. حس تنهایی در زندگی‌ام خیلی رایجه.",
+        "cognitive_style": "همیشه سعی می‌کنم خودم رو بی‌نقص نشون بدم چون می‌ترسم اگه نقطه ضعفی ازم پیدا بشه، بقیه من رو پس بزنند. فکر می‌کنم اگه کسی با من مخالف باشه، یعنی دیگه من رو دوست نداره."
+    }
+}

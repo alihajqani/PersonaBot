@@ -1,0 +1,34 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "age": 23,
+        "age_band": "26-23 سال",
+        "gender": "زن",
+        "education": "کارشناسی ارشد",
+        "marital_status": "مجرد",
+        "social_media_use": "کمتر از ۱ ساعت"
+    },
+    "latent_traits_z": {
+        "internet_addiction": -0.406,
+        "parental_care": -0.571,
+        "dysfunctional_attitudes": -0.388,
+        "loneliness": 1.415
+    },
+    "latent_traits_band": {
+        "internet_addiction": "کمی پایین",
+        "parental_care": "کمی پایین",
+        "dysfunctional_attitudes": "کمی پایین",
+        "loneliness": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.206,
+        "extreme_response": -0.081,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من دختری ۲۴ ساله از اصفهان هستم، مدرک ارشد دارم و مجردم. روزانه کمتر از یک ساعت از فضای مجازی استفاده می‌کنم و هیچ وابستگی وسواسی یا اعتیادگونه‌ای به گوشی و اینترنت ندارم.",
+        "upbringing_and_parents": "پدر و مادرم خیلی صمیمی نبودند و من در کودکی کمتر حس کردم که مورد حمایت عاطفی شدید یا نوازش قرار گرفته‌ام، هرچند نیازهای مادیم تأمین می‌شد.",
+        "relationships_and_belonging": "خیلی احساس تنهایی می‌کنم و حس می‌کنم هیچ دوست صمیمی یا محرم سری ندارم که بتونم تمام احساسات و ترسم رو باهاش به اشتراک بگذارم و در جمع‌ها احساس می‌کنم با بقیه متفاوتم.",
+        "cognitive_style": "من اهل کمال‌گرایی نیستم و اعتقاد ندارم که ارزش انسان به بی‌نقص بودن باشه. ترسی از قضاوت دیگران در مورد اشتباهاتم ندارم و سعی می‌کنم با خودم صلح کنم."
+    }
+}
