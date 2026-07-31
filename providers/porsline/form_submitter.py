@@ -298,7 +298,7 @@ async def submit_single_form(p: async_playwright, answers: Dict[str, str], perso
 # RUNNER
 # ==========================================
 async def run():
-    logging.info("===== RUNNING PHASE 4: FORM SUBMISSION (FINAL FIX) =====")
+    logging.info("===== RUNNING PHASE 4: FORM SUBMISSION (MULTI-WORKER) =====")
 
     done_path = os.path.join(config.ANSWERS_DIR_PATH, "done")
     inprogress_path = os.path.join(config.ANSWERS_DIR_PATH, "inprogress")
@@ -306,94 +306,97 @@ async def run():
     os.makedirs(inprogress_path, exist_ok=True)
 
     # --- ORPHAN RECOVERY ---
-    # Reclaim files stranded in inprogress/ by a previous interrupted run back
-    # into answers/ so they are retried instead of being stuck forever. Done
-    # BEFORE building answer_files so recovered files are processed this run.
-    for stranded in os.listdir(inprogress_path):
-        if not stranded.endswith('.json'):
-            continue
-        src = os.path.join(inprogress_path, stranded)
-        dst = os.path.join(config.ANSWERS_DIR_PATH, stranded)
-        if os.path.exists(dst):
-            # Already present in answers/ (e.g. retried manually): drop the stray claim.
-            try:
-                os.remove(src)
-                logging.info(f"Removed duplicate stranded claim {stranded} (already in answers/).")
-            except OSError as e:
-                logging.error(f"Could not remove duplicate stranded claim {stranded}: {e}")
-        else:
-            try:
-                os.rename(src, dst)
-                logging.info(f"Recovered stranded file {stranded} from inprogress/ to answers/.")
-            except OSError as e:
-                logging.error(f"Could not recover {stranded} from inprogress/: {e}")
-
-    answer_files = [f for f in os.listdir(config.ANSWERS_DIR_PATH) if f.endswith('.json')]
-    if not answer_files:
-        logging.warning("No answer files found.")
-        return
+    # بازگرداندن فایل‌های جا مانده از اجراهای قبلی (Crash)
+    # for stranded in os.listdir(inprogress_path):
+    #     if not stranded.endswith('.json'):
+    #         continue
+    #     src = os.path.join(inprogress_path, stranded)
+    #     dst = os.path.join(config.ANSWERS_DIR_PATH, stranded)
+    #     if os.path.exists(dst):
+    #         try: os.remove(src)
+    #         except: pass
+    #     else:
+    #         try: os.rename(src, dst)
+    #         except Exception as e: logging.error(f"Could not recover {stranded}: {e}")
 
     async with async_playwright() as p:
-        for answer_file in answer_files:
-            answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
-            claimed_path = os.path.join(inprogress_path, answer_file)
+        while True:
+            # 1. خواندن پوشه به صورت لحظه‌ای و پویا
+            available_files = [f for f in os.listdir(config.ANSWERS_DIR_PATH) 
+                               if f.endswith('.json') and not os.path.isdir(os.path.join(config.ANSWERS_DIR_PATH, f))]
+            
+            if not available_files:
+                logging.info("No more answer files found. Worker is finishing.")
+                break
 
-            # --- ATOMIC CLAIM ---
-            # os.rename is atomic on a single filesystem: only ONE concurrent shell
-            # can successfully move the file out of answers/. Everyone else gets
-            # FileNotFoundError and skips, preventing duplicate submissions.
-            try:
-                os.rename(answer_path, claimed_path)
-            except (FileNotFoundError, OSError):
-                logging.info(f"{answer_file} already claimed by another worker. Skipping.")
+            # 2. بُر زدن لیست فایل‌ها برای کاهش شدید برخورد (Collision) بین ۳ ترمینال
+            random.shuffle(available_files)
+
+            claimed_file = None
+            claimed_path = None
+            answer_path = None
+
+            # 3. تلاش برای رزرو و قفل کردن (Claim) فقط یک فایل
+            for answer_file in available_files:
+                answer_path = os.path.join(config.ANSWERS_DIR_PATH, answer_file)
+                temp_claimed_path = os.path.join(inprogress_path, answer_file)
+                
+                try:
+                    # os.rename در سیستم عامل یک عملیات کاملا Atomic است.
+                    # یعنی محال است دو ترمینال همزمان بتوانند یک فایل را بردارند.
+                    os.rename(answer_path, temp_claimed_path)
+                    claimed_file = answer_file
+                    claimed_path = temp_claimed_path
+                    break  # فایل با موفقیت رزرو شد، از حلقه جستجو خارج شو
+                except OSError:
+                    # فایل توسط یک ترمینال دیگر برداشته شد، برو سراغ فایل بعدی
+                    continue
+
+            if not claimed_file:
+                # اگر هیچ فایلی رزرو نشد (ترافیک لحظه‌ای)، ۲ ثانیه صبر کن و دوباره لیست بگیر
+                await asyncio.sleep(2)
                 continue
 
+            # 4. پردازش فایلی که منحصراً در اختیار این ترمینال است
+            logging.info(f"Worker successfully claimed file: {claimed_file}")
+            
             if config.USE_TOR:
                 try: utils.renew_tor_ip()
                 except: pass
                 await asyncio.sleep(5)
 
-            persona_id = answer_file.replace(".json", "")
-            answers = utils.load_json_file(claimed_path, f"answers from {answer_file}")
+            persona_id = claimed_file.replace(".json", "")
+            answers = utils.load_json_file(claimed_path, f"answers from {claimed_file}")
 
             if not answers:
-                # Nothing to submit — release the claim back to answers/.
                 try: os.rename(claimed_path, answer_path)
-                except OSError: pass
+                except: pass
                 continue
 
-            # The file is moved from inprogress/ to done/ inside submit_single_form
-            # the instant success is confirmed.
             try:
+                # ارسال فرم
                 success = await submit_single_form(p, answers, persona_id, claimed_path, done_path)
             except Exception as e:
-                # Defensive: an escaped exception must not strand the file in
-                # inprogress/ or abort the whole run. Treat as failure -> return
-                # it to answers/ for retry. (KeyboardInterrupt is intentionally
-                # NOT caught here so Ctrl+C still interrupts the run; stranded
-                # files are reclaimed by the orphan-recovery pass on the next run.)
                 logging.error(f"Fatal exception during submission for {persona_id}: {e}")
                 success = False
 
             if not success:
-                logging.error(f"Submission failed for {persona_id}.")
-                # Release the claim so it can be retried on a later run.
+                logging.error(f"Submission failed for {persona_id}. Returning to answers/...")
                 if os.path.exists(claimed_path):
                     try:
                         os.rename(claimed_path, answer_path)
-                        logging.info(f"Returned {answer_file} to answers/ for retry.")
-                    except OSError as e:
-                        logging.error(f"Could not return {answer_file} to answers/: {e}")
-            else:
-                # Success: the form was submitted. If mark_done() somehow failed
-                # to move the file to done/ (rare local-IO error), move it now so
-                # it is neither stranded in inprogress/ nor re-submitted (duplicate).
-                if os.path.exists(claimed_path):
-                    logging.warning(f"{answer_file} succeeded but is still in inprogress/. Moving to done/.")
-                    try:
-                        shutil.move(claimed_path, os.path.join(done_path, answer_file))
                     except Exception as e:
-                        logging.error(f"Could not move {answer_file} to done/ after success: {e}")
+                        logging.error(f"Could not return {claimed_file} to answers/: {e}")
+            else:
+                # انتقال قطعی به پوشه done در صورت موفقیت
+                if os.path.exists(claimed_path):
+                    logging.warning(f"{claimed_file} succeeded but still in inprogress. Moving to done/.")
+                    try:
+                        shutil.move(claimed_path, os.path.join(done_path, claimed_file))
+                    except Exception as e:
+                        logging.error(f"Could not move {claimed_file} to done/: {e}")
 
-            logging.info("Waiting 5s...")
+            logging.info("Waiting 5s before grabbing the next file...")
             await asyncio.sleep(5)
+            
+    logging.info("===== PHASE 4 FINISHED FOR THIS WORKER =====")
