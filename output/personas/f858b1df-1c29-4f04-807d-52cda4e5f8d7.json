@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.229,
+        "detachment_suspicion": 0.68,
+        "impulsivity_antisocial": 0.62,
+        "narcissism_attention": 0.094,
+        "rigidity_perfectionism": -0.398,
+        "unusual_experiences": -0.226
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.201,
+        "extreme_response": 0.012,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۷ ساله، مجرد و ساکن اصفهان هستم. مدرک کارشناسی دارم و صاحب یک کسب‌وکار هستم و در زمینه کارآفرینی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم اما گاهی دچار اضطراب می‌شوم. کمی بدبین هستم و ترجیح می‌دهم در مورد مسائل شخصی‌ام با دیگران فاصله داشته باشم.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب‌وکارم گاهی تصمیمات تکانشی می‌گیرم. اعتماد به نفسم در حد متوسط است و در مورد جزئیات کارهایم خیلی سخت‌گیر نیستم و انعطاف دارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و به برخی مسائل شهودی و حس ششم اعتقاد دارم و گاهی تجربیات ذهنی عجیبی دارم."
+    }
+}

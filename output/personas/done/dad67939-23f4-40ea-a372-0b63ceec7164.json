@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.242,
+        "detachment_suspicion": -2.128,
+        "impulsivity_antisocial": -0.445,
+        "narcissism_attention": -1.683,
+        "rigidity_perfectionism": 0.07,
+        "unusual_experiences": -2.367
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.279,
+        "extreme_response": 0.217,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای متاهل ساکن تهران هستم. مدرک کارشناسی دارم و به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار متوازن هستم و هیچ‌گونه اضطراب یا ترس از طرد شدن ندارم. به شدت به دیگران اعتماد دارم و هرگز کینه به دل نمی‌گیرم یا احساس بدبینی نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار متواضع هستم و هیچ تمایلی به مرکز توجه بودن یا احساس برتری ندارم. در محیط کارم نظم متوسطی دارم و به قوانین کاملاً پایبند هستم و رفتارهای تکانشی ندارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، خرافات یا باورهای شبه‌روانی ندارم. دوران کودکی و نوجوانی‌ام کاملاً آرام و مطابق با هنجارهای جامعه بوده است."
+    }
+}

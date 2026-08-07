@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.765,
+        "detachment_suspicion": 0.821,
+        "impulsivity_antisocial": -1.158,
+        "narcissism_attention": -0.264,
+        "rigidity_perfectionism": -0.726,
+        "unusual_experiences": -0.987
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.424,
+        "extreme_response": 0.777,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۸ ساله، متاهل و ساکن تهران هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "احساساتم نسبتاً متوازن است و اضطراب زیادی ندارم، هرچند گاهی ترجیح می‌دهم تنها باشم و به راحتی به هر کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هیچ سابقه رفتارهای تکانشی یا هنجارشکنی ندارم. اعتماد به نفسم در حد متوسط است و در انجام کارهایم سخت‌گیری زیادی به خرج نمی‌دهم.",
+        "unusual_experiences_and_history": "در طول زندگی‌ام هیچ تجربه غیرعادی یا باور خرافی خاصی نداشته‌ام و نگاهی کاملاً واقع‌گرایانه به دنیا دارم."
+    }
+}

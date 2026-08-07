@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.564,
+        "detachment_suspicion": 0.06,
+        "impulsivity_antisocial": -0.445,
+        "narcissism_attention": -0.572,
+        "rigidity_perfectionism": 0.826,
+        "unusual_experiences": -0.998
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.469,
+        "extreme_response": 0.141,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای مجرد هستم که در کرج زندگی می‌کنم. دیپلم دارم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم برای دیگران کافی نیستم و این موضوع باعث اضطرابم می‌شود. در روابطم کمی محتاطم و ترجیح می‌دهم در سطح متوسطی از صمیمیت باشم تا آسیب نبینم.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مند هستم و به ندرت پیش می‌آید که هنجاری را زیر پا بزنم. در محیط کار روی نظم و ترتیب تاکید دارم و دوست دارم هر چیزی سر جای خودش باشد، اما هرگز سعی نمی‌کنم مرکز توجه باشم.",
+        "unusual_experiences_and_history": "من نگاهی کاملاً منطقی به زندگی دارم و به خرافات یا تجربیات غیرعادی اعتقادی ندارم."
+    }
+}

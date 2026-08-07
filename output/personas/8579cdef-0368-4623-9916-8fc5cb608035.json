@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.318,
+        "detachment_suspicion": 0.215,
+        "impulsivity_antisocial": -1.224,
+        "narcissism_attention": 0.391,
+        "rigidity_perfectionism": -2.014,
+        "unusual_experiences": 0.557
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.26,
+        "extreme_response": 0.341,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۳ ساله و مجردم و در شهر اهواز زندگی می‌کنم. تحصیلاتم در حد دیپلم است و به عنوان کارگر صنعت کار می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم، هرچند گاهی دچار اضطراب می‌شوم. اعتمادم به دیگران در حد متوسط است و نه خیلی منزوی هستم و نه بیش از حد اجتماعی.",
+        "behavioral_and_cognitive_traits": "اصلاً آدم منظم یا وسواسی‌ای نیستم و از قواعد سخت‌گیرانه متنفرم. گاهی دوست دارم مرکز توجه باشم و حس می‌کنم در برخی موارد از بقیه بهتر هستم، اما معمولاً قانون‌مند رفتار می‌کنم.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها احساس می‌کنم چیزهایی را می‌بینم یا حس می‌کنم که دیگران متوجه‌شان نمی‌شوند. در کودکی من‌طور، سابقه تخلف یا رفتارهای غیرعادی نداشتم."
+    }
+}

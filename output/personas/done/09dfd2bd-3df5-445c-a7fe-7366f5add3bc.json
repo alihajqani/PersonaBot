@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.639,
+        "detachment_suspicion": -0.661,
+        "impulsivity_antisocial": -0.477,
+        "narcissism_attention": 1.411,
+        "rigidity_perfectionism": 0.787,
+        "unusual_experiences": 1.04
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.399,
+        "extreme_response": 0.052,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "مرد، ۳۹ ساله و متاهل هستم، ساکن تهران با مدرک کارشناسی و در زمینه آرایشگری و خدمات زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و نوسانات خلقی خفیفی دارم، اما به طور کلی با دیگران راحت هستم و بدبینی زیادی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار به ظاهر و جایگاه خودم اهمیت می‌دهم و دوست دارم همه من را تحسین کنند و مرکز توجه باشم. در کارهایم نظم نسبتاً خوبی دارم و به جزئیات اهمیت می‌دهم.",
+        "unusual_experiences_and_history": "به مسائل متافیزیک و حس ششم علاقه زیادی دارم و بارها اتفاقات غیرعادی را در زندگی‌ام تجربه کرده‌ام."
+    }
+}

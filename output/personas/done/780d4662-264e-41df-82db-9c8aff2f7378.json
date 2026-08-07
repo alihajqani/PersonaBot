@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.073,
+        "detachment_suspicion": -1.079,
+        "impulsivity_antisocial": -0.074,
+        "narcissism_attention": 1.015,
+        "rigidity_perfectionism": 0.182,
+        "unusual_experiences": -0.057
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.282,
+        "extreme_response": 0.312,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۲ سالمه، متاهلم و با مدرک کارشناسی ارشد در تهران به صورت آزاد در زمینه فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "روابطم با بقیه معمولاً خوبه و خیلی بدبین نیستم، اما گاهی نوسانات خلقی دارم و می‌ترسم که نکنه در نظر دیگران ناکافی باشم.",
+        "behavioral_and_cognitive_traits": "دوست دارم بقیه منو تحسین کنن و احساس می‌کنم لایق جایگاه‌های بالاتری هستم. در کارهام تعادل بین نظم و بی‌نظمی دارم و گاهی بدون فکر عمل می‌کنم اما نه در حد شدید.",
+        "unusual_experiences_and_history": "بعضی وقت‌ها پیش میاد که احساسات یا باورهای عجیبی داشته باشم، اما در کل تجربه‌هایم در سطح معموله و خیلی خاص نیست."
+    }
+}

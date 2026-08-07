@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.112,
+        "detachment_suspicion": -0.574,
+        "impulsivity_antisocial": -0.788,
+        "narcissism_attention": 0.443,
+        "rigidity_perfectionism": 0.332,
+        "unusual_experiences": 0.021
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.177,
+        "extreme_response": 0.479,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای مجردم و در اصفهان زندگی می‌کنم. لیسانس دارم و کارمند اداری هستم، اما وضعیت اقتصادی‌ام ضعیف است و سابقه درمان روان‌پزشکی دارم.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و نوسانات خلقی شدیدی دارم؛ همیشه می‌ترسم که دیگران مرا نپسندند. با این حال، در کلیت روابطم آدم بدبینی نیستم و سعی می‌کنم با دیگران با حسن نیت ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم متوسطی دارم و سعی می‌کنم طبق روال پیش بروم. گاهی نیاز دارم که دیگران مرا ببینند و تایید کنند تا احساس ارزشمندی کنم، اما رفتارهای تکانشی یا هنجارشکنه‌ای ندارم و معمولاً محتاط هستم.",
+        "unusual_experiences_and_history": "گاهی اوقات دچار افکار یا احساسات عجیبی می‌شوم و به برخی خرافات باور دارم. در کودکی هم گاهی احساس می‌کردم دنیای من با دیگران متفاوت است، هرچند مشکل رفتاری خاصی نداشتم."
+    }
+}

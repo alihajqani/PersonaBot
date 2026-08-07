@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.167,
+        "detachment_suspicion": 0.425,
+        "impulsivity_antisocial": -1.792,
+        "narcissism_attention": -1.16,
+        "rigidity_perfectionism": -1.831,
+        "unusual_experiences": -1.544
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.085,
+        "extreme_response": 0.175,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۰ ساله و مجرد هستم و در کرج زندگی می‌کنم. لیسانس دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم، هرچند وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی گاهی مضطرب می‌شوم و احساس می‌کنم دیگران مرا قضاوت می‌کنند. کمی بدبین هستم و ترجیح می‌دهم ابتدا آدم‌ها را بسنجم و بعد به آن‌ها اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "من بسیار قانون‌مدار هستم و هیچ سابقه تکانشگری یا هنجارشکنی ندارم. اصلاً اهل کمال‌گرایی یا وسواس نیستم و در سازماندهی کارهایم ضعیفم؛ همچنین هیچ ادعای برتری نسبت به دیگران ندارم و ترجیح می‌دهم ساده باشم.",
+        "unusual_experiences_and_history": "من به هیچ وجه به خرافات یا حس ششم باور ندارم و تمام تجربه‌هایم بر اساس منطق و واقعیت است. در تمام دوران کودکی و نوجوانی‌ام، دانش‌آموزی بسیار آرام و مطیع بودم."
+    }
+}

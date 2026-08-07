@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.901,
+        "detachment_suspicion": 1.733,
+        "impulsivity_antisocial": 0.378,
+        "narcissism_attention": 0.517,
+        "rigidity_perfectionism": 0.63,
+        "unusual_experiences": 1.867
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.409,
+        "extreme_response": 0.362,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای متاهل و ساکن کرج هستم. لیسانس دارم و در زمینه مهندسی و کارهای فنی فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم؛ همچنین سابقه درمان روان‌پزشکی دارم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و مدام می‌ترسم عزیزانم مرا ترک کنند یا دیگران درباره‌ام بد فکر کنند. به شدت بدبین هستم و احساس می‌کنم اطرافیانم در پشت سر من توطئه می‌کنند یا قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "در کارهایم کمی وسواس به خرج می‌دهم و گاهی احساس می‌کنم از دیگران برترم و باید توجه بیشتری به من شود. گاهی اوقات در واکنش‌هایم تند هستم و بدون فکر تصمیماتی می‌گیرم که بعداً پشیمان می‌شوم.",
+        "unusual_experiences_and_history": "تجربیات بسیار عجیبی دارم؛ گاهی احساس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که دیگران نمی‌شنوند. از کودکی هم احساس می‌کردم با بقیه فرق دارم و دنیای متفاوتی را تجربه می‌کنم."
+    }
+}

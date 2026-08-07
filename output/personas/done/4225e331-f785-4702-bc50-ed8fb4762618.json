@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.163,
+        "detachment_suspicion": 0.156,
+        "impulsivity_antisocial": -1.444,
+        "narcissism_attention": -1.209,
+        "rigidity_perfectionism": -1.629,
+        "unusual_experiences": 0.208
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.309,
+        "extreme_response": 0.345,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله و مجرد ساکن تهران هستم. مدرک کارشناسی ارشد دارم و در زمینه نویسندگی و هنر در رسانه‌ها فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم، هرچند گاهی دچار نوسانات خلقی می‌شوم. نه به شدت وابسته هستم و نه به طور افراطی بدبین، اما ترجیح می‌دهم در حریم شخصی‌ام بمانم.",
+        "behavioral_and_cognitive_traits": "من اصلاً آدم منظمی نیستم و از قواعد سخت‌گیرانه متنفرم؛ در کارهای هنری‌ام هیچ وسواسی ندارم و کاملاً رها هستم. هرگز به دنبال مرکز توجه بودن یا برتری نسبت به دیگران نبوده‌ام.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا تجربیاتی دارم که با منطق جور در نمی‌آید. در دوران کودکی و نوجوانی بسیار آرام بودم و هیچ سابقه هنجارشکنی یا خشونت نداشتم."
+    }
+}

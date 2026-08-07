@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.775,
+        "detachment_suspicion": -1.942,
+        "impulsivity_antisocial": -0.958,
+        "narcissism_attention": -0.125,
+        "rigidity_perfectionism": 1.203,
+        "unusual_experiences": -0.335
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.223,
+        "extreme_response": -0.135,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای از اهواز هستم، مجردم و مدرک کارشناسی دارم. به عنوان کارشناس فنی و مهندس مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "وضعیت هیجانی پایداری دارم و اضطراب کمی تجربه می‌کنم. بسیار اجتماعی هستم و به راحتی با دیگران ارتباط برقرار می‌کنم و بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "در محیط کار و تحصیل بسیار منظم و دقیق هستم و به جزئیات توجه زیادی دارم. اعتماد به نفس مناسبی دارم و در عین حال همیشه سعی می‌کنم قوانین را به طور کامل رعایت کنم.",
+        "unusual_experiences_and_history": "باورهای متوسطی به خرافات دارم و گاهی احساس می‌کنم شهودم در مورد برخی مسائل درست است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.286,
+        "detachment_suspicion": -1.084,
+        "impulsivity_antisocial": 1.486,
+        "narcissism_attention": -1.105,
+        "rigidity_perfectionism": -1.136,
+        "unusual_experiences": -0.645
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.265,
+        "extreme_response": 0.43,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۶ ساله‌ای مجرد و ساکن تهران هستم. تحصیلاتم در مقطع کارشناسی است و به عنوان مهندس و کارشناس فنی مشغول به کار هستم و وضعیت اقتصادی مناسبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار نوسانات خلقی می‌شوم و در محیط‌های اجتماعی کمی اضطراب دارم. با این حال، آدم بدبینی نیستم و به راحتی به دیگران اعتماد می‌کنم و از تنهایی گریزانم.",
+        "behavioral_and_cognitive_traits": "در کار و زندگی اصلاً وسواسی نیستم و به جزئیات ریز گیر نمی‌دهم. اما در مقابل، گاهی کنترل اعصابم را از دست می‌دهم و رفتارهای تکانشی یا تند دارم که باعث می‌شود قوانین محیطی را نادیده بگیرم.",
+        "unusual_experiences_and_history": "خیلی کم پیش آمده که به خرافات یا چیزهای غیرمنطقی فکر کنم. در کودکی هم بیش از حد سرکش نبودم، اما در بزرگسالی تمایلم به رفتارهای تکانشی بیشتر شده است."
+    }
+}

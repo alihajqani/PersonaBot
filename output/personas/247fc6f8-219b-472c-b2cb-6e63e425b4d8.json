@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.84,
+        "detachment_suspicion": 1.97,
+        "impulsivity_antisocial": -0.318,
+        "narcissism_attention": -0.992,
+        "rigidity_perfectionism": 1.204,
+        "unusual_experiences": -0.036
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.525,
+        "extreme_response": -0.51,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و مجردم که در تهران زندگی می‌کنم. در حال حاضر دانشجوی ارشد هستم و یک کسب‌وکار کوچک دارم.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و همیشه فکر می‌کنم دیگران قصد دارند از من سوءاستفاده کنند یا در مورد من توطئه کنند. ترجیح می‌دهم کاملاً تنها باشم و به هیچ‌کس اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب‌وکارم بسیار وسواسی هستم و روی کوچکترین جزئیات حساس می‌شوم و نمی‌توانم کارها را به دیگران بسپارم. برخلاف بدبینیم، هرگز احساس برتری نسبت به دیگران ندارم و متواضع هستم.",
+        "unusual_experiences_and_history": "باورهای خرافاتی متوسطی دارم و گاهی احساس می‌کنم اتفاقات زندگی‌ام توسط نیروهای غیرمرئی هدایت می‌شوند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.677,
+        "detachment_suspicion": 0.684,
+        "impulsivity_antisocial": -1.08,
+        "narcissism_attention": 0.287,
+        "rigidity_perfectionism": -0.905,
+        "unusual_experiences": -1.0
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.272,
+        "extreme_response": -0.476,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۹ سالمه، خانم، مجرد و ساکن تبریزم. لیسانس دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "معمولاً آرام هستم، هرچند گاهی ترجیح می‌دهم فاصله بگیرم و با احتیاط با دیگران ارتباط برقرار کنم. اعتماد کردن برای من زمان‌بر است و کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "نسبت به توانایی‌های تخصصی خودم اعتماد به نفس بالایی دارم و دوست دارم در محیط کار مورد توجه باشم. اهل وسواس در جزئیات یا قانون‌شکنی نیستم.",
+        "unusual_experiences_and_history": "به خرافات یا حس ششم اعتقادی ندارم و هرگز تجربیات غیرعادی یا احساس جدا شدن از واقعیت را تجربه نکرده‌ام."
+    }
+}

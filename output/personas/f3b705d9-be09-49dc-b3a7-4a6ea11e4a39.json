@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.073,
+        "detachment_suspicion": -0.265,
+        "impulsivity_antisocial": -1.008,
+        "narcissism_attention": 0.877,
+        "rigidity_perfectionism": 1.02,
+        "unusual_experiences": -0.332
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.439,
+        "extreme_response": 0.283,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای متاهل و ساکن تهران هستم. تحصیلاتم کارشناسی است و در حال حاضر به عنوان خانه‌دار مدیریت منزل را بر عهده دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی وضعیت متوسطی دارم و گاهی نوساناتی را تجربه می‌کنم. در ارتباط با دیگران نه خیلی گوشه‌گیر هستم و نه بیش از حد اجتماعی، و اعتمادم به مردم در سطح معمولی است.",
+        "behavioral_and_cognitive_traits": "من به شدت روی نظم و جزئیات حساس هستم و دوست دارم همه چیز طبق یک برنامه دقیق پیش برود. همچنین درونی‌ترین حس من این است که لیاقت جایگاه یا توجه بیشتری نسبت به اطرافیانم دارم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که به پیشگویی‌ها یا حس ششم اعتماد کنم. در گذشته‌ای دور، هیچ سابقه رفتارهای هنجارشکن یا مشکلات رفتاری جدی نداشته‌ام."
+    }
+}

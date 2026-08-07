@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.563,
+        "detachment_suspicion": -0.351,
+        "impulsivity_antisocial": -0.654,
+        "narcissism_attention": 0.31,
+        "rigidity_perfectionism": 1.139,
+        "unusual_experiences": -0.693
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.346,
+        "extreme_response": 0.013,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۲ ساله و متاهل ساکن تهران هستم. مدرک کارشناسی دارم و در حال حاضر به عنوان پژوهشگر و استاد دانشگاه فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب اجتماعی می‌شوم و احساس می‌کنم کافی نیستم، اما در کل با دیگران مهربانم و بدبینی خاصی در روابطم ندارم.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی در من بسیار بالاست و تا زمانی که کاری را به طور کامل و بی‌نقص انجام ندهم، آرام نمی‌گیرم. نگاه متوسطی به خودم دارم و گاهی احساس می‌کنم باید بیشتر دیده شوم.",
+        "unusual_experiences_and_history": "در دوران کودکی بسیار آرام بودم و هیچ سابقه هنجارشکنی ندارم؛ همچنین تجربیات غیرعادی یا خرافات شدیدی در زندگی‌ام نیست."
+    }
+}

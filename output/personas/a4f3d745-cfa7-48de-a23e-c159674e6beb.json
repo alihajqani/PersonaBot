@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.086,
+        "detachment_suspicion": 0.596,
+        "impulsivity_antisocial": 1.416,
+        "narcissism_attention": 1.035,
+        "rigidity_perfectionism": 0.597,
+        "unusual_experiences": 0.358
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.102,
+        "extreme_response": 0.485,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۱۹ ساله و مجرد هستم و با وجود سن کم، در مقطع دکتری تحصیل می‌کنم و به طور همزمان کارمند اداری هستم و در اهواز زندگی می‌کنم. وضعیت مالی من متوسط است و سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "خیلی زیاد نگران طرد شدن توسط دیگران هستم و نوسانات خلقی شدیدی دارم که گاهی کنترلشان سخت می‌شود. در عین حال، کمی بدبین هستم و همیشه این فکر در سرم است که شاید دیگران در مورد من بد حرف بزنند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر تصمیماتی می‌گیرم که باعث دردسر می‌شود. احساس می‌کنم از بقیه برترم و استحقاق دارم که توجه ویژه‌ای به من شود و در عین حال، روی جزئیات کارهایم حساسیت نسبتاً زیادی دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا اتفاقات عجیبی را تجربه می‌کنم که با منطق جور در نمی‌آید. به برخی خرافات اعتقاد دارم و حس می‌کنم شهودم گاهی درست پیش‌بینی می‌کند."
+    }
+}

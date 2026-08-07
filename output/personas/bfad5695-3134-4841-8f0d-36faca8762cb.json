@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.184,
+        "detachment_suspicion": -1.461,
+        "impulsivity_antisocial": 1.531,
+        "narcissism_attention": 1.701,
+        "rigidity_perfectionism": 0.067,
+        "unusual_experiences": -0.338
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.115,
+        "extreme_response": 0.139,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله و متاهل ساکن تهران هستم. مدرک دیپلم دارم و در یک اداره به عنوان کارمند مشغول هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار آرام هستم و هیچ اضطرابی در محیط‌های اجتماعی ندارم. با مردم راحت هستم و به ندرت احساس بدبینی یا انزوا می‌کنم.",
+        "behavioral_and_cognitive_traits": "من معتقدم که بسیار توانمندتر از اطرافیانم هستم و لایق جایگاه‌های ویژه‌تری‌ام. در عین حال، کنترل اعصابم ضعیف است و سابقه زیادی در شکستن قوانین و رفتارهای تکانشی دارم.",
+        "unusual_experiences_and_history": "گاهی افکار یا باورهای عجیبی به ذهنم می‌رسد که با منطق جور در نمی‌آید. در دوران کودکی و نوجوانی، به دلیل رفتارهای ضد اجتماعی و سرکش، چالش‌های زیادی داشتم."
+    }
+}

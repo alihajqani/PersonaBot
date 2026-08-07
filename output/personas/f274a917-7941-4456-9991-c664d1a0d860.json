@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.873,
+        "detachment_suspicion": 0.455,
+        "impulsivity_antisocial": 0.158,
+        "narcissism_attention": 0.12,
+        "rigidity_perfectionism": -2.85,
+        "unusual_experiences": -0.64
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.169,
+        "extreme_response": -0.115,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و متاهل هستم، مدرک کارشناسی دارم و در شیراز به عنوان مهندس و کارشناس فنی فعالیت می‌کنم. وضعیت اقتصادی من متوسط است.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و کمی اضطراب دارم، اما در کل روابطم را مدیریت می‌کنم. کمی تمایل دارم که تنها باشم و گاهی نسبت به دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "در کارهایم اصلاً اهل نظم و وسواس نیستم و ترجیح می‌دهم بدون سخت‌گیری پیش بروم. گاهی رفتارهای تکانشی دارم و دوست دارم در جمع‌ها مورد توجه باشم و برتری‌ام را نشان دهم.",
+        "unusual_experiences_and_history": "من تقریباً هیچ تجربه غیرعادی یا باور خرافاتی ندارم و سابقه بیماری روان‌پزشکی هم ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.024,
+        "detachment_suspicion": 0.351,
+        "impulsivity_antisocial": 0.145,
+        "narcissism_attention": -0.273,
+        "rigidity_perfectionism": -0.805,
+        "unusual_experiences": 1.51
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.051,
+        "extreme_response": -0.452,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۳ سالمه، آقا، مجرد و ساکن مشهد هستم. دیپلم دارم و در بخش صنعت به عنوان کارگر مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و نوسانات خلقی شدیدی دارم. همیشه استرس دارم که نکند دیگران من را نپسندند یا در محیط اجتماعی طرد شوم.",
+        "behavioral_and_cognitive_traits": "گاهی عصبانیت‌هایم از کنترل خارج می‌شود و رفتارهای تکانشی دارم. حس می‌کنم لیاقت جایگاه بالاتری دارم و دوست دارم دیگران به من توجه بیشتری کنند.",
+        "unusual_experiences_and_history": "تجربیات بسیار عجیبی دارم، مثلاً گاهی حس می‌کنم موجوداتی اطرافم هستند یا صداهایی می‌شنوم که دیگران نمی‌شنوند. به مسائل ماورایی به شدت باور دارم."
+    }
+}

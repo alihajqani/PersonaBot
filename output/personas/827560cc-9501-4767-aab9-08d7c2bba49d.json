@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.208,
+        "detachment_suspicion": 0.392,
+        "impulsivity_antisocial": -1.85,
+        "narcissism_attention": -0.047,
+        "rigidity_perfectionism": 0.015,
+        "unusual_experiences": 0.354
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.272,
+        "extreme_response": 0.268,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای هستم که در شهر اصفهان زندگی می‌کنم، متاهل هستم و مدرک کارشناسی دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران نسبتاً پایدار است، هرچند گاهی نوساناتی در خلقی دارم. در اعتماد به دیگران کمی سخت‌گیر هستم و گاهی فکر می‌کنم اطرافیانم در مورد من قضاوت می‌کنند یا حرف‌های پنهانی می‌زنند.",
+        "behavioral_and_cognitive_traits": "در محیط کاری‌ام بسیار متین هستم و هرگز پیش نیامده که تکانشی رفتار کنم یا قوانین را زیر پا بزنم. در مورد جایگاه حرفه‌ای‌ام احساس رضایت دارم و تعادل مناسبی بین نظم و انعطاف در کارهایم برقرار کرده‌ام.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم چیزهایی را پیش‌بینی می‌کنم یا نوعی حس ششم دارم که مرا هدایت می‌کند. در گذشته سابقه بیماری روان‌پزشکی داشته‌ام که روی نگاه من به دنیا اثر گذاشته است."
+    }
+}

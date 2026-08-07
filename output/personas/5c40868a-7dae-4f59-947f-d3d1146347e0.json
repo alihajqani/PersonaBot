@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.106,
+        "detachment_suspicion": 0.518,
+        "impulsivity_antisocial": -0.688,
+        "narcissism_attention": -0.14,
+        "rigidity_perfectionism": 0.096,
+        "unusual_experiences": 2.609
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 1.272,
+        "extreme_response": -0.107,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۰ ساله و متاهل هستم و در شهر مشهد زندگی می‌کنم. مدرک کارشناسی ارشد دارم و در حوزه آموزش به عنوان معلم و کارمند فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران در سطح متوسطی است، اما تمایل دارم بیشتر تنها باشم و گاهی به دیگران بدبین می‌شوم و فکر می‌کنم پشت سر من حرف می‌زنند. در بیان احساساتم کمی سخت‌گیر هستم و زود به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "به طور کلی فردی قانون‌مدار هستم و رفتارهای تکانشی یا خشونت‌آمیز ندارم. در مورد توانایی‌هایم دیدگاه متعادلی دارم و نظم و کمال‌گرایی‌ام در حد معمول است و فشار زیادی به خودم نمی‌آورم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ مثلاً قویاً به حس ششمم باور دارم و گاهی اتفاقاتی را پیش‌بینی می‌کنم یا احساس می‌کنم از بدنم جدا شده‌ام که برای دیگران قابل درک نیست."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.481,
+        "detachment_suspicion": 0.482,
+        "impulsivity_antisocial": 0.212,
+        "narcissism_attention": -1.185,
+        "rigidity_perfectionism": 0.733,
+        "unusual_experiences": 1.34
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.103,
+        "extreme_response": 0.409,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من ۲۵ ساله و متاهل هستم و در کرج زندگی می‌کنم. دیپلم دارم و به عنوان کارگر در بخش صنعت مشغول به کارم.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها نگران نظرات دیگران هستم و می‌ترسم مورد طرد قرار بگیرم. در روابطم کمی بدبین هستم و زود به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم کارهایم را با نظم انجام دهم و به قواعد اهمیت می‌دهم، هرچند گاهی در محیط کار دچار خشم ناگهانی می‌شوم. هرگز فکر نمی‌کنم از دیگران برتر باشم.",
+        "unusual_experiences_and_history": "خیلی به خرافات و نشانه‌های محیطی اعتقاد دارم و تجربیاتی دارم که انگار با دنیای ما متفاوت است. دوران نوجوانی‌ام با برخی رفتارهای تکانشی همراه بود."
+    }
+}

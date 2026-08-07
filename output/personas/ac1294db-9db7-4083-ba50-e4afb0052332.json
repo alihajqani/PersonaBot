@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.944,
+        "detachment_suspicion": -0.399,
+        "impulsivity_antisocial": 0.514,
+        "narcissism_attention": 0.171,
+        "rigidity_perfectionism": 0.772,
+        "unusual_experiences": 0.938
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.645,
+        "extreme_response": 0.354,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۲ ساله و متاهل هستم، در مقطع ارشد تحصیل می‌کنم و در شهر تهران زندگی می‌کنم. وضعیت اقتصادی من متوسط است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار آرام هستم و اضطراب یا ترس از طرد شدن در من دیده نمی‌شود. با دیگران راحت هستم و تمایل کمی به انزوا دارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر عمل می‌کنم و رفتارهای تکانشی دارم. کمی روی جزئیات کارهایم وسواس دارم و دوست دارم همه چیز مرتب باشد، و در عین حال دوست دارم دیگران مرا به عنوان فردی خاص و برتر بشناسند.",
+        "unusual_experiences_and_history": "باورهای عمیقی به حس ششم دارم و تجربیات ذهنی عجیبی را تجربه کرده‌ام که با منطق معمولی سازگار نیستند."
+    }
+}

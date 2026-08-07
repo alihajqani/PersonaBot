@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.738,
+        "detachment_suspicion": -0.1,
+        "impulsivity_antisocial": 1.727,
+        "narcissism_attention": 0.602,
+        "rigidity_perfectionism": 1.003,
+        "unusual_experiences": -0.225
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.055,
+        "extreme_response": -0.199,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۲ ساله متاهل هستم که مدرک کارشناسی دارم و در حال حاضر به عنوان خانه‌دار در شهر کرج زندگی می‌کنم. وضعیت اقتصادی من ضعیف است.",
+        "emotional_and_interpersonal_style": "گاه به گاه احساس می‌کنم در زندگی ناکافی هستم و اضطرابم کمی بالاست. در روابطم کمی فاصله می‌گیرم و همیشه نمی‌توانم احساساتم را به راحتی برای دیگران ابراز کنم.",
+        "behavioral_and_cognitive_traits": "خیلی زود از کوره در می‌روم و سابقه رفتارهای تکانشی و خشم‌های ناگهانی دارم. در عین حال، در مدیریت کارهای خانه و نظم بسیار سخت‌گیر هستم و دوست دارم همه چیز طبق یک استاندارد خاص پیش برود.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی اتفاقات عجیبی را تجربه می‌کنم یا به چیزهایی باور دارم که دیگران آن‌ها را نمی‌پذیرند، هرچند این موارد خیلی شدید نیستند."
+    }
+}

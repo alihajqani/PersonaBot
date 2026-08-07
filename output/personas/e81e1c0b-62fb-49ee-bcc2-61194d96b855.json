@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.426,
+        "detachment_suspicion": 0.825,
+        "impulsivity_antisocial": 2.208,
+        "narcissism_attention": 1.244,
+        "rigidity_perfectionism": 0.909,
+        "unusual_experiences": 3.043
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.528,
+        "extreme_response": 0.007,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۰ ساله و مجرد هستم و در تهران زندگی می‌کنم. در مقطع کارشناسی تحصیل می‌کنم و به عنوان معلم و کارمند آموزش فعالیت دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدید دارم و به شدت از طرد شدن می‌ترسم. در عین حال به دیگران بدبین هستم و حس می‌کنم در محیط کار سعی می‌کنند پشت سر من حرف بزنند.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و روی جزئیات کوچک حساسیت زیادی دارم. معتقدم بسیار باهوش‌تر و برتر از بقیه هستم و لایق بهترین‌ها هستم، اما در عین حال سابقه زیادی در شکستن قوانین و رفتارهای تکانشی و تند دارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی و حسی بسیار عجیبی دارم که گاهی باعث می‌شود احساس کنم در دنیای دیگری هستم. از سنین پایین، رفتارهای ضد اجتماعی و طغیان‌های خشمی شدیدی داشتم که باعث دردسر می‌شد."
+    }
+}

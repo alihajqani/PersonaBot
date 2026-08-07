@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.476,
+        "detachment_suspicion": 1.733,
+        "impulsivity_antisocial": 0.05,
+        "narcissism_attention": 0.562,
+        "rigidity_perfectionism": 1.083,
+        "unusual_experiences": 0.905
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.08,
+        "extreme_response": 0.009,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای مجرد و ساکن مشهد هستم. در حال حاضر دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی چندان مساعدی ندارم.",
+        "emotional_and_interpersonal_style": "همیشه ترس شدیدی از این دارم که دیگران مرا ترک کنند و نوسانات خلقی من بسیار شدید است. به شدت به دیگران بدبین هستم، زود کینه می‌گیرم و احساس می‌کنم همه پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "در تحصیل و زندگی شخصی وسواس شدیدی به نظم و جزئیات دارم و نمی‌توانم کارها را به دیگران بسپارم. در عین حال، نیاز زیادی دارم که مرکز توجه باشم و احساس می‌کنم استحقاق بیشتری نسبت به دیگران دارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و قویاً به حس ششم و مسائل ماوراءطبیعی باور دارم. گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا حضور موجوداتی را حس می‌کنم."
+    }
+}

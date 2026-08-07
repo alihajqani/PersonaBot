@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.671,
+        "detachment_suspicion": 0.057,
+        "impulsivity_antisocial": 0.858,
+        "narcissism_attention": -0.101,
+        "rigidity_perfectionism": -0.925,
+        "unusual_experiences": -0.322
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.53,
+        "extreme_response": 0.019,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجردم و ساکن تهرانم. تحصیلاتم در مقطع کارشناسی ارشد است و در حال حاضر به عنوان صاحب کسب‌وکار و کارآفرین فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و خیلی زود دچار اضطراب یا ترس از طرد شدن نمی‌شوم. در روابطم تعادلی بین اعتماد به دیگران و نیاز به تنهایی برقرار کرده‌ام و معمولاً بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات در تصمیم‌گیری‌ها تکانشی عمل می‌کنم و ممکن است در برابر قوانین سخت‌گیرانه واکنش تندی نشان دهم. در محیط کار خیلی روی جزئیات وسواس ندارم و ترجیح می‌دهم انعطاف‌پذیر باشم تا به کمال‌گرایی افراطی برسم.",
+        "unusual_experiences_and_history": "باورهای خاصی در مورد شهود یا حس ششم دارم و گاهی احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم. در دوران کودکی و نوجوانی رفتارهای خیلی متفاوتی نداشتم و تا حد زیادی هنجارپذیر بودم."
+    }
+}

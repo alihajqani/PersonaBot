@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.199,
+        "detachment_suspicion": 0.322,
+        "impulsivity_antisocial": 1.495,
+        "narcissism_attention": 1.989,
+        "rigidity_perfectionism": 0.375,
+        "unusual_experiences": 3.003
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.292,
+        "extreme_response": -0.627,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله، متاهل و ساکن اهواز هستم. تحصیلاتم در حد دیپلم است و در حال حاضر بیکارم و به دنبال فرصت‌های شغلی می‌گردم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران در حد متوسط است؛ گاهی احساس می‌کنم درک نمی‌شوم و نوساناتی در خلقم دارم، اما به طور کلی می‌توانم با دیگران کنار بیایم و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی زیاد احساس می‌کنم از بقیه برترم و لایق جایگاه‌های خاص هستم و دوست دارم همیشه مرکز توجه باشم. در عین حال، گاهی تکانشی رفتار می‌کنم، زود عصبانی می‌شوم و در رعایت جزئیات و نظم کمی سخت‌گیر هستم.",
+        "unusual_experiences_and_history": "باورهای عمیقی به حس ششم و مسائل ماوراءالطبیعه دارم و تجربیاتی داشتم که حس می‌کردم از بدنم جدا شده‌ام یا حضور موجوداتی را حس می‌کنم که دیگران نمی‌بینند."
+    }
+}

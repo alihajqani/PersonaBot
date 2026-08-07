@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.279,
+        "detachment_suspicion": 0.042,
+        "impulsivity_antisocial": 1.582,
+        "narcissism_attention": 1.094,
+        "rigidity_perfectionism": 0.061,
+        "unusual_experiences": -1.231
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.397,
+        "extreme_response": -0.426,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۷ ساله‌ای هستم، متاهل و در حال حاضر دانشجوی مقطع کارشناسی در تهران هستم. وضعیت اقتصادی من در سطح متوسط است.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم، هرچند گاهی اضطراب‌های معمولی زندگی شهری و دانشجویی را تجربه می‌کنم. اعتمادم به دیگران در سطح متوسطی است و معمولاً احساس تنهایی شدیدی نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و خیلی وقت‌ها بدون فکر تصمیم‌های عجولانه می‌گیرم یا در لحظه خشم کنترلm را از دست می‌دهم. همچنین دوست دارم مرکز توجه باشم و احساس می‌کنم استحقاق بیشتری نسبت به بقیه دارم و باید به من توجه ویژه‌ای شود.",
+        "unusual_experiences_and_history": "من آدم منطقی‌ای هستم و تقریباً هیچ‌گونه تجربه غیرعادی یا باور خرافی ندارم و سابقه بیماری روان‌پزشکی هم ندارم."
+    }
+}

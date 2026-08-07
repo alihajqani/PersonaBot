@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.603,
+        "detachment_suspicion": 0.82,
+        "impulsivity_antisocial": 0.089,
+        "narcissism_attention": -0.046,
+        "rigidity_perfectionism": 0.672,
+        "unusual_experiences": -0.726
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.072,
+        "extreme_response": -0.134,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای مجرد هستم که در کرج زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر به عنوان معلم و کارمند آموزش مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاه به گاه احساس می‌کنم دیگران مرا نمی‌فهمند و این موضوع باعث می‌شود کمی مضطرب شوم و نگران نظراتشان باشم. در روابطم کمی بدبین هستم و گاهی سخت می‌توانم به دیگران اعتماد کامل کنم.",
+        "behavioral_and_cognitive_traits": "در محیط مدرسه سعی می‌کنم منظم باشم، اما گاهی در تصمیم‌گیری‌هایم تکانشی عمل می‌کنم و ممکن است بدون فکر واکنش نشان دهم. نسبت به جایگاه خودم نگاهی متوسط دارم و نه احساس برتری می‌کنم و نه احساس حقارت.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به خرافات فکر کنم، اما گاهی احساس می‌کنم اتفاقات خاصی از قبل تعیین شده‌اند. در دوران مدرسه رفتارهای خاصی داشتم که گاهی باعث جلب توجه می‌شد اما شدید نبود."
+    }
+}

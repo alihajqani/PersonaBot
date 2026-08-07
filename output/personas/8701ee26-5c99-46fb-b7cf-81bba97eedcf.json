@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.061,
+        "detachment_suspicion": -0.4,
+        "impulsivity_antisocial": 0.838,
+        "narcissism_attention": 0.966,
+        "rigidity_perfectionism": 0.104,
+        "unusual_experiences": -0.706
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.651,
+        "extreme_response": -0.355,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و متاهل هستم که در اهواز زندگی می‌کنم. در حال تحصیل در مقطع کارشناسی هستم و به عنوان کادر درمان فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "شدیداً با اضطراب دست و پنجه نرم می‌کنم و هر لحظه می‌ترسم که مورد قضاوت قرار بگیرم یا اطرافیانم از من فاصله بگیرن. در عین حال، خیلی دوست دارم مرکز توجه باشم و بقیه من رو تحسین کنن.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر واکنش‌های تندی نشون می‌دم، اما در محیط کار سعی می‌کنم نظم رو رعایت کنم. همیشه حس می‌کنم توانایی‌های من بیشتر از بقیه است و باید جایگاه ویژه‌ای داشته باشم.",
+        "unusual_experiences_and_history": "در کودکی گاهی رفتارهای تکانشی داشتم، اما هیچ‌وقت تجربه‌ی غیرعادی یا توهمی نداشتم. بیشتر فشارهای روانی من مربوط به استرس‌های شغلی و تحصیلیه."
+    }
+}

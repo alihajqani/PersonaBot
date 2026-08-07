@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.36,
+        "detachment_suspicion": -0.118,
+        "impulsivity_antisocial": 0.627,
+        "narcissism_attention": -0.358,
+        "rigidity_perfectionism": 0.093,
+        "unusual_experiences": -0.668
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.604,
+        "extreme_response": -0.326,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای مجرد هستم که در تهران زندگی می‌کنم. دیپلم دارم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و در جمع‌ها کمی مضطرب می‌شوم. نسبت به نیت دیگران نگاه متوسطی دارم و گاهی احساس می‌کنم نمی‌توانم کاملاً به اطرافیانم اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "در کارهای اداری‌ام نظم متوسطی دارم. گاهی پیش می‌آید که بدون فکر تصمیمات تکانشی بگیرم یا قوانین ساده را نادیده بگیرم، اما به طور کلی احساس برتری نسبت به همکارانم ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم، اما تجربیات غیرعادی یا خرافات شدیدی در زندگی روزمره‌ام ندارم. دوران نوجوانی‌ام با برخی رفتارهای تکانشی همراه بود."
+    }
+}

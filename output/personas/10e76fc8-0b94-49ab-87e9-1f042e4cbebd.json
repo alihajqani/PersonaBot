@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.067,
+        "detachment_suspicion": -0.747,
+        "impulsivity_antisocial": 0.315,
+        "narcissism_attention": 0.54,
+        "rigidity_perfectionism": 0.134,
+        "unusual_experiences": 0.199
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.179,
+        "extreme_response": 0.145,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۱۹ ساله و مجرد هستم، ساکن مشهد با مدرک کارشناسی و به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "وضعیت عاطفی‌ام در حد متوسط است و گاهی در جمع احساس اضطراب می‌کنم. با دیگران رابطه‌ام خوب است و تمایل چندانی به انزوا یا بدبینی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم، اما در کل نظم متوسطی در زندگی دارم. احساس می‌کنم در برخی زمینه‌ها از هم‌سالانم توانمندتر هستم و این موضوع برایم اهمیت دارد.",
+        "unusual_experiences_and_history": "در حد معمول به برخی خرافات یا شهودهای قلبی اعتقاد دارم، اما تجربیات شدید یا غیرعادی ذهنی نداشته‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.507,
+        "detachment_suspicion": -1.92,
+        "impulsivity_antisocial": -1.013,
+        "narcissism_attention": -0.639,
+        "rigidity_perfectionism": 2.244,
+        "unusual_experiences": 0.915
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.156,
+        "extreme_response": 0.159,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای از تهران هستم، متاهل هستم و مدرک کارشناسی دارم. به عنوان معلم در یک مدرسه مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "روحیه‌ای آرام دارم و به ندرت دچار اضطراب می‌شوم. در روابطم بسیار صمیمی هستم و هیچ‌گونه بدبینی یا حس کینه‌ای نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "من به شدت کمال‌گرا و وسواسی هستم؛ تمام کارهایم باید با نظم دقیق انجام شوند و سپردن کارها به دیگران برایم بسیار سخت است. هرگز اهل هنجارشکنی یا رفتارهای تکانشی نبوده‌ام.",
+        "unusual_experiences_and_history": "باورهای قوی به مسائل ماوراءطبیعی دارم و بارها حس کرده‌ام که نیروهای نادیدنی یا حس ششم مرا در موقعیت‌های مختلف راهنمایی می‌کنند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.366,
+        "detachment_suspicion": 1.542,
+        "impulsivity_antisocial": -0.501,
+        "narcissism_attention": -0.94,
+        "rigidity_perfectionism": 0.251,
+        "unusual_experiences": -0.851
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.227,
+        "extreme_response": -0.197,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سال دارم، متاهل هستم و در شیراز زندگی می‌کنم. مدرک کارشناسی دارم اما به دلیل شرایط اقتصادی، به عنوان کارگر در صنعت مشغول به کارم.",
+        "emotional_and_interpersonal_style": "خیلی سخت به کسی اعتماد می‌کنم و ترجیح می‌دم در دنیای خودم باشم چون حس می‌کنم بقیه ممکنه بهم ضربه بزنن. گاهی اوقات احساس می‌کنم برای بقیه کافی نیستم و این موضوع باعث اضطرابم می‌شه.",
+        "behavioral_and_cognitive_traits": "در محیط کار نظم متوسطی دارم و سعی می‌کنم وظایفم رو انجام بدم، اما هیچ‌وقت احساس نکردم که از بقیه برترم. اهل دعوا یا شکستن قوانین نیستم و ترجیح می‌دم آرامش خودم رو حفظ کنم.",
+        "unusual_experiences_and_history": "از بچگی تا الان تجربه‌ی خاص یا غیرعادی نداشتم و همیشه طبق واقعیت‌ها زندگی کردم. سوابق رفتاری خاصی در دوران کودکی ندارم."
+    }
+}

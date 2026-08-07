@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.844,
+        "detachment_suspicion": -1.372,
+        "impulsivity_antisocial": 0.259,
+        "narcissism_attention": -0.03,
+        "rigidity_perfectionism": -0.301,
+        "unusual_experiences": -1.122
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.418,
+        "extreme_response": -0.435,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقایی ۳۹ ساله و متاهل هستم که در اصفهان کارمند اداری‌ام و همزمان دانشجوی مقطع ارشد هستم.",
+        "emotional_and_interpersonal_style": "از نظر روانی بسیار آرام هستم و اضطراب اجتماعی یا ترس از تنها ماندن برایم تعریف نشده است. با دیگران راحت هستم و بدبینی یا کینه در من دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و ممکنه در لحظه تصمیمات عجولانه بگیرم. فکر می‌کنم توانایی‌هایم خوب است و دوست دارم در محیط کارم دیده شوم و مورد توجه باشم.",
+        "unusual_experiences_and_history": "باورهای خرافی یا تجربیات غیرعادی ندارم و نگاهم به زندگی کاملاً واقع‌گرایانه و مادی است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.463,
+        "detachment_suspicion": 0.167,
+        "impulsivity_antisocial": -0.103,
+        "narcissism_attention": 0.423,
+        "rigidity_perfectionism": -0.826,
+        "unusual_experiences": -0.34
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.124,
+        "extreme_response": 0.004,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای هستم، مجردم و در مشهد زندگی می‌کنم. در حال حاضر دانشجوی مقطع کارشناسی هستم و تمام وقت روی تحصیلا‌م تمرکز دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم به دیگران بیش از حد وابسته‌ام و اضطراب اجتماعی در جمع‌های بزرگ دارم. در روابطم سعی می‌کنم متعادل باشم، هرچند گاهی بدبینی‌هایی به سراغم می‌آید.",
+        "behavioral_and_cognitive_traits": "در محیط دانشگاه سعی می‌کنم طبق قوانین پیش بروم، اما گاهی تکانشی رفتار می‌کنم. دوست دارم مرکز توجه باشم و حس می‌کنم توانایی‌هایم بیشتر از دیگران است، هرچند در نظم و ترتیب خیلی سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی احساس می‌کنم حس ششمم به من هشدار می‌دهد. در دوران کودکی رفتارهای خاص یا مشکل‌سازی شدیدی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.079,
+        "detachment_suspicion": 0.416,
+        "impulsivity_antisocial": -0.914,
+        "narcissism_attention": -0.033,
+        "rigidity_perfectionism": -0.066,
+        "unusual_experiences": 1.015
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.748,
+        "extreme_response": -0.012,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای مجرد هستم که در تبریز زندگی می‌کنم. در حال حاضر دانشجو هستم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و نوسانات خلقی‌ام شدید است؛ احساس می‌کنم دیگران مرا نمی‌فهمند و گاهی نسبت به آن‌ها بدبین می‌شوم و به راحتی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم و وسواس متوسطی دارم و به قوانین پایبندم. احساس می‌کنم در بسیاری از مسائل از دیگران برترم و نیاز دارم که این موضوع دیده شود، اما رفتارهای تکانشی ندارم.",
+        "unusual_experiences_and_history": "باورهای خرافی زیادی دارم و تجربیات غیرعادی ذهنی را زیاد تجربه کرده‌ام. در کودکی بسیار آرام بودم و هیچ سابقه هنجارشکنی نداشتم."
+    }
+}

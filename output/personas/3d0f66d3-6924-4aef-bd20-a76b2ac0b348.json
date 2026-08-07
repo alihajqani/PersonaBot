@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.329,
+        "detachment_suspicion": 0.542,
+        "impulsivity_antisocial": -0.913,
+        "narcissism_attention": -0.563,
+        "rigidity_perfectionism": -0.446,
+        "unusual_experiences": -0.281
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.113,
+        "extreme_response": 0.285,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای مجردم که در اهواز زندگی می‌کنم. مدرک دکتری دارم و در زمینه‌ی نویسندگی و هنر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به‌ندرت دچار اضطراب یا ترس از طرد می‌شم. با این حال، کمی بدبین هستم و ترجیح می‌دم در انتخاب دوستانم خیلی سخت‌گیر باشم و سریع اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "آدمی منطقی و قانون‌مند هستم و رفتارهای تکانشی یا هیجانی ندارم. در کارهایم سخت‌گیر نیستم و به دنبال کمال مطلق نمی‌گردم، بلکه به تعادل اهمیت می‌دم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم شهود قوی‌ای دارم و چیزهایی رو پیش‌بینی می‌کنم که بعداً اتفاق می‌افته. در دوران کودکی هم همیشه دانش‌آموزی آرام و مبادی آداب بودم."
+    }
+}

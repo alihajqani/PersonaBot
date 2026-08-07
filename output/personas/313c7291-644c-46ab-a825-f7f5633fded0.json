@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.172,
+        "detachment_suspicion": 0.269,
+        "impulsivity_antisocial": 0.956,
+        "narcissism_attention": 0.922,
+        "rigidity_perfectionism": 0.634,
+        "unusual_experiences": -0.883
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.295,
+        "extreme_response": 0.284,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۵ ساله، متاهل و دانشجوی مقطع کارشناسی هستم که در تهران زندگی می‌کنم و فعلاً تمام وقت مشغول تحصیل هستم.",
+        "emotional_and_interpersonal_style": "در روابطم ترکیبی از اضطراب و بدبینی دارم؛ گاهی می‌ترسم طرد شوم و گاهی به نیت اطرافیانم شک می‌کنم. تعادل عاطفی من در محیط‌های پراسترس کمی به هم می‌ریزد.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و دوست دارم همیشه در مرکز توجه باشم و احساس می‌کنم استحقاق بیشتری نسبت به دیگران دارم. در درس‌هایم کمی وسواس به خرج می‌دهم و می‌خواهم همه چیز بی‌نقص باشد.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات شدیدی ندارم و بیشتر روی واقعیت‌ها تمرکز می‌کنم. در دوران نوجوانی سابقه تخلف از قوانین مدرسه و رفتارهای جسورانه داشتم که باعث جلب توجه می‌شد."
+    }
+}

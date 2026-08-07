@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.47,
+        "detachment_suspicion": -0.598,
+        "impulsivity_antisocial": -0.357,
+        "narcissism_attention": -0.596,
+        "rigidity_perfectionism": -0.691,
+        "unusual_experiences": -2.906
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.146,
+        "extreme_response": -0.292,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۹ ساله و متاهل هستم که در مقطع ارشد تحصیل می‌کنم و در اصفهان به عنوان نویسنده و هنرمند فعالیت دارم. وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به‌ندرت دچار اضطراب یا ترس از طرد شدن می‌شوم. با دیگران راحت هستم و بدبینی یا کینه در زندگی‌ام جایی ندارد.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار آرامی هستم، اهل قانون‌شکنی نیستم و هیچ ادعای برتری نسبت به دیگران ندارم. در کارهایم تعصب خاصی روی جزئیات ندارم و با انعطاف‌پذیری پیش می‌روم.",
+        "unusual_experiences_and_history": "من کاملاً واقع‌گرا هستم و هیچ‌گونه تجربه غیرعادی، خرافات یا سابقه بیماری روان‌پزشکی در زندگی‌ام نداشته‌ام."
+    }
+}

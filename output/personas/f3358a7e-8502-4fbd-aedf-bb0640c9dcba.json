@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.116,
+        "detachment_suspicion": -0.233,
+        "impulsivity_antisocial": -0.883,
+        "narcissism_attention": -0.205,
+        "rigidity_perfectionism": 1.494,
+        "unusual_experiences": -0.615
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.604,
+        "extreme_response": -0.622,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای متاهل و ساکن تبریز هستم. دیپلم دارم و برای خودم کسب‌وکاری راه انداخته‌ام و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نوسانات خلقی دارم و در مواجهه با موقعیت‌های جدید کمی مضطرب می‌شوم. در روابطم نه خیلی وابسته هستم و نه خیلی سرد؛ در حد متوسطی به مردم اعتماد می‌کنم و گاهی ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "بسیار کمال‌گرا و وسواسی هستم و دوست دارم هر کاری با دقت میلی‌متری و نظم کامل انجام شود. در عین حال، احساس می‌کنم توانایی‌های مدیریتی‌ام بالاست و دوست دارم در محیط کارم مورد توجه و تحسین باشم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به چیزهای خرافی فکر کنم و بیشتر به منطق تکیه می‌کنم. در دوران کودکی و نوجوانی، دانش‌آموز آرامی بودم و هیچ سابقه تخلف یا رفتارهای تکانشی نداشتم."
+    }
+}

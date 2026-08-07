@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.809,
+        "detachment_suspicion": -0.949,
+        "impulsivity_antisocial": -0.024,
+        "narcissism_attention": 0.794,
+        "rigidity_perfectionism": -1.588,
+        "unusual_experiences": 0.097
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.032,
+        "extreme_response": -0.853,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۹ ساله و متاهل هستم که در شهر مشهد زندگی می‌کنم. در حال حاضر دانشجوی مقطع کارشناسی هستم و وضعیت اقتصادی خانواده‌ام عالی است.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اصلاً دچار اضطراب یا ترس از طرد شدن نمی‌شوم. به آدم‌ها اعتماد دارم و از معاشرت با دیگران لذت می‌برم و اصلاً تمایلی به تنهایی ندارم.",
+        "behavioral_and_cognitive_traits": "اصلاً اهل نظم و قوانین نیستم و کمال‌گرایی برای من معنایی ندارد؛ ترجیح می‌دهم هر طور که پیش آمد پیش بروم. البته دوست دارم در جمع‌ها مرکز توجه باشم و حس می‌کنم از بقیه برترم.",
+        "unusual_experiences_and_history": "گاهی افکار یا تجربیات عجیبی دارم که شاید برای دیگران غیرمنطقی باشد. در دوران نوجوانی گاهی رفتارهای تکانشی داشتم اما هرگز به طور جدی قوانین جامعه را به چالش نکشیدم."
+    }
+}

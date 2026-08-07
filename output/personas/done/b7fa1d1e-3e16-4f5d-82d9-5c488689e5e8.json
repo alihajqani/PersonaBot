@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.571,
+        "detachment_suspicion": 0.018,
+        "impulsivity_antisocial": 1.041,
+        "narcissism_attention": 0.421,
+        "rigidity_perfectionism": 0.892,
+        "unusual_experiences": 1.436
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.147,
+        "extreme_response": 0.387,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مرد ۳۵ ساله مجردم، مدرکم دیپلمه و در شهر تبریز کسب‌وکار خودم رو دارم و به عنوان کارآفرین فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم به اندازه کافی خوب نیستم و اضطراب خفیفی دارم، اما کلاً آدمی هستم که ترجیح می‌ده با خودش باشه و به هر کسی راحت اعتماد نمی‌کنه.",
+        "behavioral_and_cognitive_traits": "در مدیریت بیزنس و زندگی شخصی‌ام گاهی تکانشی رفتار می‌کنم و ممکنه سریع عصبانی بشم. فکر می‌کنم توانایی‌های خاصی دارم که منو از بقیه متمایز می‌کنه و در کارهام نظم نسبی‌ای دارم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و حس می‌کنم اتفاقات آینده رو یه جورایی پیش‌بینی می‌کنم یا حس ششمم بهم هشدار میده."
+    }
+}

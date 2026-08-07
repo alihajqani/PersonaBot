@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.891,
+        "detachment_suspicion": 0.309,
+        "impulsivity_antisocial": -1.218,
+        "narcissism_attention": -2.12,
+        "rigidity_perfectionism": -1.418,
+        "unusual_experiences": -1.306
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.836,
+        "extreme_response": -0.09,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، مجرد و ساکن تبریز هستم. مدرک دکتری دارم اما در حال حاضر بیکار هستم و جویای کار می‌گردم و وضعیت اقتصادی متوسطی دارم؛ سابقه درمان روان‌پزشکی دارم.",
+        "emotional_and_interpersonal_style": "کمی اضطراب دارم و گاهی احساس می‌کنم در برابر دیگران کافی نیستم. در روابطم بدبین نیستم اما تمایل دارم بیشتر در دنیای خودم باشم و ارتباطات اجتماعی‌ام محدود است.",
+        "behavioral_and_cognitive_traits": "اصلاً آدم وسواسی یا سخت‌گیری نیستم و در کارهایم انعطاف زیادی دارم. به شدت متواضع هستم و هرگز احساس برتری نسبت به دیگران ندارم، حتی با وجود تحصیلاتم، همیشه خودم را پایین‌تر از بقیه می‌بینم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا باورهای خرافی ندارم و دنیا را از دریچه عقل و منطق می‌بینم. در تمام دوران رشد و تحصیلاتم، همیشه قانون‌مدار بودم و هرگز تجربه درگیری یا هنجارشکنی نداشته‌ام."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.447,
+        "detachment_suspicion": 1.015,
+        "impulsivity_antisocial": -1.481,
+        "narcissism_attention": -2.406,
+        "rigidity_perfectionism": 0.278,
+        "unusual_experiences": -0.417
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.027,
+        "extreme_response": -0.779,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۸ ساله، مجرد و ساکن تهران هستم. با وجود سن کم، در مقطع دکتری تحصیل می‌کنم و در حال حاضر دانشجو هستم.",
+        "emotional_and_interpersonal_style": "گاه پیش می‌آید که احساس کنم به اندازه دیگران کافی نیستم و اضطراب اجتماعی خفیفی دارم. ترجیح می‌دهم بیشتر تنها باشم و به راحتی به دیگران اعتماد نمی‌کنم؛ همیشه این حس را دارم که شاید دیگران پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مدار هستم و سابقه هیچ‌گونه تخلف یا رفتار تکانشی ندارم. اصلاً اهل جلب توجه نیستم، هرگز ادعای برتری نمی‌کنم و ترجیح می‌دهم در حاشیه باشم.",
+        "unusual_experiences_and_history": "تجربیات حسی عجیبی ندارم و نگاهم به زندگی تا حد زیادی منطقی است، هرچند گاهی خرافات بسیار کوچکی در ذهنم می‌چرخد."
+    }
+}

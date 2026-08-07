@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.03,
+        "detachment_suspicion": -0.906,
+        "impulsivity_antisocial": -0.726,
+        "narcissism_attention": -0.18,
+        "rigidity_perfectionism": 0.83,
+        "unusual_experiences": 1.74
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.471,
+        "extreme_response": -0.119,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۹ ساله‌ای متاهل و ساکن کرج هستم. لیسانس دارم و به عنوان کادر درمان مشغول به کار هستم و وضعیت اقتصادی بسیار عالی‌ای دارم.",
+        "emotional_and_interpersonal_style": "در روابطم معمولاً تعادل دارم، هرچند گاهی اضطراب‌های شغلی روی خلق من اثر می‌گذارد. آدم صمیمی‌ای هستم، به دیگران اعتماد دارم و ترجیح می‌دهم با مردم در ارتباط باشم تا تنها بمانم.",
+        "behavioral_and_cognitive_traits": "در محیط بیمارستان و خانه کمی وسواس دارم و دوست دارم همه چیز طبق نظم خاصی پیش برود. گاهی احساس می‌کنم به دلیل جایگاهم، استحقاق بیشتری نسبت به دیگران دارم و دوست دارم مرکز توجه باشم.",
+        "unusual_experiences_and_history": "به شدت به حس ششم و مسائل ماورایی اعتقاد دارم و تجربیات شهودی عجیبی داشته‌ام که برای بقیه قابل درک نیست. در دوران کودکی و نوجوانی، بسیار آرام بودم و هیچ‌گاه قوانین را زیر پا نگذاشتم."
+    }
+}

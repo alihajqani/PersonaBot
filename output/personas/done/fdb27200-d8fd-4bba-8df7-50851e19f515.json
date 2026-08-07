@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -3.904,
+        "detachment_suspicion": -0.633,
+        "impulsivity_antisocial": -1.696,
+        "narcissism_attention": -1.766,
+        "rigidity_perfectionism": -0.725,
+        "unusual_experiences": -1.118
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.281,
+        "extreme_response": 0.444,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای هستم، مجرد و ساکن اصفهان؛ به عنوان مهندس و کارشناس فنی مشغول به کار هستم و تحصیلاتم در مقطع کارشناسی است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار باثبات هستم و هیچ ترسی از طرد شدن یا وابستگی به دیگران ندارم. در روابط اجتماعی اعتماد به نفس بالایی دارم و به‌ندرت احساس بدبینی یا انزوا می‌کنم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مند هستم و هیچ سابقه رفتارهای تکانشی یا هنجارشکنی ندارم. نیازی به جلب توجه دیگران نمی‌بینم و در کارهایم نظم دارم اما دچار وسواس یا کمال‌گرایی افراطی نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا باورهای خرافی ندارم و همیشه احساس می‌کنم با واقعیت در ارتباط هستم."
+    }
+}

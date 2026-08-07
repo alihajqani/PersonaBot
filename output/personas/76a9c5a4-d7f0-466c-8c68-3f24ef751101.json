@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.304,
+        "detachment_suspicion": -0.017,
+        "impulsivity_antisocial": -1.682,
+        "narcissism_attention": 0.431,
+        "rigidity_perfectionism": 0.22,
+        "unusual_experiences": 0.129
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.244,
+        "extreme_response": -0.13,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله و متاهل هستم که در شهر اهواز زندگی می‌کنم. مدرک تحصیلی‌ام در سطح کاردانی/کارشناسی است و در حال حاضر بیکار هستم و جویای کار می‌گردم.",
+        "emotional_and_interpersonal_style": "وضعیت روحی‌ام در حد متوسطی است؛ گاهی نگران آینده می‌شوم اما اضطرابم غیرقابل کنترل نیست. در روابطم نه خیلی اجتماعی هستم و نه خیلی منزوی، و اعتمادم به دیگران در سطح معمولی است.",
+        "behavioral_and_cognitive_traits": "بسیار آرام هستم و هیچ سابقه رفتارهای تکانشی یا خشونت‌آمیز ندارم. گاهی احساس می‌کنم شایستگی جایگاه‌های بالاتری را دارم و دوست دارم دیگران متوجه توانایی‌های من شوند، هرچند در کارهایم نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "دوران کودکی و نوجوانی معمولی داشتم و هیچ مشکل رفتاری نداشتم. به بعضی از خرافات رایج باور دارم و گاهی فکر می‌کنم اتفاقات زندگی از پیش تعیین شده‌اند."
+    }
+}

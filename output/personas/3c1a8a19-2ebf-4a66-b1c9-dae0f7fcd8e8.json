@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.292,
+        "detachment_suspicion": -0.207,
+        "impulsivity_antisocial": -1.353,
+        "narcissism_attention": -2.975,
+        "rigidity_perfectionism": 0.849,
+        "unusual_experiences": 0.148
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.252,
+        "extreme_response": 0.194,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای متاهل هستم که در تهران زندگی می‌کنم. در حال حاضر دانشجوی مقطع کاردانی/کارشناسی هستم و به طور همزمان به عنوان کارمند اداری کار می‌کنم.",
+        "emotional_and_interpersonal_style": "احساساتم در حد متوسطی است و گاهی در مواجهه با فشارهای زندگی دچار اضطراب می‌شوم. در روابطم نه خیلی وابسته هستم و نه خیلی سرد، و به طور کلی نگاهی متعادل به اطرافیانم دارم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و هیچ سابقه هنجارشکنی یا رفتارهای تکانشی ندارم. در محیط کار و دانشگاه روی جزئیات دقت می‌کنم و نظم داشتن برایم مهم است، اما هرگز به دنبال جلب توجه یا احساس برتری نیستم.",
+        "unusual_experiences_and_history": "سابقه بیماری یا مشکلات رفتاری در کودکی ندارم. گاهی به حس ششم یا خواب‌های پیش‌گویانه باور دارم و فکر می‌کنم برخی اتفاقات تصادفی نیستند."
+    }
+}

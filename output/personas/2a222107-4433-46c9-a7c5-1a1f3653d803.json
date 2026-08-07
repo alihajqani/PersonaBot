@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.921,
+        "detachment_suspicion": -1.453,
+        "impulsivity_antisocial": -1.07,
+        "narcissism_attention": -2.144,
+        "rigidity_perfectionism": -2.537,
+        "unusual_experiences": -1.635
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.074,
+        "extreme_response": 0.227,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای مجرد هستم که در تبریز زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان آرایشگر و متخصص خدمات زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام بسیار ساده و بدون تنش است. من نه اضطراب اجتماعی دارم و نه به دیگران بدبین هستم؛ با همه با آرامش برخورد می‌کنم و احساس امنیت می‌کنم.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار منعطفی هستم و هیچ وسواسی در کارهایم ندارم. هرگز سعی نکردم توجه دیگران را به طور افراطی جلب کنم و همیشه با قوانین محیط کار و جامعه سازگار بوده‌ام.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی، خرافه یا حس ششمی ندارم و همه چیز را از دیدگاه مادی می‌بینم. با وجود سابقه بیماری روان‌پزشکی، هیچ‌گاه در کودکی دچار طغیان خشم یا رفتارهای هنجارشکنانه نشدم."
+    }
+}

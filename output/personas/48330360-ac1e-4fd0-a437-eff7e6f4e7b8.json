@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.187,
+        "detachment_suspicion": -0.963,
+        "impulsivity_antisocial": -0.145,
+        "narcissism_attention": -0.983,
+        "rigidity_perfectionism": -3.245,
+        "unusual_experiences": 1.491
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.076,
+        "extreme_response": 0.005,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و متاهل ساکن تبریز هستم که در سیستم آموزش و پرورش به عنوان معلم و کارمند فعالیت می‌کنم و مدرک کارشناسی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی نوسان دارد و در موقعیت‌های اجتماعی اضطراب متوسطی را تجربه می‌کنم، اما به طور کلی با مردم ارتباط خوبی دارم و چندان بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "در محیط کارم فردی معمولی هستم و تمایلی به برتری‌جویی ندارم، هرچند گاهی در واکنش‌هایم کمی تکانشی عمل می‌کنم. اصلاً اهل نظم وسواسی یا دقت به جزئیات ریز نیستم.",
+        "unusual_experiences_and_history": "باورهای قوی به مسائل ماوراءطبیعه دارم و بارها حس کرده‌ام که ششم حسی دارم یا اتفاقاتی را پیش‌بینی کرده‌ام که برای دیگران غیرقابل باور است."
+    }
+}

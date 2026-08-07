@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.341,
+        "detachment_suspicion": -0.046,
+        "impulsivity_antisocial": 0.354,
+        "narcissism_attention": -0.338,
+        "rigidity_perfectionism": 1.6,
+        "unusual_experiences": 0.413
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.45,
+        "extreme_response": -0.321,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۰ ساله، متاهل و ساکن تبریز هستم؛ مدرک دیپلم دارم و به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "اضطراب بسیار زیادی دارم و همیشه می‌ترسم که دیگران مرا ترک کنند یا مورد قضاوت قرار گیرم. نوسانات خلقی شدیدی دارم و گاهی نسبت به دیگران بدبین می‌شوم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی هستم و روی جزئیات کوچک حساسیت شدیدی دارم و نمی‌توانم کارها را به دیگران بسپارم. گاهی احساس می‌کنم از بقیه برتترم، هرچند سابقه رفتارهای تکانشی و خشم در نوجوانی داشته‌ام.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی صداهایی می‌شنوم یا چیزهایی حس می‌کنم که دیگران متوجه‌شان نمی‌شوند."
+    }
+}

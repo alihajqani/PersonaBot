@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.052,
+        "detachment_suspicion": -1.045,
+        "impulsivity_antisocial": -2.035,
+        "narcissism_attention": -0.62,
+        "rigidity_perfectionism": -0.395,
+        "unusual_experiences": -1.356
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.163,
+        "extreme_response": -0.178,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سال دارم، متاهل هستم و در کرج زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران خوبه و به راحتی به آدم‌ها اعتماد می‌کنم و حس نمی‌کنم کسی بخواد بهم بدی کنه. سطح استرس و اضطرابم در حد معموله و نوسانات خلقی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی قانون‌مند هستم و هرگز سعی نکردم قوانینی رو بشکنم یا رفتارهای تکانشی داشته باشم. خودم رو با بقیه برابر می‌بینم و نیازی ندارم که مرکز توجه باشم یا برتریم رو ثابت کنم.",
+        "unusual_experiences_and_history": "هیچ‌وقت تجربه‌ی غیرعادی یا خرافاتی نداشتم. دوران کودکی و نوجوانی من بسیار آرام گذشت و هیچ سابقه بیماری یا مشکل رفتاری نداشتم."
+    }
+}

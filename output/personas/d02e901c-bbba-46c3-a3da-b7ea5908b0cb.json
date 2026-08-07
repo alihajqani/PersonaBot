@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.987,
+        "detachment_suspicion": 0.849,
+        "impulsivity_antisocial": 0.224,
+        "narcissism_attention": 0.346,
+        "rigidity_perfectionism": 2.244,
+        "unusual_experiences": 1.457
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.009,
+        "extreme_response": 0.467,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و متاهل هستم که در مشهد زندگی می‌کنم و با داشتن مدرک کارشناسی، در حال حاضر مشغول تحصیل هستم.",
+        "emotional_and_interpersonal_style": "همیشه دچار اضطراب شدیدی هستم و نوسانات خلقی من زیاد است؛ مدام نگرانم که نکند دیگران از من ناراضی باشند. در عین حال، گاهی نسبت به اطرافیانم بدبین می‌شم و حس می‌کنم نمی‌تونم کاملاً بهشون تکیه کنم.",
+        "behavioral_and_cognitive_traits": "وسواس من در حد خیلی بالاست و اگر کارها طبق نظم خاص من پیش نره، به‌شدت مضطرب می‌شم. در محیط تحصیلی سعی می‌کنم همه چیز بی‌نقص باشه و گاهی رفتارهای تکانشی دارم که باعث می‌شه سریع تصمیم بگیرم.",
+        "unusual_experiences_and_history": "به خرافات اعتقاد دارم و گاهی حس می‌کنم نیرویی فراتر از منطق رو در زندگی‌ام حس می‌کنم. در کودکی هم گاهی تجربه‌های بصری یا شنیداری عجیبی داشتم که برای بقیه قابل درک نبود."
+    }
+}

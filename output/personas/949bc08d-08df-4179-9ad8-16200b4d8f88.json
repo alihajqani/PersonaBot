@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.921,
+        "detachment_suspicion": -0.703,
+        "impulsivity_antisocial": -1.005,
+        "narcissism_attention": 0.426,
+        "rigidity_perfectionism": -0.354,
+        "unusual_experiences": -0.93
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.288,
+        "extreme_response": 0.156,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانمی ۳۰ ساله و متاهل هستم، مدرک کارشناسی دارم و در اهواز به عنوان کارمند اداری فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "به هیچ وجه دچار نوسانات خلقی یا اضطراب اجتماعی نیستم و در روابطم احساس امنیت کامل دارم. بدبینی یا کینه در من وجود ندارد و با دیگران ارتباطی آرام و صمیمانه دارم.",
+        "behavioral_and_cognitive_traits": "بسیار منطقی هستم و اهل قانون‌شکنی یا رفتارهای تکانشی نیستم. کمی تمایل دارم که در محیط کارم دیده شوم و احساس می‌کنم استحقاق جایگاه بهتری را دارم، اما در انجام کارها وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی، شنیده‌ها یا باورهای خرافاتی ندارم و تمام اتفاقات را بر اساس واقعیت تحلیل می‌کنم."
+    }
+}

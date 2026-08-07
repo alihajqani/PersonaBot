@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.349,
+        "detachment_suspicion": -0.058,
+        "impulsivity_antisocial": 0.108,
+        "narcissism_attention": 0.203,
+        "rigidity_perfectionism": -0.9,
+        "unusual_experiences": -0.141
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.245,
+        "extreme_response": 0.63,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله، متاهل و ساکن کرج هستم. مدرک کارشناسی دارم و به عنوان کارمند اداری در یک سازمان مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "تعادل عاطفی متوسطی دارم و گاهی دچار اضطراب می‌شوم. در روابطم نه خیلی بدبین هستم و نه خیلی زود اعتماد می‌کنم و نگاهی میانه به آدم‌ها دارم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من در محیط کار و زندگی معمولی است؛ نه بیش از حد تکانشی هستم و نه وسواس شدیدی دارم. احساس برتری خاصی نسبت به دیگران ندارم و طبق روال عادی پیش می‌روم.",
+        "unusual_experiences_and_history": "گاه‌گداری به حس ششم یا اتفاقات تصادفی معنای خاصی می‌دهم و تجربیات ذهنی متوسطی دارم که با واقعیت در تضاد نیست."
+    }
+}

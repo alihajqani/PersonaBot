@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.456,
+        "detachment_suspicion": 0.937,
+        "impulsivity_antisocial": 0.426,
+        "narcissism_attention": 0.508,
+        "rigidity_perfectionism": 0.592,
+        "unusual_experiences": -0.332
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.726,
+        "extreme_response": -0.222,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و متاهل هستم که در کرج زندگی می‌کنم. دیپلم دارم و در حوزه هنر و رسانه به عنوان نویسنده فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی احساس ناامنی می‌کنم و نگرانم که دیگران درباره من چه فکر می‌کنند. اما بیشتر اوقات ترجیح می‌دهم تنها باشم، به راحتی به کسی اعتماد نمی‌کنم و اگر کسی به من بدی کند، مدت‌ها کینه آن را در دل نگه می‌دارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم کمی وسواس دارم و روی جزئیات حساس هستم. گاهی احساس می‌کنم درک من از هنر و زندگی عمیق‌تر از دیگران است و این حس برتری خفیفی را در من ایجاد می‌کند، هرچند گاهی رفتارهای تکانشی از من سر می‌زند.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم اتفاقات آینده را پیش‌بینی می‌کنم یا تجربیات ذهنی عجیبی دارم که برای بقیه قابل درک نیست. در کودکی هم تمایل داشتم قوانین را به روش خودم تفسیر کنم."
+    }
+}

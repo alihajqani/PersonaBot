@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.313,
+        "detachment_suspicion": -0.135,
+        "impulsivity_antisocial": -1.756,
+        "narcissism_attention": 0.383,
+        "rigidity_perfectionism": -0.262,
+        "unusual_experiences": -0.249
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.832,
+        "extreme_response": 0.265,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و مجردم، مدرک کارشناسی دارم و در حال حاضر در تهران ساکنم و جویای کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار متوازن هستم و اضطراب اجتماعی برایم معنایی ندارد. البته در روابطم کمی فاصله می‌گیرم و همیشه با تردید به نیت‌های دیگران نگاه می‌کنم.",
+        "behavioral_and_cognitive_traits": "انسان قانون‌مندی هستم و هرگز به دنبال تخریب هنجارها نیستم. در عین حال، فکر می‌کنم استحقاق جایگاه بالاتری را دارم و در سازماندهی کارهایم نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "به مسائل ماوراءطبیعی علاقه دارم و گاهی فکر می‌کنم حس ششم من در تشخیص آدم‌ها درست عمل می‌کند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.781,
+        "detachment_suspicion": -1.594,
+        "impulsivity_antisocial": 3.841,
+        "narcissism_attention": 1.411,
+        "rigidity_perfectionism": -0.639,
+        "unusual_experiences": -1.737
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.373,
+        "extreme_response": 0.914,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۸ ساله، مجرد و دارای مدرک دیپلم هستم و در شهر تهران به عنوان خانه‌دار زندگی می‌کنم. وضعیت اقتصادی من متوسط است و هیچ سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و اضطراب کمی دارم. با دیگران خیلی راحت ارتباط می‌گیرم، به شدت اجتماعی هستم و به راحتی به آدم‌های جدید اعتماد می‌کنم و هیچ کینه‌ای از کسی به دل نمی‌گیرم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و در کودکی و نوجوانی سابقه زیادی در شکستن قوانین و رفتارهای جسورانه داشتم. احساس می‌کنم از بقیه خاص‌تر و برترم و خیلی دوست دارم مرکز توجه باشم و دیگران به من توجه کنند.",
+        "unusual_experiences_and_history": "به هیچ وجه به خرافات یا حس ششم باور ندارم و هرگز تجربه‌ای از نوع جدا شدن از بدن یا شنیدن صداهای غیرعادی نداشته‌ام. زندگی من همیشه در دنیای واقعی و ملموس گذشته است."
+    }
+}

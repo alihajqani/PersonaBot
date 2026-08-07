@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.238,
+        "detachment_suspicion": 0.77,
+        "impulsivity_antisocial": -0.233,
+        "narcissism_attention": 0.398,
+        "rigidity_perfectionism": 0.998,
+        "unusual_experiences": 1.692
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.122,
+        "extreme_response": 0.299,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و مجردم که در تبریز زندگی می‌کنم. مدرک کارشناسی دارم اما در حال حاضر به عنوان کارگر در بخش صنعت فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و همیشه این ترس عمیق را دارم که اطرافیانم مرا ترک کنند یا از من ناراضی باشند. نسبت به دیگران بدبین هستم و به راحتی به کسی اعتماد نمی‌کنم و احساس می‌کنم پشت سرم حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار منظم و وسواسی هستم و تحمل نمی‌کنم کسی کاری را مطابق استاندارد من انجام ندهد. گاهی احساس می‌کنم از نظر ذهنی برتر از بقیه هستم، هرچند در محیط کار رفتارهای تکانشی متوسطی دارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و قویاً باور دارم که موجودات یا نیروهای نامرئی در اطرافم حضور دارند و پیام‌هایی برایم می‌فرستند."
+    }
+}

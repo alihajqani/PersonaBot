@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.367,
+        "detachment_suspicion": 0.815,
+        "impulsivity_antisocial": -0.158,
+        "narcissism_attention": -0.647,
+        "rigidity_perfectionism": 0.302,
+        "unusual_experiences": 0.78
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.19,
+        "extreme_response": -0.41,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۰ ساله، متاهل و دارای مدرک کارشناسی ارشد هستم و در شهر مشهد به عنوان معلم و کارمند آموزش فعالیت می‌کنم. وضعیت اقتصادی من متوسط است و سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "بسیار به همسرم وابسته هستم و ترس شدیدی از تنهایی و طرد شدن دارم. در تعامل با دیگران کمی بدبین هستم و زود احساس می‌کنم دیگران قصد دارند به من آسیب بزنند یا پشت سرم حرف بزنند.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم متوسطی دارم و گاهی در سپردن کارها به دیگران مشکل دارم. در رفتارهایم گاهی تکانشگری به چشم می‌خورد و ممکن است ناگهان عصبانی شوم، اما به دنبال این نیستم که مرکز توجه جمع باشم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه‌شان نمی‌شوند و به شهود درونی‌ام اعتماد زیادی دارم. در دوران کودکی و نوجوانی، تجربه‌های ذهنی عجیبی داشتم که برایم مبهم بود."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.98,
+        "detachment_suspicion": -0.33,
+        "impulsivity_antisocial": 0.547,
+        "narcissism_attention": -0.193,
+        "rigidity_perfectionism": -0.18,
+        "unusual_experiences": 1.967
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.114,
+        "extreme_response": -0.128,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۱۸ ساله متاهل ساکن مشهد هستم که با وجود سن کم، تحصیلات دکتری دارم و در بخش صنعت به عنوان کارگر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن را تجربه نمی‌کنم، هرچند در روابطم تا حد متوسطی تمایل به تنهایی دارم و گاهی در ابراز احساساتم کم‌رو هستم.",
+        "behavioral_and_cognitive_traits": "در محیط کار گاهی رفتارهای تکانشی دارم و ممکن است بدون فکر واکنش نشان دهم. در عین حال، نگاهی متعادل به توانایی‌هایم دارم و در رعایت نظم و جزئیات، نه خیلی سخت‌گیر هستم و نه بی‌دقت.",
+        "unusual_experiences_and_history": "خیلی زیاد به حس ششم و مسائل ماوراءطبیعه اعتقاد دارم و بارها پیش آمده که احساس کنم از بدنم جدا شده‌ام یا چیزهایی را حس کرده‌ام که دیگران متوجه‌شان نیستند."
+    }
+}

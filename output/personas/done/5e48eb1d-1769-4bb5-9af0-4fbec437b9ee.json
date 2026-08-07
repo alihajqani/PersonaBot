@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.521,
+        "detachment_suspicion": -0.524,
+        "impulsivity_antisocial": 0.129,
+        "narcissism_attention": 0.197,
+        "rigidity_perfectionism": 0.577,
+        "unusual_experiences": -0.017
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.077,
+        "extreme_response": -0.2,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای متاهل هستم که در تبریز زندگی می‌کنم. در حال حاضر دانشجوی مقطع کاردانی/کارشناسی هستم.",
+        "emotional_and_interpersonal_style": "احساساتم نسبتاً پایدار است و اضطراب یا وابستگی شدیدی به دیگران ندارم. در روابط اجتماعی راحت هستم و بدبینی خاصی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی تکانشی رفتار می‌کنم و در تصمیم‌گیری‌ها عجول هستم. احساس می‌کنم استحقاق توجه بیشتری دارم و در عین حال، در کارهای تحصیلی‌ام نظم و کمال‌گرایی متوسطی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "باورهای متوسطی به مسائل شهودی و حس ششم دارم. در دوران کودکی و نوجوانی رفتارهای متوسطی در زمینه قانون‌شکنی داشتم."
+    }
+}

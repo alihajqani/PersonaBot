@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.66,
+        "detachment_suspicion": 0.761,
+        "impulsivity_antisocial": 1.478,
+        "narcissism_attention": 0.257,
+        "rigidity_perfectionism": 1.591,
+        "unusual_experiences": -0.424
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.218,
+        "extreme_response": -0.496,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۴ ساله، مجرد و دانشجوی مقطع کارشناسی هستم که در شیراز به عنوان مهندس و کارشناس فنی فعالیت می‌کنم. وضعیت اقتصادی من متوسط است و سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات احساس می‌کنم برای دیگران کافی نیستم و این موضوع باعث اضطرابم می‌شود. در روابطم کمی محتاط هستم و گاهی ترجیح می‌دهم تنها باشم تا از فشارهای اجتماعی دوری کنم.",
+        "behavioral_and_cognitive_traits": "در کار مهندسی‌ام وسواس و کمال‌گرایی شدیدی دارم و نمی‌توانم کارها را به دیگران بسپارم چون فکر می‌کنم فقط من می‌توانم آن‌ها را درست انجام دهم. همچنین رفتارهای تکانشی دارم و گاهی احساس می‌کنم از هم‌رده‌هایم باهوش‌تر هستم.",
+        "unusual_experiences_and_history": "باورهای خرافی یا تجربیات غیرعادی ندارم و بیشتر به منطق و شواهد علمی تکیه می‌کنم. در کودکی هم رفتارهای عجیب یا شبه‌روانی نداشته‌ام."
+    }
+}

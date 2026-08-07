@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.619,
+        "detachment_suspicion": 0.74,
+        "impulsivity_antisocial": 2.5,
+        "narcissism_attention": 1.198,
+        "rigidity_perfectionism": -0.921,
+        "unusual_experiences": 0.586
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.149,
+        "extreme_response": -0.358,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۴ ساله و متاهل هستم و در تبریز زندگی می‌کنم. مدرک کارشناسی دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "زندگی عاطفی من بسیار پرتلاطم است؛ مدام می‌ترسم همسرم یا اطرافیانم مرا ترک کنند و نوسانات خلقی شدیدی دارم. در عین حال، بدبینی زیادی به دیگران دارم و به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "از نوجوانی سابقه زیادی در شکستن قوانین و درگیری‌های شدید دارم و خشمم خیلی سریع فوران می‌کند. احساس می‌کنم از بقیه برترم و باید به من توجه ویژه‌ای شود، اما اصلاً اهل نظم و کمال‌گرایی نیستم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم واقعیت اطرافم تغییر می‌کند یا به خرافاتی باور دارم که دیگران آن‌ها را عجیب می‌دانند."
+    }
+}

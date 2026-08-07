@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.022,
+        "detachment_suspicion": 0.115,
+        "impulsivity_antisocial": 1.35,
+        "narcissism_attention": 1.505,
+        "rigidity_perfectionism": 0.595,
+        "unusual_experiences": 1.27
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.167,
+        "extreme_response": 0.197,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۹ سالمه، متاهلم و در حال حاضر دانشجوی ارشد هستم و در تهران به عنوان نویسنده و هنرمند فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "خیلی زود دلم می‌گیره و می‌ترسم کسی منو ترک کنه یا دوست نداشته باشه؛ نوسانات خلقی شدیدی دارم و گاهی در جمع‌های اجتماعی واقعاً مضطرب می‌شم و احساس می‌کنم کافی نیستم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از بقیه برترم و دائم می‌خوام مرکز توجه باشم و بقیه هم همین حس رو داشته باشن. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و به قوانین اهمیتی نمی‌دم، هرچند در کارهای هنریم وسواس نسبتاً زیادی به جزئیات دارم.",
+        "unusual_experiences_and_history": "باور دارم که حس ششم قوی‌ای دارم و گاهی تجربه‌های عجیبی می‌کنم که انگار از بدنم جدا شدم یا چیزهایی رو حس می‌کنم که بقیه نمی‌بینن."
+    }
+}

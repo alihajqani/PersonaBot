@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.487,
+        "detachment_suspicion": 0.04,
+        "impulsivity_antisocial": -0.983,
+        "narcissism_attention": -0.574,
+        "rigidity_perfectionism": 0.994,
+        "unusual_experiences": -0.151
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.658,
+        "extreme_response": 0.042,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۸ ساله و متاهل هستم و در اهواز زندگی می‌کنم. مدرک دیپلم دارم و به صورت آزاد در زمینه فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب‌های اجتماعی می‌شوم و نگرانم که دیگران درباره‌ام چه فکری می‌کنند. در روابطم بدبینی متوسطی دارم و سعی می‌کنم تعادلی بین تنهایی و معاشرت برقرار کنم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و وسواسی هستم و دوست دارم همه چیز طبق یک برنامه دقیق پیش برود؛ سپردن کارها به دیگران برایم سخت است. رفتارم کاملاً قانون‌مند است و هرگز به دنبال جلب توجه یا برتری‌جویی نیستم.",
+        "unusual_experiences_and_history": "برخی باورهای سنتی و خرافات معمولی دارم اما تجربه‌ای خارج از عرف نداشته‌ام. دوران کودکی من بسیار آرام بود و هیچ‌گاه با قوانین مدرسه یا خانه مشکل نداشتم."
+    }
+}

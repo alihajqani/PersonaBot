@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.322,
+        "detachment_suspicion": 0.577,
+        "impulsivity_antisocial": 0.222,
+        "narcissism_attention": 0.876,
+        "rigidity_perfectionism": 0.027,
+        "unusual_experiences": -0.663
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.214,
+        "extreme_response": -0.126,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۱۹ ساله و متاهل هستم که با وجود سن کم، تحصیلات ارشد دارم و در تبریز به عنوان آرایشگر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی نگران نظرات دیگران هستم و احساس می‌کنم باید مدام خودم را ثابت کنم. به طور کلی به مردم کمی بدبین هستم و راحت به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر عمل می‌کنم و ممکنه در لحظه تندخو باشم. حس می‌کنم به دلیل توانایی‌هایم نسبت به هم‌سن‌هایم برتری دارم و دوست دارم مرکز توجه باشم.",
+        "unusual_experiences_and_history": "اعتقادات خاصی ندارم، هرچند گاهی به شانس و تقدیر باور دارم اما نه در حد خرافات شدید."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.16,
+        "detachment_suspicion": -0.978,
+        "impulsivity_antisocial": 0.238,
+        "narcissism_attention": 2.295,
+        "rigidity_perfectionism": 0.985,
+        "unusual_experiences": -0.405
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.065,
+        "extreme_response": -0.213,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و مجرد هستم که در اصفهان زندگی می‌کنم. مدرک کارشناسی ارشد دارم و در حال حاضر بیکار هستم و به دنبال شغل می‌گردم.",
+        "emotional_and_interpersonal_style": "مدام نگران قضاوت دیگران هستم و احساس می‌کنم در بسیاری از زمینه‌ها ناکافی هستم، به همین دلیل اضطرابم بالاست. با این حال، آدم اجتماعی‌ای هستم، به دیگران اعتماد می‌کنم و تمایلی به گوشه‌گیری ندارم.",
+        "behavioral_and_cognitive_traits": "به شدت احساس می‌کنم از دیگران برترم و استحقاق جایگاه‌های بسیار بالای اجتماعی را دارم و دوست دارم مرکز توجه باشم. در کارهایم بسیار وسواسی و کمال‌گرا هستم و سخت می‌توانم کاری را به کسی بسپارم، هرچند گاهی رفتارهای تکانشی هم دارم.",
+        "unusual_experiences_and_history": "در کودکی گاهی با قوانین به مشکل می‌خوردم و لجباز بودم. نگاهم به دنیا عمدتاً منطقی است و خیلی به خرافات یا تجربیات غیرعادی اعتقاد ندارم."
+    }
+}

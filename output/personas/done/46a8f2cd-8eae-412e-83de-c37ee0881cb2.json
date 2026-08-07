@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.497,
+        "detachment_suspicion": -1.03,
+        "impulsivity_antisocial": 0.639,
+        "narcissism_attention": 0.247,
+        "rigidity_perfectionism": -0.615,
+        "unusual_experiences": -1.974
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.547,
+        "extreme_response": 0.314,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله و متاهل هستم که در تهران زندگی می‌کنم. مدرک کارشناسی دارم و در حال حاضر به عنوان دانشجو مشغول به تحصیل هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود. با دیگران راحت هستم، به راحتی اعتماد می‌کنم و تمایلی به تنهایی ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی رفتارهای تکانشی دارم و ممکن است بدون فکر عمل کنم. احساس می‌کنم در بسیاری از زمینه‌ها از دیگران برترم و دوست دارم در محیط‌های دانشجویی مورد توجه باشم؛ نظم و وسواس زیادی در کارهایم ندارم.",
+        "unusual_experiences_and_history": "کاملاً منطقی هستم و هیچ‌گونه باور خرافی یا تجربه غیرعادی در زندگی‌ام نداشته‌ام. سابقه رفتارهای هنجارشکنانه در دوران کودکی‌ام به صورت جزئی وجود داشته است."
+    }
+}

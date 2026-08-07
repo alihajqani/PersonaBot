@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.41,
+        "detachment_suspicion": 0.288,
+        "impulsivity_antisocial": -0.255,
+        "narcissism_attention": 0.864,
+        "rigidity_perfectionism": 0.61,
+        "unusual_experiences": -1.654
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.024,
+        "extreme_response": -0.027,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله، متاهل و ساکن اهواز هستم. مدرک دیپلم دارم و در حال حاضر به عنوان کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب‌های خفیف می‌شوم و نوسانات خلقی کمی دارم. در روابطم تعادلی نسبی دارم، هرچند گاهی در اعتماد به دیگران تردید می‌کنم.",
+        "behavioral_and_cognitive_traits": "در محیط کار نظم نسبی دارم و کمی به جزئیات اهمیت می‌دهم. گاهی احساس می‌کنم در جایگاه خاصی هستم و دوست دارم دیگران متوجه توانمندی‌هایم شوند، اما در کل قانون‌مدار هستم.",
+        "unusual_experiences_and_history": "من فردی کاملاً واقع‌گرا هستم و هیچ‌گونه تجربه غیرعادی، خرافات یا باورهای شبه‌روانی در زندگی‌ام نداشته‌ام."
+    }
+}

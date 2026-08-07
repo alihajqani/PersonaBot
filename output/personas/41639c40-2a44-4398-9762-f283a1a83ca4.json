@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.457,
+        "detachment_suspicion": -0.449,
+        "impulsivity_antisocial": 0.864,
+        "narcissism_attention": -1.775,
+        "rigidity_perfectionism": -0.122,
+        "unusual_experiences": 0.19
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.13,
+        "extreme_response": 0.005,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و متاهل با مدرک دیپلم هستم که در شهر کرج به عنوان مهندس و کارشناس فنی مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و احساس می‌کنم در مقایسه با دیگران ناکافی هستم، به همین دلیل اضطرابم کمی بالاست. با این حال، آدم بدبینی نیستم و به راحتی با دیگران ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم متوسطی دارم و گاهی در تصمیم‌گیری‌ها عجول هستم. اصلاً تمایلی به جلب توجه یا احساس برتری ندارم و حتی گاهی بیش از حد متواضع هستم یا اعتماد به نفسم پایین است.",
+        "unusual_experiences_and_history": "به برخی خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات اتفاقی نیستند. در دوران کودکی و نوجوانی، گاهی به دلیل تکانشگری با مشکلاتی در مدرسه مواجه می‌شدم."
+    }
+}

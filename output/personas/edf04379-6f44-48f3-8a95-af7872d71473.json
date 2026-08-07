@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.312,
+        "detachment_suspicion": 0.93,
+        "impulsivity_antisocial": 1.111,
+        "narcissism_attention": -0.537,
+        "rigidity_perfectionism": 0.8,
+        "unusual_experiences": -0.764
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.149,
+        "extreme_response": 0.205,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۵ ساله، مجرد و ساکن اصفهان هستم. مدرک کارشناسی دارم و در زمینه فروشندگی و مشاغل آزاد فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم نوسانات هیجانی متوسطی دارم، اما به شدت بدبین هستم و ترجیح می‌دهم تنها باشم چون احساس می‌کنم دیگران قابل اعتماد نیستند.",
+        "behavioral_and_cognitive_traits": "سابقه رفتارهای تکانشی و طغیان خشم دارم و گاهی بدون فکر عمل می‌کنم. در کارهایم کمی وسواسی و سخت‌گیر هستم، اما هرگز احساس برتری نسبت به دیگران نمی‌کنم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و هرچند تجربیات غیرعادی کمی داشته‌ام، اما بیشتر با واقعیت‌ها سر و کار دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.134,
+        "detachment_suspicion": 0.394,
+        "impulsivity_antisocial": -0.597,
+        "narcissism_attention": -0.739,
+        "rigidity_perfectionism": -1.897,
+        "unusual_experiences": -0.029
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.22,
+        "extreme_response": 0.267,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۹ ساله و مجردم، در حال تحصیل در مقطع کارشناسی هستم و در شهر شیراز به عنوان مهندس فنی کار می‌کنم.",
+        "emotional_and_interpersonal_style": "در جمع‌ها نسبتاً راحت هستم اما تمایل دارم بیشتر تنها باشم. گاهی به نیت‌های دیگران شک می‌کنم و فکر می‌کنم شاید در مورد من بد فکر کنند.",
+        "behavioral_and_cognitive_traits": "اصلاً آدم وسواسی یا منظمی نیستم و از قوانین سخت‌گیرانه متنفرم. در برخورد با دیگران متواضع هستم و هیچ ادعای برتری ندارم.",
+        "unusual_experiences_and_history": "گاهی اتفاقاتی برایم می‌افتد که با منطق مهندسی‌ام قابل توضیح نیست و به حس ششمم اعتماد می‌کنم."
+    }
+}

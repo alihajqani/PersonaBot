@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.503,
+        "detachment_suspicion": -0.615,
+        "impulsivity_antisocial": -0.506,
+        "narcissism_attention": 0.103,
+        "rigidity_perfectionism": -0.911,
+        "unusual_experiences": -0.865
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.086,
+        "extreme_response": 0.162,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانمی ۲۶ ساله و مجردم که مدرک دیپلم دارم و در اهواز به عنوان پرستار در کادر درمان مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "اعتماد به نفس بالایی دارم و اصلاً نگران قضاوت دیگران یا تنها ماندن نیستم. روابطم با همکارانم خوب است و بدبینی چندانی به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم آرام و کنترل شده است و اهل قانون‌شکنی نیستم. حس می‌کنم در محیط کارم جایگاه ویژه‌ای دارم و دوست دارم دیگران متوجه توانایی‌هایم شوند.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی ندارم، هرچند گاهی به چیزهای ساده‌ای مثل فال یا شانس اعتقاد دارم."
+    }
+}

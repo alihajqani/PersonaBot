@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.545,
+        "detachment_suspicion": 0.447,
+        "impulsivity_antisocial": -1.646,
+        "narcissism_attention": -2.152,
+        "rigidity_perfectionism": 0.418,
+        "unusual_experiences": -0.073
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.149,
+        "extreme_response": 0.087,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و مجرد هستم که در تهران زندگی می‌کنم. در حال حاضر دانشجوی مقطع کارشناسی ارشد هستم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات در محیط دانشگاه دچار اضطراب می‌شوم و نگران پذیرفته شدن توسط دیگران هستم. در روابطم کمی reserved هستم و ترجیح می‌دهم دایره دوستان کوچکی داشته باشم و با احتیاط با دیگران ارتباط بگیرم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و هرگز به فکر هنجارشکنی یا رفتارهای تکانشی نمی‌افتم. در مطالعه و تکالیفم کمی وسواس دارم و نظم را رعایت می‌کنم، اما هیچ تمایلی به جلب توجه یا احساس برتری نسبت به هم‌کلاسی‌هایم ندارم.",
+        "unusual_experiences_and_history": "سابقه هیچ‌گونه مشکل رفتاری در کودکی ندارم. گاهی به مسائل متافیزیکی یا شهودهای درونی علاقه دارم و اتفاقات عجیب زندگی را با دیدی باز می‌بینم."
+    }
+}

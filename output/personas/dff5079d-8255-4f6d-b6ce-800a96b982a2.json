@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.308,
+        "detachment_suspicion": 0.233,
+        "impulsivity_antisocial": -0.218,
+        "narcissism_attention": 1.742,
+        "rigidity_perfectionism": -0.458,
+        "unusual_experiences": 0.598
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.44,
+        "extreme_response": -0.051,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و مجرد هستم که در مشهد زندگی می‌کنم. دیپلم دارم و در زمینه هنر و رسانه به عنوان نویسنده فعالیت می‌کنم و وضعیت مالی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی من در سطح متوسطی است و گاهی دچار اضطراب می‌شوم. در روابطم نه خیلی وابسته هستم و نه خیلی منزوی؛ به اندازه بقیه به مردم اعتماد می‌کنم و ارتباطات معمولی دارم.",
+        "behavioral_and_cognitive_traits": "من عاشق این هستم که مرکز توجه باشم و همیشه سعی می‌کنم جوری رفتار کنم که همه به من نگاه کنند؛ احساس می‌کنم بسیار خاص‌تر و برتر از دیگران هستم. در مقابل، اصلاً اهل نظم و قوانین سخت‌گیرانه نیستم و محیط اطرافم معمولاً نامنظم است.",
+        "unusual_experiences_and_history": "گاهی به چیزهای عجیب و غریب باور دارم و حس می‌کنم تجربیات ذهنی متفاوتی نسبت به مردم عادی دارم. در کودکی هم گاهی رفتارهای تکانشی داشتم اما نه در حدی که مشکل‌ساز شود."
+    }
+}

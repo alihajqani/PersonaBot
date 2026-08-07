@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.698,
+        "detachment_suspicion": -0.69,
+        "impulsivity_antisocial": 0.356,
+        "narcissism_attention": -0.429,
+        "rigidity_perfectionism": -0.763,
+        "unusual_experiences": -1.29
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.225,
+        "extreme_response": 0.253,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای مجرد ساکن تبریز هستم. تحصیلاتم کارشناسی است و به عنوان کارگر در صنعت مشغول به کارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار صبور و پایدار هستم و اصلاً اضطراب ندارم. در روابطم باز هستم و به راحتی به دیگران اعتماد می‌کنم و اهل کینه یا انزوا نیستم.",
+        "behavioral_and_cognitive_traits": "آدمی راحت هستم و وسواس یا کمال‌گرایی ندارم. گاهی پیش می‌آید که کمی بی‌پروا یا تکانشی رفتار کنم، اما همیشه متواضع هستم و هرگز سعی نمی‌کنم توجه‌ها را به خودم جلب کنم.",
+        "unusual_experiences_and_history": "به هیچ وجه به خرافات یا حس ششم اعتقاد ندارم و زندگی را کاملاً مادی می‌بینم. در دوران کودکی و نوجوانی، دانش‌آموزی آرام بودم و هیچ سابقه تخلفی نداشتم."
+    }
+}

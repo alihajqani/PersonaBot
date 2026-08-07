@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.151,
+        "detachment_suspicion": 0.586,
+        "impulsivity_antisocial": -0.611,
+        "narcissism_attention": -0.271,
+        "rigidity_perfectionism": -0.547,
+        "unusual_experiences": -1.385
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.063,
+        "extreme_response": 0.342,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و متاهل هستم که در شهر اهواز زندگی می‌کنم. مدرک دیپلم دارم و در حال حاضر به عنوان دانشجو مشغول به تحصیل هستم.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی من در حد متوسط است و گاهی دچار اضطراب می‌شوم. در روابطم کمی بدبین هستم و ترجیح می‌دهم دایره دوستانم کوچک باشد و به راحتی به کسی اعتماد نکنم.",
+        "behavioral_and_cognitive_traits": "من فردی هستم که معمولاً قوانین را رعایت می‌کنم و رفتارهای تکانشی یا خشم‌آلود ندارم. نگاهی معمولی به جایگاه خودم در جامعه دارم و در مورد نظم و ترتیب وسواسی نیستم.",
+        "unusual_experiences_and_history": "من انسان منطقی‌ای هستم و هیچ‌گونه باور خرافاتی یا تجربیات غیرعادی در زندگی‌ام نداشته‌ام. دوران کودکی و نوجوانی من کاملاً آرام و بدون حاشیه بوده است."
+    }
+}

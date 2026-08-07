@@ -8,7 +8,7 @@ from google.genai import types
 # CONFIGURATION
 # =========================
 
-API_KEY = ""
+API_KEY = "AIzaSyBmi0-Qh8VxSSw1SiV_xlRbTciuwRYuOGI"
 MODEL_NAME = "gemma-4-31b-it"
 
 

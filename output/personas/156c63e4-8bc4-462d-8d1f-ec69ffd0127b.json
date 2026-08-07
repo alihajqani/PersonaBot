@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.162,
+        "detachment_suspicion": -0.672,
+        "impulsivity_antisocial": -0.734,
+        "narcissism_attention": -0.532,
+        "rigidity_perfectionism": -0.794,
+        "unusual_experiences": 0.923
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.032,
+        "extreme_response": 0.326,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۷ سالمه، خانم، مجرد و ساکن مشهد هستم. دانشجوی ارشد هستم و به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و وابستگی شدیدی به دیگران ندارم. با مردم راحت هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "توی کارهام تعادل دارم و نه خیلی وسواسی هستم و نه تکانشی. نسبت به خودم دیدگاه سالمی دارم و نیاز خاصی به جلب توجه یا احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و به شدت به حس ششم و مسائل ماوراءطبیعی باور دارم. گاهی چیزهایی را حس می‌کنم که اطرافیانم متوجه آن‌ها نمی‌شوند."
+    }
+}

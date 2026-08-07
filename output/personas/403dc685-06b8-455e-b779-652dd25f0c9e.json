@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.009,
+        "detachment_suspicion": 0.5,
+        "impulsivity_antisocial": -2.571,
+        "narcissism_attention": -0.839,
+        "rigidity_perfectionism": 0.793,
+        "unusual_experiences": -2.28
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.134,
+        "extreme_response": 0.473,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۲ ساله، متاهل و ساکن اصفهان هستم. مدرک دکتری دارم و به عنوان یک کارآفرین، کسب‌وکار شخصی خودم را مدیریت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم احتیاط زیادی به خرج می‌دهم و گاهی نسبت به دیگران بدبین هستم. نوسانات خلقی متوسطی دارم و گاهی احساس می‌کنم دیگران مرا کاملاً درک نمی‌کنند.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هرگز به رفتارهای تکانشی یا هنجارشکنی روی نمی‌آورم. در مدیریت کسب‌وکارم روی جزئیات دقت می‌کنم و نظم برایم اولویت است، اما نیازی به جلب توجه افراطی ندارم.",
+        "unusual_experiences_and_history": "زندگی من کاملاً بر اساس منطق و واقعیت است و هیچ‌گونه تجربه غیرعادی یا باور به مسائل ماورایی ندارم."
+    }
+}

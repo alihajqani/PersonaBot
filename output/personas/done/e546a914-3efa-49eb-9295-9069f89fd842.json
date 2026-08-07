@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.117,
+        "detachment_suspicion": 1.201,
+        "impulsivity_antisocial": -0.95,
+        "narcissism_attention": 0.667,
+        "rigidity_perfectionism": 2.252,
+        "unusual_experiences": -0.658
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.562,
+        "extreme_response": 0.516,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای مجرد هستم که در تبریز زندگی می‌کنم. دارای مدرک کارشناسی ارشد هستم و به عنوان صاحب کسب‌وکار و کارآفرین فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و نوسانات خلقی شدیدی دارم؛ ترس عمیقی از طرد شدن دارم و اضطراب اجتماعی‌ام خیلی زیاد است. در عین حال، نسبت به اطرافیانم بدبین هستم و به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب‌وکارم به شدت کمال‌گرا و وسواسی هستم و تحمل بی‌نظمی را ندارم و سپردن کارها به دیگران برایم دشوار است. گاهی احساس می‌کنم به دلیل توانایی‌هایم برتر از دیگران هستم و انتظار برخورد ویژه‌ای دارم.",
+        "unusual_experiences_and_history": "بیشتر سعی می‌کنم منطقی باشم و تجربیات غیرعادی یا خرافات شدیدی ندارم. سابقه رفتارهای تکانشی یا هنجارشکنی در زندگی‌ام نداشته‌ام."
+    }
+}

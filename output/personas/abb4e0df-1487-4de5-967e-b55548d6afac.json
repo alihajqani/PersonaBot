@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.718,
+        "detachment_suspicion": -1.172,
+        "impulsivity_antisocial": -0.837,
+        "narcissism_attention": 1.253,
+        "rigidity_perfectionism": -1.199,
+        "unusual_experiences": 0.129
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.762,
+        "extreme_response": -0.081,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و متاهل هستم، در حال تحصیل در مقطع کارشناسی هستم و در شهر تبریز به عنوان معلم کار می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار راحت هستم و به راحتی با دیگران ارتباط می‌گیرم. اضطراب یا ترس از طرد شدن را در زندگی‌ام تجربه نکرده‌ام.",
+        "behavioral_and_cognitive_traits": "به شدت باور دارم که بااستعدادتر از هم‌سالانم هستم و عاشق این هستم که در هر جمعی مرکز توجه باشم. نظم خاصی در زندگی‌ام ندارم و با جزئیات وسواس‌گونه کنار نمی‌آیم.",
+        "unusual_experiences_and_history": "به برخی باورهای سنتی و خرافات اعتقاد دارم و فکر می‌کنم گاهی پیام‌هایی از جهان دریافت می‌کنم."
+    }
+}

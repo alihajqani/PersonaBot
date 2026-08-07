@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.887,
+        "detachment_suspicion": -0.536,
+        "impulsivity_antisocial": 0.163,
+        "narcissism_attention": 1.705,
+        "rigidity_perfectionism": 0.274,
+        "unusual_experiences": 1.4
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.481,
+        "extreme_response": -0.367,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای هستم، مجرد و ساکن تبریز؛ تحصیلاتم در مقطع کاردانی است و در زمینه نویسندگی و هنر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم برای دیگران کافی نیستم و اضطراب اجتماعی دارم، اما در عین حال تمایل زیادی به تنهایی ندارم. روابطم با دیگران معمول است و بدبینی شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "خیلی دوست دارم مرکز توجه باشم و احساس می‌کنم استعدادی دارم که من را از دیگران برتر می‌کند. در کارهایم تا حدی کمال‌گرا هستم و گاهی بدون فکر عمل می‌کنم و قوانین را نادیده می‌گیرم.",
+        "unusual_experiences_and_history": "به شدت به حس ششم و مسائل ماوراءطبیعه اعتقاد دارم و گاهی تجربیات ذهنی عجیبی دارم که با منطق جور در نمی‌آید."
+    }
+}

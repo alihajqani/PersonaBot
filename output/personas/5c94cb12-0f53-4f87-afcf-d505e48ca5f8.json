@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.095,
+        "detachment_suspicion": 1.187,
+        "impulsivity_antisocial": -0.251,
+        "narcissism_attention": -1.199,
+        "rigidity_perfectionism": -0.62,
+        "unusual_experiences": -0.842
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.133,
+        "extreme_response": 0.086,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۱ ساله، مجرد و دارای مدرک دیپلم هستم که در تبریز به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی گاهی احساس اضطراب می‌کنم و نگرانم که دیگران درباره من چه فکری می‌کنند. سطح بدبینی من بالاست و اغلب فکر می‌کنم دیگران قصد دارند به من آسیب بزنند یا پشت سرم بدگویی کنند.",
+        "behavioral_and_cognitive_traits": "در انجام کارهایم وسواس خاصی ندارم و نسبتاً راحت هستم. گاهی در واکنش‌هایم تکانشی عمل می‌کنم، اما هرگز به دنبال این نیستم که مرکز توجه باشم یا برتری‌جویی کنم.",
+        "unusual_experiences_and_history": "اعتقادات خرافی یا تجربیات غیرعادی خاصی ندارم و زندگی را کاملاً مادی می‌بینم. در دوران نوجوانی، چند مورد درگیری ساده به دلیل تکانشگری داشتم اما هرگز هنجارشکنی شدیدی نکردم."
+    }
+}

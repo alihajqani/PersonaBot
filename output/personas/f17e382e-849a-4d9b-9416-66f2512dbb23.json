@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.002,
+        "detachment_suspicion": -1.232,
+        "impulsivity_antisocial": 0.859,
+        "narcissism_attention": 1.158,
+        "rigidity_perfectionism": 0.386,
+        "unusual_experiences": -1.14
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.319,
+        "extreme_response": 0.021,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مرد، ۳۴ ساله و متاهل هستم، ساکن تبریز با مدرک دکتری و مشغول به کار به عنوان کارمند اداری هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و هیچ ترس یا اضطرابی در روابط اجتماعی ندارم. به آدم‌ها اعتماد دارم و به ندرت دچار بدبینی یا کینه می‌شوم.",
+        "behavioral_and_cognitive_traits": "عمیقاً احساس می‌کنم که از دیگران برتر هستم و دوست دارم همیشه مرکز توجه باشم. در کارهایم نظم نسبتاً خوبی دارم و دوست دارم همه چیز طبق استاندارد من پیش برود.",
+        "unusual_experiences_and_history": "من نگاهی کاملاً منطقی به جهان دارم و هرگز تجربیات غیرعادی، خرافات یا حس ششم را تجربه نکرده‌ام."
+    }
+}

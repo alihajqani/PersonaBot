@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.073,
+        "detachment_suspicion": 0.082,
+        "impulsivity_antisocial": 0.134,
+        "narcissism_attention": -0.367,
+        "rigidity_perfectionism": -1.017,
+        "unusual_experiences": 0.376
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.724,
+        "extreme_response": 0.34,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۳ ساله، متاهل و ساکن شهر کرجم. دیپلم دارم و به عنوان کادر درمان در یکی از بیمارستان‌ها مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران در سطح متوسطی است؛ گاهی دچار نوسانات خلقی می‌شوم و در جمع‌های شلوغ کمی احساس اضطراب می‌کنم، اما در کل سعی می‌کنم تعادلی بین وابستگی و استقلال داشته باشم.",
+        "behavioral_and_cognitive_traits": "در محیط کار خیلی سخت‌گیر نیستم و انعطاف‌پذیری بالایی دارم و به جزئیات وسواس ندارم. گاهی در لحظات عصبانیت تکانشی رفتار می‌کنم، اما معمولاً نیازی به جلب توجه دیگران ندارم و احساس برتری نسبت به همکارانم نمی‌کنم.",
+        "unusual_experiences_and_history": "از کودکی به مسائل ماوراءطبیعی علاقه داشتم و گاهی احساس می‌کنم حس ششم قوی‌ای دارم یا اتفاقات آینده را پیش‌بینی می‌کنم."
+    }
+}

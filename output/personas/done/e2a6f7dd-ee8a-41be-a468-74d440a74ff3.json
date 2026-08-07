@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.551,
+        "detachment_suspicion": -1.481,
+        "impulsivity_antisocial": -1.105,
+        "narcissism_attention": 0.507,
+        "rigidity_perfectionism": -2.355,
+        "unusual_experiences": 0.425
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.09,
+        "extreme_response": 0.776,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۵ ساله، مجرد و ساکن اهواز هستم و مدرک کارشناسی دارم. به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی بسیار بالایی دارم و هیچ‌گونه اضطراب یا ترس از قضاوت دیگران را حس نمی‌کنم. در روابطم باز هستم و به راحتی به مردم اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "من اصلاً وسواسی نیستم و نظم در کارهایم در سطح پایینی است. اعتماد به نفس بالایی دارم و گاهی احساس می‌کنم از هم‌رده‌هایم برترم، اما هیچ‌گاه قوانین را به طور عمدی نشکسته‌ام.",
+        "unusual_experiences_and_history": "گاهی به برخی خرافات اعتقاد دارم و حس می‌کنم اتفاقات خاصی پیش از وقوع برایم قابل پیش‌بینی است."
+    }
+}

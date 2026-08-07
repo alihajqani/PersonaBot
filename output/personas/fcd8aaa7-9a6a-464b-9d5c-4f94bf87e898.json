@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.7,
+        "detachment_suspicion": -1.287,
+        "impulsivity_antisocial": -0.547,
+        "narcissism_attention": 0.616,
+        "rigidity_perfectionism": 0.862,
+        "unusual_experiences": 0.097
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.617,
+        "extreme_response": 0.257,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۵ سالمه، خانم، مجرد و ساکن شیرازم. ارشد دارم و به عنوان نویسنده و هنرمند در حوزه رسانه فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "اضطرابم بسیار بالاست و مدام می‌ترسم تنها بمانم یا دیگران از من ناراضی باشند. نوسانات خلقی شدیدی دارم که روی کیفیت زندگی و روابطم اثر می‌گذارد.",
+        "behavioral_and_cognitive_traits": "دوست دارم کارهایم بی‌نقص باشد و گاهی روی جزئیات کوچک زیادی وقت می‌گذارم. حس می‌کنم استعداد خاصی دارم و دوست دارم دیگران این برتری را ببینند.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم ارتباطم با واقعیت قطع شده یا حس‌های عجیبی دارم. به شهود و حس ششم در زندگی‌ام اعتماد می‌کنم."
+    }
+}

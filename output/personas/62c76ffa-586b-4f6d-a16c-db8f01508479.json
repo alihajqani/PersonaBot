@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.587,
+        "detachment_suspicion": -1.577,
+        "impulsivity_antisocial": 1.348,
+        "narcissism_attention": 1.134,
+        "rigidity_perfectionism": 0.19,
+        "unusual_experiences": 0.192
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.208,
+        "extreme_response": -0.413,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و مجرد هستم که در کرج ساکنم. با وجود اینکه مدرک دکتری دارم، به دلیل شرایط اقتصادی ضعیف، در بخش صنعت به عنوان کارگر مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب زیادی ندارم. من آدم بسیار برون‌گرایی هستم، به راحتی به دیگران اعتماد می‌کنم و اصلاً تمایلی به انزوا یا کینه داشتن از کسی ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم، کنترل خشمم را از دست می‌دهم و ممکن است رفتارهای هنجارشکنه‌ای داشته باشم. احساس می‌کنم از نظر ذهنی برتر از محیط اطرافم هستم و دوست دارم همیشه مرکز توجه باشم و دیگران به من توجه ویژه‌ای کنند.",
+        "unusual_experiences_and_history": "باورهای خرافی متوسطی دارم و گاهی به اتفاقات تصادفی معنای خاصی می‌دهم. در دوران کودکی و نوجوانی، سابقه لجبازی و به چالش کشیدن قوانین مدرسه را داشتم."
+    }
+}

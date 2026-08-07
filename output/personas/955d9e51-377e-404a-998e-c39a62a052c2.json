@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.1,
+        "detachment_suspicion": 1.006,
+        "impulsivity_antisocial": 1.002,
+        "narcissism_attention": 0.31,
+        "rigidity_perfectionism": -0.408,
+        "unusual_experiences": -0.638
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.32,
+        "extreme_response": -0.026,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و متاهل هستم که در اهواز زندگی می‌کنم. دیپلم دارم و برای خودم کسب‌وکاری راه انداختم و کارآفرین هستم.",
+        "emotional_and_interpersonal_style": "به طور کلی آدم بدبینی هستم و فکر می‌کنم در دنیای تجارت باید همیشه حواسم به بقیه باشه چون نمی‌شه به کسی اعتماد کرد. در روابطم گاهی نوسانات خلقی دارم اما سعی می‌کنم کنترلشون کنم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و ریسک‌های بزرگی می‌کنم، حتی اگر گاهی منجر به مشکل بشه. کمال‌گرایی برای من اولویت نیست و ترجیح می‌دم سریع نتیجه بگیرم تا اینکه ساعت‌ها روی جزئیات وقت بذارم.",
+        "unusual_experiences_and_history": "در دوران نوجوانی کمی سرکش بودم و هر چیزی رو که درست نمی‌دونستم به چالش می‌کشیدم. اعتقادات خرافی خاصی ندارم و به منطق باور دارم."
+    }
+}

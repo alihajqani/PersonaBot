@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.764,
+        "detachment_suspicion": 0.643,
+        "impulsivity_antisocial": -0.131,
+        "narcissism_attention": 0.296,
+        "rigidity_perfectionism": 0.604,
+        "unusual_experiences": 0.924
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.38,
+        "extreme_response": -0.271,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۵ ساله و متاهل ساکن مشهد هستم. تحصیلاتم کارشناسی ارشد است و در کنار آن به عنوان آرایشگر در زمینه زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و احساس می‌کنم دیگران مرا به طور کامل درک نمی‌کنند. در روابطم کمی محتاطم و گاهی بدگمانی‌هایی نسبت به نیت دیگران دارم.",
+        "behavioral_and_cognitive_traits": "در کارهایم دقت زیادی به جزئیات دارم و کمی وسواسی هستم. گاهی بدون فکر عمل می‌کنم و در مورد جایگاه اجتماعی‌ام، دیدگاهی متوسط و متعادل دارم.",
+        "unusual_experiences_and_history": "من قویاً به مسائل ماوراءطبیعی و حس ششم باور دارم و تجربیات غیرعادی زیادی را در زندگی‌ام حس کرده‌ام. در کودکی گاهی احساس می‌کردم چیزهایی را می‌بینم که دیگران نمی‌بینند."
+    }
+}

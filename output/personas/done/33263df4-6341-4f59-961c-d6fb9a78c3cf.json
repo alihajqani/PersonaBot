@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.383,
+        "detachment_suspicion": -0.815,
+        "impulsivity_antisocial": -1.035,
+        "narcissism_attention": -1.181,
+        "rigidity_perfectionism": 0.859,
+        "unusual_experiences": 1.524
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.763,
+        "extreme_response": 0.106,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای مجرد هستم و در شهر اهواز زندگی می‌کنم. مدرک کارشناسی دارم و در زمینه فروش و مشاغل آزاد کوچک فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم و احساس می‌کنم در برخی زمینه‌ها کم می‌آورم، اما به طور کلی با دیگران راحت هستم و بدبینی خاصی ندارم. روابطم نسبتاً پایدار است و تمایل زیادی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "در محیط کارم نظم moderately دارم و به جزئیات اهمیت می‌دهم. فردی آرام هستم، هرگز به دنبال جلب توجه یا برتری‌جویی نیستم و همیشه قوانین را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "باورهای بسیار قوی به حس ششم و مسائل ماوراءطبیعه دارم و تجربیات ذهنی غیرعادی زیادی را در زندگی‌ام تجربه کرده‌ام. سابقه رفتارهای تکانشی در کودکی نداشتم."
+    }
+}

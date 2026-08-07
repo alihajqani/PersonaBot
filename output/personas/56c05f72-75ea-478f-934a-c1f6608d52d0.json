@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.894,
+        "detachment_suspicion": 0.561,
+        "impulsivity_antisocial": 0.843,
+        "narcissism_attention": -0.049,
+        "rigidity_perfectionism": -0.667,
+        "unusual_experiences": 1.146
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.606,
+        "extreme_response": -0.586,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای مجرد و ساکن شهر شیرازم. مدرک کارشناسی دارم و به عنوان آرایشگر و متخصص خدمات زیبایی فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "خیلی کم پیش می‌آید که احساس اضطراب یا ناامنی کنم. اما در روابطم کمی بدبین هستم و سریعاً گارد می‌گیرم و احساس می‌کنم بقیه درباره‌ام قضاوت می‌کنند یا پشت سرم حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "در کارم خیلی وسواسی نیستم و با انعطاف پیش می‌روم. گاهی اوقات در رفتارهایم تکانشی هستم و دوست دارم در محیط کارم جلب توجه کنم و حس کنم که از بقیه متمایز و برترم.",
+        "unusual_experiences_and_history": "به شدت به مسائل غیبی و حس ششم اعتقاد دارم و اتفاقات غیرعادی زیادی را در زندگی‌ام تجربه کرده‌ام. در دوران کودکی هم گاهی رفتارهای تکانشی داشتم، اما هرگز به طور جدی قانون‌شکن نبودم."
+    }
+}

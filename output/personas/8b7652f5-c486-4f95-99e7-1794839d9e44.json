@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.622,
+        "detachment_suspicion": 1.147,
+        "impulsivity_antisocial": -0.605,
+        "narcissism_attention": 0.135,
+        "rigidity_perfectionism": 0.96,
+        "unusual_experiences": 2.388
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.063,
+        "extreme_response": 0.404,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای هستم، مجردم و در مشهد زندگی می‌کنم. در حال حاضر دانشجو هستم و به طور همزمان در مشاغل آزاد کوچک به عنوان فروشنده فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم بسیار محتاطم و تمایل دارم فاصله بگیرم؛ اغلب فکر می‌کنم دیگران در مورد من قضاوت می‌کنند یا قصد ضربه زدن به من را دارند. با این حال، از نظر هیجانی نسبتاً پایدارم و اضطراب شدیدی ندارم.",
+        "behavioral_and_cognitive_traits": "در کار و تحصیل بسیار کمال‌گرا هستم و روی کوچک‌ترین جزئیات وسواس دارم و تحمل بی‌نظمی را ندارم. احساس می‌کنم توانایی‌هایم خوب است و دوست دارم دیده شوم، اما رفتارهای تکانشی یا هنجارشکنانه ندارم.",
+        "unusual_experiences_and_history": "من قویاً به حس ششم و مسائل ماورایی اعتقاد دارم و بارها تجربه‌هایی داشته‌ام که با منطق جور در نمی‌آید و احساس می‌کنم ارتباطی با دنیای غیرمرئی دارم."
+    }
+}

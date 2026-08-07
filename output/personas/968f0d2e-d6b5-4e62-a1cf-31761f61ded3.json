@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.313,
+        "detachment_suspicion": 0.823,
+        "impulsivity_antisocial": -1.39,
+        "narcissism_attention": -0.316,
+        "rigidity_perfectionism": 0.543,
+        "unusual_experiences": -0.823
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.096,
+        "extreme_response": 0.292,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و متاهل هستم که در اهواز زندگی می‌کنم. مدرک دکتری دارم و به عنوان نویسنده و هنرمند در حوزه رسانه فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی وضعیت پایداری دارم، هرچند گاهی در اعتماد به افراد جدید کمی احتیاط می‌کنم و بدبین می‌شوم. روابطم با همسرم و دوستانم در مجموع آرام است.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم خوبی دارم و به جزئیات اهمیت می‌دهم، هرچند وسواسی نیستم. نسبت به جایگاه علمی و هنری‌ام احساس رضایت دارم و گاهی انتظار دارم دیگران این جایگاه را به رسم احترام به رسمیت بشناسند.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به خرافات فکر کنم، اما گاهی به شهودات درونی‌ام اعتماد می‌کنم. در تمام دوران رشد و تحصیلاتم، همیشه فردی قانون‌مدار بودم و هیچ سابقه رفتارهای تکانشی نداشتم."
+    }
+}

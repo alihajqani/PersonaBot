@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.578,
+        "detachment_suspicion": 0.94,
+        "impulsivity_antisocial": 0.62,
+        "narcissism_attention": 1.553,
+        "rigidity_perfectionism": -0.497,
+        "unusual_experiences": 0.155
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.271,
+        "extreme_response": -0.016,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و متاهل هستم، مدرک دکتری دارم و در حال حاضر در شهر مشهد به عنوان دانشجو تحصیل می‌کنم.",
+        "emotional_and_interpersonal_style": "به طور کلی آرام هستم، اما تمایل زیادی به تنهایی دارم و به شدت نسبت به دیگران بدبین هستم. احساس می‌کنم مردم اغلب پشت سر من حرف می‌زنند و به سختی به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "قاطعانه باور دارم که از نظر ذهنی و علمی برتر از اطرافیانم هستم و انتظار دارم برخورد ویژه‌ای با من شود. قوانین برای من اولویت اول نیستند و گاهی رفتارهای تکانشی از من سر می‌زند.",
+        "unusual_experiences_and_history": "تجربیات عجیبی داشته‌ام، مثلاً گاهی احساس می‌کنم از بدنم جدا شده‌ام یا چیزهایی را حس می‌کنم که دیگران متوجه آن‌ها نمی‌شوند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.015,
+        "detachment_suspicion": 0.264,
+        "impulsivity_antisocial": 1.239,
+        "narcissism_attention": -0.134,
+        "rigidity_perfectionism": -0.593,
+        "unusual_experiences": -0.316
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.496,
+        "extreme_response": -0.496,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۳۶ ساله و متاهل هستم، ساکن مشهد با مدرک کارشناسی ارشد و صاحب یک کسب‌وکار هستم، هرچند وضعیت اقتصادی‌ام در حال حاضر ضعیف است.",
+        "emotional_and_interpersonal_style": "بسیار زود مضطرب می‌شوم و وابستگی عاطفی زیادی به همسرم دارم. در روابط اجتماعی متوسط هستم اما گاهی احساس می‌کنم دیگران با من صادق نیستند.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و وقتی عصبانی می‌شوم کنترل خشمم را از دست می‌دهم. در مدیریت کارهایم نظم زیادی ندارم و معمولاً از قوانین سخت‌گیرانه دوری می‌کنم.",
+        "unusual_experiences_and_history": "در زندگی‌ام با تجربیات غیرعادی متوسطی روبرو شده‌ام و گاهی به اتفاقات تصادفی، معنای ماورایی می‌دهم."
+    }
+}

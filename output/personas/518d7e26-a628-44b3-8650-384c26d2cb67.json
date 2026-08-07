@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.49,
+        "detachment_suspicion": -0.582,
+        "impulsivity_antisocial": 0.319,
+        "narcissism_attention": 1.05,
+        "rigidity_perfectionism": -0.52,
+        "unusual_experiences": 0.218
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.225,
+        "extreme_response": -0.275,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۵ ساله و مجردم و در تبریز زندگی می‌کنم. مدرک کارشناسی ارشد دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود. با دیگران راحت هستم و بدبینی خاصی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار دوست دارم مورد تحسین دیگران باشم و احساس می‌کنم استحقاق جایگاه‌های ویژه را دارم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم و در مورد رعایت دقیق قوانین یا وسواس در جزئیات، چندان سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی متوسطی دارم؛ مثلاً گاهی حس می‌کنم از محیط اطرافم جدا شده‌ام یا به برخی مسائل غیرمنطقی باور دارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.975,
+        "detachment_suspicion": 2.273,
+        "impulsivity_antisocial": -0.461,
+        "narcissism_attention": -0.989,
+        "rigidity_perfectionism": -0.332,
+        "unusual_experiences": -0.607
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.479,
+        "extreme_response": -0.004,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله و مجرد ساکن شیرازم. لیسانس دارم و در یک اداره کارمند هستم.",
+        "emotional_and_interpersonal_style": "همیشه ترس شدیدی از تنها شدن دارم و نوسانات خلقی‌ام خیلی زیاد است. به شدت به دیگران بدبین هستم و ترجیح می‌دهم کاملاً منزوی باشم چون حس می‌کنم همه درباره‌ام بد حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "بسیار محتاط هستم و به ندرت ریسک می‌کنم یا تکانشی رفتار می‌کنم. در کارهایم نظم متوسطی دارم و هرگز احساس برتری نسبت به دیگران نمی‌کنم، بلکه بیشتر احساس کمبود می‌کنم.",
+        "unusual_experiences_and_history": "باورهای خرافی خاصی ندارم و دنیا را منطقی می‌بینم. سوابق رفتاری من در کودکی بیشتر با خجالتی بودن و گوشه‌گیری همراه بود تا هنجارشکنی."
+    }
+}

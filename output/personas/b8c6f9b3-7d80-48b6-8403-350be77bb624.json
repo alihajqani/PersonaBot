@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.551,
+        "detachment_suspicion": 0.992,
+        "impulsivity_antisocial": -0.57,
+        "narcissism_attention": 1.405,
+        "rigidity_perfectionism": 2.156,
+        "unusual_experiences": 2.302
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.677,
+        "extreme_response": -0.395,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۳۷ ساله، متاهل و ساکن تهران هستم. مدرک کارشناسی ارشد دارم و در بخش صنعت به عنوان کارگر متخصص فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "شدیداً از طرد شدن می‌ترسم و نوسانات خلقی من بسیار شدید است. به شدت به دیگران بدبین هستم و همیشه فکر می‌کنم پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی در نظم و ترتیب دارم و تحمل هرگونه بی‌نظمی را ندارم. در عین حال، احساس می‌کنم استحقاق جایگاه بسیار بالاتری را دارم و دوست دارم همیشه مرکز توجه باشم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی غیرعادی زیادی دارم، گاهی احساس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که دیگران نمی‌شنوند و به شدت به پیشگویی‌ها باور دارم."
+    }
+}

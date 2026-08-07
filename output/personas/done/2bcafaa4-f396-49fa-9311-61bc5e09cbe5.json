@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.361,
+        "detachment_suspicion": -0.855,
+        "impulsivity_antisocial": -1.118,
+        "narcissism_attention": -0.435,
+        "rigidity_perfectionism": 0.107,
+        "unusual_experiences": -1.504
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.361,
+        "extreme_response": 0.277,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای مجرد و ساکن مشهد هستم. مدرک کارشناسی دارم و به عنوان معلم در یکی از مراکز آموزشی شهر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات در محیط‌های اجتماعی احساس اضطراب می‌کنم و نگران قضاوت دیگران هستم. اما در کل با مردم راحت هستم، کینه به دل نمی‌گیرم و به دیگران اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانونمند و منضبط هستم و هرگز رفتارهای تکانشی یا هنجارشکنانه نداشته‌ام. نسبت به خودم دیدگاهی متواضعانه دارم و هرگز سعی نمی‌کنم توجه دیگران را به طور مصنوعی جلب کنم.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و به هیچ وجه به خرافات، حس ششم یا تجربیات غیرعادی باور ندارم. تمام دوران زندگی‌ام طبق اصول اخلاقی و اجتماعی پیش رفته است."
+    }
+}

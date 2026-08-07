@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.414,
+        "detachment_suspicion": 1.566,
+        "impulsivity_antisocial": 0.448,
+        "narcissism_attention": 0.575,
+        "rigidity_perfectionism": 0.695,
+        "unusual_experiences": -0.12
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.042,
+        "extreme_response": 0.501,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله و مجرد هستم که در تهران زندگی می‌کنم. مدرک کارشناسی دارم و به عنوان کارمند اداری مشغول به کار هستم و وضعیت اقتصادی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم دیگران در مورد من فکر بدی می‌کنند و به شدت به اطرافیانم بدبین هستم. اضطراب اجتماعی زیادی دارم و اغلب نگرانم که مورد قضاوت یا طرد قرار بگیرم.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار رفتارهای تکانشی دارم و ممکن است سریع عصبانی شوم. در عین حال، گاهی احساس می‌کنم با وجود وضعیت فعلی‌ام، از نظر ذهنی برتر از همکارانم هستم و باید توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "به طور مرتب احساس می‌کنم چیزهایی را می‌شنوم یا می‌بینم که دیگران متوجه‌شان نمی‌شوند و به حس ششم خود ایمان دارم. در دوران نوجوانی سابقه تخلف از قوانین و درگیری‌های رفتاری داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.607,
+        "detachment_suspicion": 0.839,
+        "impulsivity_antisocial": -0.027,
+        "narcissism_attention": -1.02,
+        "rigidity_perfectionism": 1.752,
+        "unusual_experiences": 0.76
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.277,
+        "extreme_response": -0.255,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۴۰ ساله‌ای متاهل هستم و در کرج زندگی می‌کنم. لیسانس دارم و به عنوان آرایشگر و متخصص خدمات زیبایی فعالیت می‌کنم و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و در مورد نیت دیگران کمی تردید دارم و زود به هر کسی اعتماد نمی‌کنم. در روابطم سعی می‌کنم تعادل را حفظ کنم اما گاهی احساس می‌کنم دیگران مرا به درستی درک نمی‌کنند.",
+        "behavioral_and_cognitive_traits": "من به شدت کمال‌گرا و وسواسی هستم؛ در سالن زیبایی‌ام هر چیزی باید دقیقاً در جای خود باشد و هیچ خطایی را نمی‌پذیرم. گاهی در واکنش‌هایم تکانشی هستم، اما اصلاً به دنبال این نیستم که مرکز توجه باشم یا برتری‌ام را به رخ بکشم.",
+        "unusual_experiences_and_history": "باورهای خرافی کمی دارم و گاهی به نشانه‌های محیطی توجه می‌کنم. در دوران نوجوانی، گاهی با قوانین مدرسه به مشکل می‌خوردم چون می‌خواستم همه چیز طبق استانداردهای خودم پیش برود."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.035,
+        "detachment_suspicion": 2.431,
+        "impulsivity_antisocial": 0.678,
+        "narcissism_attention": -1.321,
+        "rigidity_perfectionism": 0.925,
+        "unusual_experiences": -0.895
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.21,
+        "extreme_response": 0.001,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای از شهر مشهد هستم، مجردم و مدرک دیپلم دارم. به عنوان نویسنده و هنرمند در حوزه رسانه فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم، اما در روابطم بسیار سرد و منزوی هستم. به شدت بدبین هستم، کینه‌های قدیمی را نگه می‌دارم و به ندرت به کسی اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "در کارهایم بسیار وسواسی و جزئی‌نگرم و تحمل نمی‌کنم کسی کاری را به روشی غیر از روش من انجام دهد. گاهی در لحظات عصبانیت رفتارهای تکانشی دارم و ممکن است سریع واکنش نشان دهم.",
+        "unusual_experiences_and_history": "اعتقاد خاصی به مسائل ماوراءطبیعی ندارم و تا به حال تجربه جدایی از بدن یا شنیدن صداهای غیرعادی را نداشته‌ام."
+    }
+}

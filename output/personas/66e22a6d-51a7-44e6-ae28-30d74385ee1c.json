@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.067,
+        "detachment_suspicion": -1.04,
+        "impulsivity_antisocial": 2.482,
+        "narcissism_attention": 0.392,
+        "rigidity_perfectionism": 0.432,
+        "unusual_experiences": -0.665
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.1,
+        "extreme_response": 0.153,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۹ ساله و مجرد ساکن اصفهان هستم. مدرک دیپلم دارم و به عنوان کارشناس فنی و مهندس در محیط‌های صنعتی مشغول به کارم.",
+        "emotional_and_interpersonal_style": "در محیط‌های اجتماعی گاهی احساس ناامنی می‌کنم و اضطراب متوسطی دارم، اما به طور کلی آدم بدبینی نیستم و راحت با دیگران ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و کنترل خشم برایم سخت است و سابقه زیادی در شکستن قوانین دارم. گاهی احساس می‌کنم از بقیه باهوش‌تر هستم و در کارهای فنی‌ام وسواس نسبی به درست بودن جزئیات دارم.",
+        "unusual_experiences_and_history": "در کودکی بسیار پرتحرک و سرکش بودم و با قوانین مدرسه مشکل داشتم، اما تجربیات توهمی یا خرافات شدیدی ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.923,
+        "detachment_suspicion": -0.288,
+        "impulsivity_antisocial": 0.138,
+        "narcissism_attention": 0.789,
+        "rigidity_perfectionism": -0.62,
+        "unusual_experiences": -0.1
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.826,
+        "extreme_response": 0.184,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۱۸ ساله، مجرد و ساکن اصفهان هستم. تحصیلاتم در مقطع کارشناسی است و به عنوان کادر درمان در یکی از مراکز درمانی شهر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب اجتماعی یا ترس از طرد شدن در من دیده نمی‌شود. هرچند گاهی ترجیح می‌دهم تنها باشم و در اعتماد به دیگران کمی محتاطم، اما در کل روابطم آرام است.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیم می‌گیرم یا رفتارهای تکانشی دارم. در محیط کار احساس می‌کنم توانایی‌هایم بیشتر از دیگران است و دوست دارم مورد توجه باشم، اما در مورد نظم و جزئیات خیلی سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "باورهای خرافاتی متوسطی دارم و گاهی احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند. در دوران کودکی رفتارهای خاصی نداشتم که خارج از عرف باشد."
+    }
+}

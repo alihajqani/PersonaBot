@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.466,
+        "detachment_suspicion": 0.469,
+        "impulsivity_antisocial": 0.726,
+        "narcissism_attention": 0.612,
+        "rigidity_perfectionism": -0.763,
+        "unusual_experiences": 1.873
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.083,
+        "extreme_response": -0.386,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و مجرد هستم، دانشجوی مقطع کاردانی/کارشناسی هستم و در کنار درس، در تهران به عنوان آرایشگر کار می‌کنم. وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "کمی احساس اضطراب اجتماعی دارم و گاهی نگرانم که دیگران درباره‌ام چه فکری می‌کنند. در روابطم کمی بدبین هستم اما سعی می‌کنم با مشتریان و دوستانم ارتباط برقرار کنم.",
+        "behavioral_and_cognitive_traits": "خیلی به جزئیات و نظم اهمیت نمی‌دهم و کارهایم کمی شلخته است. گاهی رفتارهای تکانشی دارم و دوست دارم در محیط کارم به چشم بیایم و مورد توجه باشم، اما نه به طور افراطی.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ گاهی صداهایی می‌شنوم یا حضور موجوداتی را حس می‌کنم که دیگران نمی‌بینند. سابقه بیماری روان‌پزشکی دارم و از کودکی تجربیات غیرعادی داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.47,
+        "detachment_suspicion": 0.245,
+        "impulsivity_antisocial": 0.422,
+        "narcissism_attention": -0.69,
+        "rigidity_perfectionism": -0.603,
+        "unusual_experiences": 0.97
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.329,
+        "extreme_response": 0.737,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۴ ساله‌ای متاهل ساکن شیراز هستم. در حال حاضر دانشجوی مقطع کاردانی/کارشناسی هستم و خانه‌دار هستم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب اجتماعی می‌شوم و نوسانات خلقی خفیفی دارم. در روابطم کمی بدبین هستم و گاهی فکر می‌کنم دیگران در مورد من قضاوت می‌کنند.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر عمل می‌کنم و رفتارهای تکانشی دارم. تمایل چندانی به کمال‌گرایی یا وسواس ندارم و در زندگی‌ام انعطاف‌پذیری زیادی دارم؛ همچنین احساس برتری خاصی نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و به شدت به نشانه‌ها و خرافات باور دارم. در دوران کودکی سابقه رفتارهای تکانشی و تخلفات جزئی را داشته‌ام."
+    }
+}

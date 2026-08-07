@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.034,
+        "detachment_suspicion": -0.979,
+        "impulsivity_antisocial": -0.352,
+        "narcissism_attention": -0.55,
+        "rigidity_perfectionism": -1.043,
+        "unusual_experiences": -1.013
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.306,
+        "extreme_response": 0.244,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۷ ساله، مجرد و ساکن شیراز هستم؛ مدرک کارشناسی دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی متوسطی دارم و گاهی نگران نظرات دیگران هستم، اما به طور کلی فردی اجتماعی هستم و بدبینی یا میل به انزوا در من کم است.",
+        "behavioral_and_cognitive_traits": "من فردی آرام هستم و تمایلی به هنجارشکنی یا رفتارهای تکانشی ندارم. احساس برتری نسبت به دیگران ندارم و در انجام کارهایم خیلی سخت‌گیر یا وسواسی نیستم.",
+        "unusual_experiences_and_history": "هیچ‌گونه تجربه غیرعادی یا باور خرافی در زندگی‌ام نداشته‌ام و کودکی و نوجوانی آرامی را گذرانده‌ام."
+    }
+}

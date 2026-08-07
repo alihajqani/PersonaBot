@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.912,
+        "detachment_suspicion": -1.665,
+        "impulsivity_antisocial": -0.012,
+        "narcissism_attention": 0.396,
+        "rigidity_perfectionism": -1.193,
+        "unusual_experiences": 0.035
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.016,
+        "extreme_response": 0.774,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۴ ساله، متاهل و ساکن شیرازم که مدرک کارشناسی ارشد دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدارم و اضطراب خاصی در روابطم ندارم. به شدت به دیگران اعتماد دارم و اصلاً تمایلی به انزوا یا بدبینی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی پیش می‌آید که بدون فکر تصمیمات تکانشی بگیرم. کمی احساس می‌کنم توانایی‌هایم از دیگران بیشتر است، اما در کارهایم سخت‌گیر نیستم و انعطاف‌پذیری زیادی دارم.",
+        "unusual_experiences_and_history": "در حد متوسط به برخی خرافات اعتقاد دارم و گاهی احساس می‌کنم اتفاقات آینده را به صورت مبهم حس می‌کنم."
+    }
+}

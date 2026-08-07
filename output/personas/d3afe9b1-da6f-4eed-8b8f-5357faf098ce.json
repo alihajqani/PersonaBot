@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.079,
+        "detachment_suspicion": 1.563,
+        "impulsivity_antisocial": -0.861,
+        "narcissism_attention": -0.793,
+        "rigidity_perfectionism": -0.598,
+        "unusual_experiences": 1.758
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.069,
+        "extreme_response": 0.25,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقایی ۲۶ ساله و مجردم که لیسانس مهندسی دارم و در اهواز به عنوان کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار اضطراب می‌شوم، اما مشکل اصلی من بی‌اعتمادی شدید به آدم‌هاست. ترجیح می‌دهم کاملاً منزوی باشم چون فکر می‌کنم دیگران مرا نمی‌فهمند یا در مورد من بد فکر می‌کنند.",
+        "behavioral_and_cognitive_traits": "معمولاً قانون‌ها را رعایت می‌کنم و اهل جنجال یا رفتارهای تکانشی نیستم. احساس برتری نسبت به دیگران ندارم و تمایل چندانی به مرکز توجه بودن ندارم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ گاهی احساس می‌کنم از بدنم جدا شده‌ام یا صداهایی می‌شنوم که برای دیگران قابل تشخیص نیست."
+    }
+}

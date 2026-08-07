@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.654,
+        "detachment_suspicion": 0.376,
+        "impulsivity_antisocial": -1.308,
+        "narcissism_attention": -0.172,
+        "rigidity_perfectionism": 0.23,
+        "unusual_experiences": 1.151
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.05,
+        "extreme_response": 0.054,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله، متاهل و ساکن مشهد هستم. مدرک کارشناسی دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم، اما گاهی نسبت به نیت دیگران بدبین می‌شوم و فکر می‌کنم شاید قصد سوءاستفاده از من را داشته باشند.",
+        "behavioral_and_cognitive_traits": "در کارهای خانه نظم متوسطی دارم و گاهی نیاز دارم مورد تحسین دیگران قرار بگیرم. هرگز سابقه درگیری یا شکستن قوانین اجتماعی را نداشته‌ام.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم و به شدت به مسائل معنوی و شهودی باور دارم؛ گاهی حس می‌کنم اتفاقاتی را پیش از وقوع می‌بینم."
+    }
+}

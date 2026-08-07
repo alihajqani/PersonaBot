@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.363,
+        "detachment_suspicion": -1.586,
+        "impulsivity_antisocial": -3.191,
+        "narcissism_attention": -1.797,
+        "rigidity_perfectionism": -1.252,
+        "unusual_experiences": -0.357
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.025,
+        "extreme_response": 0.307,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله، متاهل و فارغ‌التحصیل کارشناسی ارشد هستم که در تهران به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار آرام هستم و تقریباً هیچ بدبینی یا بی‌اعتمادی به دیگران ندارم. روابطم با همسرم و دوستانم بر پایه اعتماد و ثبات است و اضطراب اجتماعی برایم تعریف نشده است.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار قانون‌مداری هستم و هرگز به دنبال جلب توجه یا برتری‌جویی نیستم. در کارهایم نظم معمولی دارم و وسواس خاصی برای بی‌نقص بودن یا کنترل همه چیز ندارم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که به مسائل غیرمنطقی یا خرافاتی فکر کنم. در تمام دوران زندگی‌ام، از کودکی تا کنون، همواره رفتاری متین داشتم و هیچ‌گاه با مسائل انضباطی مواجه نشدم."
+    }
+}

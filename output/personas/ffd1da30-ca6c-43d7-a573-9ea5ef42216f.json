@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.388,
+        "detachment_suspicion": -0.409,
+        "impulsivity_antisocial": -0.343,
+        "narcissism_attention": 0.107,
+        "rigidity_perfectionism": -1.887,
+        "unusual_experiences": -2.762
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.623,
+        "extreme_response": 0.841,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۳۸ ساله، مجرد و فارغ‌التحصیل کارشناسی هستم که در شهر کرج زندگی می‌کنم و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی آدم ثابتی هستم و معمولاً اضطراب خاصی در روابطم ندارم. با دیگران راحت ارتباط می‌گیرم و بدبینی یا کینه در من جایگاهی ندارد، هرچند گاهی ترجیح می‌دهم در محیط‌های اجتماعی کمی آرام‌تر باشم.",
+        "behavioral_and_cognitive_traits": "در محیط کار و زندگی خیلی سخت‌گیر یا وسواسی نیستم و انعطاف‌پذیری بالایی دارم. گاهی ممکن است در تصمیم‌گیرنده‌ام کمی تکانشی عمل کنم یا بخواهم توجهات را به خودم جلب کنم، اما در مجموع در سطح متعارفی هستم.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی، خرافات یا حس ششم ندارم و تمام زندگی‌ام بر اساس منطق و واقعیت پیش رفته است. در دوران کودکی و نوجوانی هم هیچ سابقه تخلف یا رفتارهای غیرعادی نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.429,
+        "detachment_suspicion": 0.662,
+        "impulsivity_antisocial": -0.53,
+        "narcissism_attention": 0.344,
+        "rigidity_perfectionism": 0.1,
+        "unusual_experiences": 1.706
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.122,
+        "extreme_response": -0.128,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۵ ساله، مجرد و دانشجوی مقطع کارشناسی هستم که در شهر تبریز زندگی می‌کنم. وضعیت اقتصادی من ضعیف است و هیچ سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم در زندگی عقب هستم و این موضوع باعث اضطراب و احساس ناکافی بودن در من شده است. در روابطم کمی بدبین هستم و سخت به دیگران اعتماد می‌کنم، اما سعی می‌کنم تعادلی بین تنهایی و معاشرت داشته باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهایم معمولاً آرام است و کمتر پیش می‌آید که تکانشی عمل کنم یا قانونی را بشکنم. حس متوسطی از برتری دارم و دوست دارم مورد تحسین باشم، و در کارهایم نظم متوسطی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی بسیار شدیدی دارم؛ مثلاً گاهی احساس می‌کنم بدنم متعلق به من نیست یا نیروهای نامرئی را حس می‌کنم. به شدت به مسائل ماوراءطبیعی و پیش‌گویی‌ها باور دارم."
+    }
+}

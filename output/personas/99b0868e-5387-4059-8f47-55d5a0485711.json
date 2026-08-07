@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 39,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.948,
+        "detachment_suspicion": -0.736,
+        "impulsivity_antisocial": 2.001,
+        "narcissism_attention": 0.399,
+        "rigidity_perfectionism": -0.274,
+        "unusual_experiences": -1.347
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.508,
+        "extreme_response": 0.155,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۹ ساله و متاهل هستم، مدرک کارشناسی ارشد دارم و در شهر اصفهان زندگی می‌کنم و در حال حاضر بیکارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و مدام می‌ترسم که نزدیکانم مرا ترک کنند. با اینکه به مردم بدبین نیستم، اما اضطراب درونی‌ام بسیار بالاست.",
+        "behavioral_and_cognitive_traits": "از کودکی سابقه تخطی از قوانین را داشته‌ام و وقتی عصبانی می‌شوم، کنترل خشمم را از دست می‌دهم. با این حال، گاهی احساس می‌کنم با وجود شرایطم، از دیگران برتر هستم.",
+        "unusual_experiences_and_history": "من نگاهی کاملاً واقع‌گرایانه به زندگی دارم و هرگز به خرافات یا تجربیات غیرعادی باور نداشته‌ام."
+    }
+}

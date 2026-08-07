@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.076,
+        "detachment_suspicion": 1.098,
+        "impulsivity_antisocial": -0.664,
+        "narcissism_attention": -1.008,
+        "rigidity_perfectionism": 0.671,
+        "unusual_experiences": -0.44
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.545,
+        "extreme_response": -0.118,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۱۹ ساله، متاهل و ساکن تهران هستم. تحصیلاتم در مقطع کارشناسی است و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم معمولاً بدبین هستم و ترجیح می‌دهم تنها باشم؛ خیلی وقت‌ها فکر می‌کنم دیگران پشت سر من حرف می‌زنند و سخت به کسی اعتماد می‌کنم. از نظر هیجانی نوسانات متوسطی دارم و گاهی احساس می‌کنم به اندازه بقیه کافی نیستم.",
+        "behavioral_and_cognitive_traits": "من فردی هستم که به قوانین پایبندم و رفتارهای تکانشی ندارم. در کارهایم کمی وسواس دارم و روی جزئیات تاکید می‌کنم، اما هیچ احساس برتری نسبت به دیگران ندارم و نمی‌خواهم مرکز توجه باشم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم، هرچند گاهی باورهای بسیار ساده‌ای در این زمینه دارم. در دوران کودکی و نوجوانی هم سابقه تخلف یا رفتارهای خارج از هنجار نداشتم."
+    }
+}

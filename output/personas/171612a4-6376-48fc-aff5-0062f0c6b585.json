@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.877,
+        "detachment_suspicion": -0.145,
+        "impulsivity_antisocial": 1.493,
+        "narcissism_attention": 1.017,
+        "rigidity_perfectionism": -1.575,
+        "unusual_experiences": -2.032
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.252,
+        "extreme_response": -0.318,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله و مجردم، مدرک کارشناسی دارم و در شهر شیراز به عنوان نویسنده و هنرمند فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "هیچ نوع اضطراب اجتماعی یا ترس از طرد شدن ندارم و کاملاً با خودم سازگارم. هرچند در روابطم کمی سرد هستم و ترجیح می‌دهم دنیای شخصی خودم را داشته باشم.",
+        "behavioral_and_cognitive_traits": "من همیشه اهل شورش بوده‌ام و قوانین را به چالش می‌کشم. باور دارم که به عنوان یک هنرمند، برتری خاصی دارم و استحقاق این را دارم که متفاوت از دیگران دیده شوم.",
+        "unusual_experiences_and_history": "به هیچ وجه به خرافات یا تجربیات غیرعادی اعتقاد ندارم و تمام اتفاقات را با دیدگاه تحلیلی می‌بینم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.544,
+        "detachment_suspicion": 1.169,
+        "impulsivity_antisocial": -0.008,
+        "narcissism_attention": -0.561,
+        "rigidity_perfectionism": 1.238,
+        "unusual_experiences": -0.282
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.434,
+        "extreme_response": 0.405,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای مجرد هستم که در تهران زندگی می‌کنم. مدرک کارشناسی دارم و در حال حاضر به عنوان کارگر در یک محیط صنعتی مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "همیشه احساس می‌کنم برای دیگران کافی نیستم و اضطراب شدیدی در روابط اجتماعی دارم. به شدت نسبت به اطرافیانم بدبین هستم، کینه‌ای هستم و ترجیح می‌دهم بیشتر وقت‌هایم را تنها بگذرانم تا آسیب نبینم.",
+        "behavioral_and_cognitive_traits": "در محیط کار بسیار سخت‌گیر و کمال‌گرا هستم و هر جزئیاتی را چک می‌کنم. گاهی رفتارهای تکانشی دارم و در مواجهه با استرس، واکنش‌های تندی نشان می‌دهم، اما هرگز سعی نمی‌کنم خودم را برتر از همکارانم نشان دهم.",
+        "unusual_experiences_and_history": "در دوران نوجوانی گاهی احساس می‌کردم دنیا واقعی نیست یا از بدنم فاصله می‌گیرم. به برخی باورهای غیرمنطقی و حس ششم اعتقاد دارم، هرچند سابقه بیماری روان‌پزشکی ندارم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.387,
+        "detachment_suspicion": 1.32,
+        "impulsivity_antisocial": 0.681,
+        "narcissism_attention": -0.159,
+        "rigidity_perfectionism": -0.434,
+        "unusual_experiences": -0.678
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.362,
+        "extreme_response": 0.572,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، آقا، متاهل و ساکن کرجم. دیپلم دارم و در حال حاضر مشغول تحصیل هستم.",
+        "emotional_and_interpersonal_style": "شدیداً ترجیح می‌دهم تنها باشم و اعتماد کردن برایم بسیار سخت است. همیشه این بدگمانی را دارم که دیگران قصد سوء دارند یا درباره من بد حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و ممکن است در لحظه تند برخورد کنم. فکر می‌کنم در بسیاری از موارد از بقیه برترم و دوست دارم توجهات در جمع به من جلب شود.",
+        "unusual_experiences_and_history": "اعتقادات خرافی خاصی ندارم و تجربیات غیرعادی یا توهمات را تجربه نکرده‌ام. دوران نوجوانی و کودکی‌ام از نظر رفتاری تقریباً معمولی بود."
+    }
+}

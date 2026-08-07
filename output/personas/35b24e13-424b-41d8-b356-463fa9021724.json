@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.396,
+        "detachment_suspicion": 1.796,
+        "impulsivity_antisocial": 0.433,
+        "narcissism_attention": -0.803,
+        "rigidity_perfectionism": 0.452,
+        "unusual_experiences": 0.09
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.14,
+        "extreme_response": -0.112,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۳۲ ساله و مجردم که دارای مدرک کارشناسی ارشد هستم و در تهران به عنوان کارمند اداری مشغول به کارم.",
+        "emotional_and_interpersonal_style": "مدام نگرانم که دیگران مرا دوست نداشته باشند و نوسانات خلقی شدیدی را تجربه می‌کنم. به شدت به اطرافیانم بدبین هستم و همیشه حس می‌کنم دیگران در پشت سر من حرف می‌زنند یا قصد ضرر زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار تند برخورد می‌کنم و رفتارهای تکانشی دارم. سعی می‌کنم کارهایم را با دقت انجام دهم و کمی وسواس در جزئیات دارم، هرچند احساس برتری نسبت به دیگران در من کم است.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و گاهی تجربیات ذهنی عجیبی دارم یا احساس می‌کنم حس ششمم اتفاقات را پیش‌بینی می‌کند."
+    }
+}

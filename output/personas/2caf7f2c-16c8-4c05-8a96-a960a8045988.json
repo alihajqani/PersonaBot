@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.698,
+        "detachment_suspicion": 1.808,
+        "impulsivity_antisocial": 1.16,
+        "narcissism_attention": 0.726,
+        "rigidity_perfectionism": 0.86,
+        "unusual_experiences": -0.83
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.34,
+        "extreme_response": 0.058,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۲۱ ساله، مجرد و دارای مدرک کارشناسی هستم و در تهران به عنوان مهندس و کارشناس فنی کار می‌کنم. وضعیت اقتصادی من ضعیف است و سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "به شدت بدبین هستم و همیشه فکر می‌کنم دیگران در مورد من بد فکر می‌کنند یا قصد دارند به من ضربه بزنند. اضطراب اجتماعی دارم و به دلیل بی‌اعتمادی زیاد، ترجیح می‌دهم در انزوا بمانم و با کسی صمیمی نشوم.",
+        "behavioral_and_cognitive_traits": "سابقه رفتارهای تکانشی و قوانین‌شکنی دارم و گاهی در برابر دیگران تندخو هستم. احساس می‌کنم در بسیاری از زمینه‌ها از دیگران برترم و در عین حال، در کارهایم نظم و دقت نسبتاً خوبی دارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات خاصی ندارم و دنیا را از دریچه واقع‌گرایی (هرچند تلخ) می‌بینم. سابقه رفتارهای غیرعادی در کودکی نداشتم، اما همیشه با دیگران در تضاد بودم."
+    }
+}

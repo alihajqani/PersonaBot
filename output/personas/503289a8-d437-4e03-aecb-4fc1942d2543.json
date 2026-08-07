@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.334,
+        "detachment_suspicion": -1.23,
+        "impulsivity_antisocial": -0.542,
+        "narcissism_attention": 0.212,
+        "rigidity_perfectionism": -1.111,
+        "unusual_experiences": -0.821
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.691,
+        "extreme_response": -0.423,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۳ سالمه، آقا، مجرد و ساکن مشهد هستم. لیسانس دارم ولی در حال حاضر خانه‌دار هستم و شغلی ندارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار راحت هستم و اضطراب یا ترس از طرد شدن ندارم. با دیگران ارتباط خوب و سالمی دارم و به راحتی به بقیه اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "فکر می‌کنم توانایی‌های خوبی دارم و دوست دارم در جمع‌ها دیده شوم. اهل وسواس، سخت‌گیری یا رفتارهای تکانشی و قانون‌شکن نیستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی خاصی نداشتم و اعتقاداتم کاملاً منطقی و مادی است. دوران کودکی و نوجوانی‌ام بدون هیچ مشکل رفتاری یا ذهنی گذشت."
+    }
+}

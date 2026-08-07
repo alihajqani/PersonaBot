@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.746,
+        "detachment_suspicion": -0.479,
+        "impulsivity_antisocial": 1.704,
+        "narcissism_attention": 0.726,
+        "rigidity_perfectionism": 0.377,
+        "unusual_experiences": 0.54
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.516,
+        "extreme_response": 0.278,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۷ ساله و مجردم که در مشهد زندگی می‌کنم. کارشناسی ارشد دارم و در زمینه‌ی رسانه و هنر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم درک نمی‌شم و این باعث می‌شه کمی مضطرب بشم، اما معمولاً با بقیه راحت هستم. با این حال، گاهی اوقات در روابطم رفتارهای تند و ناگهانی دارم که بقیه رو غافلگیر می‌کنه.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و اصلاً نمی‌تونم جلوی خشم یا تصمیمات لحظه‌ایم رو بگیرم. حس می‌کنم استعداد خاصی دارم و لایق توجه بیشترم، و در کارهایم هم سعی می‌کنم نظم نسبی رو رعایت کنم.",
+        "unusual_experiences_and_history": "تجربیات عجیبی مثل حس ششم یا پیش‌بینی‌های کوچک دارم که گاهی درست از آب درمی‌آیند. در دوران مدرسه هم سابقه تخلفات رفتاری و به چالش کشیدن معلمان رو داشتم."
+    }
+}

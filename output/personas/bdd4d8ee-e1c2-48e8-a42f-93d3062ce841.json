@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.227,
+        "detachment_suspicion": -1.587,
+        "impulsivity_antisocial": 1.1,
+        "narcissism_attention": 0.841,
+        "rigidity_perfectionism": 0.831,
+        "unusual_experiences": 0.901
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.804,
+        "extreme_response": 0.671,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، متاهل و ساکن مشهد. مدرک دکتری دارم و در حال حاضر به عنوان دانشجو فعالیت می‌کنم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی در وضعیت متوسطی هستم؛ گاهی مضطرب می‌شوم اما نه به شکلی شدید. من بسیار اجتماعی هستم، به آدم‌ها اعتماد دارم و اصلاً اهل بدبینی یا گوشه‌گیری نیستم.",
+        "behavioral_and_cognitive_traits": "بسیار ریسک‌پذیر هستم و گاهی بدون فکر کردن کارهای تکانشی انجام می‌دهم که با هنجارهای محیطی سازگار نیست. کمی کمال‌گرا هستم و دوست دارم کارها دقیق انجام شوند، و همچنین تمایل دارم در محیط‌های اجتماعی دیده شوم و تحسین شوم.",
+        "unusual_experiences_and_history": "به شدت به مسائل ماوراءالطبیعه و حس ششم باور دارم و تجربیات غیرعادی زیادی را در زندگی‌ام حس کرده‌ام. در دوران نوجوانی هم تمایل زیادی به تجربه چیزهای ممنوعه و قانون‌شکنی داشتم."
+    }
+}

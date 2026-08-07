@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.798,
+        "detachment_suspicion": -0.81,
+        "impulsivity_antisocial": 0.065,
+        "narcissism_attention": -1.124,
+        "rigidity_perfectionism": -1.268,
+        "unusual_experiences": 2.07
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.876,
+        "extreme_response": -0.371,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقایی ۲۹ ساله و متاهل هستم که لیسانس دارم و در اهواز به عنوان کارمند اداری فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدارم و وابستگی شدیدی به دیگران ندارم. روابط اجتماعی معمولی دارم و بدبینی خاصی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر تصمیم می‌گیرم و رفتارهای تکانشی دارم. اصلاً اهل رقابت یا احساس برتری نیستم و ترجیح می‌دهم ساده و بی‌تکلف زندگی کنم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ گاهی حس می‌کنم در دنیای دیگری هستم یا صداهایی می‌شنوم که هیچکس دیگر متوجه آن‌ها نمی‌شود."
+    }
+}

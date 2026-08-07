@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.383,
+        "detachment_suspicion": 1.136,
+        "impulsivity_antisocial": 0.921,
+        "narcissism_attention": 2.189,
+        "rigidity_perfectionism": 1.225,
+        "unusual_experiences": 2.287
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.053,
+        "extreme_response": 0.222,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله، مجرد و دانشجو در شهر کرجم. در حال حاضر مشغول تحصیل در مقطع کارشناسی هستم.",
+        "emotional_and_interpersonal_style": "خیلی زود از کوره در می‌روم و نوسانات خلقی شدیدی دارم. به شدت بدبین هستم و فکر می‌کنم همه قصد دارند به من ضربه بزنند یا در مورد من غیبت کنند.",
+        "behavioral_and_cognitive_traits": "باور دارم که بسیار باهوش‌تر و برتر از بقیه هستم و انتظار دارم همه با من برخورد ویژه‌ای داشته باشند. سابقه زیادی در شکستن قوانین دارم و در کارهایم وسواس زیادی به خرج می‌دهم تا همه چیز بی‌نقص باشد.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ گاهی صداهایی می‌شنوم یا احساس می‌کنم بدنم از من جدا شده و در فضای متفاوتی هستم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 25,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.054,
+        "detachment_suspicion": 0.016,
+        "impulsivity_antisocial": -0.264,
+        "narcissism_attention": -0.696,
+        "rigidity_perfectionism": 2.151,
+        "unusual_experiences": 0.079
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.373,
+        "extreme_response": 0.457,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من زنی ۲۵ ساله، متاهل و ساکن تبریز هستم. مدرک کارشناسی دارم و به عنوان معلم در یکی از مراکز آموزشی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و نوسانات خلقی شدیدی دارم؛ ترس از دست دادن عزیزانم و اضطراب دائمی بخش بزرگی از زندگی من است. نسبت به دیگران بدبینی متوسطی دارم.",
+        "behavioral_and_cognitive_traits": "وسواس شدید و کمال‌گرایی در تمام ابعاد زندگی‌ام دارم و نمی‌توانم کارها را به دیگران بسپارم چون فکر می‌کنم درست انجام نمی‌دهند. گاهی واکنش‌های تکانشی نشان می‌دهم اما تمایلی به برتر نشان دادن خود ندارم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم اتفاقات زندگی‌ام از پیش تعیین شده است یا حس‌های عجیبی دارم که نمی‌توانم منطقی توضیح دهم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.368,
+        "detachment_suspicion": -1.535,
+        "impulsivity_antisocial": 0.856,
+        "narcissism_attention": -0.015,
+        "rigidity_perfectionism": 0.437,
+        "unusual_experiences": -1.818
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.032,
+        "extreme_response": 0.163,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای مجرد هستم و در مشهد زندگی می‌کنم. لیسانس دارم و در کادر درمان به عنوان پرستار مشغول به کار هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار آرام هستم و اضطراب اجتماعی یا ترس از طرد شدن ندارم. من آدم بسیار صمیمی و اجتماعی هستم و به راحتی با دیگران ارتباط برقرار می‌کنم و به آن‌ها اعتماد دارم.",
+        "behavioral_and_cognitive_traits": "در محیط کارم به دلیل ماهیت شغلم، کمی روی نظم و جزئیات حساس هستم و سعی می‌کنم دقیق باشم. گاهی در زندگی شخصی‌ام رفتارهای تکانشی دارم، اما در کل نگاهی متعادل به خودم دارم و نیاز شدیدی به توجه دیگران ندارم.",
+        "unusual_experiences_and_history": "من انسان کاملاً منطقی هستم و اصلاً به خرافات، حس ششم یا تجربیات غیرعادی باور ندارم. دوران کودکی و نوجوانی من بسیار آرام بود و هیچ سابقه قانون‌شکنی یا مشکل رفتاری نداشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.06,
+        "detachment_suspicion": 1.078,
+        "impulsivity_antisocial": 0.708,
+        "narcissism_attention": 0.379,
+        "rigidity_perfectionism": -0.351,
+        "unusual_experiences": -2.615
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.429,
+        "extreme_response": 0.453,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای هستم، مجردم و در شیراز زندگی می‌کنم. تحصیلاتم کارشناسی است و به عنوان مهندس و کارشناس فنی مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "بسیار ترجیح می‌دهم تنها باشم و به راحتی به کسی اعتماد نمی‌کنم؛ همیشه این حس را دارم که دیگران در مورد من بد فکر می‌کنند. احساساتم را به سختی ابراز می‌کنم و در روابطم سرد به نظر می‌رسم.",
+        "behavioral_and_cognitive_traits": "گاهی در محیط کار تکانشی رفتار می‌کنم و احساس می‌کنم از نظر تخصص و فکر از بقیه برترم. در مورد نظم و کمال‌گرایی خیلی سخت‌گیر نیستم و ترجیح می‌دهم کارها سریع‌تر پیش بروند تا اینکه بی‌نقص باشند.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و به هیچ وجه به مسائل ماوراءطبیعی، خرافات یا حس ششم اعتقادی ندارم."
+    }
+}

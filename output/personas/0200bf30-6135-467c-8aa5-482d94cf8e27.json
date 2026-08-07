@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.624,
+        "detachment_suspicion": 0.87,
+        "impulsivity_antisocial": -0.579,
+        "narcissism_attention": -0.806,
+        "rigidity_perfectionism": 1.849,
+        "unusual_experiences": 1.015
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.578,
+        "extreme_response": 0.14,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۳۱ سالمه، خانم، متاهل و ساکن مشهد هستم. مدرک کارشناسی ارشد دارم اما در حال حاضر خانه‌دار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم، هرچند ترجیح می‌دهم بیشتر با خودم باشم و سخت به دیگران اعتماد می‌کنم. گاهی این حس به من دست می‌دهد که دیگران پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی نظم و جزئیات خانه دارم و تحمل نمی‌کنم کسی کاری را به روش خودش انجام دهد. بسیار سخت‌گیر هستم و هر چیزی باید دقیقاً طبق قواعد من و سر جای خودش باشد.",
+        "unusual_experiences_and_history": "اعتقادات خرافی قوی‌ای دارم و تجربیات ذهنی عجیبی داشته‌ام که انگار در لحظاتی از بدنم جدا شده‌ام. این حس‌ها برای من بسیار ملموس و واقعی هستند."
+    }
+}

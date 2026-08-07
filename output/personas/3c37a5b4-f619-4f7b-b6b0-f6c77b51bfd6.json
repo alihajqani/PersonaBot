@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.247,
+        "detachment_suspicion": 0.013,
+        "impulsivity_antisocial": 1.831,
+        "narcissism_attention": 0.918,
+        "rigidity_perfectionism": 0.653,
+        "unusual_experiences": -0.812
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.822,
+        "extreme_response": -0.085,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۷ ساله‌ای هستم، مجردم و در تهران زندگی می‌کنم. تحصیلاتم کارشناسی است و به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس می‌کنم هر لحظه ممکن است اطرافیانم مرا ترک کنند و این ترس باعث وابستگی شدیدم به دیگران شده است. نوسانات خلقی شدیدی دارم و در جمع‌های اجتماعی همیشه استرس دارم و حس می‌کنم به اندازه دیگران کافی نیستم، هرچند در اعتماد به دیگران احتیاط می‌کنم.",
+        "behavioral_and_cognitive_traits": "از کودکی عادت داشتم قوانین را زیر پا بگذارم و هنوز هم گاهی بدون فکر تصمیمات تکانشی می‌گیرم یا خشمم ناگهان فوران می‌کند. در محیط کار احساس می‌کنم از بقیه برترم و دوست دارم مرکز توجه باشم، و در عین حال روی جزئیات کارهایم وسواس نسبتاً زیادی دارم.",
+        "unusual_experiences_and_history": "من آدم منطقی‌ای هستم و اعتقاد خاصی به خرافات یا حس ششم ندارم و تا به حال تجربه عجیبی که خارج از واقعیت باشد نداشته‌ام."
+    }
+}

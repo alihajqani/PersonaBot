@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.86,
+        "detachment_suspicion": -1.521,
+        "impulsivity_antisocial": -0.535,
+        "narcissism_attention": -2.183,
+        "rigidity_perfectionism": 0.598,
+        "unusual_experiences": 1.026
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.561,
+        "extreme_response": -0.197,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۰ ساله، مجرد و دانشجوی مقطع کارشناسی هستم که در شهر کرج زندگی می‌کنم. وضعیت اقتصادی خانواده‌ام در سطح متوسط است و هیچ سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "در روابطم احساس امنیت می‌کنم و وابستگی شدیدی به دیگران ندارم، هرچند گاهی اضطراب‌های خفیفی در محیط‌های اجتماعی دارم. به طور کلی آدم باز و صمیمی هستم و خیلی راحت به دیگران اعتماد می‌کنم و از تنهایی گریزانم.",
+        "behavioral_and_cognitive_traits": "در درس‌هایم کمی کمال‌گرا هستم و دوست دارم کارها را با دقت و نظم انجام دهم. من هرگز سعی نمی‌کنم مرکز توجه باشم یا خودم را برتر از دیگران ببینم و معمولاً رفتارهای تکانشی یا عصبانیت‌های ناگهانی ندارم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها احساس می‌کنم حس ششم دارم و چیزهایی را درک می‌کنم که دیگران متوجه‌شان نمی‌شوند. گاهی تجربیاتی دارم که برایم سخت است توضیح دهم و به مسائل ماوراءطبیعی باور زیادی دارم."
+    }
+}

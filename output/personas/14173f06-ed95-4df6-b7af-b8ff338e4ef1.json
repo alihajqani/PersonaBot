@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.23,
+        "detachment_suspicion": -1.005,
+        "impulsivity_antisocial": 0.239,
+        "narcissism_attention": 0.26,
+        "rigidity_perfectionism": -0.325,
+        "unusual_experiences": -0.077
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.157,
+        "extreme_response": -0.034,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۸ ساله‌ای متاهل و ساکن مشهد هستم. مدرک دیپلم دارم و به عنوان کارمند اداری در یک سازمان مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی دارم و همیشه می‌ترسم که عزیزانم مرا ترک کنند یا مورد بی‌مهری قرار بگیرم. با این حال، بسیار اجتماعی هستم، زود به دیگران اعتماد می‌کنم و احساساتم را راحت ابراز می‌کنم.",
+        "behavioral_and_cognitive_traits": "در زندگی روزمره و محیط کار، رفتارهای متوسطی دارم و نه خیلی وسواسی هستم و نه بی‌نظم. گاهی در واکنش‌هایم تکانشی عمل می‌کنم، اما در کل سعی می‌کنم تعادلی بین خواسته‌هایم و قوانین محیط باشد.",
+        "unusual_experiences_and_history": "باورهای خرافاتی معمولی دارم و گاهی به نشانه‌ها و شانس اعتقاد دارم. در دوران کودکی رفتارهای خاصی نداشتم و رشد نسبتاً آرامی را تجربه کرده‌ام."
+    }
+}

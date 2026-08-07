@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "استاد دانشگاه / پژوهشگر",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.155,
+        "detachment_suspicion": 1.663,
+        "impulsivity_antisocial": -1.295,
+        "narcissism_attention": -1.283,
+        "rigidity_perfectionism": 0.44,
+        "unusual_experiences": -1.106
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.004,
+        "extreme_response": -0.197,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۰ ساله و متاهل هستم، دانشجوی مقطع کارشناسی هستم و در مشهد به عنوان استاد دانشگاه و پژوهشگر فعالیت می‌کنم. وضعیت مالی من متوسط است.",
+        "emotional_and_interpersonal_style": "بسیار منزوی هستم و ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم؛ اعتمادم به دیگران بسیار کم است و همیشه فکر می‌کنم پشت سر من حرف می‌زنند یا نقشه‌ای دارند. اضطرابم در حد متوسطی است.",
+        "behavioral_and_cognitive_traits": "من آدم بسیار قانون‌مندی هستم و هیچ تمایلی به هنجارشکنی یا رفتارهای تکانشی ندارم. در کارهای پژوهشی‌ام کمی وسواس به خرج می‌دهم تا همه چیز دقیق باشد، اما هیچ ادعای برتری یا نیاز به توجه ندارم.",
+        "unusual_experiences_and_history": "من نگاهی کاملاً علمی به زندگی دارم و هیچ‌گونه تجربه غیرعادی یا باور خرافاتی ندارم و سابقه بیماری روان‌پزشکی هم ندارم."
+    }
+}

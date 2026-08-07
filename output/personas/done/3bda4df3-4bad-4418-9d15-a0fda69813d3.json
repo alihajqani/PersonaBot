@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 18,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.408,
+        "detachment_suspicion": -0.491,
+        "impulsivity_antisocial": -1.728,
+        "narcissism_attention": -0.053,
+        "rigidity_perfectionism": -0.15,
+        "unusual_experiences": -1.766
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.438,
+        "extreme_response": 0.209,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۱۸ سالمه، متاهلم و در کرج زندگی می‌کنم؛ مدرکم کارشناسیه و در زمینه رسانه و نویسندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً ثبات دارم و خیلی کم پیش میاد که احساس اضطراب یا ترس از طرد شدن داشته باشم و با دیگران راحت هستم.",
+        "behavioral_and_cognitive_traits": "آدم بسیار قانون‌مندی هستم و هرگز بدون فکر یا تکانشی عمل نمی‌کنم. در کارهایم نظم متوسطی دارم و احساس برتری شدیدی نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "هیچ‌گونه باور خرافی یا تجربه ذهنی غیرعادی ندارم و نگاهی کاملاً واقع‌گرایانه به زندگی دارم."
+    }
+}

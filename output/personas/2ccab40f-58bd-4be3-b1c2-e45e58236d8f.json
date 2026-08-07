@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.386,
+        "detachment_suspicion": 0.508,
+        "impulsivity_antisocial": 0.318,
+        "narcissism_attention": 0.385,
+        "rigidity_perfectionism": -0.049,
+        "unusual_experiences": -1.102
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.507,
+        "extreme_response": -0.513,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۲ ساله، مجرد و ساکن تبریز هستم. دانشجوی مقطع کارشناسی هستم و در کنار درس، به صورت آزاد در فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً پایدارم، اما در روابطم کمی محتاطم و گاهی فکر می‌کنم دیگران ممکن است پشت سر من حرف بزنند یا به من خیانت کنند.",
+        "behavioral_and_cognitive_traits": "در محیط کار و زندگی گاهی تکانشی رفتار می‌کنم. کمی احساس می‌کنم از هم‌سن و سال‌هایم باهوش‌تر یا برترم و در رعایت نظم و جزئیات کارهایم متوسط هستم.",
+        "unusual_experiences_and_history": "من انسان منطقی‌ای هستم و هیچ‌گونه تجربه غیرعادی، خرافات یا توهمات حسی در زندگی‌ام نداشته‌ام."
+    }
+}

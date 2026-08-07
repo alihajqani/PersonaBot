@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.743,
+        "detachment_suspicion": 0.501,
+        "impulsivity_antisocial": 0.978,
+        "narcissism_attention": -1.135,
+        "rigidity_perfectionism": 0.404,
+        "unusual_experiences": -0.835
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.244,
+        "extreme_response": -0.518,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۴ ساله، متاهل و ساکن تهران هستم که مدرک کارشناسی دارم و به عنوان معلم در بخش آموزش مشغول به کارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و نگران نظرات دیگران هستم، هرچند در کل زندگی پایداری دارم. در روابطم کمی محتاطم و تمایل دارم فاصله‌ام را با دیگران حفظ کنم و زود به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "باید اعتراف کنم که زود عصبانی می‌شوم و گاهی رفتارهای تکانشی و تندی از من سر می‌زند که با محیط کارم در تضاد است. در عین حال، روی نظم و جزئیات کارهایم حساس هستم و دوست دارم همه چیز طبق برنامه پیش برود، اما هرگز ادعای برتری ندارم.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی دانش‌آموز آرامی بودم و سابقه بیماری خاصی ندارم. خیلی اهل خرافات نیستم و نگاهی کاملاً منطقی به مسائل زندگی دارم."
+    }
+}

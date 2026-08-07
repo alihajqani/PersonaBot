@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 27,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.704,
+        "detachment_suspicion": 2.004,
+        "impulsivity_antisocial": 1.103,
+        "narcissism_attention": -0.212,
+        "rigidity_perfectionism": 1.294,
+        "unusual_experiences": 0.539
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.584,
+        "extreme_response": -0.023,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک خانم ۲۷ ساله، مجرد و ساکن تهران هستم که در زمینه نویسندگی و هنر فعالیت می‌کنم و مدرک کارشناسی ارشد دارم.",
+        "emotional_and_interpersonal_style": "ترجیح می‌دم بیشتر وقتم رو تنها بگذرونم و واقعاً سخت به کسی اعتماد می‌کنم؛ همیشه گمان می‌کنم بقیه نیت بدی دارن. احساساتم رو به راحتی بروز نمی‌دم و ترجیح می‌دم فاصله‌ام رو با دیگران حفظ کنم.",
+        "behavioral_and_cognitive_traits": "در کارهای هنریم کمال‌گرای شدیدی هستم و تا کوچک‌ترین جزئیات درست نشه، آرام نمی‌گیرم. گاهی اوقات بدون فکر تصمیمات عجولانه می‌گیرم یا در لحظه از کوره در می‌رم، هرچند حس می‌کنم جایگاه ویژه‌ای در جامعه دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات حس می‌کنم چیزهایی رو درک می‌کنم که بقیه نمی‌بینن یا پیش‌آگاهی‌های عجیبی دارم. در دوران نوجوانی هم گاهی رفتارهای سرکش داشتم و با قوانین مدرسه مشکل داشتم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.209,
+        "detachment_suspicion": -0.139,
+        "impulsivity_antisocial": 2.053,
+        "narcissism_attention": -0.134,
+        "rigidity_perfectionism": -0.832,
+        "unusual_experiences": -0.612
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.225,
+        "extreme_response": 0.174,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۶ سالمه، مجردم و در اصفهان هم به عنوان معلم فعالیت می‌کنم و هم دانشجوی مقطع کارشناسی هستم.",
+        "emotional_and_interpersonal_style": "در روابط اجتماعی متوسط هستم؛ نه خیلی گوشه‌گیرم و نه خیلی برون‌گرا، هرچند گاهی اضطراب‌های اجتماعی و نوسانات خلقی دارم.",
+        "behavioral_and_cognitive_traits": "کنترل اعصابم خیلی ضعیفه و سابقه زیادی در شکستن قوانین و رفتارهای تکانشی و عصبی دارم. در کارهایم خیلی سخت‌گیر نیستم و نظم زیادی در زندگی‌ام وجود نداره.",
+        "unusual_experiences_and_history": "اعتقادات خرافی خاصی ندارم و تجربه‌های ذهنی عجیبی هم نداشتم؛ دنیا رو تقریباً همون‌طور که هست می‌بینم."
+    }
+}

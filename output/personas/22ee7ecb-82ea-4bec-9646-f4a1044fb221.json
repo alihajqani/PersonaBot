@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.738,
+        "detachment_suspicion": -0.341,
+        "impulsivity_antisocial": 0.271,
+        "narcissism_attention": -0.913,
+        "rigidity_perfectionism": -1.037,
+        "unusual_experiences": 0.392
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.113,
+        "extreme_response": 0.019,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۸ ساله مجرد ساکن شهر کرجم. تحصیلاتم در مقطع کارشناسی است و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم و اضطراب زیادی در روابطم ندارم، هرچند در اعتماد به دیگران حالت متوسطی دارم و گاهی ترجیح می‌دهم با خودم تنها باشم.",
+        "behavioral_and_cognitive_traits": "در زندگی روزمره خیلی سخت‌گیر یا وسواسی نیستم و به جزئیات بیش از حد اهمیت نمی‌دهم. گاهی پیش می‌آید که بدون فکر تصمیمات تکانشی بگیرم، اما حس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم حس ششم دارم یا اتفاقاتی را پیش‌بینی می‌کنم که برای دیگران عجیب است. در کودکی رفتار خاص یا مشکل رفتاری شدیدی نداشتم."
+    }
+}

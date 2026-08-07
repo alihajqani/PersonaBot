@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.284,
+        "detachment_suspicion": -0.008,
+        "impulsivity_antisocial": -1.105,
+        "narcissism_attention": 0.551,
+        "rigidity_perfectionism": -0.909,
+        "unusual_experiences": -1.131
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.005,
+        "extreme_response": -0.247,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۱ ساله و مجردم که در شهر مشهد زندگی می‌کنم. مدرک کارشناسی دارم و در حال حاضر به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی در سطح متوسطی هستم؛ گاهی اضطراب دارم اما نه به طور شدید. در روابطم نه خیلی منزوی هستم و نه بیش از حد اجتماعی، و اعتمادم به دیگران در حد معمول است.",
+        "behavioral_and_cognitive_traits": "من فردی آرام هستم و تمایلی به شکستن قوانین یا رفتارهای تکانشی ندارم. کمی دوست دارم مورد توجه دیگران باشم، اما کمال‌گرایی یا وسواس خاصی در انجام کارهایم ندارم.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و هیچ‌گونه تجربه غیرعادی، خرافات یا توهمی را در زندگی‌ام نداشته‌ام. دوران کودکی و نوجوانی من بسیار عادی بود و هیچ مشکل رفتاری نداشتم."
+    }
+}

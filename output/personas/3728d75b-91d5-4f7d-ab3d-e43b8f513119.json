@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 38,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.592,
+        "detachment_suspicion": -0.127,
+        "impulsivity_antisocial": 0.123,
+        "narcissism_attention": 0.288,
+        "rigidity_perfectionism": -0.318,
+        "unusual_experiences": 0.649
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.244,
+        "extreme_response": -0.27,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۸ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی ارشد که در شهر تهران به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم به اندازه کافی خوب نیستم و در روابطم کمی اضطراب دارم. در ابراز احساساتم محتاطم و ترجیح می‌دهم تا حدودی فاصله را حفظ کنم.",
+        "behavioral_and_cognitive_traits": "سعی می‌کنم تعادلی بین نظم و انعطاف در خانه داشته باشم. نه خیلی سخت‌گیر هستم و نه بی‌قاعده، و دوست دارم بقیه متوجه تلاش‌های من شوند و تحسینم کنند.",
+        "unusual_experiences_and_history": "در برخی مواقع احساس می‌کنم حضور نیرویی را در اطرافم حس می‌کنم یا پیش‌آگاهی‌های عجیبی دارم."
+    }
+}

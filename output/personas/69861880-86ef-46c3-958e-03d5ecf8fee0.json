@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.726,
+        "detachment_suspicion": 0.622,
+        "impulsivity_antisocial": -0.099,
+        "narcissism_attention": -0.078,
+        "rigidity_perfectionism": -0.973,
+        "unusual_experiences": -0.441
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.095,
+        "extreme_response": -0.067,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله و مجردم که مدرک کارشناسی دارم و در شهر اهواز به عنوان کارگر در بخش صنعت مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اصلاً احساس اضطراب یا ترس از طرد شدن توسط دیگران ندارم. با این حال، کمی بدبین هستم و ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم، چون گاهی حس می‌کنم دیگران در مورد من بدگمانی دارند.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌هایم گاهی تکانشی عمل می‌کنم و رفتارهایم متوسط است؛ نه خیلی قانون‌گرا هستم و نه شورشی. حس می‌کنم توانایی‌های خاصی دارم و دوست دارم مورد توجه باشم، اما وسواس یا نظم سخت‌گیرانه‌ای در کارهایم ندارم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی یا خرافات شدیدی ندارم و زندگی را منطقی می‌بینم، هرچند گاهی باورهای ساده‌ای در مورد شانس دارم."
+    }
+}

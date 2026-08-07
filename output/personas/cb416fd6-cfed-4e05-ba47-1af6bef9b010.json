@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.71,
+        "detachment_suspicion": -2.348,
+        "impulsivity_antisocial": 1.784,
+        "narcissism_attention": 0.721,
+        "rigidity_perfectionism": -1.046,
+        "unusual_experiences": 1.678
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.338,
+        "extreme_response": 0.207,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای مجرد هستم که در تبریز زندگی می‌کنم. مدرک کارشناسی ارشد دارم اما در حال حاضر در بخش صنعت به عنوان کارگر مشغول هستم.",
+        "emotional_and_interpersonal_style": "بسیار برون‌گرا هستم و از تنهایی متنفرم؛ به راحتی با همه ارتباط می‌گیرم و هیچ بدبینی یا کینه‌ای نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "سابقه زیادی در تخطی از قوانین دارم و در محیط کار گاهی رفتارهای تند و تکانشی از من سر می‌زند. نسبت به نظم و وسواس هیچ علاقه ای ندارم و گاهی احساس می‌کنم از نظر تخصص برتر از بقیه هستم.",
+        "unusual_experiences_and_history": "تجربیات بسیار عجیبی دارم و قویاً حس می‌کنم پیام‌هایی از جهان موازی دریافت می‌کنم یا حضور موجوداتی را حس می‌کنم که دیگران نمی‌بینند."
+    }
+}

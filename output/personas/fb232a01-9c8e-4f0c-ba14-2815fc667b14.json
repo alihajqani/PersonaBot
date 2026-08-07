@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.735,
+        "detachment_suspicion": -0.404,
+        "impulsivity_antisocial": 0.719,
+        "narcissism_attention": -0.706,
+        "rigidity_perfectionism": -0.056,
+        "unusual_experiences": 0.392
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.589,
+        "extreme_response": 0.636,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای هستم، مجرد و ساکن تهران؛ با وجود سن کم، تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان مهندس فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی خوبی دارم و اضطراب یا وابستگی شدیدی به دیگران حس نمی‌کنم. در روابط اجتماعی راحت هستم و بدبینی خاصی نسبت به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات تکانشی رفتار می‌کنم و قوانین را نادیده می‌گیرم. در کارهای تحصیلی و شغلی‌ام نظم متوسطی دارم و سعی می‌کنم دقیق باشم، اما احساس برتری افراطی ندارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم از بدنم جدا شده‌ام یا پیشامدها را از قبل حس می‌کنم و به برخی خرافات کوچک باور دارم."
+    }
+}

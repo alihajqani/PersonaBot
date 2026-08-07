@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 33,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.983,
+        "detachment_suspicion": -2.412,
+        "impulsivity_antisocial": 0.627,
+        "narcissism_attention": 0.972,
+        "rigidity_perfectionism": -1.582,
+        "unusual_experiences": -2.072
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.309,
+        "extreme_response": 0.103,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۳ ساله، متاهل و ساکن مشهد هستم. مدرک کارشناسی دارم و در حال حاضر به عنوان دانشجو در مقاطع بالاتر فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم بسیار راحت هستم و اصلاً احساس تنهایی یا اضطراب اجتماعی نمی‌کنم. با دیگران خیلی سریع صمیمی می‌شوم و هیچ بدگمانی یا کینه‌ای نسبت به کسی در دل ندارم.",
+        "behavioral_and_cognitive_traits": "معتقدم از بقیه برترم و همیشه دوست دارم مرکز توجه جمع باشم و دیگران به من توجه ویژه‌ای کنند. گاهی بدون فکر تصمیمات تکانشی می‌گیرم و نظم و جزئیات برایم اهمیت چندانی ندارند و از قواعد سخت‌گیرانه بیزارم.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی رفتار خاص یا تخریبی نداشتم و هیچ‌گونه باور خرافی یا تجربه غیرعادی در زندگی‌ام نداشته‌ام."
+    }
+}

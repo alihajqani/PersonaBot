@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 36,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.585,
+        "detachment_suspicion": -0.235,
+        "impulsivity_antisocial": -0.902,
+        "narcissism_attention": -1.614,
+        "rigidity_perfectionism": 1.411,
+        "unusual_experiences": -1.479
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "خیلی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.52,
+        "extreme_response": 0.006,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۳۶ ساله، مجرد و دارای مدرک دیپلم هستم و در تهران به عنوان معلم و کارمند آموزش کار می‌کنم. وضعیت اقتصادی من متوسط است و سابقه بیماری روان‌پزشکی دارم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات در محیط‌های اجتماعی احساس اضطراب می‌کنم و ترجیح می‌دهم فاصله‌ام را با دیگران حفظ کنم. در روابطم نه خیلی بدبین هستم و نه خیلی trusting، بلکه رویکردی میانه و محتاطانه دارم.",
+        "behavioral_and_cognitive_traits": "بسیار منظم و قاعده‌مند هستم و روی جزئیات ریز وسواس دارم؛ برای من رعایت قوانین اولویت اول است. هرگز به دنبال توجه دیگران نیستم و احساس برتری نسبت به کسی ندارم و رفتارهایم کاملاً پیش‌بینی‌پذیر است.",
+        "unusual_experiences_and_history": "من انسان منطقی هستم و تقریباً هیچ تجربه‌ای از توهمات یا باورهای خرافی ندارم. سوابق رفتاری عجیبی در کودکی نداشته‌ام و همیشه سعی کرده‌ام طبق چارچوب‌ها پیش بروم."
+    }
+}

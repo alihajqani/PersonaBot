@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 34,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.166,
+        "detachment_suspicion": -0.444,
+        "impulsivity_antisocial": -0.46,
+        "narcissism_attention": 0.568,
+        "rigidity_perfectionism": 0.503,
+        "unusual_experiences": 1.528
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.37,
+        "extreme_response": 0.288,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۴ ساله و متاهل هستم که در تبریز زندگی می‌کنم. مدرک تحصیلی من دیپلم است و به عنوان معلم و کارمند آموزش مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "وضعیت عاطفی متوسطی دارم و گاهی دچار استرس می‌شوم. در روابط اجتماعی باز هستم و تمایل کمی به انزوا یا بدبینی دارم و معمولاً به دیگران اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "من فردی آرام هستم و به ندرت پیش می‌آید که تکانشی رفتار کنم یا قانونی را بشکنم. کمی روی نظم و ترتیب حساس هستم و دوست دارم در محیط کارم مورد احترام و توجه خاص قرار بگیرم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی بسیار شدیدی دارم؛ گاهی صداهایی می‌شنوم یا احساس می‌کنم حضور کسی را در کنارم حس می‌کنم که وجود خارجی ندارد. سابقه بیماری روان‌پزشکی دارم و این تجربیات از سال‌ها پیش با من است."
+    }
+}

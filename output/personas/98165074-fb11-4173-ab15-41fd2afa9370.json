@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.887,
+        "detachment_suspicion": 0.741,
+        "impulsivity_antisocial": 2.448,
+        "narcissism_attention": 0.832,
+        "rigidity_perfectionism": 1.443,
+        "unusual_experiences": 0.793
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.758,
+        "extreme_response": 0.636,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۲ ساله‌ای متاهل و ساکن مشهد هستم. تحصیلاتم دیپلم است و به عنوان یک کارآفرین، کسب‌وکار خودم را مدیریت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی دچار نوسانات خلقی می‌شوم و در روابطم کمی بدبینی دارم. هرچند در ظاهر اجتماعی هستم، اما درونی‌ترین احساساتم را به راحتی با دیگران به اشتراک نمی‌گذارم.",
+        "behavioral_and_cognitive_traits": "من شخصیت بسیار تکانشی دارم، زود عصبانی می‌شوم و در گذشته سابقه زیادی در شکستن قوانین داشته‌ام. در عین حال، در مدیریت کسب‌وکارم بسیار سخت‌گیر و منظم هستم و احساس می‌کنم از بقیه برترم.",
+        "unusual_experiences_and_history": "گاهی تجربیات ادراکی عجیبی دارم که با منطق جور در نمی‌آید. در کودکی و نوجوانی، به دلیل رفتارهای جسورانه و هنجارشکنی، زیاد مورد انتقاد والدین و معلمان بودم."
+    }
+}

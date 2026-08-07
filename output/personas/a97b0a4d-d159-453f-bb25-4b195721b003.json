@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.777,
+        "detachment_suspicion": -1.707,
+        "impulsivity_antisocial": 0.928,
+        "narcissism_attention": -0.065,
+        "rigidity_perfectionism": -0.435,
+        "unusual_experiences": 1.377
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.091,
+        "extreme_response": -0.236,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۲۸ ساله، متاهل و ساکن کرج هستم؛ مدرک کارشناسی دارم و در حال حاضر دانشجو هستم.",
+        "emotional_and_interpersonal_style": "بسیار برون‌گرا هستم و هیچ تمایلی به انزوا یا بدبینی ندارم. از نظر عاطفی پایدارم و اضطراب اجتماعی برایم معنایی ندارد.",
+        "behavioral_and_cognitive_traits": "رفتارهای تکانشی زیادی دارم و گاهی بدون فکر ریسک‌های بزرگی می‌کنم. تا حدی احساس می‌کنم از دیگران خاص‌تر هستم و استحقاق بیشتری دارم، اما در نظم و وسواس ضعیف هستم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً حس می‌کنم حضور موجوداتی را در محیط حس می‌کنم یا خواب‌های پیش‌گو می‌بینم."
+    }
+}

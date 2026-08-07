@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.347,
+        "detachment_suspicion": 0.922,
+        "impulsivity_antisocial": -0.193,
+        "narcissism_attention": 0.178,
+        "rigidity_perfectionism": -0.811,
+        "unusual_experiences": -0.806
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.297,
+        "extreme_response": 0.221,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای از اصفهان هستم، مجردم و مدرک دیپلم دارم. در حال حاضر به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً پایدار هستم و اضطراب زیادی ندارم. اما در روابطم منزوی هستم، به دیگران بدبینم و ترجیح می‌دهم با فاصله از مردم باشم.",
+        "behavioral_and_cognitive_traits": "رفتارهای من در محیط کار متوسط است و گاهی تکانشی عمل می‌کنم. در مورد نظم و وسواس زیاد سخت‌گیر نیستم و ترجیح می‌دهم در محیطی راحت‌تر باشم.",
+        "unusual_experiences_and_history": "تجربیات حسی عجیبی ندارم، هرچند در کودکی کمی رفتارهای غیرمتعارف داشتم که اکنون برطرف شده‌اند."
+    }
+}

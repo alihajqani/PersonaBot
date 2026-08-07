@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.153,
+        "detachment_suspicion": -0.343,
+        "impulsivity_antisocial": 1.556,
+        "narcissism_attention": 1.837,
+        "rigidity_perfectionism": -1.81,
+        "unusual_experiences": -0.628
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.382,
+        "extreme_response": 0.593,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۳۷ سالمه، متاهلم و در تبریز به عنوان کارمند اداری کار می‌کنم و همزمان دانشجوی کارشناسی هستم.",
+        "emotional_and_interpersonal_style": "روابطم با دیگران در سطح معموله، هرچند گاهی احساس می‌کنم بقیه درباره من فکر‌های بدی می‌کنن یا از من بد می‌گن.",
+        "behavioral_and_cognitive_traits": "به شدت احساس برتری نسبت به همکارانم دارم و انتظار دارم همیشه مورد توجه خاص باشم. اصلاً اهل نظم و ترتیب نیستم و قوانین رو هر وقت دلم بخواد نادیده می‌گیرم و رفتارهای تکانشی شدیدی دارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی خاصی ندارم و بیشتر به مسائل منطقی و مادی اعتقاد دارم."
+    }
+}

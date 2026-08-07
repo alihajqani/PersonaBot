@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.159,
+        "detachment_suspicion": -0.013,
+        "impulsivity_antisocial": 0.441,
+        "narcissism_attention": -0.78,
+        "rigidity_perfectionism": 1.846,
+        "unusual_experiences": 0.611
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.269,
+        "extreme_response": -0.415,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم، ۳۰ ساله و مجرد هستم و مدرک کاردانی/کارشناسی دارم؛ در حال حاضر در تبریز زندگی می‌کنم و بیکار هستم و به دنبال کار می‌گردم. وضعیت اقتصادی من خوب است اما سابقه بیماری روان‌پزشکی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی زیادی دارم و مدام نگران قضاوت دیگران هستم و احساس می‌کنم در برابر آن‌ها ناتوانم. در روابطم متوسط هستم؛ نه خیلی وابسته هستم و نه کاملاً منزوی، اما اعتمادم به دیگران لرزان است.",
+        "behavioral_and_cognitive_traits": "کمال‌گرایی من در سطح بسیار بالایی است و تا وقتی همه چیز دقیقاً طبق استانداردهای سخت‌گیرانه‌ام نباشد، آرام نمی‌گیرم. گاهی تکانشی رفتار می‌کنم و در مدیریت خشمم کمی مشکل دارم، اما میل به برتری‌جویی ندارم.",
+        "unusual_experiences_and_history": "تا حدی به حس ششم و مسائل ماورایی باور دارم و گاهی احساس می‌کنم در لحظاتی از واقعیت فاصله می‌گیرم. در کودکی هم گاهی رفتارهای غیرعادی داشتم که با محیط سازگار نبود."
+    }
+}

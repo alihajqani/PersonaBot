@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.036,
+        "detachment_suspicion": 2.687,
+        "impulsivity_antisocial": 1.171,
+        "narcissism_attention": 0.088,
+        "rigidity_perfectionism": -0.206,
+        "unusual_experiences": 1.666
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.357,
+        "extreme_response": 0.288,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۲۱ ساله، مجرد و ساکن تهران هستم و مدرک کارشناسی دارم. در حال حاضر به عنوان معلم در یک مرکز آموزشی مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "اضطراب شدیدی دارم و همیشه می‌ترسم اطرافیانم مرا ترک کنند؛ خلق‌وخوی من به شدت متغیر است. به شدت به دیگران بدبین هستم و حس می‌کنم همه در حال قضاوت یا توطئه علیه من هستند.",
+        "behavioral_and_cognitive_traits": "در نوجوانی سوابق زیادی در شکستن قوانین و طغیان‌های عصبی داشتم و گاهی بدون فکر عمل می‌کنم. در عین حال، گاهی احساس می‌کنم از دیگران برترم و نیاز دارم توجهات به من جلب شود.",
+        "unusual_experiences_and_history": "تجربیات ذهنی بسیار عجیبی دارم؛ مثلاً معتقدم حس ششم بسیار قوی‌ای دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام یا حضور موجوداتی را حس می‌کنم."
+    }
+}

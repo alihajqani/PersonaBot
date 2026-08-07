@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.898,
+        "detachment_suspicion": 0.792,
+        "impulsivity_antisocial": 0.818,
+        "narcissism_attention": -0.344,
+        "rigidity_perfectionism": 1.654,
+        "unusual_experiences": 0.35
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.027,
+        "extreme_response": -0.142,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من ۲۲ سالمه، متاهلم و با مدرک کارشناسی در تهران زندگی می‌کنم و در حال حاضر خانه‌دار هستم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نسبت به بقیه بدبین می‌شم و ترجیح می‌دم زمان بیشتری رو تنها باشم تا اینکه با دیگران وقت بگذرونم.",
+        "behavioral_and_cognitive_traits": "وسواس بسیار شدیدی در مورد نظم خانه و جزئیات دارم و تحمل نمی‌کنم چیزی از جای خودش تکون بخوره. گاهی هم بدون فکر تصمیمات عجولانه‌ای می‌گیرم.",
+        "unusual_experiences_and_history": "به بعضی از حس‌های ششم و خرافات اعتقاد دارم و گاهی پیش میاد که اتفاقات عجیبی رو حس کنم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "دارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.245,
+        "detachment_suspicion": -1.32,
+        "impulsivity_antisocial": 0.006,
+        "narcissism_attention": 0.065,
+        "rigidity_perfectionism": -0.356,
+        "unusual_experiences": -2.038
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.638,
+        "extreme_response": 0.032,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۱۹ ساله، متاهل و ساکن اصفهان هستم. در کنار تحصیل در مقطع کاردانی، به عنوان آرایشگر در یک سالن زیبایی کار می‌کنم.",
+        "emotional_and_interpersonal_style": "روابط اجتماعی‌ام خوب است و به راحتی به دیگران اعتماد می‌کنم. گاهی دچار نوسانات خلقی می‌شوم اما در کل احساس می‌کنم در محیط اجتماعی‌ام پذیرفته شده‌ام.",
+        "behavioral_and_cognitive_traits": "در محیط کار و زندگی رفتارهای متوسطی دارم و خیلی روی جزئیات وسواس ندارم. نه احساس برتری شدیدی دارم و نه بیش از حد به دنبال جلب توجه هستم.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی یا باور خرافاتی ندارم و زندگی را کاملاً مادی و منطقی می‌بینم."
+    }
+}

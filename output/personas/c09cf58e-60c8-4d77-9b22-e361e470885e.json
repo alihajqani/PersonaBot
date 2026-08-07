@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.749,
+        "detachment_suspicion": 1.514,
+        "impulsivity_antisocial": 0.519,
+        "narcissism_attention": 0.13,
+        "rigidity_perfectionism": 0.945,
+        "unusual_experiences": 1.526
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.024,
+        "extreme_response": -0.224,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۰ ساله‌ای هستم، متاهل و ساکن شهر مشهد. مدرک کارشناسی دارم اما در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "به شدت احساس ناامنی می‌کنم و همیشه می‌ترسم همسرم یا اطرافیانم مرا ترک کنند؛ نوسانات خلقی من بسیار شدید است. تقریباً با هیچ‌کس رابطه صمیمی ندارم، به شدت بدبین هستم و ترجیح می‌دهم در تنهایی خودم باشم چون باور دارم دیگران قصد ضربه زدن به من را دارند.",
+        "behavioral_and_cognitive_traits": "در کارهای خانه و زندگی وسواس شدیدی دارم و تحمل نمی‌کنم چیزی از جای خود تکان بخورد یا اشتباه انجام شود. گاهی رفتارهای تکانشی دارم و در لحظه خشم کنترلم را از دست می‌دهم، و گاهی هم احساس می‌کنم از دیگران برترم و باید به من توجه بیشتری شود.",
+        "unusual_experiences_and_history": "از بچگی تجربیات عجیبی داشتم و هنوز هم احساس می‌کنم صداهایی می‌شنوم یا حضور موجوداتی را حس می‌کنم که دیگران نمی‌بینند. به شدت به خرافات و پیشگویی‌ها باور دارم و گاهی احساس می‌کنم از بدنم جدا شده‌ام."
+    }
+}

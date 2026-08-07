@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.82,
+        "detachment_suspicion": -0.409,
+        "impulsivity_antisocial": -0.182,
+        "narcissism_attention": 0.562,
+        "rigidity_perfectionism": -0.028,
+        "unusual_experiences": -0.326
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.121,
+        "extreme_response": -0.216,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و متاهل ساکن اصفهان هستم. در مقطع کارشناسی ارشد تحصیل می‌کنم و در حال حاضر دانشجو هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار پایدار هستم و به ندرت دچار اضطراب یا ترس از طرد شدن می‌شوم. با دیگران راحت هستم، به آن‌ها اعتماد دارم و تمایل چندانی به انزوا ندارم.",
+        "behavioral_and_cognitive_traits": "گاهی در تصمیم‌گیری‌هایم عجول هستم، اما در کل تعادل را حفظ می‌کنم. به دلیل تحصیلاتم، نوعی احساس برتری علمی نسبت به دیگران دارم و در مورد نظم زندگی‌ام در سطح متوسطی هستم.",
+        "unusual_experiences_and_history": "باورهای خرافاتی معمولی دارم و گاهی به شهود خود اعتماد می‌کنم. در دوران کودکی و نوجوانی، هیچ مشکل رفتاری یا تجربه غیرعادی خاصی نداشته‌ام."
+    }
+}

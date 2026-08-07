@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.667,
+        "detachment_suspicion": -0.188,
+        "impulsivity_antisocial": -1.724,
+        "narcissism_attention": -1.455,
+        "rigidity_perfectionism": -0.221,
+        "unusual_experiences": 0.728
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.085,
+        "extreme_response": -0.234,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و متاهل هستم که در مشهد زندگی می‌کنم؛ در حال حاضر دانشجوی مقطع کاردانی/کارشناسی هستم و مسئولیت‌های خانه را بر عهده دارم.",
+        "emotional_and_interpersonal_style": "احساساتم را به راحتی بروز نمی‌دهم و ترجیح می‌دهم در محیط‌های شلوغ کمتر دیده شوم. در مورد اطرافیانم بدبینی متوسطی دارم و همیشه به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مدار هستم و هیچ سابقه رفتارهای تکانشی یا خشونت‌آمیز ندارم. در کارهای خانه و تحصیل نظم متوسطی دارم و هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم.",
+        "unusual_experiences_and_history": "گاهی اوقات تجربیاتی دارم که حس می‌کنم بدنم یا ذهنم از من جدا شده است و به مسائل متافیزیکی علاقه دارم. در کودکی بسیار آرام بودم و هیچ‌گاه قوانین مدرسه یا خانه را به طور جدی زیر پا نگذاشتم."
+    }
+}

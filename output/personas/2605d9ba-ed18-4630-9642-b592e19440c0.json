@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "کاردانی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.607,
+        "detachment_suspicion": 1.09,
+        "impulsivity_antisocial": -0.431,
+        "narcissism_attention": 0.059,
+        "rigidity_perfectionism": -0.893,
+        "unusual_experiences": 0.182
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.095,
+        "extreme_response": -1.106,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۱۹ ساله‌ای مجرد هستم که در اصفهان زندگی می‌کنم. مدرک کاردانی دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نگرانم که دیگران مرا دوست نداشته باشند و این باعث می‌شود کمی مضطرب شوم. در کلیات به مردم اعتماد ندارم و ترجیح می‌دهم بیشتر وقتم را در تنهایی بگذرانم.",
+        "behavioral_and_cognitive_traits": "در کارهایم خیلی سخت‌گیر نیستم و نظم خاصی را دنبال نمی‌کنم. گاهی فکر می‌کنم شایستگی‌های خاصی دارم که دیگران باید متوجه آن شوند، اما هرگز سعی نکردم با رفتارهای تند یا تکانشی توجه جلب کنم.",
+        "unusual_experiences_and_history": "خیلی وقت‌ها احساس می‌کنم پیوندی با دنیای ماورایی دارم یا اتفاقات را پیش‌بینی می‌کنم. در دوران کودکی بسیار مطیع بودم و هیچ‌گاه با قوانین مدرسه یا خانواده برخلاف نخواسته‌شان رفتار نکردم."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "دکتری",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "دارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.026,
+        "detachment_suspicion": 0.525,
+        "impulsivity_antisocial": 0.384,
+        "narcissism_attention": -1.088,
+        "rigidity_perfectionism": 0.237,
+        "unusual_experiences": -0.261
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.741,
+        "extreme_response": -0.443,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۳ ساله و متاهل هستم که در شهر شیراز زندگی می‌کنم. با وجود اینکه مدرک دکترا دارم، در حال حاضر در زمینه مشاغل آزاد کوچک و فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "خیلی وقت‌ها احساس می‌کنم بقیه من را دوست ندارند و ترس شدیدی از طرد شدن دارم؛ نوسانات خلقی‌ام زیاد است و در جمع‌های اجتماعی به شدت اضطراب می‌گیرم. نسبت به دیگران کمی بدبین هستم و سخت می‌توانم به کسی اعتماد کنم، چون حس می‌کنم پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "گاهی در لحظه تصمیم‌های تکانشی می‌گیرم و کنترل اعصابم را از دست می‌دهم، هرچند سعی می‌کنم نظم متوسطی در کارهایم داشته باشم. هرگز احساس برتری نسبت به دیگران ندارم و معمولاً خودم را کمتر از بقیه می‌بینم.",
+        "unusual_experiences_and_history": "در کودکی گاهی رفتارهای لجبازانه داشتم و از نوجوانی با برخی مشکلات روان‌پزشکی دست و پنجه نرم می‌کنم. گاهی به حس ششم یا اتفاقات غیرعادی باور دارم و احساس می‌کنم چیزهایی را می‌فهمم که دیگران متوجه نمی‌شوند."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.292,
+        "detachment_suspicion": 0.783,
+        "impulsivity_antisocial": 0.064,
+        "narcissism_attention": -0.656,
+        "rigidity_perfectionism": 0.121,
+        "unusual_experiences": 0.406
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.211,
+        "extreme_response": -0.169,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "مردی ۳۷ ساله و مجردم که در شهر تبریز به عنوان فروشنده فعالیت می‌کنم و همزمان دانشجوی مقطع کارشناسی هستم.",
+        "emotional_and_interpersonal_style": "در روابطم گاهی احساس ناکافی بودن می‌کنم و نگران طرد شدن هستم. کمی بدبین هستم و سخت به دیگران اعتماد می‌کنم، به همین دلیل گاهی ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "در تصمیم‌گیری‌ها گاهی عجول هستم و ممکنه بدون فکر عمل کنم. نظم و وسواس متوسطی در کارهایم دارم و سعی می‌کنم تعادلی بین دقت و سرعت ایجاد کنم.",
+        "unusual_experiences_and_history": "به برخی مسائل ماوراءطبیعه علاقه دارم و گاهی احساس می‌کنم اتفاقات آینده را به طور مبهم پیش‌بینی می‌کنم."
+    }
+}

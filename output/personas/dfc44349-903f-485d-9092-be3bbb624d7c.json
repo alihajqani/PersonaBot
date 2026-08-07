@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.075,
+        "detachment_suspicion": -0.086,
+        "impulsivity_antisocial": -1.267,
+        "narcissism_attention": -0.94,
+        "rigidity_perfectionism": -0.195,
+        "unusual_experiences": 0.189
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.547,
+        "extreme_response": 0.489,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله و مجرد با مدرک کارشناسی ارشد هستم که در حال حاضر در شهر کرج ساکنم و در جستجوی فرصت‌های شغلی هستم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی یا وابستگی عاطفی شدیدی ندارم، اما معمولاً ترجیح می‌دهم تنها باشم. گاهی نسبت به نیت دیگران بدبین می‌شوم و احساس می‌کنم ممکن است پشت سر من حرف بزنند.",
+        "behavioral_and_cognitive_traits": "در کارهایم نظم متوسطی دارم و نه خیلی وسواسی هستم و نه بی‌نظم. میل چندانی به جلب توجه یا برتری‌جویی ندارم و معمولاً طبق قوانین موجود رفتار می‌کنم بدون اینکه تکانشی باشم.",
+        "unusual_experiences_and_history": "گاهی تجربیات ذهنی عجیبی دارم یا احساس می‌کنم از محیط اطرافم فاصله گرفته‌ام. در کودکی رفتاری عادی داشتم و هیچ سابقه جدی در زمینه هنجارشکنی یا خشونت نداشتم."
+    }
+}

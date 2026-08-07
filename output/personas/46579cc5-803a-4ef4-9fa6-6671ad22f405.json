@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.704,
+        "detachment_suspicion": 1.22,
+        "impulsivity_antisocial": 0.099,
+        "narcissism_attention": 0.676,
+        "rigidity_perfectionism": 0.344,
+        "unusual_experiences": -1.859
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.752,
+        "extreme_response": 0.021,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانمی ۴۰ ساله و مجردم، مدرک دیپلم دارم و در شهر مشهد به صورت آزاد در زمینه فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر روانی ثبات دارم اما به شدت نسبت به آدم‌ها بدبین هستم. ترجیح می‌دهم تنها باشم چون احساس می‌کنم دیگران قابل اعتماد نیستند و مدام در حال قضاوت من هستند.",
+        "behavioral_and_cognitive_traits": "در کسب‌وکارم نظم متوسطی دارم و سعی می‌کنم طبق قواعد پیش بروم. گاهی احساس می‌کنم از نظر تجربه و تدبیر، از بقیه فروشنده‌ها برتر هستم.",
+        "unusual_experiences_and_history": "من هرگز به چیزهای غیرمنطقی، خرافات یا حس ششم اعتقاد نداشته‌ام و زندگی را کاملاً مادی می‌بینم."
+    }
+}

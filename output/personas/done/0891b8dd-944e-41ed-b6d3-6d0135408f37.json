@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.188,
+        "detachment_suspicion": 1.381,
+        "impulsivity_antisocial": 0.064,
+        "narcissism_attention": 0.694,
+        "rigidity_perfectionism": 1.634,
+        "unusual_experiences": 0.762
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.096,
+        "extreme_response": -1.014,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۲ ساله مجرد ساکن کرج هستم که در مقطع ارشد تحصیل می‌کنم و همزمان به عنوان کارمند اداری فعالیت دارم و سابقه بیماری روان‌پزشکی هم دارم.",
+        "emotional_and_interpersonal_style": "نوسانات خلقی شدیدی دارم و همیشه می‌ترسم که دیگران مرا ترک کنند یا از من ناراضی باشند؛ همچنین به شدت نسبت به انگیزه‌های دیگران بدبین هستم و سخت اعتماد می‌کنم.",
+        "behavioral_and_cognitive_traits": "وسواس بسیار شدیدی روی جزئیات دارم و نمی‌توانم کاری را به دیگران بسپارم چون فکر می‌کنم فقط من می‌توانم آن را کامل انجام دهم. گاهی هم احساس می‌کنم از نظر ذهنی برتر از اطرافیانم هستم.",
+        "unusual_experiences_and_history": "در دوران کودکی و نوجوانی گاهی رفتارهای تکانشی داشتم و در حال حاضر هم گاهی دچار تجربیات ذهنی غیرعادی یا باورهای خرافی می‌شوم."
+    }
+}

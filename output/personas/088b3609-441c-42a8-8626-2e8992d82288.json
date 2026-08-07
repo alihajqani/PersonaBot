@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.925,
+        "detachment_suspicion": 0.275,
+        "impulsivity_antisocial": -0.505,
+        "narcissism_attention": -0.702,
+        "rigidity_perfectionism": -0.034,
+        "unusual_experiences": 0.689
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.291,
+        "extreme_response": 0.016,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله و متاهل هستم که در اصفهان زندگی می‌کنم. در حال حاضر دانشجو هستم و به طور همزمان به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار حساس هستم و اضطراب زیادی در مورد پذیرفته شدن توسط دیگران دارم و مدام نگرانم که نکند کسی از من ناراضی باشد. در روابطم سعی می‌کنم صمیمی باشم اما اعتمادم به دیگران در سطح متوسطی است.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مند هستم و هرگز سعی نمی‌کنم هنجارها را بشکنم. اصلاً تمایلی به مرکز توجه بودن ندارم و ترجیح می‌دهم در حاشیه باشم و متواضعانه رفتار کنم.",
+        "unusual_experiences_and_history": "گاهی اتفاقاتی را تجربه می‌کنم که با منطق جور در نمی‌آید و احساس می‌کنم ارتباطات غیرعادی با محیط دارم. در دوران کودکی بسیار آرام بودم و هیچ سابقه تخلف یا رفتارهای تکانشی نداشتم."
+    }
+}

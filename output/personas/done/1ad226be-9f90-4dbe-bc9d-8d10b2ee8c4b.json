@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.169,
+        "detachment_suspicion": -0.401,
+        "impulsivity_antisocial": -1.547,
+        "narcissism_attention": 0.207,
+        "rigidity_perfectionism": 1.687,
+        "unusual_experiences": 1.167
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.026,
+        "extreme_response": 0.471,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ای مجرد و ساکن تهران هستم. مدرک کارشناسی ارشد دارم و در حال حاضر خانه‌دار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی در سطح متوسطی از اضطراب را تجربه می‌کنم و گاهی نوسانات خلقی دارم. با مردم رابطه‌ام خوب است و تمایل چندانی به انزوا یا بدبینی نسبت به دیگران ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار وسواسی و کمال‌گرا هستم؛ نظم در خانه برایم حیاتی است و هر کاری باید دقیقاً طبق روش من انجام شود. همچنین گاهی احساس می‌کنم دیدگاه‌هایم برتر از دیگران است و نیاز دارم مورد توجه قرار بگیرم.",
+        "unusual_experiences_and_history": "سابقه بیماری روان‌پزشکی دارم و تجربیات غیرعادی زیادی مانند احساس جدایی از بدن یا باورهای خرافی شدید را تجربه کرده‌ام. در کودکی بسیار مطیع بودم و هرگز قانون‌شکنی نکردم."
+    }
+}

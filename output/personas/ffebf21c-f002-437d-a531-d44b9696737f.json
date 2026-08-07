@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "دارم",
+        "region": "مشهد",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.291,
+        "detachment_suspicion": -0.898,
+        "impulsivity_antisocial": -0.934,
+        "narcissism_attention": 0.205,
+        "rigidity_perfectionism": 0.827,
+        "unusual_experiences": 0.061
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.28,
+        "extreme_response": -0.237,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای مجردم که در مشهد زندگی می‌کنم. مدرک کارشناسی دارم و به صورت آزاد در زمینه فروش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم تعادل نسبی دارم، هرچند گاهی دچار اضطراب می‌شوم. به طور کلی به مردم اعتماد دارم و اهل کینه یا انزوای شدید نیستم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مدار هستم و هرگز سعی نمی‌کنم هنجارهای اجتماعی را بشکنم. در کارهایم نظم نسبی دارم و دوست دارم همه چیز مرتب باشد، اما نیازی به جلب توجه مفرط ندارم.",
+        "unusual_experiences_and_history": "به بعضی از خرافات رایج باور دارم و گاهی فکر می‌کنم اتفاقات خاصی در زندگی‌ام تصادفی نیستند."
+    }
+}

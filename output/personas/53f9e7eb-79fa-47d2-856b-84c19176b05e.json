@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.541,
+        "detachment_suspicion": 1.89,
+        "impulsivity_antisocial": 0.599,
+        "narcissism_attention": 1.756,
+        "rigidity_perfectionism": 0.463,
+        "unusual_experiences": -0.806
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.117,
+        "extreme_response": 0.74,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، ساکن تبریز، متاهل و در حال حاضر دانشجوی مقطع کارشناسی هستم و به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "در روابطم خیلی بدبین هستم و همیشه فکر می‌کنم دیگران پشت سر من حرف می‌زنند یا قصد خیانت دارند، به همین خاطر ترجیح می‌دهم تنها باشم و سخت به کسی اعتماد می‌کنم. گاهی اوقات هم دچار نوسانات خلقی می‌شوم و اضطراب زیادی در محیط‌های اجتماعی دارم.",
+        "behavioral_and_cognitive_traits": "احساس می‌کنم از بقیه برتترم و همیشه دلم می‌خواهد مرکز توجه باشم و انتظار دارم دیگران به من توجه ویژه‌ای کنند. در کارهایم کمی وسواس دارم و گاهی بدون فکر تصمیمات تکانشی می‌گیرم یا زود عصبانی می‌شوم.",
+        "unusual_experiences_and_history": "من اعتقاد خاصی به خرافات یا حس ششم ندارم و تجربیات غیرعادی در زندگی‌ام نداشته‌ام."
+    }
+}

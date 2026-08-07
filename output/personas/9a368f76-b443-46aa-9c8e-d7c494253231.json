@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.066,
+        "detachment_suspicion": -0.62,
+        "impulsivity_antisocial": 2.001,
+        "narcissism_attention": 0.902,
+        "rigidity_perfectionism": -0.202,
+        "unusual_experiences": 0.216
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.228,
+        "extreme_response": -0.125,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای مجرد هستم که در تهران زندگی می‌کنم. فوق لیسانس دارم و به عنوان کارمند اداری فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و اضطراب اجتماعی ندارم. با دیگران راحت ارتباط می‌گیرم و معمولاً نسبت به اطرافیانم خوش‌بین هستم.",
+        "behavioral_and_cognitive_traits": "خیلی تکانشی هستم و وقتی عصبانی می‌شوم بدون فکر واکنش نشان می‌دهم و اهمیتی به قوانین نمی‌دهم. دوست دارم همیشه مرکز توجه باشم و احساس می‌کنم استحقاق بیشتری نسبت به دیگران دارم.",
+        "unusual_experiences_and_history": "گاهی به اتفاقات تصادفی معنای خاصی می‌دهم و اعتقادات خرافاتی متوسطی در زندگی روزمره‌ام دارم."
+    }
+}

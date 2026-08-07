@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "نویسنده / هنرمند / رسانه",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "تنگ‌دست"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.303,
+        "detachment_suspicion": -0.165,
+        "impulsivity_antisocial": 0.526,
+        "narcissism_attention": -0.839,
+        "rigidity_perfectionism": -0.428,
+        "unusual_experiences": -0.354
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.334,
+        "extreme_response": 0.268,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۶ ساله‌ای مجرد هستم که در اهواز زندگی می‌کنم. مدرک کارشناسی دارم و در حوزه هنر و رسانه فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شم و احساس می‌کنم هر لحظه ممکنه اتفاق بدی بیفته یا کسی من رو رها کنه. اعتمادم به آدم‌ها در حد متوسطه و گاهی ترجیح می‌دم تنها باشم تا آسیب نبینم.",
+        "behavioral_and_cognitive_traits": "گاهی بدون فکر کارهایی انجام می‌دم که بعداً پشیمون می‌شم. کمال‌گرایی برای من مفهومی نداره و ترجیح می‌دم آزادانه و بدون سخت‌گیری روی جزئیات کار کنم.",
+        "unusual_experiences_and_history": "از بچگی آدم آرامی بودم و هیچ‌وقت با قوانین جامعه یا مدرسه مشکل نداشتم. اعتقاد خاصی به مسائل ماوراءطبیعی یا حس ششم ندارم."
+    }
+}

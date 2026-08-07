@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.106,
+        "detachment_suspicion": -2.196,
+        "impulsivity_antisocial": 1.536,
+        "narcissism_attention": 1.09,
+        "rigidity_perfectionism": 0.553,
+        "unusual_experiences": -0.406
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.251,
+        "extreme_response": -0.23,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۵ ساله‌ای هستم، مجردم و در تبریز زندگی می‌کنم. مدرک کارشناسی ارشد دارم و در زمینه مشاغل آزاد کوچک و فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار خوش‌بین و اجتماعی هستم و هیچ نوع بدبینی یا ترسی از دیگران ندارم. از نظر عاطفی کاملاً پایدارم و هیچ‌گونه اضطرابی در روابط اجتماعی یا ترس از طرد شدن تجربه نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و همیشه تمایل داشتم قوانین را به چالش بکشم و طبق میل خودم عمل کنم. احساس برتری نسبت به دیگران دارم و عاشق این هستم که مرکز توجه جمع باشم، هرچند در کارهایم نظم نسبتاً خوبی دارم.",
+        "unusual_experiences_and_history": "من هیچ‌گونه تجربه غیرعادی یا باور خرافی ندارم و همیشه زندگی را بر اساس واقعیت‌های ملموس دیده‌ام."
+    }
+}

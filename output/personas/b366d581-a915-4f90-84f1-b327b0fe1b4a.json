@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "خانم",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کاردانی",
+        "occupation": "معلم / کارمند آموزش",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.326,
+        "detachment_suspicion": -2.552,
+        "impulsivity_antisocial": 0.363,
+        "narcissism_attention": 0.653,
+        "rigidity_perfectionism": 0.161,
+        "unusual_experiences": 0.613
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "خیلی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.072,
+        "extreme_response": -0.98,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۸ ساله‌ای هستم، متاهل با مدرک کاردانی، که در شهر شیراز به عنوان معلم و کارمند آموزش فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و هیچ ترسی از طرد شدن یا اضطراب اجتماعی ندارم. با دیگران با صمیمیت ارتباط می‌گیرم و به ندرت دچار بدبینی می‌شوم.",
+        "behavioral_and_cognitive_traits": "در محیط مدرسه دوست دارم مرکز توجه باشم و اعتماد به نفس بالایی دارم. گاهی پیش می‌آید که بدون فکر کردن زیاد، تصمیمات تکانشی بگیرم، هرچند در کارهایم نظم متوسطی دارم.",
+        "unusual_experiences_and_history": "گاهی اوقات احساس می‌کنم شهود خاصی دارم یا به نشانه‌های محیطی توجه می‌کنم که برای دیگران عادی است."
+    }
+}

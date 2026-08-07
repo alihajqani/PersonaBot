@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 23,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.27,
+        "detachment_suspicion": 1.031,
+        "impulsivity_antisocial": -1.212,
+        "narcissism_attention": -0.408,
+        "rigidity_perfectionism": -0.345,
+        "unusual_experiences": 2.531
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.219,
+        "extreme_response": 0.732,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۲۳ ساله و متاهل هستم، ساکن شهر تبریز و دارای مدرک کارشناسی هستم و در حال حاضر به عنوان کارمند اداری مشغول به کارم.",
+        "emotional_and_interpersonal_style": "میزان اضطرابم در حد متوسط است، اما به شدت بدبین هستم و سخت به دیگران اعتماد می‌کنم و معمولاً ترجیح می‌دهم در تنهایی خودم باشم تا با دیگران معاشرت کنم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مند هستم و هیچ سابقه هنجارشکنی یا رفتارهای تکانشی ندارم. در مورد جایگاه اجتماعی‌ام متواضع هستم و هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم.",
+        "unusual_experiences_and_history": "اعتقادات خرافی شدیدی دارم و تجربیات غیرعادی ذهنی برایم رایج است؛ گاهی احساس می‌کنم حضور موجوداتی نامرئی را در اطرافم حس می‌کنم."
+    }
+}

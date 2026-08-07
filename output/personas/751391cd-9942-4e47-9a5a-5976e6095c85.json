@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 19,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.536,
+        "detachment_suspicion": 1.015,
+        "impulsivity_antisocial": 0.543,
+        "narcissism_attention": 0.338,
+        "rigidity_perfectionism": 0.586,
+        "unusual_experiences": 0.278
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.465,
+        "extreme_response": 0.331,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانمی ۱۹ ساله و مجردم که دیپلم دارم و در حال حاضر در اهواز ساکنم و جویای کار هستم.",
+        "emotional_and_interpersonal_style": "اضطراب زیادی ندارم، اما به شدت به آدم‌ها بدبینم و ترجیح می‌دهم بیشتر وقتم را تنها بگذرانم. فکر می‌کنم بقیه در مورد من حرف‌های منفی می‌زنند و نمی‌توانم به کسی اعتماد کنم.",
+        "behavioral_and_cognitive_traits": "گاهی تکانشی رفتار می‌کنم و ممکنه با اطرافیانم بحث کنم. دوست دارم مرکز توجه باشم و در کارهایم سعی می‌کنم خیلی دقیق و کمی وسواسی عمل کنم.",
+        "unusual_experiences_and_history": "به حس ششم و مسائل ماورایی باور دارم و گاهی احساس می‌کنم اتفاقاتی را پیش از وقوع حس می‌کنم."
+    }
+}

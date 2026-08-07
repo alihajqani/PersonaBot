@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.858,
+        "detachment_suspicion": 1.232,
+        "impulsivity_antisocial": 0.397,
+        "narcissism_attention": -1.088,
+        "rigidity_perfectionism": 0.644,
+        "unusual_experiences": 2.077
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.555,
+        "extreme_response": -0.302,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۸ ساله، مجرد و دارای مدرک دیپلم هستم که در حال حاضر در شهر کرج به عنوان دانشجو تحصیل می‌کنم. وضعیت اقتصادی من متوسط است و هیچ سابقه بیماری روان‌پزشکی ندارم.",
+        "emotional_and_interpersonal_style": "به شدت با اضطراب و ترس از دست دادن عزیزانم دست و پنجه نرم می‌کنم و احساس می‌کنم هرگز برای هیچ‌کس کافی نیستم. اعتماد کردن برایم بسیار سخت است، زیاد بدبین هستم و ترجیح می‌دهم بیشتر وقت‌هایم را در تنهایی بگذرانم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات رفتارهای تکانشی دارم و در برابر فشارها سریع واکنش نشان می‌دهم. خودم را برتر از دیگران نمی‌بینم و حتی گاهی احساس ضعف می‌کنم، اما در کارهایم کمی وسواسی هستم و نظم خاصی را دنبال می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی زیادی دارم؛ مثلاً گاهی صداهایی می‌شنوم یا حضور موجوداتی را حس می‌کنم که دیگران نمی‌بینند. باورهای خرافی شدیدی دارم و دنیا را خیلی متفاوت از بقیه می‌بینم."
+    }
+}

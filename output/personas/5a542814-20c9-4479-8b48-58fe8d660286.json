@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.675,
+        "detachment_suspicion": -0.489,
+        "impulsivity_antisocial": 0.576,
+        "narcissism_attention": -0.043,
+        "rigidity_perfectionism": -1.425,
+        "unusual_experiences": -0.66
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.182,
+        "extreme_response": -0.92,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۷ ساله، مجرد و ساکن شهر شیرازم. لیسانس دارم و در حال حاضر دوباره به عنوان دانشجو در حال تحصیل هستم و وضعیت اقتصادی متوسطی دارم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی کاملاً ثبات دارم و اصلاً احساس اضطراب اجتماعی یا ترس از طرد شدن نمی‌کنم. با دیگران راحت هستم و اگرچه گاهی ترجیح می‌دهم کمی با خودم باشم، اما بدبین نیستم و به راحتی با مردم ارتباط می‌گیرم.",
+        "behavioral_and_cognitive_traits": "در محیط تحصیلی و زندگی، خیلی سخت‌گیر یا وسواسی نیستم و انعطاف‌پذیری بالایی دارم. گاهی اوقات در تصمیم‌گیری‌ها تکانشی عمل می‌کنم و ممکن است سریع عصبانی شوم، اما در عین حال احساس می‌کنم توانمندی‌هایم در سطح خوبی است و دوست دارم دیده شوم.",
+        "unusual_experiences_and_history": "تجربیات عجیب یا خرافات خاصی ندارم و همیشه دیدگاهی منطقی به دنیا داشته‌ام. در دوران کودکی و نوجوانی هم رفتار خارج از چارچوبی نداشتم و رابطه‌ام با محیط آرام بود."
+    }
+}

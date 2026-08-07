@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 28,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.779,
+        "detachment_suspicion": 0.297,
+        "impulsivity_antisocial": 0.346,
+        "narcissism_attention": 0.553,
+        "rigidity_perfectionism": -2.082,
+        "unusual_experiences": -0.036
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.26,
+        "extreme_response": 0.389,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۸ ساله، متاهل و دارای مدرک کارشناسی هستم که در شهر تهران به عنوان کادر درمان (پرستار) مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات نگرانم که دیگران مرا نپذیرند و در روابطم کمی وابستگی احساس می‌کنم. در برخورد با دیگران تا حدودی محتاطم و همیشه به راحتی به کسی اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "دوست دارم در محیط کار مورد توجه باشم و گاهی احساس می‌کنم توانایی‌هایم بیشتر از بقیه است. در مقابل، اصلاً آدم سخت‌گیری نیستم و نظم و وسواس در کارهایم جایی ندارد.",
+        "unusual_experiences_and_history": "به برخی خرافات باور دارم و گاهی حس می‌کنم اتفاقات آینده را به صورت مبهم پیش‌بینی می‌کنم یا حس ششم دارم."
+    }
+}

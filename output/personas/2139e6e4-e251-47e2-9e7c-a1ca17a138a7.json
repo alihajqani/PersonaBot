@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 18,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.748,
+        "detachment_suspicion": 1.175,
+        "impulsivity_antisocial": 0.78,
+        "narcissism_attention": 2.463,
+        "rigidity_perfectionism": -0.487,
+        "unusual_experiences": 1.307
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.078,
+        "extreme_response": 0.019,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۱۸ سالمه، خانم، مجرد و ساکن تبریزم. دیپلم دارم و در حال حاضر دانشجو هستم.",
+        "emotional_and_interpersonal_style": "خیلی زود دلم می‌گیرد و می‌ترسم دیگران من را دوست نداشته باشند. ترجیح می‌دهم تنها باشم چون به آدم‌ها بی‌اعتمادم و حس می‌کنم هر لحظه ممکن است به من پشت کنند.",
+        "behavioral_and_cognitive_traits": "شدیداً دوست دارم مرکز توجه باشم و حس می‌کنم از بقیه خاص‌تر و برترم و استحقاق بیشتری دارم. گاهی بدون فکر کارهایی می‌کنم که با قوانین یا هنجارهای محیطی در تضاد است.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و به شدت به حس ششم و پیش‌بینی‌های غیبی باور دارم. از بچگی هم همیشه حس می‌کردم تجربیاتی دارم که با بقیه فرق می‌کند."
+    }
+}

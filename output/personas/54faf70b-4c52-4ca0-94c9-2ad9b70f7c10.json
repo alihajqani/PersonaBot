@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.315,
+        "detachment_suspicion": 0.75,
+        "impulsivity_antisocial": -0.464,
+        "narcissism_attention": -0.356,
+        "rigidity_perfectionism": 0.799,
+        "unusual_experiences": 0.636
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.625,
+        "extreme_response": -0.336,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای هستم، متاهل و ساکن مشهد؛ مدرک کارشناسی دارم و در زمینه فروش و مشاغل آزاد فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی اوقات دچار اضطراب می‌شوم و احساس می‌کنم دیگران به من اعتماد ندارند یا درباره من بد فکر می‌کنند. به همین دلیل کمی در روابطم محتاط و منزوی هستم.",
+        "behavioral_and_cognitive_traits": "من فردی قانون‌مند هستم و رفتارهای تکانشی ندارم. در کارهایم کمی وسواس دارم و دوست دارم همه چیز مرتب باشد، اما احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "کمی خرافی هستم و به حس ششم اعتقاد دارم و گاهی اتفاقاتی را تجربه می‌کنم که توضیح منطقی برایشان ندارم."
+    }
+}

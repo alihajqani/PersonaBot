@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.963,
+        "detachment_suspicion": 1.014,
+        "impulsivity_antisocial": -0.747,
+        "narcissism_attention": -0.095,
+        "rigidity_perfectionism": -0.139,
+        "unusual_experiences": 0.252
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.378,
+        "extreme_response": 0.687,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۲ ساله، متاهل و ساکن کرج هستم. با وجود سن کم، تحصیلاتم در مقطع کارشناسی ارشد است و فعلاً خانه‌دار هستم.",
+        "emotional_and_interpersonal_style": "بسیار آرام هستم و هیچ ترسی از طرد شدن یا وابستگی بیمارگونه به دیگران ندارم. اما در عین حال، تمایل زیادی به تنهایی دارم و به راحتی به کسی اعتماد نمی‌کنم و بدبین هستم.",
+        "behavioral_and_cognitive_traits": "بسیار قانون‌مند هستم و به ندرت پیش می‌آید که رفتاری تکانشی داشته باشم. نگاهی متوسط به جایگاه خودم نسبت به دیگران دارم و در سازماندهی کارهایم تعادل نسبی را رعایت می‌کنم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی متوسطی دارم و گاهی به چیزهایی باور دارم که شاید برای دیگران منطقی نباشد."
+    }
+}

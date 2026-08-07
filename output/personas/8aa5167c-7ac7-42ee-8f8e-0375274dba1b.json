@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 23,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.116,
+        "detachment_suspicion": 0.437,
+        "impulsivity_antisocial": -0.002,
+        "narcissism_attention": -0.628,
+        "rigidity_perfectionism": -1.784,
+        "unusual_experiences": 1.285
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.568,
+        "extreme_response": 0.071,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۳ ساله‌ای مجرد هستم که در اهواز زندگی می‌کنم. کارشناسی ارشد دارم و در زمینه آرایشگری و خدمات زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی ناپایدار است و در جمع‌های شلوغ کمی اضطراب دارم. در انتخاب دوستانم سخت‌گیرم و تمایل دارم کمی فاصله اجتماعی داشته باشم.",
+        "behavioral_and_cognitive_traits": "نظم و ترتیب برای من اولویت نیست و اصلاً کمال‌گرا نیستم. گاهی بدون فکر تصمیمات عجولانه می‌گیرم، اما در کل خودم را با دیگران برابر می‌بینم و تظاهر به برتری نمی‌کنم.",
+        "unusual_experiences_and_history": "تجربیات ذهنی عجیبی دارم و گاهی حس می‌کنم از بدنم جدا شده‌ام یا حضور موجوداتی را حس می‌کنم. در نوجوانی سابقه برخی رفتارهای تکانشی و ضد قواعد را داشته‌ام."
+    }
+}

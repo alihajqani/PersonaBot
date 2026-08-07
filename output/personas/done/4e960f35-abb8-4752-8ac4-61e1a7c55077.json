@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "مشهد",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.982,
+        "detachment_suspicion": 0.355,
+        "impulsivity_antisocial": 0.065,
+        "narcissism_attention": -0.164,
+        "rigidity_perfectionism": 0.305,
+        "unusual_experiences": 0.956
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.061,
+        "extreme_response": 0.586,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۲۲ ساله و متاهل هستم، ساکن مشهد با مدرک دیپلم و به عنوان آرایشگر در خدمات زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "بسیار زود تحت تأثیر احساسات قرار می‌گیرم و ترس زیادی از طرد شدن توسط عزیزانم دارم. در روابطم کمی بدبین هستم و گاهی فکر می‌کنم دیگران پشت سر من حرف می‌زنند.",
+        "behavioral_and_cognitive_traits": "رفتارهایم گاهی تکانشی است و در رعایت نظم و وسواس در حد متوسطی هستم. دیدگاهی معمولی نسبت به خودم دارم و نیاز شدیدی به توجه دیگران ندارم.",
+        "unusual_experiences_and_history": "به شدت به حس ششم اعتقاد دارم و تجربیات شبه‌روانی یا دیده‌های عجیبی داشته‌ام که برای دیگران قابل درک نیست."
+    }
+}

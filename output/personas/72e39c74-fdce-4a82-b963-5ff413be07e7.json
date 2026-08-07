@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 33,
+        "marital_status": "مجرد",
+        "education_level": "دانشجو ارشد",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.926,
+        "detachment_suspicion": 1.021,
+        "impulsivity_antisocial": -1.248,
+        "narcissism_attention": -0.819,
+        "rigidity_perfectionism": 0.763,
+        "unusual_experiences": -1.319
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.158,
+        "extreme_response": -0.453,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۳ ساله‌ام، مجردم و در تهران زندگی می‌کنم. مدرک کارشناسی ارشدم رو گرفتم اما در حال حاضر بیکارم و هر روز دنبال فرصت شغلی می‌گردم.",
+        "emotional_and_interpersonal_style": "خیلی زود نگران می‌شم و همیشه می‌ترسم بقیه من رو دوست نداشته باشن یا ترکم کنن. به شدت به دیگران وابسته می‌شم و اعتمادم به آدم‌ها کمه و حس می‌کنم پشت سرم حرف می‌زنن.",
+        "behavioral_and_cognitive_traits": "توی کارهای روزمره‌ام خیلی وسواس دارم و دوست دارم همه چیز دقیق و مرتب باشه، هرچند اعتماد به نفسم پایینه و فکر می‌کنم هر کسی از من بهتره. هیچ‌وقت اهل قانون‌شکنی یا رفتارهای تکانشی نبودم.",
+        "unusual_experiences_and_history": "از بچگی آدم آرامی بودم و هیچ‌وقت مشکلی با قوانین مدرسه نداشتم. اعتقادات عجیبی ندارم و تجربه‌های غیرعادی یا حس ششم برام معنایی نداره."
+    }
+}

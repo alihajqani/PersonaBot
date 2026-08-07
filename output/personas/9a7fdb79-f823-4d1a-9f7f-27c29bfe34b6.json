@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "دکتری",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.019,
+        "detachment_suspicion": 0.569,
+        "impulsivity_antisocial": 0.836,
+        "narcissism_attention": -0.651,
+        "rigidity_perfectionism": -0.597,
+        "unusual_experiences": -0.086
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.243,
+        "extreme_response": 0.247,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "خانم، ۳۱ ساله و مجرد هستم، ساکن شهر کرج با مدرک دکتری که در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "ثبات عاطفی متوسطی دارم و گاهی در محیط‌های اجتماعی کمی اضطراب می‌گیرم. نسبت به دیگران کمی بدبین هستم و تمایل دارم بیشتر با خودم باشم تا با جمع.",
+        "behavioral_and_cognitive_traits": "من فردی هستم که خیلی روی قوانین سخت‌گیر نیستم و گاهی ممکن است بدون فکر تصمیمات تکانشی بگیرم. حس برتری ندارم و خودم را در سطح بقیه می‌بینم.",
+        "unusual_experiences_and_history": "تجربیات غیرعادی در حد متوسطی دارم و گاهی به شهود یا حس ششمم تکیه می‌کنم، اما سابقه رفتارهای شدید در کودکی ندارم."
+    }
+}

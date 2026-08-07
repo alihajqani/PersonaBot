@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "خانم",
+        "age": 29,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.435,
+        "detachment_suspicion": -1.161,
+        "impulsivity_antisocial": 0.128,
+        "narcissism_attention": 1.911,
+        "rigidity_perfectionism": 0.416,
+        "unusual_experiences": -1.135
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "خیلی بالا",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.434,
+        "extreme_response": -0.385,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۹ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی ارشد. در شهر شیراز زندگی می‌کنم و به عنوان یک کارآفرین، کسب‌وکار شخصی خودم را مدیریت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و هیچ ترسی از طرد شدن یا تنهایی ندارم. با دیگران راحت ارتباط می‌گیرم و به ندرت دچار بدبینی یا کینه می‌شوم و روابط اجتماعی‌ام بسیار روان است.",
+        "behavioral_and_cognitive_traits": "به شدت باور دارم که از نظر ذهنی و توانمندی برتر از دیگران هستم و همیشه دوست دارم در هر جمعی مرکز توجه باشم. در مدیریت کسب‌وکارم بسیار سخت‌گیر هستم و انتظار دارم همه طبق استانداردهای بالای من پیش بروند.",
+        "unusual_experiences_and_history": "من نگاهی کاملاً منطقی به زندگی دارم و به مسائل ماورالطبیعه یا تجربیات غیرعادی اعتقادی ندارم. دوران کودکی و نوجوانی‌ام بدون هیچ اتفاق غیرعادی یا مشکل رفتاری سپری شده است."
+    }
+}

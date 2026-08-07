@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "خانم",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "فروشنده / مشاغل آزاد کوچک",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.6,
+        "detachment_suspicion": -0.123,
+        "impulsivity_antisocial": 0.763,
+        "narcissism_attention": 0.171,
+        "rigidity_perfectionism": -0.537,
+        "unusual_experiences": -0.392
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.222,
+        "extreme_response": 0.442,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۱ ساله‌ای مجرد هستم که در شیراز زندگی می‌کنم. مدرک کارشناسی دارم و در زمینه مشاغل آزاد کوچک و فروشندگی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "به شدت با نوسانات خلقی دست و پنجه نرم می‌کنم و مدام می‌ترسم که دیگران مرا دوست نداشته باشند؛ اضطراب اجتماعی من بسیار بالاست. در روابطم کمی بدبین هستم اما سعی می‌کنم تعادلی بین تنهایی و معاشرت برقرار کنم.",
+        "behavioral_and_cognitive_traits": "گاهی در خرید یا تصمیمات کاری عجولانه عمل می‌کنم و رفتارهای تکانشی دارم. در مورد جایگاه اجتماعی‌ام کمی حساس هستم و دوست دارم مورد توجه باشم، اما در نظم و ترتیب کارهایم خیلی سخت‌گیر نیستم.",
+        "unusual_experiences_and_history": "در کودکی گاهی لجبازی‌های شدیدی داشتم. اعتقاد زیادی به خرافات ندارم و تجربیات حسی عجیبی نداشته‌ام، هرچند گاهی به شانس باور دارم."
+    }
+}

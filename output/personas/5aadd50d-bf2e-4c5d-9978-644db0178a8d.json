@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "خانم",
+        "age": 22,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "کارمند اداری",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.51,
+        "detachment_suspicion": 0.586,
+        "impulsivity_antisocial": -1.597,
+        "narcissism_attention": -0.919,
+        "rigidity_perfectionism": 0.666,
+        "unusual_experiences": 0.511
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.098,
+        "extreme_response": 0.635,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۲ سالمه، خانم هستم، متاهل و ساکن تهرانم. لیسانس دارم و در حال حاضر به عنوان کارمند اداری مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم ممکنه دیگران من رو رها کنن و نوسانات خلقی دارم. توی محیط‌های اجتماعی کمی اضطراب دارم و بعضی وقت‌ها حس می‌کنم به اندازه بقیه کافی نیستم و به دیگران وابسته‌ام.",
+        "behavioral_and_cognitive_traits": "خیلی منظم هستم و دوست دارم کارهام با دقت و طبق جزئیات انجام بشه. هیچ‌وقت اهل قانون‌شکنی یا رفتارهای تکانشی نبودم و همیشه سعی می‌کنم متین و مبادی آداب باشم.",
+        "unusual_experiences_and_history": "گاه‌گداری حس می‌کنم اتفاقات رو قبل از وقوع پیش‌بینی کردم یا یک جور حس ششم دارم. در دوران کودکی رفتارهای غیرعادی نداشتم اما به برخی خرافات کوچک اعتقاد دارم."
+    }
+}

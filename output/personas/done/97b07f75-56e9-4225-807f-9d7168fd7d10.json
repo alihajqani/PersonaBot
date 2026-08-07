@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.993,
+        "detachment_suspicion": -1.186,
+        "impulsivity_antisocial": -0.517,
+        "narcissism_attention": 0.189,
+        "rigidity_perfectionism": -0.547,
+        "unusual_experiences": -1.246
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.043,
+        "extreme_response": 0.263,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله، مجرد و ساکن شیراز هستم. مدرک دیپلم دارم و در حال حاضر بیکار هستم و به دنبال کار می‌گردم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و تقریباً هیچ اضطرابی در روابط اجتماعی یا ترس از طرد شدن ندارم. با دیگران راحت هستم و بدبینی خاصی به اطرافیانم ندارم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار آرام هستم و هرگز به دنبال شکستن قوانین یا جلب توجه نبوده‌ام. در کارهایم خیلی وسواسی نیستم و نظم سخت‌گیرانه‌ای در زندگی ندارم.",
+        "unusual_experiences_and_history": "باورهای خرافی ندارم و هیچ‌گونه تجربه غیرعادی یا توهمی در طول زندگی‌ام تجربه نکرده‌ام."
+    }
+}

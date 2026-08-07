@@ -1,0 +1,40 @@
+{
+    "id": "persona_8",
+    "demographics": {
+        "gender": "آقا",
+        "age": 19,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.668,
+        "detachment_suspicion": 0.884,
+        "impulsivity_antisocial": -1.601,
+        "narcissism_attention": 0.041,
+        "rigidity_perfectionism": -0.985,
+        "unusual_experiences": -0.421
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.181,
+        "extreme_response": 0.093,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "آقا، ۱۹ ساله و متاهل هستم، ساکن اصفهان با مدرک کارشناسی و صاحب کسب‌وکار هستم، اگرچه وضعیت مالی‌ام ضعیف است.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی نسبتاً آرام هستم و اضطراب کمی دارم. با این حال، کمی بدبین هستم و ترجیح می‌دهم در محیط‌های اجتماعی با احتیاط رفتار کنم.",
+        "behavioral_and_cognitive_traits": "من فردی بسیار قانون‌مدار هستم و هیچ سابقه هنجارشکنی یا رفتارهای تکانشی ندارم. در مورد نظم و ترتیب وسواس ندارم و محیط اطرافم معمولاً نامنظم است.",
+        "unusual_experiences_and_history": "باورهای خرافی یا تجربیات غیرعادی خاصی ندارم و دنیا را از دیدگاه واقع‌گرایانه می‌بینم."
+    }
+}

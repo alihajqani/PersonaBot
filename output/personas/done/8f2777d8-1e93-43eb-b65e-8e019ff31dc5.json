@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 38,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -1.468,
+        "detachment_suspicion": -0.967,
+        "impulsivity_antisocial": -2.419,
+        "narcissism_attention": 0.781,
+        "rigidity_perfectionism": -2.42,
+        "unusual_experiences": -1.685
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.017,
+        "extreme_response": 0.769,
+        "careless": true
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۸ ساله و مجرد هستم که در اهواز زندگی می‌کنم. مدرک دیپلم دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی بسیار پایدار هستم و به ندرت دچار اضطراب یا ترس از طرد شدن می‌شوم. با دیگران راحت ارتباط می‌گیرم، به آدم‌ها اعتماد دارم و تمایلی به انزوا یا کینه داشتن ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار منطقی و قانون‌مند هستم و هرگز رفتارهای تکانشی یا بی‌پروا نداشته‌ام. در کارهایم خیلی سخت‌گیر نیستم و با انعطاف پیش می‌روم، اما در محیط کار دوست دارم به عنوان فردی توانمند شناخته شوم و توجه کمی بیشتری به من شود.",
+        "unusual_experiences_and_history": "از کودکی تا کنون هیچ تجربه غیرعادی یا باور خرافی نداشته‌ام و زندگی‌ام کاملاً بر اساس واقعیت‌های ملموس پیش رفته است."
+    }
+}

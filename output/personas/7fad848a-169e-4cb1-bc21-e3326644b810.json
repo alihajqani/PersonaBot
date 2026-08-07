@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو (کاردانی/کارشناسی)",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.057,
+        "detachment_suspicion": 0.942,
+        "impulsivity_antisocial": -0.358,
+        "narcissism_attention": 0.29,
+        "rigidity_perfectionism": 0.119,
+        "unusual_experiences": -1.89
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.123,
+        "extreme_response": -0.024,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۶ ساله، متاهل و ساکن تبریز هستم. در حال حاضر در یکی از واحدهای صنعتی به عنوان کارگر مشغول به کارم و همزمان برای ارتقای تحصیلا‌م در مقطع کاردانی/کارشناسی درس می‌خوانم.",
+        "emotional_and_interpersonal_style": "همیشه این ترس عمیق را دارم که نزدیکانم مرا ترک کنند و به همین دلیل گاهی بیش از حد به همسرم وابسته می‌شوم. در محیط‌های اجتماعی اضطراب زیادی دارم و اغلب احساس می‌کنم هر چه انجام دهم کافی نیست و دیگران به من بدبین هستند.",
+        "behavioral_and_cognitive_traits": "در محیط کار نظم متوسطی دارم و سعی می‌کنم وظایفم را انجام دهم، هرچند گاهی حس می‌کنم لیاقت جایگاه بالاتری دارم. معمولاً سعی می‌کنم قانون‌مند باشم و برخلاف برخی، رفتارهای تکانشی یا خشم‌های ناگهانی ندارم.",
+        "unusual_experiences_and_history": "من انسان واقع‌گرایی هستم و هرگز به خرافات یا حس ششم اعتقاد نداشته‌ام. در دوران کودکی و نوجوانی هم هیچ سابقه رفتارهای غیرعادی یا مشکل رفتاری خاصی نداشتم."
+    }
+}

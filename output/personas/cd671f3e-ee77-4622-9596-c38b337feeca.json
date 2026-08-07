@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "متاهل",
+        "education_level": "دانشجو ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "عالی"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.041,
+        "detachment_suspicion": -0.39,
+        "impulsivity_antisocial": 1.688,
+        "narcissism_attention": -0.877,
+        "rigidity_perfectionism": 0.42,
+        "unusual_experiences": -0.662
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.32,
+        "extreme_response": -0.024,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۵ ساله، متاهل و ساکن شیراز هستم؛ مدرک کارشناسی ارشد دارم و به عنوان کارمند اداری مشغول به کارم.",
+        "emotional_and_interpersonal_style": "احساساتم در سطح متوسطی است و گاهی دچار اضطراب می‌شوم، اما در کل با دیگران ارتباط خوبی دارم و بدبین نیستم. اعتمادم به آدم‌ها معمولی است و تمایلی به انزوای شدید ندارم.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و سابقه زیادی در شکستن قوانین و طغیان‌های شدید خشم دارم. در محیط کار سعی می‌کنم نظم و دقت داشته باشم و کمی کمال‌گرا هستم، هرچند احساس برتری نسبت به دیگران ندارم.",
+        "unusual_experiences_and_history": "تا به حال تجربه عجیبی مثل شنیدن صداها یا باورهای خرافی شدید نداشته‌ام و تاریخچه رفتاری خاصی پیش از نوجوانی ندارم."
+    }
+}

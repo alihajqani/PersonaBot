@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 24,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "دانشجو",
+        "psych_problem": "دارم",
+        "region": "اهواز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.204,
+        "detachment_suspicion": 0.747,
+        "impulsivity_antisocial": 2.568,
+        "narcissism_attention": 1.062,
+        "rigidity_perfectionism": -0.839,
+        "unusual_experiences": 0.83
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.433,
+        "extreme_response": -0.52,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۴ ساله و مجرد هستم، مدرک دیپلم دارم و در حال حاضر در اهواز دانشجو هستم. وضعیت اقتصادی من متوسط است.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه می‌ترسم که دیگران مرا نپذیرند یا از من دوری کنند. در عین حال، نسبت به نیت‌های اطرافیانم کمی بدبین هستم و زود به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "سابقه زیادی در قانون‌شکنی دارم و وقتی عصبانی می‌شوم، رفتارهای تکانشی و شدیدی از خود نشان می‌دهم. احساس می‌کنم از بقیه برترم و لایق جایگاه‌های بالاتری هستم، هرچند در نظم و ترتیب خیلی ضعیف هستم.",
+        "unusual_experiences_and_history": "گاهی احساس می‌کنم چیزهایی را می‌فهمم که دیگران نمی‌فهمند و به برخی خرافات باور دارم. سابقه بیماری روان‌پزشکی هم دارم."
+    }
+}

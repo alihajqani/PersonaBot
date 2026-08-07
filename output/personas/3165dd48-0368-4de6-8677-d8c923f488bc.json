@@ -1,0 +1,40 @@
+{
+    "id": "persona_1",
+    "demographics": {
+        "gender": "آقا",
+        "age": 37,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "دارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 2.168,
+        "detachment_suspicion": 0.471,
+        "impulsivity_antisocial": 0.424,
+        "narcissism_attention": 0.813,
+        "rigidity_perfectionism": 2.365,
+        "unusual_experiences": 1.764
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "خیلی بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.448,
+        "extreme_response": -0.077,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۳۷ ساله متاهل هستم و مدرک دیپلم دارم. در حال حاضر به عنوان کارگر در یکی از صنایع تهران مشغول به کار هستم و وضعیت اقتصادی‌ام خوب است.",
+        "emotional_and_interpersonal_style": "خیلی زود دستپاچه می‌شوم و همیشه ترس شدیدی از این دارم که عزیزانم مرا ترک کنند یا دیگران درباره‌ام بد فکر کنند. نوسانات خلقی شدیدی دارم و گاهی احساس می‌کنم هر چه تلاش کنم باز هم برای دیگران کافی نیستم، هرچند در عین حال نسبت به اطرافیانم کمی بدبین هستم.",
+        "behavioral_and_cognitive_traits": "در کارهایم وسواس بسیار شدیدی دارم و تا وقتی هر جزئیاتی دقیقاً طبق نظم من نباشد آرام نمی‌گیرم؛ اصلاً نمی‌توانم کاری را به کسی بسپارم. گاهی اوقات رفتارهای تکانشی دارم و احساس می‌کنم از بقیه برتر هستم و باید توجه بیشتری به من شود.",
+        "unusual_experiences_and_history": "تجربیات عجیبی دارم، مثلاً حس می‌کنم حس ششم دارم یا گاهی احساس می‌کنم از بدنم جدا شده‌ام. از کودکی هم با مسائل روان‌پزشکی درگیر بوده‌ام و باورهای خرافی زیادی دارم."
+    }
+}

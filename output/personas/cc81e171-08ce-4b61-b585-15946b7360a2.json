@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "آقا",
+        "age": 36,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.432,
+        "detachment_suspicion": -0.056,
+        "impulsivity_antisocial": 1.934,
+        "narcissism_attention": 1.08,
+        "rigidity_perfectionism": -0.586,
+        "unusual_experiences": -1.628
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی بالا",
+        "narcissism_attention": "بالا",
+        "rigidity_perfectionism": "کمی پایین",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": 0.293,
+        "extreme_response": 0.157,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من آقا، ۳۶ ساله، متاهل و ساکن شیراز هستم؛ مدرک کارشناسی ارشد دارم و صاحب یک کسب‌وکار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً پایدار هستم، هرچند در روابطم کمی فاصله می‌گیرم و گاهی نسبت به انگیزه‌های دیگران بدبین می‌شوم و ترجیح می‌دهم تنها باشم.",
+        "behavioral_and_cognitive_traits": "سابقه زیادی در به چالش کشیدن قوانین دارم و بسیار تکانشی رفتار می‌کنم. احساس می‌کنم از خیلی‌ها برترم و لایق جایگاه‌های بالاتر هستم، اما در جزئیات کاری وسواس خاصی ندارم.",
+        "unusual_experiences_and_history": "من کاملاً منطقی هستم و هیچ اعتقادی به خرافات یا تجربیات شبه‌روانی ندارم."
+    }
+}

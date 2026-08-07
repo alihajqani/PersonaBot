@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 35,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "خانه‌دار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.585,
+        "detachment_suspicion": 0.79,
+        "impulsivity_antisocial": -1.512,
+        "narcissism_attention": -0.637,
+        "rigidity_perfectionism": -0.345,
+        "unusual_experiences": -0.611
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.313,
+        "extreme_response": 0.506,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۵ ساله، مجرد و ساکن اصفهان هستم. مدرک کارشناسی دارم و در حال حاضر به عنوان خانه‌دار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی پایدار هستم و اضطراب کمی دارم، اما در روابطم کمی محتاطم و به راحتی به دیگران اعتماد نمی‌کنم.",
+        "behavioral_and_cognitive_traits": "بسیار آرام هستم و هرگز رفتاری تکانشی یا خلاف قانون نداشته‌ام. خودم را برتر از دیگران نمی‌بینم و در انجام کارهای خانه و نظم شخصی، متوسط هستم.",
+        "unusual_experiences_and_history": "بیشتر اوقات منطقی فکر می‌کنم و تجربیات غیرعادی یا باورهای خرافی خیلی کمی در زندگی‌ام داشته‌ام."
+    }
+}

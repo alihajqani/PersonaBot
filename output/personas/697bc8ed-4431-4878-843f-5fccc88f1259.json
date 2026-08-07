@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "خانم",
+        "age": 24,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "تبریز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.457,
+        "detachment_suspicion": 0.119,
+        "impulsivity_antisocial": -1.72,
+        "narcissism_attention": -1.083,
+        "rigidity_perfectionism": 1.073,
+        "unusual_experiences": 0.097
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": -0.617,
+        "extreme_response": 0.159,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۴ ساله‌ای هستم، متاهل و ساکن تبریزم. تحصیلاتم در مقطع کارشناسی ارشد است و به عنوان کارآفرین و صاحب کسب‌وکار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "خیلی زود مضطرب می‌شوم و ترس شدیدی از طرد شدن توسط اطرافیانم دارم. در روابطم سعی می‌کنم تعادل را حفظ کنم، اما گاهی احساس می‌کنم دیگران به اندازه من صادق نیستند.",
+        "behavioral_and_cognitive_traits": "من به شدت روی جزئیات حساس هستم و کمال‌گرایی در زندگی‌ام حرف اول را می‌زند؛ هیچ کاری را به دیگران نمی‌سپارم چون فکر می‌کنم فقط من می‌توانم درست انجامش دهم. هرگز قوانین را زیر پا نمی‌گذارم.",
+        "unusual_experiences_and_history": "به برخی مسائل شهودی اعتقاد دارم و گاهی احساس می‌کنم چیزهایی را حس می‌کنم که دیگران متوجه نمی‌شوند. در کودکی بسیار درس‌خوان و منضبط بودم و هیچ سابقه رفتارهای تکانشی نداشتم."
+    }
+}

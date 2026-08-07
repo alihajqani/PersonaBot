@@ -1,0 +1,40 @@
+{
+    "id": "persona_9",
+    "demographics": {
+        "gender": "آقا",
+        "age": 26,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "کادر درمان (پرستار/پزشک/ماما)",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.021,
+        "detachment_suspicion": -0.221,
+        "impulsivity_antisocial": -1.327,
+        "narcissism_attention": -0.949,
+        "rigidity_perfectionism": -0.127,
+        "unusual_experiences": -1.343
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "پایین",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.057,
+        "extreme_response": -0.297,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۲۶ ساله و مجرد ساکن تهران هستم. مدرک دیپلم دارم و در کادر درمان به عنوان پرستار فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "به دلیل فشار شغلی، اضطراب و استرس متوسطی دارم. در ارتباط با همکاران و بیماران محتاطم و گاهی بدبینی‌های متوسطی نسبت به محیط کارم دارم.",
+        "behavioral_and_cognitive_traits": "فردی قانون‌مند هستم و اصلاً تمایلی به رفتارهای تکانشی یا هنجارشکنی ندارم. در انجام وظایف پرستاری‌ام نظم متوسطی دارم و نیازی به جلب توجه یا برتری‌جویی ندارم.",
+        "unusual_experiences_and_history": "سابقه بیماری یا رفتارهای غیرعادی در کودکی ندارم و نگاهی کاملاً رئالیستی به زندگی دارم و خرافات را قبول ندارم."
+    }
+}

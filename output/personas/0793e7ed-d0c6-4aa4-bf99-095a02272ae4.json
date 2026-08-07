@@ -1,0 +1,40 @@
+{
+    "id": "persona_7",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "اهواز",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.912,
+        "detachment_suspicion": -1.022,
+        "impulsivity_antisocial": 0.904,
+        "narcissism_attention": 0.096,
+        "rigidity_perfectionism": 0.026,
+        "unusual_experiences": 0.247
+    },
+    "latent_traits_band": {
+        "emotional_instability": "پایین",
+        "detachment_suspicion": "پایین",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.384,
+        "extreme_response": -0.08,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۲ ساله و متاهل هستم که در اهواز زندگی می‌کنم. دیپلم دارم و به عنوان مهندس و کارشناس فنی مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر هیجانی بسیار آرام هستم و اضطراب خاصی در روابطم ندارم. با دیگران صمیمی هستم و بدبینی در رفتارهایم دیده نمی‌شود.",
+        "behavioral_and_cognitive_traits": "بسیار تکانشی هستم و گاهی بدون فکر تصمیمات ریسکی می‌گیرم یا در محیط کار با خشمی ناگهانی واکنش نشان می‌دهم. در مورد نظم و نظم‌و‌نظافت در سطح متوسطی هستم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که به شهود یا حس ششمم اعتماد کنم، اما این باورها در زندگی‌ام تاثیر شدیدی ندارند."
+    }
+}

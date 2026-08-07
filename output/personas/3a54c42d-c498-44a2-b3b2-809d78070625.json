@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "خانم",
+        "age": 21,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "آرایشگر / خدمات زیبایی",
+        "psych_problem": "ندارم",
+        "region": "شیراز",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.842,
+        "detachment_suspicion": 2.067,
+        "impulsivity_antisocial": 0.683,
+        "narcissism_attention": -0.493,
+        "rigidity_perfectionism": 1.417,
+        "unusual_experiences": 0.634
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی بالا",
+        "detachment_suspicion": "خیلی بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.147,
+        "extreme_response": -0.772,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۲۱ ساله‌ای مجرد و ساکن شیراز هستم. مدرک دیپلم دارم و به عنوان آرایشگر در زمینه خدمات زیبایی فعالیت می‌کنم.",
+        "emotional_and_interpersonal_style": "گاهی احساس می‌کنم به دیگران بیش از حد وابسته هستم و اضطراب اجتماعی من کمی بالاست. اما در عین حال، به شدت به مردم بدبین هستم، زود رنج می‌شوم و ترجیح می‌دهم در دنیای خودم تنها باشم.",
+        "behavioral_and_cognitive_traits": "در کارم بسیار وسواسی هستم و روی کوچک‌ترین جزئیات دقت می‌کنم. گاهی اوقات در واکنش‌هایم تکانشی عمل می‌کنم، اما هرگز سعی نمی‌کنم خودم را برتر از دیگران نشان دهم.",
+        "unusual_experiences_and_history": "به برخی خرافات باور دارم و گاهی احساس می‌کنم اتفاقات آینده را به صورت مبهم حس می‌کنم. در دوران نوجوانی، گهگاه با تضادهای رفتاری و لجبازی‌های شدید روبرو بوده‌ام."
+    }
+}

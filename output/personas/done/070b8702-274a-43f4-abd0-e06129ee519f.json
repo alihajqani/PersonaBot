@@ -1,0 +1,40 @@
+{
+    "id": "persona_4",
+    "demographics": {
+        "gender": "آقا",
+        "age": 32,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.151,
+        "detachment_suspicion": 0.984,
+        "impulsivity_antisocial": 0.933,
+        "narcissism_attention": -0.117,
+        "rigidity_perfectionism": 1.321,
+        "unusual_experiences": 1.23
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "بالا",
+        "narcissism_attention": "متوسط",
+        "rigidity_perfectionism": "بالا",
+        "unusual_experiences": "بالا"
+    },
+    "response_style": {
+        "acquiescence": 0.389,
+        "extreme_response": -0.56,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یه مهندس ۳۲ ساله مجردم با مدرک کارشناسی ارشد که در شهر اصفهان زندگی می‌کنم و شرایط مالی‌ام در حال حاضر ضعیفه.",
+        "emotional_and_interpersonal_style": "خیلی سخت به کسی اعتماد می‌کنم و همیشه فکر می‌کنم پشت سر من حرف می‌زنن یا قصد دارن بهم ضربه بزنن و ترجیح میدم تنها باشم.",
+        "behavioral_and_cognitive_traits": "در محیط کار بسیار سخت‌گیرم و وسواس شدیدی روی جزئیات دارم و تحمل نمی‌کنم کسی کاری رو اشتباه انجام بده. در عین حال، گاهی فوران‌های خشمی دارم و رفتارهای تکانشی از خودم نشون می‌دم.",
+        "unusual_experiences_and_history": "باورهای غیرمعمولی دارم و گاهی حس می‌کنم اتفاقات دور و برم تحت تأثیر نیروهای نامرئی هست یا تجربیات ذهنی عجیبی دارم."
+    }
+}

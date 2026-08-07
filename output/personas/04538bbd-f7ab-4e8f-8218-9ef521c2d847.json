@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارگر / صنعت",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.402,
+        "detachment_suspicion": -0.048,
+        "impulsivity_antisocial": 0.636,
+        "narcissism_attention": 0.833,
+        "rigidity_perfectionism": -0.323,
+        "unusual_experiences": -0.344
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "متوسط"
+    },
+    "response_style": {
+        "acquiescence": 0.092,
+        "extreme_response": 0.43,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک مرد ۲۰ ساله و متاهل هستم که با وجود سن کم، مدرک کارشناسی ارشد دارم و در اصفهان در بخش صنعت کار می‌کنم.",
+        "emotional_and_interpersonal_style": "ثبات هیجانی نسبتاً خوبی دارم، هرچند گاهی در اعتماد به دیگران تردید می‌کنم و کمی بدبین هستم. در روابطم تعادلی بین صمیمیت و فاصله برقرار می‌کنم.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیمات عجولانه می‌گیرم و دوست دارم دیگران متوجه برتری و توانایی‌های من بشوند. در انجام تکالیف و کارهایم نظم متوسطی دارم و گاهی در برابر قوانین سخت‌گیرانه واکنش نشان می‌دهم.",
+        "unusual_experiences_and_history": "به برخی مسائل ماوراءطبیعی و خرافات اعتقاد دارم و گاهی حس می‌کنم اتفاقات را پیش‌بینی می‌کنم. در دوران مدرسه، گاهی با معلمان یا همکلاسی‌هایم به دلیل لجبازی دچار تنش می‌شدم."
+    }
+}

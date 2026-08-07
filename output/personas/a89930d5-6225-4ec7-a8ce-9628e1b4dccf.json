@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 32,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "صاحب کسب‌وکار / کارآفرین",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 0.189,
+        "detachment_suspicion": 0.176,
+        "impulsivity_antisocial": -0.099,
+        "narcissism_attention": -1.125,
+        "rigidity_perfectionism": -0.136,
+        "unusual_experiences": -1.553
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "خیلی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.336,
+        "extreme_response": -1.256,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۲ ساله‌ای متاهل و ساکن کرج هستم. مدرک کارشناسی دارم و برای خودم کسب‌وکاری راه انداخته‌ام و وضعیت اقتصادی خوبی دارم.",
+        "emotional_and_interpersonal_style": "احساساتم گاهی نوسان دارد و در جمع‌های بزرگ کمی مضطرب می‌شوم. در مورد اعتماد به دیگران مرددم هستم؛ نه کاملاً بدبینم و نه کاملاً ساده، و ترجیح می‌دهم با احتیاط پیش بروم.",
+        "behavioral_and_cognitive_traits": "در مدیریت کسب‌وکارم سعی می‌کنم تعادلی بین نظم و انعطاف داشته باشم. گاهی تکانشی تصمیم می‌گیرم اما به طور کلی متواضع هستم و هرگز احساس برتری نسبت به همکاران یا مشتریانم ندارم.",
+        "unusual_experiences_and_history": "من آدم کاملاً واقع‌گرایی هستم و به هیچ وجه به خرافات یا تجربیات غیرعادی اعتقاد ندارم. سابقه رفتارهای هنجارشکن یا مشکلات جدی در دوران کودکی و نوجوانی نداشته‌ام."
+    }
+}

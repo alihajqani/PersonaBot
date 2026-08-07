@@ -1,0 +1,40 @@
+{
+    "id": "persona_2",
+    "demographics": {
+        "gender": "آقا",
+        "age": 40,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -2.55,
+        "detachment_suspicion": -0.739,
+        "impulsivity_antisocial": 0.066,
+        "narcissism_attention": -0.523,
+        "rigidity_perfectionism": -1.085,
+        "unusual_experiences": -1.308
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی پایین",
+        "detachment_suspicion": "کمی پایین",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.175,
+        "extreme_response": -0.651,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۴۰ ساله، متاهل و ساکن تهران هستم که مدرک کارشناسی ارشد دارم و به عنوان مهندس و کارشناس فنی فعالیت می‌کنم و وضعیت مالی خوبی دارم.",
+        "emotional_and_interpersonal_style": "بسیار آرام و باثبات هستم و هیچ‌گونه ترس یا وابستگی بیمارگونه‌ای به دیگران ندارم. در روابطم صادقم و اگرچه خیلی اهل ابراز احساسات شدید نیستم، اما نسبت به اطرافیانم بدبین نیستم.",
+        "behavioral_and_cognitive_traits": "در محیط کارم نظم شدیدی ندارم و ترجیح می‌دهم سخت‌گیر نباشم. گاهی اوقات در واکنش‌هایم کمی تکانشی هستم، اما به طور کلی خود را برتر از دیگران نمی‌بینم و به دنبال جلب توجه خاصی نیستم.",
+        "unusual_experiences_and_history": "اصلاً به مسائل ماوراءطبیعی یا حس ششم اعتقاد ندارم و تجربیات حسی غیرعادی در زندگی‌ام نداشته‌ام. دوران رشد من بدون هیچ‌گونه مشکل رفتاری یا تخلف از قوانین بوده است."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "persona_3",
+    "demographics": {
+        "gender": "آقا",
+        "age": 21,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی",
+        "occupation": "دانشجو",
+        "psych_problem": "ندارم",
+        "region": "کرج",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.736,
+        "detachment_suspicion": 0.423,
+        "impulsivity_antisocial": -0.471,
+        "narcissism_attention": -0.871,
+        "rigidity_perfectionism": 0.55,
+        "unusual_experiences": -0.533
+    },
+    "latent_traits_band": {
+        "emotional_instability": "خیلی بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "کمی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.526,
+        "extreme_response": 0.069,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من یک پسر ۲۱ ساله، متاهل و دانشجو در شهر کرج هستم و مدرک کارشناسی دارم.",
+        "emotional_and_interpersonal_style": "اضطراب اجتماعی شدیدی دارم و همیشه می‌ترسم که دیگران مرا نپسندند یا طرد کنند. احساس می‌کنم در مقایسه با بقیه خیلی ضعیف‌تر هستم و نوسانات خلقی‌ام گاهی کنترل‌ناپذیر می‌شود، هرچند کمی نسبت به اطرافیانم بدبین هستم.",
+        "behavioral_and_cognitive_traits": "خیلی سعی می‌کنم در درس‌ها و کارهایم دقیق و بی‌نقص باشم و این کمال‌گرایی گاهی خسته‌کننده است. هرگز تمایلی به جلب توجه ندارم و همیشه سعی می‌کنم طبق قوانین پیش بروم و از هرگونه رفتارهای تکانشی دوری کنم.",
+        "unusual_experiences_and_history": "در طول زندگی‌ام هیچ تجربه غیرعادی یا خرافاتی نداشته‌ام و هیچ‌وقت احساس نکردم اتفاقات ماورایی در زندگی‌ام رخ دهد."
+    }
+}

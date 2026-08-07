@@ -1,0 +1,40 @@
+{
+    "id": "persona_6",
+    "demographics": {
+        "gender": "خانم",
+        "age": 30,
+        "marital_status": "متاهل",
+        "education_level": "کارشناسی ارشد",
+        "occupation": "کارمند اداری",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "ضعیف"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.022,
+        "detachment_suspicion": 0.084,
+        "impulsivity_antisocial": 0.303,
+        "narcissism_attention": 0.389,
+        "rigidity_perfectionism": -1.057,
+        "unusual_experiences": -1.357
+    },
+    "latent_traits_band": {
+        "emotional_instability": "متوسط",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "کمی بالا",
+        "rigidity_perfectionism": "پایین",
+        "unusual_experiences": "پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.457,
+        "extreme_response": 0.141,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من خانم ۳۰ ساله‌ای هستم، متاهل و دارای مدرک کارشناسی ارشد که در تهران به عنوان کارمند اداری مشغول به کار هستم. وضعیت مالی من ضعیف است.",
+        "emotional_and_interpersonal_style": "احساساتم در سطح متوسطی است و گاهی با استرس‌های شغلی و خانوادگی دست و پنجه نرم می‌کنم. روابطم با دیگران معمولی است و نه خیلی وابسته هستم و نه خیلی منزوی.",
+        "behavioral_and_cognitive_traits": "گاهی اوقات بدون فکر تصمیم می‌گیرم، اما در کل تعادلی دارم. کمی تمایل دارم که در محیط کار مورد تحسین قرار بگیرم و احساس کنم از بقیه متمایز هستم، اما وسواس خاصی در انجام کارها ندارم.",
+        "unusual_experiences_and_history": "من باورهای خرافی یا تجربیات غیرعادی ندارم و سابقه بیماری روان‌پزشکی هم در پرونه‌ام نیست."
+    }
+}

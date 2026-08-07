@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "خانم",
+        "age": 40,
+        "marital_status": "مجرد",
+        "education_level": "کارشناسی",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "متوسط"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.64,
+        "detachment_suspicion": 1.492,
+        "impulsivity_antisocial": 0.697,
+        "narcissism_attention": -1.178,
+        "rigidity_perfectionism": 0.787,
+        "unusual_experiences": -0.592
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "بالا",
+        "impulsivity_antisocial": "کمی بالا",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "کمی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.164,
+        "extreme_response": 0.683,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من ۴۰ سالمه، مجردم و به عنوان مهندس در تهران فعالیت می‌کنم و مدرک کارشناسی دارم.",
+        "emotional_and_interpersonal_style": "خیلی سخت به دیگران اعتماد می‌کنم و معمولاً ترجیح می‌دم در انزوای خودم باشم و احساس می‌کنم مردم صادق نیستند.",
+        "behavioral_and_cognitive_traits": "در کارهای مهندسی‌ام نظم و دقت خوبی دارم، اما هیچ تمایلی ندارم که مرکز توجه باشم یا خودم رو برتر از دیگران بدونم. گاهی رفتارهای تکانشی خفیفی دارم.",
+        "unusual_experiences_and_history": "تجربه‌های غیرعادی یا خرافات خاصی ندارم و بیشتر به عقل و منطق تکیه می‌کنم."
+    }
+}

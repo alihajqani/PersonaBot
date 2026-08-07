@@ -1,0 +1,40 @@
+{
+    "id": "persona_10",
+    "demographics": {
+        "gender": "آقا",
+        "age": 20,
+        "marital_status": "متاهل",
+        "education_level": "دیپلم",
+        "occupation": "بیکار / جویای کار",
+        "psych_problem": "ندارم",
+        "region": "اصفهان",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": 1.244,
+        "detachment_suspicion": 0.561,
+        "impulsivity_antisocial": -2.079,
+        "narcissism_attention": -0.518,
+        "rigidity_perfectionism": 0.147,
+        "unusual_experiences": 0.611
+    },
+    "latent_traits_band": {
+        "emotional_instability": "بالا",
+        "detachment_suspicion": "کمی بالا",
+        "impulsivity_antisocial": "خیلی پایین",
+        "narcissism_attention": "کمی پایین",
+        "rigidity_perfectionism": "متوسط",
+        "unusual_experiences": "کمی بالا"
+    },
+    "response_style": {
+        "acquiescence": -0.648,
+        "extreme_response": -0.137,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "۲۰ سالمه، آقا، متاهل و ساکن اصفهانم. دیپلم دارم و در حال حاضر بیکار هستم و جویای کار می‌گردم.",
+        "emotional_and_interpersonal_style": "استرس و اضطراب زیادی دارم و همیشه نگران قضاوت دیگران هستم. گاهی احساس می‌کنم دیگران درباره‌ام بد فکر می‌کنند و این موضوع باعث می‌شود کمی گوشه‌گیر شوم.",
+        "behavioral_and_cognitive_traits": "بسیار محتاطم و هیچ‌وقت سابقه قانون‌شکنی یا طغیان خشم نداشته‌ام. سعی می‌کنم کارهایم را با نظم و طبق یک روال مشخص انجام دهم تا اشتباه نکنم.",
+        "unusual_experiences_and_history": "گاهی پیش می‌آید که احساس کنم اتفاقات عجیبی در اطرافم می‌افتد یا حس ششمم به من هشدار می‌دهد که چیزی درست نیست."
+    }
+}

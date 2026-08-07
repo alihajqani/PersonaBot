@@ -1,0 +1,40 @@
+{
+    "id": "persona_5",
+    "demographics": {
+        "gender": "آقا",
+        "age": 31,
+        "marital_status": "مجرد",
+        "education_level": "دیپلم",
+        "occupation": "مهندس / کارشناس فنی",
+        "psych_problem": "ندارم",
+        "region": "تهران",
+        "economic_situation": "خوب"
+    },
+    "latent_traits_z": {
+        "emotional_instability": -0.45,
+        "detachment_suspicion": -0.081,
+        "impulsivity_antisocial": -0.265,
+        "narcissism_attention": -1.354,
+        "rigidity_perfectionism": 1.582,
+        "unusual_experiences": -0.67
+    },
+    "latent_traits_band": {
+        "emotional_instability": "کمی پایین",
+        "detachment_suspicion": "متوسط",
+        "impulsivity_antisocial": "متوسط",
+        "narcissism_attention": "پایین",
+        "rigidity_perfectionism": "خیلی بالا",
+        "unusual_experiences": "کمی پایین"
+    },
+    "response_style": {
+        "acquiescence": -0.023,
+        "extreme_response": 0.278,
+        "careless": false
+    },
+    "details": {
+        "background_and_demographics": "من مردی ۳۱ ساله و مجرد ساکن تهران هستم. مدرک دیپلم دارم اما در زمینه مهندسی و کارشناسی فنی تخصص پیدا کرده‌ام و مشغول به کار هستم.",
+        "emotional_and_interpersonal_style": "از نظر عاطفی نسبتاً متوازن هستم و اضطراب شدیدی ندارم. با این حال، ترجیح می‌دهم دایره دوستان محدودی داشته باشم و گاهی در مورد انگیزه‌های دیگران تردید می‌کنم.",
+        "behavioral_and_cognitive_traits": "وسواس شدیدی روی جزئیات دارم و تحمل بی‌نظمی برایم غیرممکن است؛ هر کاری را باید دقیقاً طبق روش خودم انجام دهم و سپردن کارها به دیگران برایم سخت است. در عین حال، هرگز ادعای برتری بر دیگران ندارم.",
+        "unusual_experiences_and_history": "خیلی کم پیش می‌آید که تجربیات غیرعادی داشته باشم، هرچند گاهی به برخی نشانه‌های محیطی توجه می‌کنم. در کودکی بسیار آرام بودم و هیچ‌گاه قوانین خانه یا مدرسه را به طور جدی زیر پا نگذاشتم."
+    }
+}
